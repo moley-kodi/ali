@@ -1,0 +1,15 @@
+
+name="Jafaer-tv 0.5"\
+url="http://www.jafaer-tv.com/kodi/Jafaer0.5.zip"
+img="http://www.jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png"\
+fanart="http://www.jafaer-tv.com/kodi/jafaer-tv/ali.jpg"\
+description="Jafaer Wizard setup with help from Husham"}
+
+
+
+
+name="Haider"\
+url="http://www.jafaer-tv.com/ali/Arabic.m3u"
+img="http://jafaer-tv.com/ali/jojo.png.png"\
+fanart="http://www.jafaer-tv.com/kodi/jafaer-tv/ali.jpg"\
+description="Haider List setup"}
