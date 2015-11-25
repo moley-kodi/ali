@@ -1,0 +1,106 @@
+Enter file contents here#EXTM3U
+
+#EXTINF:-1, Bein 
+ttp://ovh.dynns.com:1935/arabic/MBC2/playlist.m3u8
+#EXTINF:-1,Bein 1 AR
+rtmp://www1.iguide.to/iguide playpath=nujkqb82ht54f05 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 2 AR
+rtmp://www1.iguide.to/iguide playpath=ix87jz08b1l9wjl swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 3 AR
+rtmp://www1.iguide.to/iguide playpath=zqd4jye2ubzsk8g swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 4 AR
+rtmp://www1.iguide.to/iguide playpath=6kvth9vfk31w5hq swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 5 AR
+rtmp://www1.iguide.to/iguide playpath=uzd0xctulomtekn swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 6 AR
+rtmp://www1.iguide.to/iguide playpath=a66ht7p4opy1s5r swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 7 AR
+rtmp://www1.iguide.to/iguide playpath=ilirzmz6u21561n swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 8 AR
+rtmp://www1.iguide.to/iguide playpath=heh8qiagrxkwcm3 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 11 AR
+rtmp://www1.iguide.to/iguide playpath=ql4mb7goxh0gx7y swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31507&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 12 AR
+rtmp://www1.iguide.to/iguide playpath=zrbbip5ikugr384 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf <pageUrl>http://www.iguide.to/embedplayer_new.php?channel=31508&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:0, هذه القنوات غير مستقرة تحديث 11\12 /
+http://iptv.star7arab.com:80/star7arab/7452541/1.ch
+
+
+#EXTINF:-1,Eurosport
+http://4.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
+#EXTINF:-1,Eurosport 2
+http://4.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
+EXTINF:-1,Supersport News
+http://176.10.104.216/ss1sd/index.m3u8
+
+#EXTINF:-1,beinHD Sports HD1
+http://free.iptv.re:80/live/server/star7/1.ts
+#EXTINF:-1,beinHD Sports HD2
+http://free.iptv.re:80/live/server/star7/2.ts
+#EXTINF:-1,beinHD Sports HD3
+http://free.iptv.re:80/live/server/star7/3.ts
+#EXTINF:-1,beinHD Sports HD4
+http://free.iptv.re:80/live/server/star7/4.ts
+#EXTINF:-1,beinHD Sports HD5
+http://free.iptv.re:80/live/server/star7/5.ts
+#EXTINF:-1,beinHD Sports HD6
+http://free.iptv.re:80/live/server/star7/6.ts
+#EXTINF:-1,beinHD Sports HD7
+http://free.iptv.re:80/live/server/star7/7.ts
+#EXTINF:-1,beinHD Sports HD8
+http://free.iptv.re:80/live/server/star7/8.ts
+#EXTINF:-1,beinHD Sports HD9
+http://free.iptv.re:80/live/server/star7/9.ts
+#EXTINF:-1,beinHD Sports HD10
+http://free.iptv.re:80/live/server/star7/10.ts
+
+
+#EXTINF:-1,  BEIN MOVIES HD 21.11.2015
+#EXTINF:-1,BeinHD Movies1
+http://free.iptv.re:80/live/server/star7/11.ts
+#EXTINF:-1,BeinHD Movies2
+http://free.iptv.re:80/live/server/star7/12.ts
+
+#EXTINF:-1,  BEIN SPORT HD FR 21.11.2015 
+#EXTINF:0, beIN_SPORTS_HD1 FR
+http://2.109.65.138/masa/tun3713.m3u8
+#EXTINF:0, beIN_SPORTS_HD2 FR
+http://2.109.65.138/masa/tun3714.m3u8
+#EXTINF:0,Anis_Sat: beIN_SPORTS_HD3 FR
+http://2.109.65.138/masa/tun3715.m3u8
+
+#EXTINF:-1,  BEIN SPORT ES 21.11.2015
+#EXTINF:0, beIN sports ES 2
+http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/03.m3u8
+
+
+#EXTINF:-1,  BEIN SPORT HD AR 21.11.2015 
+#EXTINF:0, beIN_SPORTS_HD1
+http://2.109.65.138/masa/tun3701.m3u8
+#EXTINF:0, beIN_SPORTS_HD2
+http://2.109.65.138/masa/tun3702.m3u8
+#EXTINF:0, beIN_SPORTS_HD3
+http://2.109.65.138/masa/tun3703.m3u8
+#EXTINF:0, beIN_SPORTS_HD4
+http://2.109.65.138/masa/tun3704.m3u8
+#EXTINF:0, beIN_SPORTS_HD5
+http://2.109.65.138/masa/tun3705.m3u8
+#EXTINF:0, beIN_SPORTS_HD6
+http://2.109.65.138/masa/tun3706.m3u8
+#EXTINF:0, beIN_SPORTS_HD7
+http://2.109.65.138/masa/tun3707.m3u8
+#EXTINF:0, beIN_SPORTS_HD8
+http://2.109.65.138/masa/tun3708.m3u8
+#EXTINF:0, beIN_SPORTS_HD9
+http://2.109.65.138/masa/tun3709.m3u8
+#EXTINF:0, beIN_SPORTS_HD10
+http://2.109.65.138/masa/tun3710.m3u8
