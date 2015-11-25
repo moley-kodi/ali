@@ -10,20 +10,17 @@ http://63.237.48.23/ios/MBC2/MBC2.m3u8
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1,MBC Action HD
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:-1,MBC 4
-rtmp://web3.iptv-planet.com:1937/live2<playpath>Hi_mbc4?key=084117101032078111118032049055032048053032048053 <swfUrl>http://embed.iptv-planet.com/swfs/player.swf 
+<swfUrl>http://embed.iptv-planet.com/swfs/player.swf 
 #EXTINF:-1,MBC Bollywood
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1,Al Forat
 http://alforatlive.nanocdn.com:1935/live/alforat256/HasBahCa.m3u8
-#EXTINF:-1, العالم 
-Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5
+ Mobile/8H7 Safari/6533.18.5
 #EXTINF:-1,الميادين
 http://livestreaming.itworkscdn.net/mayadeenlive/smil:mayadeenmob.smil/playlist.m3u8
 #EXTINF:-1,Al Kawthar
 http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/BratuMarian.m3u8?DVR
-#EXTINF:-1,Al Anwar 2
-http://rrr.sz.xlcdn.com/?account=anwartv2&file=jazem&type=live&service=wowza&output=player&autostart=0.m3u8
+
 #EXTINF:-1,Al Kout
 rtmp://66.23.237.233:1935/alkout/alkout
 #EXTINF:-1,المعارف
@@ -58,18 +55,7 @@ http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 http://stream.joinvisions.net:1935/taglive/taghier/chunklist.m3u8?wowzasessionid=634223339&v=1250133442
 #EXTINF:-1,الرشيد
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
-#EXTINF:-1,AlManar Tv
-rtsp://live.almanar.com.lb/live
 
-
-
-#EXTINF:-1,Alhayat 1
-http://bit.ly/1VQPRoM
-#EXTINF:-1,Alhayat 2 
-http://bit.ly/1VQPU3T
-
-#EXTINF:-1,CBC DRAMA
-http://bit.ly/1OKnjHL
 
 
 #EXTINF:-1, Dubai TV
@@ -80,18 +66,17 @@ http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 #EXTINF:-1, Sama Dubai
 http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
+
+#EXTINF:-1 group-title=”ARABIC”,DUBAI DRAMA
+http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
+
 #EXTINF:-1, Dubai Racing
 http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
 #EXTINF:-1, Dubai Sports
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:-1,Dubai Racing
-http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/HasBahCa.m3u8
 
-#EXTINF:-1,Dubai TV
-http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/HasBahCa.m3u8
 
-#EXTINF:-1,Funoon TV
-http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
+
 
 
 #EXTINF:-1, كارتون نت ورك TV
@@ -134,8 +119,7 @@ swfUrl=http://vaughnlive.tv/4282571532/swf/VaughnSoftPlayer.swf pageUrl=http://v
 rtmp://204.77.214.15/mogulus-stream-edge/mcpmusictv playpath=rtmp://212-94.livestream.com/affiliateStream/mcpmusictv/6c69766572657065617465723a72746d703a2f2f3231322d39342e6c69766573747265616d2e636f6d2f6d6f67756c75732f6d63706d7573696374762f6d7573696337616e696e3030353032303135303333312d3139343331È95f343436 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?autoplay=true&width=350&time=&jsEnabled=false&height=280 pageUrl=http://cdn.livestream.com/embed/McpMusicTV?layout=4&height=280&width=350&autoplay=true
 #EXTINF:-1,Syria
 http://82.137.248.16:1935/Sat/SatLive2/HasBahCa.m3u8
-#EXTINF:-1,Syria
-http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
+
 #EXTINF:-1,Syria Aloula
 http://82.137.248.21:1935/Aloula/AloulaLive3/HasBahCa.m3u8
 #EXTINF:-1,Syria Drama
@@ -250,8 +234,7 @@ http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/HasBahC
 #EXTINF:-1,Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/HasBahCa.m3u8
 
-#EXTINF:-1,Al Ikhbaria syria
-http://82.137.248.16:1935/Snews/SnewsLive3/HasBahCa.m3u8
+
 
 #EXTINF:-1,Al Kawthar
 http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/HasBahCa.m3u8?DVR
@@ -294,16 +277,13 @@ http://live.echoroukonline.com/live/EchoroukTV/chunklist.m3u8
 #EXTINF:-1,Royatv
 http://212.35.75.130/3330/HasBahCa.m3u8?email=tac%40umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
 
-#EXTINF:-1,FRANCE 24 Arabic
-http://vipwowza.yacast.net/f24_hlslive_ar/smil:iphone.fr24ar.smil/playlist.m3u8
-#EXTINF:-1,FRANCE 24 English
-http://vipwowza.yacast.net/f24_hlslive_en/smil:iphone.fr24en.smil/playlist.m3u8
-#EXTINF:-1,Alwatan Ghanawi
-http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanghanawihigh.m3u8
-#EXTINF:-1,Alwatan (Kuwait)
-http://alwatan_hls-lh.akamaihd.net/i/alwatan_ar@91111/master.m3u8
-#EXTINF:-1,Speda (Kurdistan)
-rtmp://sepidehlive.nanocdn.com:1935/live/sepideh256
+
+
+
+#EXTINF:-1 group-title=”ARABIC”,AL HADATHالحدث 
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1 group-title=”ARABIC”,AL HURRA قناة الحرة
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
  
 #EXTINF:-1 , Aljazeera
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_264.m3u8
@@ -311,8 +291,7 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_264.m3
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_264.m3u8
 #EXTINF:-1,الجزيرة الوثائقية
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1, Al Jazeera Kids
-http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8?b?b*t$
+
 
 
 #EXTINF:-1,ALJAZERRA En
@@ -327,8 +306,23 @@ rtmp://alayam.netromedia.net/btv2 playpath=btv2 swfUrl=http://player.netromedia.
 #EXTINF:-1,Echorouk Tv (الشروق
 http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
 
-#EXTINF:-1,Hona Baghdad
-http://vast.yashi.com/7396&vid_id=http://startinghobbies.com/jwdatas/16232-basic-bowling-techniques.mp4&vid_title=
+#EXTINF:-1,2M المغربيه
+128.http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
+#EXTINF:-1 group-title=”ARABIC”,AL NABA
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:-1 group-title=”ARABIC”,Al-Quds القدس
+http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 group-title=”ARABIC”,ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?
+
+#EXTINF:-1,[COLOR red]****************قنوات أطفال KIDS ****************[/COLOR]
+
+#EXTINF:-1 group-title=”ARABIC”,قناة أجيال 
+http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
+#EXTINF:-1, Al Jazeera Kids
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8?b?b*t$
+
 
 
 #EXTINF:-1,قناة الكاس 1
@@ -339,5 +333,3 @@ http://alkass-i.akamaihd.net/hls/live/205534/2/live_14s20.m3u8
 http://alkass-i.akamaihd.net/hls/live/205534/3/live_12s12.m3u8
 #EXTINF:-1,قناة الكاس 4
 http://alkass-i.akamaihd.net/hls/live/205534/4/live_13s20.m3u8
-#EXTINF:-1,dubai sport 1 دبي الرياضية 
-http://204.107.27.250/live/79.low.stream/playlist.m3u8?
