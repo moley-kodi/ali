@@ -54,4 +54,6 @@ http://176.10.104.216/ss1sd/index.m3u8
 #EXTINF:-1,Fox Sports HD1
 http://streamup.global.ssl.fastly.net/app/zonasports2hds-stream/playlist.m3u8
 
-#EXTINF:-1,
+
+#EXTINF:-1,Euro Sport
+http://213.81.153.241/live001/channel014_p3.stream/chunklist_w558968909_DVR.m3u8
