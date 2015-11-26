@@ -77,11 +77,8 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1, كارتون نت ورك TV
-http://54.255.155.24:1935/Live/_definst_/sweetbcha1novD28_W_250.sdp/chunklist.m3u8
-
+#EXTINF:-1,Fnoon فنون
+http://streamup.global.ssl.fastly.net/app/zonasportshd4s-stream/chunklist.m3u8
 
 
 #EXTINF:-1,Kuwait Tv 
@@ -322,6 +319,8 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
 #EXTINF:-1, Al Jazeera Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8?b?b*t$
+#EXTINF:-1, كارتون نت ورك TV
+http://54.255.155.24:1935/Live/_definst_/sweetbcha1novD28_W_250.sdp/chunklist.m3u8
 
 
 
