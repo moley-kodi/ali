@@ -3,7 +3,8 @@
 #EXTINF:-1, [COLOR red] --  Jafaer-tv.com--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
-
+#EXTINF:-1, MBC 1
+http://ovh.dynns.com:1935/arabic/MBC1/chunklist_w1036579990.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAxNSA1OjI0OjQzIFBNJmhhc2hfdmFsdWU9a3ZEc214dnRBMGg3MCtWdyt5ZUNUQT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1,MBC 2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
 #EXTINF:-1,MBC MAX
@@ -18,6 +19,8 @@ http://alforatlive.nanocdn.com:1935/live/alforat256/HasBahCa.m3u8
  Mobile/8H7 Safari/6533.18.5
 #EXTINF:-1,الميادين
 http://livestreaming.itworkscdn.net/mayadeenlive/smil:mayadeenmob.smil/playlist.m3u8
+#EXTINF:-1,Almnnar
+http://38.96.148.199:1935/liveedge1/livestream_720p/chunklist_w2048781993.m3u8
 #EXTINF:-1,Al Kawthar
 http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/BratuMarian.m3u8?DVR
 
@@ -96,7 +99,8 @@ http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 #EXTINF:-1,Alarabiya
 http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-b.m3u8?sd=10&rebase=on
 
-
+#EXTINF:-1,Cairo Cinema
+http://38.99.146.36:7777/CairoCinema_HD.m3u8
 #EXTINF:-1,Alfady TV
 rtmp://stream.truth-voice.net/FadyLive//FadyLive
 #EXTINF:-1,Aljazeera Doc
@@ -321,6 +325,10 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/st
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8?b?b*t$
 #EXTINF:-1, كارتون نت ورك TV
 http://54.255.155.24:1935/Live/_definst_/sweetbcha1novD28_W_250.sdp/chunklist.m3u8
+#EXTINF:-1, براعم 
+http://78.100.40.195:1935/brm/brm/chunklist.m3u8?wowzasessionid=2061182377
+#EXTINF:-1,Karameesh Kids
+http://38.99.146.36:7777/Karameesh_HD.m3u8
 
 
 
