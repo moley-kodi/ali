@@ -1,0 +1,21 @@
+
+#EXTM3U
+ 
+#EXTINF:-1, [COLOR red] --  Jafaer-tv.com This channeles Unstable --[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+
+
+#EXTINF:-1,FOx News
+http://103.245.167.28/tot/1e2041858ca543fa90ec95d28197e907.m3u8
+#EXTINF:-1,CNBC
+http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1,FOx 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?supertvlat=/.ts
+#EXTINF:-1, Fox crime HD
+http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
+#EXTINF:-1,Fox Action HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?supertvlat=/.ts
+#EXTINF:-1,Warner TV HD
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?supertvlat=/.ts
