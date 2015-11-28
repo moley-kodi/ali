@@ -58,7 +58,10 @@ http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 http://stream.joinvisions.net:1935/taglive/taghier/chunklist.m3u8?wowzasessionid=634223339&v=1250133442
 #EXTINF:-1,الرشيد
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
-
+#EXTINF:-1,El masira المسيرة
+http://livestreaming4.itworkscdn.com/masira/livetv1/chunklist_w860649189.m3u8
+#EXTINF:-1,قناة نبأ جنوب لبنان
+http://31.14.40.238:1935/live/Nabaa/playlist.m3u8
 
 
 #EXTINF:-1, Dubai TV
@@ -101,6 +104,8 @@ http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-b.m3u8?sd=10&rebase=o
 
 #EXTINF:-1,Cairo Cinema
 http://38.99.146.36:7777/CairoCinema_HD.m3u8
+#EXTINF:-1,Rotana Cinema روتانا سينما
+http://204.107.27.137/live/2615.low.stream/playlist.m3u8?id=2c7a8e1bf1c050544174ccea85276aa405500c73e7cf8dd63bc8d397899343c335d2fa64fe1bb3fadbbfe824643e4b579416cb049c67712f1a6ec22758afb276917b7b0d1193dc4c2ba0a3ec62136e1da4765214e6071676140f935f733204b04da7e233d2fe5d3028e4269ac26b86eb843e4effe0c0943e9291af9b3a5a9b9d2cd3b28f2ada6d3f3d35477ec563c4846c51f5d3d749f927
 #EXTINF:-1,Alfady TV
 rtmp://stream.truth-voice.net/FadyLive//FadyLive
 #EXTINF:-1,Aljazeera Doc
@@ -165,13 +170,20 @@ rtmp://82.137.248.16/Snews/SnewsLive1
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1,بي بي سي عربي bbc arabic bbc
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1, Skynews سكاي نيوز
+http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
 
 #EXTINF:-1,Dubai TV
 http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/BratuMarian.m3u8
 
 #EXTINF:-1,Edhaktv
 http://94.127.209.149:8080/albadawiyah-800-hdsx/playlist.m3u8
-
+#EXTINF:-1,قناة العربي الثقافية 
+http://stream03.fasttelco.net:1935/live/_definst_/ktv6_480.stream/playlist.m3u8
+#EXTINF:-1,الشارقة
+http://livestreaming.itworkscdn.net/smc1livesmc1tv/playlist.m3u8
+#EXTINF:-1,قناة التركية
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_500_av-b.m3u8?sd=10&rebase=on&hdntl=
 
 #EXTINF:-1,KAS
 http://137.135.64.32:1935/kas/kas/gmswf.m3u8
