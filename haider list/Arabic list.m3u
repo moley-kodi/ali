@@ -63,6 +63,21 @@ http://livestreaming4.itworkscdn.com/masira/livetv1/chunklist_w860649189.m3u8
 #EXTINF:-1,قناة نبأ جنوب لبنان
 http://31.14.40.238:1935/live/Nabaa/playlist.m3u8
 
+#EXTINF:-1,Lebanon لبنان
+http://ovh.dynns.com:1935/arabic/LebanonTV/chunklist_w1125612813.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxNSAyOjU0OjA1IFBNJmhhc2hfdmFsdWU9c1VOc2VCV2N6K0VwRGhQdVd3OEhrUT09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:-1,LDC لبنان
+http://ovh.dynns.com:1935/arabic/LDC/chunklist_w1590724742.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxNSAyOjU2OjAwIFBNJmhhc2hfdmFsdWU9Q0JPMkRNWkFkTGx6cE5pbTROeGpRdz09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:-1,Heya قناة هيى
+http://ovh.dynns.com:1935/arabic/Heya/chunklist_w839608477.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxNSAyOjU4OjUxIFBNJmhhc2hfdmFsdWU9bTgyeSszcGdFTzZQYU1lOGpYMVRUZz09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:-1,aEnnahar النهار 
+http://ovh.dynns.com:1935/arabic/ZahraEnnaharTVDZ/chunklist_w1878509498.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxNSAzOjAwOjE5IFBNJmhhc2hfdmFsdWU9UzhEZHl2QUtpNnVtUGlzQURqRmVuZz09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:-1,LBC 
+http://ovh.dynns.com:1935/arabic/LBCSAT/chunklist_w1073089775.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxNSAzOjAzOjA4IFBNJmhhc2hfdmFsdWU9K0VGMG80MjZ1QzhJb1Y3OUxSaE1Vdz09JnZhbGlkbWludXRlcz0y
+
 
 #EXTINF:-1, Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
@@ -162,10 +177,6 @@ rtmp://82.137.248.20/Talaqie/TalaqieLive2
 #EXTINF:-1,Alikhbaria Syria
 rtmp://82.137.248.16/Snews/SnewsLive1
 
-
-
-
-
 #EXTINF:-1,BBC Arabia
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1,بي بي سي عربي bbc arabic bbc
@@ -197,7 +208,6 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch4.sdp
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch6.sdp
 #EXTINF:-1,Kuwait
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp
-
 
 #EXTINF:-1,Medine
 http://46.245.160.224/medine/medine/gmswf.m3u8
