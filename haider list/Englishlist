@@ -46,24 +46,53 @@ http://198.179.30.110/live/845.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe39fd
 http://204.107.27.250/live/836.high.stream/playlist.m3u8?id=0ad5aac39bb13fbefb5973d25a18290aaaa75897bfaab615d9664e21a3c32912fa0fae667e5fc629a92763b08a4459c81e9b306337d8a12aa058ca7001fae9fb83f8f846dd583a38dc6ab5cfd0b8c63dff9473138312dcf4586d3377baaa522c538083db03ae7c37338325bb6ea6362fa84900f8be730007076c89535cba0192246ff3b1ebea2f1a4b8efc83e87fed390663393b363c50d7
 #EXTINF:-1,GINX
 http://204.107.26.252:1935/live/796.high.stream/chunklist_w1818870275.m3u8
-#EXTINF:-1,itv 1 
-http://198.179.30.110/live/1817.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeea4dedd14b36bb321a3262db85d7ba2af7e46f0c66446c74fcd8b37d7b7d6e5b1f867f823f7a1bc0150e85e6d2edb296c0d3f462acd3dd456caefd067aec521fde3ccbd6765181deb1320046f4f9933250983b9d46f176287b8f99550cc771a3d01f4860ee1e0d4a984a3a196420f97f64b0b528fcf98a257a6a2d7efa7bf82d9ac7b12f3363d81fab181bae7e4beeee
-#EXTINF:-1,itv 2 
-http://198.179.30.110/live/1820.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe2a3687adb78ac7f465f7361e078fde515f0e4f5260b1b78b2d5cc7d6de3f9155d9201597dd38ef8b62ec720e3f0aa91c8d5b557abc7df7e93b2a6293e47099ba89cd9715a8d18896691d5ba2e9236b1eb14da1b991452cc6123c83cdd67de53da6e4b6229b0eb4c1278a007492ecd429255c6f725fe06baa22c81a3d4d4ffc31d097b905143a3f9685047f1b12e9d1c6
-#EXTINF:-1,Itv 3
-http://198.179.30.110/live/1823.high.stream/playlist.m3u8?id=0ad5aac39bb13fbec00ecc56883aa7f727d9b76fe3be9303003067a8330015babfdec42722b8f613be9f7b060bb6f2a52152de9724eac6875a86219627421e8e77345fff151c0754dceed122ed32705c510140507c25c155bb0b799b0c7954379ad564d1cd4169f55f41bc2368def3ae3c309f04006c393e23887fbec21195d176bca77dc2cb98ef9479c12f95831ae290a1a3e0e8b74e30
-
-#EXTINF:-1,itv 4
-http://198.179.30.110/live/1826.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe7accc0f98ecb0cb9a15ec4b1640e78849a36da6d439749e91483661236e291dfe36cbe481d588c441754b7b3e942c8eae9ea79c51226eb452e75d94c960f58c8585b1d6b8c6395883ff656c6eddccb234d18fbcc05cde963ab59ebc9b6e43400e304369723717f9234c34342ad1e4bfa91d292948354caa2bf635e7eebe07976fb807841d14d22aea39fccf662362af3
 
 #EXTINF:-1, Tru Tv
 http://204.107.27.137/live/3707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe3222a8384c6ee9a67c2f9e068f6bf6f5f1ffcc69f760199a77f1a02bf6f16686ac02ae3c6ce85c80101340e9550cb9b6f2e1dd533b37cbc29a3c98cd2848cf83e1b128963cf2878165f633dfacfd3873afc2e16679dfd691ae0b95439c1f52d643f590b088baa695add25e81a6155dc50c6f6ee8f30ccb0a30d64a0c43b4552e8e5820b9b7454c00cb0a25b925f8df9b
 
 #EXTINF:-1,CBS Drama
 http://198.179.30.110/live/1805.high.stream/playlist.m3u8?id=0ad5aac39bb13fbefa518ddcdbd00f023e40f8ce0b74b2704b8b39ad76f8280e6416e5cff0dcc813c1c40a39c9a3589810be09a3d41d80858433b2f99fb2018bbe59d8b8f1a723b2e312e3388a163019a0b84d3021680448a768d177e9689978f8ff45dd170963ba6c479c6780849d708ee097673df89c640ddb532797921d6aacfec096a0294cb2a082968c88b45fdca5d18139b50afe28
+#EXTINF:-1,HBO
+http://89.248.172.57:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1813545298
+#EXTINF:-1,WBTV
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?supertvlat=/.ts
+#EXTINF:-1,Channel 4
+http://204.107.27.250/live/2.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe2c12fec38cb924b4889e07b1c0d6490d42f8ac92e00768449674b5b009dc0465e2bc1cafe3cfb0ef944b7af1b8dce0ab9144b58e5e2b2193238581b8865f976f131b8d2fc037ef618901d9a656d7d375df5eeabbf89fa6dfd968dceed46b14ea4c75103763d8666529c286b8861d504afba0d6877239f650576349b058c59e06c71c8d85dd802c6fe5e5c2d2df6ca878
+#EXTINF:-1,Travel Channel
+http://stream.taksimbilisim.com:1935/wtc/bant1/chunklist_w509790984.m3u8
+#EXTINF:-1,Fox college Sport 
+http://ftve1100-i.akamaihd.net/hls/live/217047/fcsp/3964k/prog.m3u8
+#EXTINF:-1,Golf channel
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
+#EXTINF:-1,RT US
+http://rt.ashttp6.visionip.tv/live/RT_America-HD/chunklist.m3u8
+#EXTINF:-1,dream tv
+http://212.224.108.76:80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1,Fox 59
+http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
 
+#EXTINF:-1,RT DOcumentary
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+#EXTINF:-1,Boston city Tv
+http://streaming.cityofboston.gov:1935/live/cable/chunklist_w1902155007.m3u8
+#EXTINF:-1,i24 
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/650.m3u8
+
+#EXTINF:-1,Comedy Central
+http://103.245.167.28/tot/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8
+#EXTINF:-1,Syfy
+http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
+#EXTINF:-1,Fox 1
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?supertvlat=/.ts
+
+#EXTINF:-1,Fox Classics
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?supertvlat=/.ts
+
+#EXTINF:-1,Discovery 
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?supertvlat=/.ts
+#EXTINF:-1,FOx Action
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?supertvlat=/.ts
 #EXTINF:-1,Channel 5
-http://204.107.27.250/live/22.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeb3c4021cbb156074be2a86eb59d28bc6f51260387fd438640504a2f4db92d586315a63a9761e084e476c820f536c3a6a3e537e124093bcab579fcab99fb6203c1f25b9e9d0e6ff15eda0d74a2c787a1a087e70578490853fcd8465e144a16226b51aef7724840879a9a554131cb6305934edb18bc28a71e162f8849984329148de3db7c649635d10973c9ce979df151b
-
+http://204.107.27.250/live/22.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe5f75fb7094bcd88d2f5863317340986405d14d8cd924d71a521889d06375f9b70cceb7bd70500a1e1bf
 
 
