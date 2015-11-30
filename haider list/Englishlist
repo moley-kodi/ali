@@ -98,3 +98,30 @@ http://genesis.tulix.tv:1935/live/Stream1/chunklist_w202054687.m3u8
 http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
 #EXTINF:-1,London Live 
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+#EXTINF:-1,Sky Disney Movies
+http://india2.xyz/sky_movies_disney_PNOjfkmtq5y2Fsz6hdVBAE1RGn7CIQ/index.m3u8
+#EXTINF:-1,Sky Movies Action
+http://india2.xyz/sky_movies_action_gP5AYoSCUQeJ9M6Vs1LkpNwbiOvjnE/index.m3u8
+#EXTINF:-1,Sky Movies Showcase
+http://india2.xyz/sky_mov_show_case_NTlsRAuYFiGJoBnaKcQMeWd9wL12qb/index.m3u8
+#EXTINF:-1,Sky Movies Horror
+http://india2.xyz/sky_mov_scifi_EmCtbPKjolaGSp3Fw6JucfqNYy8kr4/index.m3u8
+#EXTINF:-1,Sky Movies Premiere
+http://india2.xyz/sky_mov_premiere_VzkPKAb73vtiDca4Nde9wLHQqZJTRp/index.m3u8
+#EXTINF:-1,Sky Movies Modern Greats
+http://india2.xyz/sky_mov_greats_EWqYTps9vVeLAHQdU8GtOPzChj1Nan/index.m3u8
+#EXTINF:-1,Sky Movies Family
+http://india2.xyz/sky_mov_family_6kCd01JSInjLpu3iRNl2EgYBbqcGyU/index.m3u8
+#EXTINF:-1,Sky Atlantic
+http://india2.xyz:80/sky_atlantic_10d7CbN5MrSBownAlY8KjQFPTJcLgO/index.m3u8
+#EXTINF:-1,Sky Atlantic +1
+http://india2.xyz:80/sky_atlantic_plus_1_zpGa6NBQgOV8RbSKsDEYjcTuMmlAhH/index.m3u8
+#EXTINF:-1,Sky Art
+http://india2.xyz:80/sky_arts_1_qSUI2joA0mhvd59uzNTaiYwyEHDB8s/index.m3u8
+#EXTINF:-1,Sky living
+http://india2.xyz:80/sky_living_KEcFjNYkLzR7r0fC162bVdtDWHl8w5/index.m3u8
+#EXTINF:-1,amc
+http://india2.xyz:80/amc_by_bt_Vgc7KyBvI3FLj5S6UGzZeiOPD24RmA/index.m3u8
+#EXTINF:-1 Comedy Centeral
+http://india2.xyz:80/comcent_extra_YWUdk7MrETg6IOlvJFu8AhRqQGmCHj/index.m3u8
