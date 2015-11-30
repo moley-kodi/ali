@@ -96,4 +96,5 @@ http://genesis.tulix.tv:1935/live/Stream1/chunklist_w202054687.m3u8
 
 #EXTINF:-1,miami tv +18
 http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
-
+#EXTINF:-1,London Live 
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
