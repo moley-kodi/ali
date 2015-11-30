@@ -80,5 +80,20 @@ http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?supertvlat=/.ts
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?supertvlat=/.ts
 #EXTINF:-1,Channel 5
 http://204.107.27.250/live/22.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe5f75fb7094bcd88d2f5863317340986405d14d8cd924d71a521889d06375f9b70cceb7bd70500a1e1bf
+#EXTINF:-1,HBO +
+http://94.102.49.207/iguide0bf02qe6msgtu4s/playlist.m3u8
 
+#EXTINF:-1,Vevo 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:-1,Vevo 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,Vevo 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:-1,genesis Science
+http://genesis.tulix.tv:1935/live/Stream1/chunklist_w202054687.m3u8
+
+#EXTINF:-1,miami tv +18
+http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
 
