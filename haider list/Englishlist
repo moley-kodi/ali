@@ -123,5 +123,6 @@ http://india2.xyz:80/sky_arts_1_qSUI2joA0mhvd59uzNTaiYwyEHDB8s/index.m3u8
 http://india2.xyz:80/sky_living_KEcFjNYkLzR7r0fC162bVdtDWHl8w5/index.m3u8
 #EXTINF:-1,amc
 http://india2.xyz:80/amc_by_bt_Vgc7KyBvI3FLj5S6UGzZeiOPD24RmA/index.m3u8
-#EXTINF:-1 Comedy Centeral
-http://india2.xyz:80/comcent_extra_YWUdk7MrETg6IOlvJFu8AhRqQGmCHj/index.m3u8
+#EXTINF:-1 Test
+http://india2.xyz/sky_movies_action_gP5AYoSCUQeJ9M6Vs1LkpNwbiOvjnE/index.m3u8
+http://india2.xyz/sky_movies_action_JVriK2053O9snBGeNTMAhmkpquwSW7/index.m3u8
