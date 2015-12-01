@@ -3,8 +3,7 @@
 #EXTINF:-1, [COLOR red] --  Jafaer-tv.com--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
-#EXTINF:-1, MBC 1
-http://ovh.dynns.com:1935/arabic/MBC1/chunklist_w1036579990.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAxNSA1OjI0OjQzIFBNJmhhc2hfdmFsdWU9a3ZEc214dnRBMGg3MCtWdyt5ZUNUQT09JnZhbGlkbWludXRlcz0y
+
 #EXTINF:-1,MBC 2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
 #EXTINF:-1,MBC MAX
@@ -33,7 +32,7 @@ http://streamer1.hamuraabi.com:1935/salam/live/chunklist_w473936807.m3u8
 #EXTINF:-1,الانوار 2
 http://ngx.cr1.streamzilla.xlcdn.com/session/fec9ee33fd1dd22d97ff75ef9225cedc/sz/anwartv2/wowza4/live/jazem/chunklist.m3u8
 
-#EXTINF:-1,قتاة الامام الحسين ع
+#EXTINF:-1,قناة الامام الحسين  
 rtsp://ca.live.imamhussein.tv:1935/live/mp4:ih203
 
 
@@ -60,25 +59,13 @@ http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 http://stream.joinvisions.net:1935/taglive/taghier/chunklist.m3u8?wowzasessionid=634223339&v=1250133442
 #EXTINF:-1,الرشيد
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+#EXTINF:-1, Dijlah TV
+rtmp://stream.joinvisions.net/dij//dij
 #EXTINF:-1,El masira المسيرة
 http://livestreaming4.itworkscdn.com/masira/livetv1/chunklist_w860649189.m3u8
 #EXTINF:-1,قناة نبأ جنوب لبنان
 http://31.14.40.238:1935/live/Nabaa/playlist.m3u8
 
-#EXTINF:-1,Lebanon لبنان
-http://ovh.dynns.com:1935/arabic/LebanonTV/chunklist_w1125612813.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxNSAyOjU0OjA1IFBNJmhhc2hfdmFsdWU9c1VOc2VCV2N6K0VwRGhQdVd3OEhrUT09JnZhbGlkbWludXRlcz0y
-
-#EXTINF:-1,LDC لبنان
-http://ovh.dynns.com:1935/arabic/LDC/chunklist_w1590724742.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxNSAyOjU2OjAwIFBNJmhhc2hfdmFsdWU9Q0JPMkRNWkFkTGx6cE5pbTROeGpRdz09JnZhbGlkbWludXRlcz0y
-
-#EXTINF:-1,Heya قناة هيى
-http://ovh.dynns.com:1935/arabic/Heya/chunklist_w839608477.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxNSAyOjU4OjUxIFBNJmhhc2hfdmFsdWU9bTgyeSszcGdFTzZQYU1lOGpYMVRUZz09JnZhbGlkbWludXRlcz0y
-
-#EXTINF:-1,aEnnahar النهار 
-http://ovh.dynns.com:1935/arabic/ZahraEnnaharTVDZ/chunklist_w1878509498.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxNSAzOjAwOjE5IFBNJmhhc2hfdmFsdWU9UzhEZHl2QUtpNnVtUGlzQURqRmVuZz09JnZhbGlkbWludXRlcz0y
-
-#EXTINF:-1,LBC 
-http://ovh.dynns.com:1935/arabic/LBCSAT/chunklist_w1073089775.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxNSAzOjAzOjA4IFBNJmhhc2hfdmFsdWU9K0VGMG80MjZ1QzhJb1Y3OUxSaE1Vdz09JnZhbGlkbWludXRlcz0y
 
 
 #EXTINF:-1, Dubai TV
