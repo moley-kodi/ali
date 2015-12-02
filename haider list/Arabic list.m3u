@@ -3,6 +3,113 @@
 #EXTINF:-1, [COLOR red] --  Jafaer-tv.com--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
+#EXTINF:-1,Arabic:Star Movies
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2254.ts
+#EXTINF:-1,Arabic:Star Cinema 2
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2214.ts
+#EXTINF:-1,Arabic:Samira
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2223.ts
+#EXTINF:-1,Arabic:OSN-YaHala-DRAMA-HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2228.ts
+#EXTINF:-1,Arabic:OSN-YaHala!-Shabab-HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2226.ts
+#EXTINF:-1,Arabic:OSN Movies Premiere HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2246.ts
+#EXTINF:-1,Arabic:OSN Movies HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2274.ts
+#EXTINF:-1,Arabic:OSN Movies First
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2245.ts
+#EXTINF:-1,Arabic:OSN More First HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2232.ts
+#EXTINF:-1,Arabic:OSN Action HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2239.ts
+#EXTINF:-1,Arabic:Nessma
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2275.ts
+#EXTINF:-1,Arabic:Movies Frama
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2215.ts
+#EXTINF:-1,Arabic:LBC
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2236.ts
+#EXTINF:-1,Arabic:Hanibal
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2227.ts
+#EXTINF:-1,Arabic:ETTOUNSIA
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2234.ts
+#EXTINF:-1,Arabic:Echourou ktv
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2225.ts
+#EXTINF:-1,Arabic:Discovery Science
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2233.ts
+#EXTINF:-1,Arabic:Discovery
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2269.ts
+#EXTINF:-1,Arabic:Cineam 2
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2218.ts
+#EXTINF:-1,Arabic:CBS
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2224.ts
+#EXTINF:-1,Arabic:CBC +2
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2238.ts
+#EXTINF:-1,Arabic:CBC
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2240.ts
+
+#EXTINF:-1,Arabic:Arriadia
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2219.ts
+#EXTINF:-1,Arabic:Animal Planet
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2260.ts
+#EXTINF:-1,Arabic:alarabiya
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2241.ts
+#EXTINF:-1,Arabic:AbuDhabidrama
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2216.ts
+#EXTINF:-1,Arabic:2M Maroc
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2220.ts
+#EXTINF:-1,Arabic:***Zee-Aflam
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2255.ts
+#EXTINF:-1,Arabic:***OSN-Movies-Festival-HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2230.ts
+#EXTINF:-1,Arabic:***OSN-MBC DRAMA-HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2231.ts
+#EXTINF:-1,Arabic:***OSN-Festival
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2237.ts
+#EXTINF:-1,Arabic:***OSN-Discovery-HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2222.ts
+#EXTINF:-1,Arabic:***OSN-ART-Aflam-1-HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2213.ts
+#EXTINF:-1,Arabic:***Nile_comedy
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2247.ts
+#EXTINF:-1,Arabic:***MBC_pro_sport_2
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2263.ts
+#EXTINF:-1,Arabic:***MBC_pro_sport_1
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2262.ts
+#EXTINF:-1,Arabic:***MBC_Masr
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2256.ts
+#EXTINF:-1,Arabic:***MBC_Drama
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2249.ts
+#EXTINF:-1,Arabic:***MBC_Bollywood
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2244.ts
+#EXTINF:-1,Arabic:***MBC_Action
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2248.ts
+#EXTINF:-1,Arabic:***MBC_4
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2253.ts
+#EXTINF:-1,Arabic:***MBC_3
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2257.ts
+#EXTINF:-1,Arabic:***MBC_2
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2252.ts
+#EXTINF:-1,Arabic:***MBC_1
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2251.ts
+#EXTINF:-1,Arabic:***MBC-Max
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2250.ts
+#EXTINF:-1,Arabic:***MBC maser 2
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2264.ts
+#EXTINF:-1,Arabic:***First tv
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2242.ts
+
+
+
+
+#EXTINF:-1,Arabic:Zaitouna
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2235.ts
+#EXTINF:-1,Arabic:Toyor-jannah
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2217.ts
+#EXTINF:-1,Arabic:Baraeem
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2221.ts
+#EXTINF:-1,Arabic:TNN
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2229.ts
 
 #EXTINF:-1,MBC 2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
