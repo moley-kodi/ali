@@ -1,56 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,AR:beIN SPORT 1 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/158.ts
-#EXTINF:-1,AR:opt:BeinSports-2-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/175.ts
-#EXTINF:-1,AR:opt:BeinSports-3-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/176.ts
-#EXTINF:-1,AR:opt:BeinSports-4-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/177.ts
-#EXTINF:-1,AR:opt:BeinSports-5-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/178.ts
-#EXTINF:-1,AR:opt:BeinSports-6-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/179.ts
-#EXTINF:-1,AR:opt:BeinSports-7-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/180.ts
-#EXTINF:-1,AR:opt:BeinSports-8-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/181.ts
-#EXTINF:-1,AR:opt:BeinSports-9-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/182.ts
-#EXTINF:-1,AR:opt:BeinSports-10-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/183.ts
-#EXTINF:-1,AR:opt:BeinSport-12-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/185.ts
-#EXTINF:-1,AR:opt:BeinSport-13-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/186.ts
-#EXTINF:-1,AR:beIN SPORT 16 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/173.ts
 
-#EXTINF:-1,Arabic:***Alkass-one-sport-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2272.ts
-
-
-#EXTINF:-1,AR:opt:BeinSports-1-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/174.ts
-#EXTINF:-1,AR:beIN SPORT 2 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/159.ts
-#EXTINF:-1,AR:beIN SPORT 3 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/160.ts
-#EXTINF:-1,AR:beIN SPORT 4 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/161.ts
-#EXTINF:-1,AR:beIN SPORT 5 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/162.ts
-#EXTINF:-1,AR:beIN SPORT 6 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/163.ts
-#EXTINF:-1,AR:beIN SPORT 7 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/164.ts
-#EXTINF:-1,AR:beIN SPORT 8 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/165.ts
-#EXTINF:-1,AR:beIN SPORT 9 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/166.ts
-#EXTINF:-1,AR:beIN SPORT 10 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/167.ts
 #EXTINF:-1,قناة الكاس 1
 http://alkass-i.akamaihd.net/hls/live/205534/1/live_13s20.m3u8
 #EXTINF:-1,قناة الكاس 2
