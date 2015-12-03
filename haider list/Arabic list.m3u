@@ -5,61 +5,19 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR red] --  Jafaer-tv.com--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
-#EXTINF:-1,Arabic:***MBC_1
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2251.ts
+
 #EXTINF:-1,MBC 2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
-#EXTINF:-1,Arabic:***MBC_3
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2257.ts
-#EXTINF:-1,Arabic:***MBC_4
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2253.ts
+
 #EXTINF:-1,MBC MAX
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1,MBC Action HD
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 <swfUrl>http://embed.iptv-planet.com/swfs/player.swf 
-#EXTINF:-1,Arabic:***MBC_Masr
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2256.ts
-#EXTINF:-1,Arabic:***MBC_Drama
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2249.ts
-#EXTINF:-1,Arabic:***MBC maser 2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2264.ts
+
 #EXTINF:-1,MBC Bollywood
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
-#EXTINF:-1,*********[COLOR red]OSN Channels[/COLOR]**********
-#EXTINF:-1,Arabic:Star Movies
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2254.ts
-#EXTINF:-1,Arabic:Star Cinema 2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2214.ts
-#EXTINF:-1,Arabic:Samira
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2223.ts
-#EXTINF:-1,Arabic:OSN-YaHala-DRAMA-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2228.ts
-#EXTINF:-1,Arabic:OSN-YaHala!-Shabab-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2226.ts
-#EXTINF:-1,Arabic:OSN Movies Premiere HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2246.ts
-#EXTINF:-1,Arabic:OSN Movies HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2274.ts
-#EXTINF:-1,Arabic:OSN Movies First
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2245.ts
-#EXTINF:-1,Arabic:OSN More First HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2232.ts
-#EXTINF:-1,Arabic:OSN Action HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2239.ts
-#EXTINF:-1,Arabic:Movies Frama
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2215.ts
-#EXTINF:-1,Arabic:***OSN-Movies-Festival-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2230.ts
-#EXTINF:-1,Arabic:***OSN-MBC DRAMA-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2231.ts
-#EXTINF:-1,Arabic:***OSN-Festival
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2237.ts
-#EXTINF:-1,Arabic:***OSN-Discovery-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2222.ts
-#EXTINF:-1,Arabic:***OSN-ART-Aflam-1-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2213.ts
 
 
 
@@ -130,8 +88,7 @@ http://38.96.148.199:1935/liveedge1/livestream_720p/chunklist_w2048781993.m3u8
 rtsp://livestreaming3.itworkscdn.net:554/mayadeenlive/mayadsat_240p
 #EXTINF:-1, العالم
 http://fml.BE1E.edgecastcdn.net/20BE1E/HLSAlalamHLS/playlist.m3u8
-#EXTINF:-1,Arabic:LBC
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2236.ts
+
 #EXTINF:-1,El masira المسيرة
 http://livestreaming4.itworkscdn.com/masira/livetv1/chunklist_w860649189.m3u8
 #EXTINF:-1,Sama Syria 
@@ -225,11 +182,7 @@ rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
 #EXTINF:-1,*********[COLOR red]  قنوات مصرية[/COLOR]**********
 http://jafaer-tv.com
 
-#EXTINF:-1,Arabic:***Zee-Aflam
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2255.ts
 
-#EXTINF:-1,Arabic:***Nile_comedy
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2247.ts
 #EXTINF:-1,Cairo Cinema
 http://38.99.146.36:7777/CairoCinema_HD.m3u8
 #EXTINF:-1,Rotana Cinema روتانا سينما
@@ -240,16 +193,7 @@ http://198.179.30.110/live/2618.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe1ea0
 http://204.107.27.137/live/2609.low.stream/playlist.m3u8?id=8734021ce672df80a9ba47b06d5a361394a6ae4530b6afc894630e1f38e4c9fdeaa5f5225f09c6193d490b61ff8e416854a3a6be6b422c5ca5927d06ea8beab3415427a675cfd5aa5842f67757819f7b7fcae14a6fefc8dc70ab89dd34fe42fd48f43fee58064f34ff94594d7ad01ecee3f85ba4157f11ac993c6ebfe3771750352dd1a8fe96eaf935c911b4fef51a8d704f5b6ccfba5a266cfc6fbd3bf1e107
 #EXTINF:-1, روتانا مصرية
 http://198.179.30.110/live/2612.low.stream/playlist.m3u8?id=0ad5aac39bb13fbef28f2ea01b138a11ba766a24188555f5c4c1d0202817608f02e4d80e1a1a8a76e1bf06542e6dcb242d0c36ed4c60a69cb971919503134d4139d1c96ace16375a4871b8f9a649ab1e5f96c64665826fb73c7c1ecdefa8094f26d8d1555667a937551ae8ebdc7d921af7fb00a93bd24188acff1560c28225f124758a05dd04b3813aed65b77892165354915453430d881b&1250133442
-#EXTINF:-1,Arabic:Cineam 2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2218.ts
-#EXTINF:-1,Arabic:CBS
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2224.ts
-#EXTINF:-1,Arabic:CBC +2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2238.ts
-#EXTINF:-1,Arabic:CBC
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2240.ts
-#EXTINF:-1,Arabic:Nessma
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2275.ts
+
 #EXTINF:-1,Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/HasBahCa.m3u8
 
@@ -268,16 +212,14 @@ http://rt-lh.akamaihd.net/i/ch_03@325607/index_720p_av-p.m3u8?sd=10&rebase=on
 http://188.247.93.26:1935/live/anb.stream_360p/playlist.m3u8
 #EXTINF:-1,ANN News
 rtmp://ns8.indexforce.com/ann/ann
-#EXTINF:-1,Arabic:alarabiya
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2241.ts
+
 #EXTINF:-1 group-title=”ARABIC”,AL HADATHالحدث 
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 group-title=”ARABIC”,AL HURRA قناة الحرة
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1 , Aljazeera
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_264.m3u8
-#EXTINF:-1,Arabic:TNN
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2229.ts
+
 #EXTINF:-1 group-title=”ARABIC”,ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?
 #EXTINF:-1,Sky news arabia
@@ -369,12 +311,7 @@ http://212.35.75.130/3330/HasBahCa.m3u8?email=tac%40umniah.com&password=2acc51f1
 
 #EXTINF:-1,الجزيرة الوثائقية
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1,Arabic:Discovery Science
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2233.ts
-#EXTINF:-1,Arabic:Discovery
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2269.ts
-#EXTINF:-1,Arabic:Animal Planet
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2260.ts
+
 #EXTINF:-1,قناة العربي الثقافية 
 http://stream03.fasttelco.net:1935/live/_definst_/ktv6_480.stream/playlist.m3u8
 #EXTINF:-1,Aljazeera Doc
@@ -386,12 +323,7 @@ http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
 #EXTINF:-1,قناة الدنيا
 rtmp://www.teledunet.com:1935/live2<playpath>teledunet_tv <swfUrl>http://www.teledunet.com/mobile/player.swf <pageUrl>http://www.teledunet.com/mobile/ <objectEncoding>
-#EXTINF:-1,Arabic:Hanibal
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2227.ts
-#EXTINF:-1,Arabic:ETTOUNSIA
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2234.ts
-#EXTINF:-1,Arabic:Echourou ktv
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2225.ts
+
 #EXTINF:-1,2M المغربيه
 128.http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 #EXTINF:-1 group-title=”ARABIC”,AL MAGHRIBYA
@@ -400,27 +332,10 @@ http://almaghribya-tv.scdn.arkena.com/almaghribya.isml/almaghribya-audio101_fra=
 http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_,264,528,828,.m3u8
 #EXTINF:-1 group-title=”ARABIC”,Al-Quds القدس
 http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1,Arabic:Arriadia
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2219.ts
-
-#EXTINF:-1,Arabic:AbuDhabidrama
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2216.ts
-#EXTINF:-1,Arabic:2M Maroc
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2220.ts
-#EXTINF:-1,Arabic:***MBC_Bollywood
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2244.ts
-#EXTINF:-1,Arabic:***MBC_Action
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2248.ts
 
 
-#EXTINF:-1,Arabic:***MBC_2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2252.ts
 
-#EXTINF:-1,Arabic:***MBC-Max
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2250.ts
 
-#EXTINF:-1,Arabic:***First tv
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2242.ts
 
 #EXTINF:-1,[COLOR red]****************قنوات أطفال KIDS ****************[/COLOR]
 
@@ -434,67 +349,12 @@ http://78.100.40.195:1935/brm/brm/chunklist.m3u8?wowzasessionid=2061182377
 http://38.99.146.36:7777/Karameesh_HD.m3u8
 #EXTINF:-1, كارتون نت ورك TV
 http://54.255.155.24:1935/Live/_definst_/sweetbcha1novD28_W_250.sdp/chunklist.m3u8
-#EXTINF:-1,Arabic:Zaitouna
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2235.ts
-#EXTINF:-1,Arabic:Toyor-jannah
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2217.ts
-#EXTINF:-1,Arabic:Baraeem
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2221.ts
+
 
 
 #EXTINF:-1,[COLOR red]****************Sport ****************[/COLOR]
 
-#EXTINF:-1,AR:beIN SPORT 1 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/158.ts
-#EXTINF:-1,AR:opt:BeinSports-2-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/175.ts
-#EXTINF:-1,AR:opt:BeinSports-3-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/176.ts
-#EXTINF:-1,AR:opt:BeinSports-4-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/177.ts
-#EXTINF:-1,AR:opt:BeinSports-5-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/178.ts
-#EXTINF:-1,AR:opt:BeinSports-6-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/179.ts
-#EXTINF:-1,AR:opt:BeinSports-7-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/180.ts
-#EXTINF:-1,AR:opt:BeinSports-8-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/181.ts
-#EXTINF:-1,AR:opt:BeinSports-9-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/182.ts
-#EXTINF:-1,AR:opt:BeinSports-10-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/183.ts
-#EXTINF:-1,AR:opt:BeinSport-12-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/185.ts
-#EXTINF:-1,AR:opt:BeinSport-13-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/186.ts
-#EXTINF:-1,AR:beIN SPORT 16 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/173.ts
 
-#EXTINF:-1,Arabic:***Alkass-one-sport-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2272.ts
-
-
-#EXTINF:-1,AR:opt:BeinSports-1-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/174.ts
-#EXTINF:-1,AR:beIN SPORT 2 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/159.ts
-#EXTINF:-1,AR:beIN SPORT 3 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/160.ts
-#EXTINF:-1,AR:beIN SPORT 4 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/161.ts
-#EXTINF:-1,AR:beIN SPORT 5 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/162.ts
-#EXTINF:-1,AR:beIN SPORT 6 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/163.ts
-#EXTINF:-1,AR:beIN SPORT 7 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/164.ts
-#EXTINF:-1,AR:beIN SPORT 8 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/165.ts
-#EXTINF:-1,AR:beIN SPORT 9 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/166.ts
-#EXTINF:-1,AR:beIN SPORT 10 HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/167.ts
 #EXTINF:-1,قناة الكاس 1
 http://alkass-i.akamaihd.net/hls/live/205534/1/live_13s20.m3u8
 #EXTINF:-1,قناة الكاس 2
@@ -503,10 +363,7 @@ http://alkass-i.akamaihd.net/hls/live/205534/2/live_14s20.m3u8
 http://alkass-i.akamaihd.net/hls/live/205534/3/live_12s12.m3u8
 #EXTINF:-1,قناة الكاس 4
 http://alkass-i.akamaihd.net/hls/live/205534/4/live_13s20.m3u8
-#EXTINF:-1,Arabic:***MBC_pro_sport_2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2263.ts
-#EXTINF:-1,Arabic:***MBC_pro_sport_1
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2262.ts
+
 
 #EXTINF:-1, BAHRAIN SPORTS
 rtmp://alayam.netromedia.net/btv3/btv3
