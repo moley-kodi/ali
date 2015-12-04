@@ -115,7 +115,7 @@ http://82.137.248.21:1935/Nour/NourLive1/playlist.m3u8
 #EXTINF:-1,Syria aloula
 http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
 #EXTINF:-1,Alrayi
-mms://62.215.216.130/wmtencoder/alrai350.wmv
+http://stream01.fasttelco.net:1935/live/_definst_/ALRAI/LIVE_STREAMING/alrai/playlist.m3u8
 
 #EXTINF:-1,الريان
 rtmp://78.100.40.195:1935/ryn<playpath>ryn <swfUrl>http://www.elahmad.com/tv/swf/alrayyantv.swf?autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 <pageUrl>http://www.elahmad.com/tv/alrayyantv.php <objectEncoding>
