@@ -37,7 +37,8 @@ rtmp://almaareftv.com:1935/live/ playpath=11 swfUrl=http://www.almaareftv.com/nv
 #EXTINF:-1,السلام 
 http://streamer1.hamuraabi.com:1935/salam/live/chunklist_w473936807.m3u8
 #EXTINF:-1,الانوار 2
-http://ngx.cr1.streamzilla.xlcdn.com/session/fec9ee33fd1dd22d97ff75ef9225cedc/sz/anwartv2/wowza4/live/jazem/chunklist.m3u8
+http://ngx.cr2.streamzilla.xlcdn.com/session/8c55fcd37882178c8e9c7c93287a0e89/sz/anwartv2/wowza4/live/jazem/chunklist.m3u8
+
 #EXTINF:-1,قناة الامام الحسين ع
 rtsp://ca.live.imamhussein.tv:1935/live/mp4:ih203
 #EXTINF:-1,IFELM
