@@ -131,6 +131,9 @@ http://india2.xyz:80/sky_arts_1_qSUI2joA0mhvd59uzNTaiYwyEHDB8s/index.m3u8
 http://india2.xyz:80/sky_living_KEcFjNYkLzR7r0fC162bVdtDWHl8w5/index.m3u8
 #EXTINF:-1,amc
 http://india2.xyz:80/amc_by_bt_Vgc7KyBvI3FLj5S6UGzZeiOPD24RmA/index.m3u8
-#EXTINF:-1 Test
-http://india2.xyz/sky_movies_action_gP5AYoSCUQeJ9M6Vs1LkpNwbiOvjnE/index.m3u8
-http://india2.xyz/sky_movies_action_JVriK2053O9snBGeNTMAhmkpquwSW7/index.m3u8
+#EXTINF:-1,india
+http://india2.xyz:80/true_movies_1_2ZNdsvmDKWtaqSA0VHBJFclPOkeyGI/index.m3u8
+#EXTINF:-1,Sky Action
+http://india2.xyz/sky_movies_action_ZUJ3NtLqlpwzY0fcjrHeIgDyVdaFW2/index.m3u8
+#EXTINF:-1,Sky mov
+http://india2.xyz/sky_mov_show_case_81f9kn2pLsb3HYR4aqVUIPivmwuBJN/index.m3u8
