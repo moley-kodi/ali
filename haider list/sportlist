@@ -62,7 +62,16 @@ http://alkass-i.akamaihd.net/hls/live/205534/4/live_13s20.m3u8
 #EXTINF:-1,MBC Sport 1
 http://intigral_live-lh.akamaihd.net/i/DPS3CPCHILXAHL130215_1@135296/index_1200_av-b.m3u8
 
+#EXTINF:-1, Football Report
+http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-
 
+Origin/ngrp:FootballReport_all/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://channelpear.com/images/media/9095.png", NFL 
+
+Now Live
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+#EXTINF:0,PAC-12 Net. 
+http://xrxs.net/video/live-p12baya-4728.m3u8?
 
 #EXTINF:-1,Eurosport
 http://4.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
