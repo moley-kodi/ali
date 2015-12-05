@@ -39,44 +39,40 @@ http://streamer1.hamuraabi.com:1935/salam/live/chunklist_w473936807.m3u8
 #EXTINF:-1 tvg-logo="http://goo.gl/j2MiHS",الانوار 2
 http://ngx.cr2.streamzilla.xlcdn.com/session/8c55fcd37882178c8e9c7c93287a0e89/sz/anwartv2/wowza4/live/jazem/chunklist.m3u8
 
-#EXTINF:-1,قناة الامام الحسين ع
+#EXTINF:-1 tvg-logo="http://goo.gl/6DFzwR",قناة الامام الحسين ع
 rtsp://ca.live.imamhussein.tv:1935/live/mp4:ih203
-#EXTINF:-1,IFELM
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/iFilm_Iran.jpg",IFELM
 http://198.179.31.201/live/908.low.stream/playlist.m3u8?
-#EXTINF:-1,قناة كربلاء  
+#EXTINF:-1 tvg-logo="http://goo.gl/7ibWAA",قناة كربلاء  
 http://api.new.livestream.com/accounts/11436227/events/3998452/broadcasts/105951026.m3u8?dw=100&hdnea=st=1449021118~exp=1449022918~acl=/i/11436227_3998452_af6dd02c_1@317400/*~hmac=7a9b90b7326aac4e11c016880e6e331aa97dca0fa08223a2ea9cf152079632f0
-#EXTINF:-1,Al Maaref
+#EXTINF:-1 tvg-logo="http://goo.gl/V1m1fC",Al Maaref
 http://almaareftv.com:1935/live/1/HasBahCa.m3u8
-#EXTINF:-1, ٍٍٍٍٍSama tv
-http://sama-tv.net:1935/live/samatv/playlist.m3u8
 
-#EXTINF:-1,Al-hurra Iraq 
+#EXTINF:-1 tvg-logo="https://goo.gl/q5ue8J",Al-hurra Iraq 
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
-#EXTINF:-1,Iraqiya
+#EXTINF:-1 tvg-logo="http://www.imn.iq/data/Al_Iraqiya_logo(1).gif",Iraqiya
 http://212.7.205.5:1935/Iraqia/live/playlist.m3u8
-
-#EXTINF:-1, السومرية
+#EXTINF:-1 tvg-logo="https://goo.gl/B7hWLu" , السومرية
 http://livestreaming2.itworkscdn.net/sumarialive/smil:sumariamob.smil/playlist.m3u8
-
-#EXTINF:-1,البغدادية 
+#EXTINF:-1 tvg-logo="http://goo.gl/JDbJgS",البغدادية 
 http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
-#EXTINF:-1,البغدادية 2
-http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
-#EXTINF:-1,الشرقية 
-rtmp://ns8.indexforce.com/alsharqiyalive/mystream
-#EXTINF:-1,ALSharqia HD1
-http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1,ALSharqia News
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1,التغير
-http://stream.joinvisions.net:1935/taglive/taghier/chunklist.m3u8?wowzasessionid=634223339&v=1250133442
-#EXTINF:-1,الرشيد
-http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
-#EXTINF:-1, Afaaq 
 
+#EXTINF:-1 tvg-logo="https://goo.gl/Kz0SVF",البغدادية 2
+http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
+#EXTINF:-1 tvg-logo="http://channelsfrequencies.com/files/images/14931.jpg",الشرقية 
+rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+#EXTINF:-1 tvg-logo="http://channelsfrequencies.com/files/images/14931.jpg",ALSharqia HD1
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/8Gtauc",ALSharqia News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/x0wqm7",التغير
+http://stream.joinvisions.net:1935/taglive/taghier/chunklist.m3u8?wowzasessionid=634223339&v=1250133442
+#EXTINF:-1 tvg-logo="http://goo.gl/GuL8Og",الرشيد
+http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/pMkYji", Afaaq 
 rtmp://live.afaq.tv/live/afaqtv<playpath>livestream <swfUrl> <pageUrl> <objectEncoding>
-#EXTINF:-1, Dijlah TV
+#EXTINF:-1 tvg-logo="http://www.jfranews.com.jo/assets/images/70526_18_1379073604.jpg", Dijlah TV
 rtmp://stream.joinvisions.net/dij//dij
 
 #EXTINF:-1,*********[COLOR red] قنوات الشام[/COLOR]**********
@@ -129,7 +125,8 @@ http://82.137.248.21:1935/Aloula/AloulaLive3/HasBahCa.m3u8
 http://82.137.248.21:1935/Drama/DramaLive3/HasBahCa.m3u8
 #EXTINF:-1,Syria Nour
 http://82.137.248.21:1935/Nour/NourLive2/HasBahCa.m3u8
-
+#EXTINF:-1 tvg-logo="http://goo.gl/DB9Fhk", ٍٍٍٍٍSama tv
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
 #EXTINF:-1,*********[COLOR red] قنوات خليجية[/COLOR]**********
 http://jafaer-tv.com
 
