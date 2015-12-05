@@ -150,17 +150,11 @@ http://veetle.com/index.php/hls/streamMbrFast/5408d7749bc24_/stream.m3u8
 http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-
 
 publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/5141.jpg", 
-
-Genesis Science Network
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/5141.jpg", Genesis Science Network
 http://genesis.tulix.tv:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/6803.jpg", 
-
-UFO Channel
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/6803.jpg", UFO Channel
 http://veetle.com/index.php/hls/streamMbrfast/5570083766031_/stream.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/3807.jpg", 
-
-NASA TV
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/3807.jpg", NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,News Bronx
 rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
