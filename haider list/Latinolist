@@ -1,0 +1,170 @@
+
+
+#EXTINF:-1,SEVILLA FC
+http://gstudio_hls04-lh.akamaihd.net:80/i/hls04stream001_0@348222/index_700_av-b.m3u8
+#EXTINF:-1,SEVILLA FC
+http://gstudio_hls04-lh.akamaihd.net:80/i/hls04stream001_0@348222/index_700_av-p.m3u8
+#EXTINF:-1,SEVILLA FC
+http://gstudio_hls04-lh.akamaihd.net:80/i/hls04stream001_0@348222/master.m3u8
+#EXTINF:-1,SISTEMA TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net:80/casthls/127.m3u8
+#EXTINF:-1,SI TV
+http://hd.worldkast.com:1935/8436/8436/live.m3u8
+#EXTINF:-1,SMO TV
+http://199.217.118.90:1935/smotv/stream/live.m3u8
+#EXTINF:-1,SOLIDARIA TV
+http://188.165.135.22:1935/remararg/livestream/live.m3u8
+#EXTINF:-1,SULAVISION
+http://162.212.176.68:1935/sulavision/sulavision/live.m3u8
+#EXTINF:-1,SULAVISION
+http://162.212.176.83:8080/sulavision.m3u8
+#EXTINF:-1,SUPER PODER
+http://tv-tikilive-hls-live.hls.adaptive.level3.net:80/casthls/116.m3u8
+#EXTINF:-1,SUPER PODER
+http://tv-tikilive-hls-live.hls.adaptive.level3.net:80/hls2/116.m3u8
+#EXTINF:-1,TA TE TI
+http://ionlive1-lh.akamaihd.net:80/i/tateti_1@126174/index_724_av-b.m3u8
+#EXTINF:-1,TA TE TI
+http://ionlive1-lh.akamaihd.net:80/i/tateti_1@126174/master.m3u8
+#EXTINF:-1,TDC
+http://painel.serveron.com.br:1935/8166/8166/live.m3u8
+#EXTINF:-1,TELE AMIGA
+http://cdns840stu1010.multistream.net:80/teleamigalive/amlst:live/livestream.m3u8
+#EXTINF:-1,TELE AMIGA
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
+#EXTINF:-1,TELE AMIGA
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
+#EXTINF:-1,TELE ANTILLAS
+http://mek4.mekstream.com:1935/teleantillas/live3/livestream.m3u8
+#EXTINF:-1,TELE ANTILLAS
+http://mek4.mekstream.com:1935/teleantillas/teleantillas.smil/live.m3u8
+#EXTINF:-1,TELEANTIOQUIA
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:-1,TELEANTIOQUIA
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:-1,TELE ARAGUA
+http://edge.wms28.lorini.net:1935/telearagua/telearagua/live.m3u8
+#EXTINF:-1,TELE ARAGUA
+http://vpn58.hdtv.lorini.net:1935/telearagua/telearagua/live.m3u8
+#EXTINF:-1,TELECAFÉ HD
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
+#EXTINF:-1,TELECAFÉ HD
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
+#EXTINF:-1,TELECANAL
+http://movilstream.digitalproserver.com:1935/tcsc/tcscvivo/tcsc.smil/chunklist_b1248000.m3u8
+#EXTINF:-1,TELECANAL
+http://wow2.cl.digitalproserver.com:1935/tcsc/tcscvivo/tcsc.smil/chunklist_b1248000.m3u8
+#EXTINF:-1,TELECARIBE
+http://cdns840stu1010.multistream.net:80/telecaribelive/amlst:live/chunklist_b500000.m3u8
+#EXTINF:-1,TELECARIBE
+http://cdns840stu1010.multistream.net:80/telecaribelive/live-500/chunklist_b500000.m3u8
+#EXTINF:-1,TELECEIBA
+http://162.212.176.68:1935/teleceiba/teleceiba/live.m3u8
+#EXTINF:-1,TELECEIBA
+http://162.212.176.83:8080/teleceiba.m3u8
+#EXTINF:-1,TELECINCO
+http://mdsios1-lh.akamaihd.net:80/i/esmediaset_11@168471/index_0_av-b.m3u8
+#EXTINF:-1,TELECINCO
+http://mdsios1-lh.akamaihd.net:80/i/esmediaset_11@168471/index_0_av-p.m3u8
+#EXTINF:-1,TELECINCO
+http://mdsios2-lh.akamaihd.net:80/i/esmediaset_21@168473/index_0_av-b.m3u8
+#EXTINF:-1,TELECINCO
+http://mdsios2-lh.akamaihd.net:80/i/esmediaset_21@168473/index_0_av-p.m3u8
+#EXTINF:-1,TELEDUNAMIS
+http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/teledunamis/live.m3u8
+#EXTINF:-1,TELE FUTURO
+http://ss7.domint.net:1950/tf_str/futu/live.m3u8
+#EXTINF:-1,TELEMAX
+http://live-edge01.telecentro.net.ar:1935/live/tlx-360/livestream.m3u8
+#EXTINF:-1,TELEMAX
+http://live-edge01.telecentro.net.ar:1935/live/tlx-480/livestream.m3u8
+#EXTINF:-1,TELE MEDELLIN
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1,TELE MEDELLIN
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1,TELEMUNDO
+http://iphone-streaming.ustream.tv:80/uhls/20720323/streams/live/playlist.m3u8
+#EXTINF:-1,TELEMUNDO
+http://iphone-streaming.ustream.tv:80/ustreamVideo/20720323/streams/live/playlist.m3u8
+#EXTINF:-1,TELEMUNDO
+http://q.gs/9830047/telemundotodokodim3u8
+#EXTINF:-1,TELEMUNDO
+http://q.gs/9830047/unimastodokodim3u8
+#EXTINF:-1,TELEMUNDO HD
+http://104.200.159.74:1935/app/telemundox1chivas_69s-channel/playlist.m3u8
+#EXTINF:-1,TELEMUNDO HD
+http://107.152.103.226:1935/app/telemundox1chivas_69s-channel/live.m3u8
+#EXTINF:-1,TELE MÚSICA
+http://186.155.200.118:1935/live/telemusica/livestream.m3u8
+#EXTINF:-1,TELE PROGRESO
+http://162.212.176.68:1935/teleprogreso/teleprogreso/live.m3u8
+#EXTINF:-1,TELE PROGRESO
+http://162.212.176.83:8080/teleprogreso.m3u8
+#EXTINF:-1,TELE SISTEMA
+http://162.212.176.68:1935/telesistema/telesistema/live.m3u8
+#EXTINF:-1,TELE SISTEMA
+http://162.212.176.83:8080/telesistema.stream.m3u8
+#EXTINF:-1,TELE SISTEMA
+http://mek4.mekstream.com:1935/telesistema/live2/livestream.m3u8
+#EXTINF:-1,TELE SISTEMA
+http://mek4.mekstream.com:1935/telesistema/telesistema.smil/live.m3u8
+#EXTINF:-1,TELESUR
+http://android.telesur.ultrabase.net:1935/mainrepeater/telesurLive/livestream.m3u8
+#EXTINF:-1,TELESUR
+http://cdn2.telesur.ultrabase.net:1935/livecf/telesurLive/livestream.m3u8
+#EXTINF:-1,TELESUR
+http://q.gs/9830047/telesurtodokodim3u8
+#EXTINF:-1,TELE UNIVERSO
+http://ss7.domint.net:1942/tu_str/universo/live.m3u8
+#EXTINF:-1,TELE UNO TV
+http://k3.usastreams.com:1935/tvuno1/tvuno1/live.m3u8
+#EXTINF:-1,TELE VID
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTINF:-1,TELE VID
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTINF:-1,TELE VIDA HD
+http://evo.eltelon.com:443/live/televida/livestream.m3u8
+#EXTINF:-1,TELE VIDA HD
+http://evo.eltelon.com:1935/live/televida/livestream.m3u8
+#EXTINF:-1,TELEVISA
+http://tvsawpdvr-lh.akamaihd.net:80/i/stch02wp_1@119660/index_518_av-p.m3u8
+#EXTINF:-1,TELEVISA
+http://tvsawpdvr-lh.akamaihd.net:80/i/stch02wp_1@119660/index_648_av-p.m3u8
+#EXTINF:-1,TELEVISA HD
+http://tvsawpdvr-lh.akamaihd.net:80/i/stch02wp_1@119660/index_1048_av-b.m3u8
+#EXTINF:-1,TELEVISA HD
+http://tvsawpdvr-lh.akamaihd.net:80/i/stch02wp_1@119660/index_1048_av-p.m3u8
+#EXTINF:-1,TELEVITROLA
+http://186.155.200.118:1935/live/Televitrola/livestream.m3u8
+#EXTINF:-1,TELPIN HD
+http://201.219.100.30:1935/telpintv/ngrp:ttv.stream_all/live.m3u8
+#EXTINF:-1,TELPIN TV
+http://201.219.100.30:1935/telpintv/ttv.stream_240p/live.m3u8
+#EXTINF:-1,TELPIN TV
+http://201.219.100.30:1935/telpintv/ttv.stream_360p/live.m3u8
+#EXTINF:-1,TELPIN TV HD
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/live.m3u8
+#EXTINF:-1,TEVEO MIAMI
+http://q.gs/9830047/tveomiamitodokodim3u8
+#EXTINF:-1,TIGO MUSIC
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:-1,TIGO MUSIC
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:-1,TIVA
+http://live-h1.frontlayer.net:1935/fl729845/live/livestream.m3u8
+#EXTINF:-1,TODO NOTICIAS
+http://200.42.92.142:1935/live/tnhd2/livestream.m3u8
+#EXTINF:-1,TODO NOTICIAS
+http://200.42.92.142:1935/live/tnmovil2/livestream.m3u8
+#EXTINF:-1,TODO NOTICIAS HD
+http://200.42.92.142:1935/live/tnhd1/livestream.m3u8
+#EXTINF:-1,TODO NOTICIAS SD
+http://200.42.92.142:1935/live/tnhd3/livestream.m3u8
+#EXTINF:-1,TODO NOTICIAS SD
+http://200.42.92.142:1935/live/tnmovil1/livestream.m3u8
+#EXTINF:-1,TRAVEL TV
+http://87.106.219.140:1935/live/myStream_2/livestream.m3u8
+#EXTINF:-1,TRENTY CHANNEL
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1,TRENTY CHANNEL
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
