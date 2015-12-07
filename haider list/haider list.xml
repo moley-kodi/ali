@@ -35,11 +35,12 @@
 </channel>
   </channels>
 
+  <channels>
 <channel>
  <name>[COLOR lime]Haider latino TV List[/COLOR]</name>
   <thumbnail>http://goo.gl/HJn2sR</thumbnail>
 <fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
 <link>http://ignoreme</link>
    <externallink>https:https://goo.gl/LvMyO4 </externallink>    
-      
+</channel>      
 </channels>
