@@ -9,10 +9,7 @@ http://alkass-i.akamaihd.net/hls/live/205534/2/live_14s20.m3u8
 http://alkass-i.akamaihd.net/hls/live/205534/3/live_12s12.m3u8
 #EXTINF:-1,قناة الكاس 4
 http://alkass-i.akamaihd.net/hls/live/205534/4/live_13s20.m3u8
-#EXTINF:-1,Arabic:***MBC_pro_sport_2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2263.ts
-#EXTINF:-1,Arabic:***MBC_pro_sport_1
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2262.ts
+
 
 #EXTINF:-1, BAHRAIN SPORTS
 rtmp://alayam.netromedia.net/btv3/btv3
@@ -85,3 +82,27 @@ http://streamup.global.ssl.fastly.net/app/zonasports2hds-stream/playlist.m3u8
 
 #EXTINF:-1,Euro Sport
 http://213.81.153.241/live001/channel014_p3.stream/chunklist_w558968909_DVR.m3u8
+#EXTINF:0,Bein Sports1
+http://www.t12v.com:8000/live/maison/maison/186.m3u8
+#EXTINF:0,Bein Sports2
+http://www.t12v.com:8000/live/maison/maison/187.m3u8
+#EXTINF:0,Bein Sports3
+http://www.t12v.com:8000/live/maison/maison/188.m3u8
+#EXTINF:0,Bein Sports4
+http://www.t12v.com:8000/live/maison/maison/189.m3u8
+#EXTINF:0,Bein Sports5
+http://www.t12v.com:8000/live/maison/maison/190.m3u8
+#EXTINF:0,Bein Sports6
+http://www.t12v.com:8000/live/maison/maison/191.m3u8
+#EXTINF:0,Bein Sports7
+http://www.t12v.com:8000/live/maison/maison/192.m3u8
+#EXTINF:0,Bein Sports8
+http://www.t12v.com:8000/live/maison/maison/193.m3u8
+#EXTINF:0,Bein Sports9
+http://www.t12v.com:8000/live/maison/maison/194.m3u8
+#EXTINF:0,Bein Sports10
+http://www.t12v.com:8000/live/maison/maison/195.m3u8
+#EXTINF:0,Bein Sports11
+http://www.t12v.com:8000/live/maison/maison/196.m3u8
+#EXTINF:0,Bein Sports12
+http://www.t12v.com:8000/live/maison/maison/197.m3u8
