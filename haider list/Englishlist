@@ -171,3 +171,5 @@ http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 rtmp://188.138.17.8:1935/albuk/albuk+.stream
 #EXTINF:-1 group-title="ENGLISH", Alb Uk HD
 rtmp://188.138.17.8:1935/albuk/albuk.stream 
+#EXTINF:-1 tvg-id="TWiT US" tvg-name="TWiT_US" group-title="ENGLISH" tvg-logo="b9ea6c3f841ce9d44fae986aee5ca81a.png",TWiT US
+http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8
