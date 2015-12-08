@@ -142,12 +142,10 @@ http://india2.xyz/sky_mov_show_case_81f9kn2pLsb3HYR4aqVUIPivmwuBJN/index.m3u8
 http://veetle.com/index.php/hls/streamMbrFast/4d6934c2476b3_/stream.m3u8
 #EXTINF:0, Classics (24/7)
 http://veetle.com/index.php/hls/streamMbrFast/5408d7749bc24_/stream.m3u8
+#EXTINF:-1, BNN
+http://realitatea.m247.ro/hls/live.m3u8
 
 
-
-
-#EXTINF:-1, Weather Channel
-http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-
 
 publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/5141.jpg", Genesis Science Network
