@@ -168,3 +168,33 @@ http://87.106.219.140:1935/live/myStream_2/livestream.m3u8
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 #EXTINF:-1,TRENTY CHANNEL
 http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES" group-title="LATINO",TVN
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+ 
+#EXTINF:-1,Jug TV (English Spoken Films)
+rtmp://84.20.77.50/live/livestream1
+ 
+#EXTINF:-1 tvg-id="X-Treme Sports" tvg-name="X-Treme_Sports" group-title="ספורט" tvg-logo="fd120330900443958a3d6800ef4e5c5a.png",X-Treme Sports
+http://localhost:65007/?url=326&mode=1
+ 
+#EXTINF:-1 tvg-id="hollywood channel" tvg-name="hollywood_channel" group-title="סרטים" tvg-logo="8509484fa8163bfef41c2f7606fd4089.png",hollywood channel
+ 
+#EXTINF:-1 tvg-id="CINESTAR PREMIERE 1" tvg-name="CINESTAR_PREMIERE_1" group-title="סרטים" tvg-logo="4fe1c854dc3410e60885a2b681c52ba8.png",CINESTAR PREMIERE 1
+ 
+#EXTINF:-1 tvg-id="vox africa" tvg-name="vox_africa" group-title="בידור" tvg-logo="aabda4e4c6c289fb226027fc7c163d67.jpg",vox africa
+ 
+#EXTINF:-1 tvg-id="CINESTAR PREMIERE 2" tvg-name="CINESTAR_PREMIERE_2" group-title="סרטים" tvg-logo="5a3401cd5c2b7c0ae7b4ecbf1fd82db5.png",CINESTAR PREMIERE 2
+ 
+#EXTINF:-1 tvg-id="CineStar Action And Thriller" tvg-name="CineStar_Action_And_Thriller" group-title="סרטים" tvg-logo="f3136b4096575e14050eff9187168504.png",CineStar Action And Thriller
+ 
+ 
+#EXTINF:-1 tvg-id="Planet TV" tvg-name="Planet TV" tvg-logo="Live/planet_tv.png" group-title="INTERNATIONAL", Planet TV (Slovenia)
+rtsp://origin.biokoda.tv/live/mbit-planet?k=planettv-public
+ 
+#EXTINF:-1 tvg-id="Hispan TV" tvg-name="Hispan_TV" group-title="ספרד" tvg-logo="7e07bb15883e7efa313c082a1caffd8c.png" group-title="LATINO",Hispan TV
+rtmp://mtv.fms-01.visionip.tv/live/mtv-m_tv-live-25f-4x3-SDh
+
+TIONAL", TV 1000 Action (R/E)
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_TV1000ACTION/variant.m3u8
+#EXTINF:-1 tvg-logo="Live/warner_tv.png"  group-title="INTERNATIONAL", WARNER TV (Brazil)
+rtmp://31.204.128.76/live/master22?
