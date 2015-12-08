@@ -238,7 +238,17 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_264.m3
 http://vizrthlsaje-i.akamaihd.net/hls/live/206524/AJEnglish/2873287_iOS/500.m3u8
 #EXTINF:-1 group-title=”ARABIC”,AL JAZEERA INT
 http://origin.live.web.tv.streamprovider.net/streams/8cbc1bc6c935f62ac2e44c5b2854f3ca_live_0_0/index.m3u8
-
+#EXTINF:-1 tvg-id="i24News English" tvg-name="i24News_English" group-title="חדשות" tvg-logo="cce3d4913c93f909b20062566aa1d216.png",i24News English1
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+ 
+#EXTINF:-1 tvg-id="i24News English" tvg-name="i24News_English" group-title="חדשות" tvg-logo="cce3d4913c93f909b20062566aa1d216.png",i24News English2
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8
+ 
+#EXTINF:-1 tvg-id="i24News Arabic" tvg-name="i24News_Arabic" group-title="חדשות" tvg-logo="0be99e872f26654a350ad91059f83fba.png",i24News English3
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
+ 
+#EXTINF:-1 tvg-id="i24News France" tvg-name="i24News_France" group-title="חדשות" tvg-logo="6d4d623e581e9dfb7e5deae0368a520e.png",i24News France
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
 
 
 
