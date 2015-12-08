@@ -147,9 +147,6 @@ http://veetle.com/index.php/hls/streamMbrFast/5408d7749bc24_/stream.m3u8
 #EXTINF:-1, BNN
 http://realitatea.m247.ro/hls/live.m3u8
 
-
-
-publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/5141.jpg", Genesis Science Network
 http://genesis.tulix.tv:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/6803.jpg", UFO Channel
@@ -158,3 +155,19 @@ http://veetle.com/index.php/hls/streamMbrfast/5570083766031_/stream.m3u8
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,News Bronx
 rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
+#EXTINF:-1 group-title="ENGLISH" group-title="ENGLISH",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:-1 group-title="ENGLISH",FILMON ENGLISH
+rtmp://mi2.gv.filmon.com:8086/live/716.high.stream
+ 
+#EXTINF:-1 group-title="ENGLISH",FILMON ENGLISH Ch 805
+rtmp://mi2.gv.filmon.com:8086/live/805.high.stream
+#EXTINF:-1 group-title="ENGLISH", Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1  tvg-logo="UK/London_Live.png", London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:0, Alb Uk Plus
+rtmp://188.138.17.8:1935/albuk/albuk+.stream
+#EXTINF:-1 group-title="ENGLISH", Alb Uk HD
+rtmp://188.138.17.8:1935/albuk/albuk.stream 
