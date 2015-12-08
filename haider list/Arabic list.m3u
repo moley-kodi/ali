@@ -76,6 +76,9 @@ rtmp://live.afaq.tv/live/afaqtv<playpath>livestream <swfUrl> <pageUrl> <objectEn
 #EXTINF:-1 tvg-logo="http://www.jfranews.com.jo/assets/images/70526_18_1379073604.jpg", Dijlah TV
 rtmp://stream.joinvisions.net/dij//dij
 
+#EXTINF:-1, IFILM Arabic 
+http://63.237.48.8/ios/IFILM/IFILM_1449564115752_1326.ts
+
 #EXTINF:-1,*********[COLOR red] قنوات الشام[/COLOR]**********
 http://jafaer-tv.com
 #EXTINF:-1,الميادين
