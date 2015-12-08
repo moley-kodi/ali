@@ -173,3 +173,14 @@ rtmp://188.138.17.8:1935/albuk/albuk+.stream
 rtmp://188.138.17.8:1935/albuk/albuk.stream 
 #EXTINF:-1 tvg-id="TWiT US" tvg-name="TWiT_US" group-title="ENGLISH" tvg-logo="b9ea6c3f841ce9d44fae986aee5ca81a.png",TWiT US
 http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8
+#EXTINF:-1,Knob Movies 
+mms://streams.tvknob.com/tvloops/Ch7/tvknob.wsx
+#EXTINF:-1,Fashion TV
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+
+#EXTINF:-1,The Florida Channel
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+
+
+#EXTINF:-1 group-title="CARTOONS", Seasame Street   
+http://204.107.26.92:1935/vodlast/1286.low.m4v/playlist.m3u8
