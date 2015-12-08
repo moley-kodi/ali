@@ -130,20 +130,20 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:-1 group-title="SPORTS",PAC-12 Net. (Washington) 1920*1080
 http://xrxs.net/video/live-p12wash-4728.m3u8
 
-#EXTINF:-1,tvg-logo="EUROSPORT1.png" group-title="SPORTS",EUROSPORT 1 ENG
+#EXTINF:-1,EUROSPORT 1 ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:-1, SPORT TIME TV 3HQ
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
-#EXTINF:-1,tvg-logo="SPORTTIME.png" group-title="SPORTS",SPORT TIME TV 1HD
+#EXTINF:-1,SPORT TIME TV 1HD
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
  
-#EXTINF:-1,tvg-logo="SPORTTIME.png" group-title="SPORTS",SPORT TIME TV 2HD
+#EXTINF:-1,SPORT TIME TV 2HD
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
  
-#EXTINF:-1,tvg-logo="SPORTTIME.png" group-title="SPORTS",SPORT TIME TV 3HD
+#EXTINF:-1,SPORT TIME TV 3HD
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
  
-#EXTINF:-1,tvg-logo="SPORTTIME.png" group-title="SPORTS",SPORT TIME TV 4HD
+#EXTINF:-1,SPORT TIME TV 4HD
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
 #EXTINF:-1 group-title="SPORTS",Motorsport 7 Australia
 http://motorsport.hopto.org:8080/
