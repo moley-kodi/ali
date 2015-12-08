@@ -198,3 +198,76 @@ TIONAL", TV 1000 Action (R/E)
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_TV1000ACTION/variant.m3u8
 #EXTINF:-1 tvg-logo="Live/warner_tv.png"  group-title="INTERNATIONAL", WARNER TV (Brazil)
 rtmp://31.204.128.76/live/master22?
+#EXTINF:-1, Mex:AZTECA 7 HD By Compus1286
+http://200.76.77.237/LIVE/H01/CANAL107/PROFILE03.m3u8?
+ 
+#EXTINF:-1,Mex:AZTECA 13 HD By Compus1286
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:-1,Mex:TVMas HD By Compus1286
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1,Esp:EXTREMADURA TV 
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1,Esp:Telemadrid By Soloman
+http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
+#EXTINF:-1,Mex:EXA TV 
+http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8 
+#EXTINF:-1,Mex:INGENIO TV By Compus1286
+http://cdn.xsn.com.mx/Segments/HLS_TS/rtmplive/live/canal30dgtv.mp4.m3u8 
+#EXTINF:-1,Esp:ANDALUCIA TV 
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1,Esp:TV GALICIA 
+http://media3.crtvg.es/live/tvga/hasbahca.m3u8
+
+
+
+#EXTINF:-1,BRASIL-TV Pocos - Sports
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+ 
+#EXTINF:-1,Mother and Child (BRASIL)
+http://hls.novotelecom.ru/streaming/motherchi/tvrec/playlist.m3u8
+#EXTINF:-1,Brasil:TV MANA-1
+rtmp://195.22.19.179/manasat/manasat2 
+#EXTINF:-1,Brasil:Rede Minas 
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+ 
+#EXTINF:-1,Brasil:MANÁ 
+http://195.22.19.189:1935/tvbr/tvbrasil2/hasbahca.m3u8
+
+#EXTINF:-1,Brasil:MANÁ Cordoba 
+http://195.22.19.189:1935/tvar/tvmanaar2/hasbahca.m3u8
+ 
+#EXTINF:-1,Brasil:MANÁ SAT 
+http://195.22.19.179:1935/manasat/manasat3/hasbahca.m3u8 
+#EXTINF:-1,Fashion (BRASIL)
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+#EXTINF:-1,YES! (Aprede Ingles) 
+http://uneapple-i.akamaihd.net/hls/live/205010/grupoune_st1@205010/st1_index.m3u8 
+#EXTINF:-1,Arg:Canal 12 Cordoba By Soloman
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
+ 
+#EXTINF:-1,Arg:Quiero Musica mms By Compus1286
+mms://200.42.92.6:1755/qmusica
+#EXTINF:-1,Arg:C5N By Onill Mancebo
+rtmp://c5n.stweb.tv:1935/c5n/live 
+#EXTINF:-1,Chil:CANAL 9 HD By Onill Mancebo
+http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8
+#EXTINF:-1,Chil:TVN By Compus1286
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+#EXTINF:-1,Chil:BIO BIO TV CONCEPCION By Onill Mancebo
+http://wow2.cl.digitalproserver.com/c9//c9.smil/hasbahca.m3u8
+#EXTINF:-1,Per:AMERICA TV HD By Compus1286
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
+ 
+#EXTINF:-1,cdn sport max 
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1,Dom:TELEANTILLAS 2 HD By Onill Mancebo
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+ 
+#EXTINF:-1,Dom:Telesistema Canal 11
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:0,Nic:CANAL 13 
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Bolivia:Redadvenir 
+rtmp://streamer1.streamhost.org/salive/GMIalfam
+#EXTINF:-1,Venezuela:ViveTV Venezuela 
+mmsh://difusion.cantv.net/vhost-covetel_live
