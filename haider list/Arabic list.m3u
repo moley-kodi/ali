@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1, [COLOR red] --  تم إضافة قنوات جديدة انتظر قليل وستعمل القناة--[/COLOR]
+#EXTINF:-1, [COLOR red] -- تم التحديث 12\8-[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
-#EXTINF:-1, [COLOR red] --  Jafaer-tv.com--[/COLOR]
+#EXTINF:-1, [COLOR red] -- Jafaer-tv.com--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
 
