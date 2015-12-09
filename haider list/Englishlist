@@ -25,9 +25,6 @@ http://198.179.30.110/live/845.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe9755
 #EXTINF:-1,E4
 http://204.107.27.137/live/65.high.stream/playlist.m3u8?id=0ad5aac39bb13fbec76b8020e6d7a60caa99379e21cba1f773717b2e0e428463e9fea556e303064ee7f28cfd5718b2606cf7e78eaaeb6771822b0cddefe06c53d0082a0d981bc196f9db49f2ca41e055dfe9de92d7a982d8c3623b8657eb46db080e5e654e60f339eb4522ece9ad020063b5d7bbc20824f2c96308dffd79d9f418f83029f002b9fa246c06a8b5d96d40caac72db04036347
 
-#EXTINF:-1,E4 test
-http://204.107.27.137/live/65.high.stream/1449631792419.ts
-
 #EXTINF:-1,Pick
 http://204.107.27.250/live/371.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe5568571739b474366685bd5f282494de86c6bb52327900b597af21b4b17c9d0aa3437b6281b55263ebb07e6eec3e44a31fde5a19251a971fc18cdc64b4ba20a813c1dee4d417819afb1f3c60c9161333f98348dc8a696ab234b4fb9ac84b25a64affa6b0d02d034ecfcb7f1a5a55327c6c5b31268122dad204cbefc39c5c884b197b42743048a696e56c12e1d85cc7fa
 
@@ -94,8 +91,11 @@ http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 http://streaming.cityofboston.gov:1935/live/cable/chunklist_w1902155007.m3u8
 #EXTINF:-1,i24 
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/650.m3u8
+#EXTINF:-1,Daystar
+http://204.107.27.250/live/833.high.stream/playlist.m3u8?id=0ad5aac39bb13fbece85f4fdc583363834fd92b2ff96ef61624bf6f578cdf2d5253e4c81fd0aa1a52001029201638fe9e022d71a27d7b0b3ea6b2c59aa55fd8c55658fa3ee12c50eac139727b9ff0534bf38283d607ec07ff06f43a34d05ad54c80e8201c010870c19565998ae10676da512ec23547b44e42bc43812331fa29e5025b969a26ea04eec0db27920386b85aa1b0f3e9afa1f1a
 
 #EXTINF:-1,Comedy Central
+http://198.179.31.197/live/344.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe28d84576cf54aaa353cebcc924807056b13f7ad7facdd4fe33d05c9d85edaa2eb77fc9aa4dfea1f791774416be2c2ee78703ec6231628a4de898a10662b1b8c1685272ff0d5fc2ec4fb26d4e404657621a686f35f8940ad7e93b6e259eda4e03e9b892b32b9e4fbb603d6a5d9aa2f3319a7e75ac3bbe4843683a762f2d78ce55b50018043721ac92924a5a576bbfe08d
 http://103.245.167.28/tot/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8
 #EXTINF:-1,Syfy
 http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
@@ -182,8 +182,7 @@ http://veetle.com/index.php/hls/streamMbrfast/5570083766031_/stream.m3u8
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,News Bronx
 rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
-#EXTINF:-1 group-title="ENGLISH" group-title="ENGLISH",ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
 
 #EXTINF:-1 group-title="ENGLISH",FILMON ENGLISH
 rtmp://mi2.gv.filmon.com:8086/live/716.high.stream
@@ -207,7 +206,29 @@ http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
 
 #EXTINF:-1,The Florida Channel
 rtmp://webcasting.thefloridachannel.org/live/tvweb1
-
-
+#EXTINF:-1,Pop corn
+http://204.107.27.250/live/716.high.stream/playlist.m3u8?id=0ad5aac39bb13fbea1a7b23240b396e0e59368d2ea2a69b48c2015a3d14abb2ab458f463d926d97d5fea31ed8e641762208a6f70c4c7c5ad0e60cdf4ed1ebdd1e645bb2a8e1d8133c8d71e7666d15e19077e35e286dfe48240ac30a2a2db0af7d836bc5f3b7f91decd70d9577101593dfa7b937e9168ec1ae84e72d95ddefc1af0b591714e5436eb85a0bc8417327696d6497f10910d8b35
+#EXTINF:-1,Comedy Net
+http://198.179.31.197/live/497.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe6299e0355143636933a3e51ced9146044049ebe4dd43f8abe9980bb44d9116346e6f4419378ff392296d012ae7bd10f404e34dd1731a97190f4866738b51e9f2ef4df740e45acf067a40fa197caabeed57f1363cf603a779b5be0332b7904b8f45088151ff2566f6aafda58ce23c16a2f98d2af42ec254a167369c87296786bde3801a3e80ee3cb5cc2532ae6c053464
+#EXTINF:-1,ifilm-en
+http://nimlive1.giniko.com/ifilm-en/ifilm-en.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDE1IDEyOjQwOjE5IFBNJmhhc2hfdmFsdWU9eXN6S0MzMEhRczR1UlV3a1p5Q3FBdz09JnZhbGlkbWludXRlcz02MA==
 #EXTINF:-1 group-title="CARTOONS", Seasame Street   
 http://204.107.26.92:1935/vodlast/1286.low.m4v/playlist.m3u8
+#EXTINF:-1,Campy channel
+http://204.107.26.245/live/3083.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeccac08d68dcc8f81b01335316fb7295ed9cfca54f27ffe23b326117c2efa2a31786d2357a39df700508e4a95a1009c4713c7e64e778d02eec57c213650235f2b76c9eb22ea0ba324e20cf911c3ad3d0d4d33bcbd34f26bafcb26c82229a4c54810bce3598e47f9c705b8a9a48b5e8d4cc3566fcf38a02f218255ed247255a7389743026e1dce374ae808a2d2168ccc2a
+#EXTINF:-1,The Western channel
+http://198.179.31.196/live/384.high.stream/playlist.m3u8?id=0ad5aac39bb13fbec5668302cd972cb951a4077bea73bc9f31367495c672a6269b7ff4af404b81c27d714807669b66fb95d0bdb977ee285adab5a43c57527cf4e0c24ca564c962b2aa752b82f636cc5808f09dbb6dcd80d3ec0292c65e41d9e6085e3679f0eb75005d3507822018aac010b0e66a907578b58f20f89a677181c571edc61fadaf7638af1abe904d1f7cff31412600444d350d
+
+#EXTINF:-1,Banned Western channel
+http://198.179.31.197/live/2951.high.stream/playlist.m3u8?id=0ad5aac39bb13fbecac3c9d08e41a586190d816cf843cd9468de30cc93e54ca9968e8d5bc886ea3de5de8a9c80bbbc854b9b2669ca0bf47d8f08136c83a2591d3ff6f5398f71b869c610157aa4750b1e606176374a60f5a58d59bef6ae188bfe9c82e257e849e690dc99879dd9e66aebb8918ee95fc2c743f43b0b86082035ec5d4af3d4cc0303f38a0c07f5333cbb992f1df063f1766e13
+
+
+
+
+
+
+
+
+
+
+
