@@ -1,9 +1,27 @@
 #EXTM3U
 
+
+
+#EXTINF:-1,TVC Latino
+http://198.179.31.201/live/213.high.stream/playlist.m3u8?id=0ad5aac39bb13fbede98bb0e11c87ffeeabb458249ba8c1fdc4b186d11f1671b1171ac35f4834a55e0e863bbe861f36b27e7a06abbb5085fb3b97b7c73ce7950f7d1fd010021f0411fd350676fcd76d9604cc0086e2ed2338ccc36e05bef65b36ffbb3f38d9ec9ad88156ea6fb4597858e103da823030c557e469b064603855b36777ab82f23aa63606e84ae4942cc23a1301be499e3a88e
+#EXTINF:-1,RTP America
+http://nimlive1.giniko.com/rtpitv/rtpitv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDE1IDE6MTA6MTEgUE0maGFzaF92YWx1ZT1VMFhtQnJJUjdvU2ZrSTBCR2NZb3NnPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1,RTP 1
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+#EXTINF:-1,RTP 2
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1,Hispan Tv
+http://198.179.31.201/live/1997.high.stream/playlist.m3u8?id=0ad5aac39bb13fbebbe42b7ac809c40e99218f11cac1a3b66a9d6973fedeffc30ada8ce5776fd3d64a11724b00885e459ec070f31dafd4cd3d765bdacb01fe8b280809e6301a120703132790b34d41adbcd14eb7041b1695e271e4c6e228222970cfa8020b25a8f43d1657128b0b728b437245e93a30a00ef5e34c7759faacf8dc20164a3c68047228d6f1d340b5c6bb2b54e412ed75a5ab
+#EXTINF:-1,Lasexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,RTV Andorra
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+#EXTINF:-1,3Cat
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8?DVR
+
 #EXTINF:-1,SEVILLA FC
 http://gstudio_hls04-lh.akamaihd.net:80/i/hls04stream001_0@348222/index_700_av-b.m3u8
-#EXTINF:-1,SEVILLA FC
-http://gstudio_hls04-lh.akamaihd.net:80/i/hls04stream001_0@348222/index_700_av-p.m3u8
+
 #EXTINF:-1,SEVILLA FC
 http://gstudio_hls04-lh.akamaihd.net:80/i/hls04stream001_0@348222/master.m3u8
 #EXTINF:-1,SISTEMA TV
