@@ -151,3 +151,37 @@ http://motorsport.hopto.org:8080/
 http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8 
 #EXTINF:-1, Sports Night HD
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+
+#EXTINF:-1,SPORTES 1 HD
+http://www.xrxs.net/video/live-p12ariz-4728.m3u8
+ 
+#EXTINF:-1,SPORTES 2 HD
+http://www.xrxs.net/video/live-p12baya-4728.m3u8
+ 
+#EXTINF:-1,SPORTES 3 HD
+http://xrxs.net/video/live-p12losa-4728.m3u8
+ 
+#EXTINF:-1,SPORTES 4 HD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+ 
+#EXTINF:-1,SPORTES 5 HD
+http://www.xrxs.net/video/live-p12netw-4728.m3u8
+ 
+#EXTINF:-1,SPORTES 6 HD
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1,SportTime TV 1 
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+ 
+#EXTINF:-1,SportTime TV 3 
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+#EXTINF:-1,SportTime TV 4 By Soloman
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+ 
+#EXTINF:-1,SportTime TV 5 
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+ 
+#EXTINF:-1,SportTime TV 6
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+ 
+#EXTINF:-1,SportTime TV 7
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200 
