@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>31328</defaultID>
+		<label>$SKIN[31328|skin.aeon.nox.5|Recently Added]</label>
+		<label2>Custom shortcut</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=movies&amp;url=added",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>135</defaultID>
+		<label>135</label>
+		<label2>Custom shortcut</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=movieGenres",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>344</defaultID>
+		<label>year</label>
+		<label2>Custom shortcut</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=movieYears",return)</action>
+	</shortcut>
+</shortcuts>

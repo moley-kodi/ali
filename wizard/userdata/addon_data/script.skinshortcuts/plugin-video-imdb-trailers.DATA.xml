@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>New Trailers</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.imdb.trailers%5cicon.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.imdb.trailers/?action=list&amp;key=recent",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Popular Movies Trailers</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.imdb.trailers%5cicon.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.imdb.trailers/?action=list&amp;key=popular",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Popular Trailers</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.imdb.trailers%5cicon.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.imdb.trailers/?action=list&amp;key=top_hd",return)</action>
+	</shortcut>
+</shortcuts>

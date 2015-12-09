@@ -1,0 +1,21 @@
+<settings>
+    <setting id="autostart" value="true" />
+    <setting id="db_format" value="0" />
+    <setting id="dbbackup" value="false" />
+    <setting id="dbfilename" value="watchedlist.db" />
+    <setting id="dbpath" value="" />
+    <setting id="debug" value="false" />
+    <setting id="delay" value="5" />
+    <setting id="extdb" value="false" />
+    <setting id="interval" value="24" />
+    <setting id="mysql_db" value="WatchedList" />
+    <setting id="mysql_pass" value="xbmc" />
+    <setting id="mysql_port" value="3306" />
+    <setting id="mysql_server" value="127.0.0.1" />
+    <setting id="mysql_user" value="xbmc" />
+    <setting id="progressdialog" value="true" />
+    <setting id="starttype" value="2" />
+    <setting id="w_episodes" value="true" />
+    <setting id="w_movies" value="true" />
+    <setting id="watch_user" value="true" />
+</settings>

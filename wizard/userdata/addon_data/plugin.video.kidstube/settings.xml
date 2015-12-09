@@ -1,0 +1,6 @@
+<settings>
+    <setting id="ASK_FILENAME" value="true" />
+    <setting id="ASK_FOLDER" value="false" />
+    <setting id="RECORD_FOLDER" value="" />
+    <setting id="VERSION" value="1.0.2" />
+</settings>

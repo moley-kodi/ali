@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Movies</label>
+		<label2>Video Add-On</label2>
+		<icon>special://skin/backgrounds/Movies.jpg</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.mutttsnutz%5cicon.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.mutttsnutz/?url=http%3A%2F%2Fm.afdah.org&amp;mode=content&amp;name=Movies",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Most Viewed</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.mutttsnutz%5cicon.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.mutttsnutz/?url=http%3A%2F%2Fm.afdah.org%2Fmost_viewed&amp;mode=content&amp;name=Most+Viewed",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Recent Movies</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.mutttsnutz%5cicon.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.mutttsnutz/?url=http%3A%2F%2Fm.afdah.org%2Frecent_movies&amp;mode=content&amp;name=Recent+Movies",return)</action>
+	</shortcut>
+</shortcuts>

@@ -1,0 +1,1 @@
+["ht", ["htc one m9", "htc desire 626", "htc", "htc one m8", "html tutorial for beginners", "html", "htc vive", "htc desire 816", "htc one m9 review", "html5"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

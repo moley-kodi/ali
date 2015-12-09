@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>101gangstermoviesyoumustseebeforeyoudie</defaultID>
+		<label>101 Gangster Movies You Must See Before You Die</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s16.postimg.org/854szqtfp/Gangsters101.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=http%3a%2f%2fs16.postimg.org%2f854szqtfp%2fGangsters101.jpg&amp;name=101%20Gangster%20Movies%20You%20Must%20See%20Before%20You%20Die&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fAgangsters%2fGangsters_Directory.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>1080pmovies</defaultID>
+		<label>1080p movies</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://i.imgur.com/huFDWrs.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fi.imgur.com%2fW7qRvEq.png&amp;image=http%3a%2f%2fi.imgur.com%2fhuFDWrs.png&amp;name=1080p%20movies&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2ftuzla.watchkodi.com%2f1080p%2520movies.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>2011hd</defaultID>
+		<label>2011 HD</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s5.postimg.org/3vkc5z6tj/2011_HD.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fs5.postimg.org%2fn5fv921c7%2fFan_art.png&amp;image=http%3a%2f%2fs5.postimg.org%2f3vkc5z6tj%2f2011_HD.jpg&amp;name=%5bCOLOR%20yellow%5d2011%20HD%5b%2fCOLOR%5d&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fyork.watchkodi.com%2fAfdah%2fy2011.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>2012hd</defaultID>
+		<label>2012 HD</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s5.postimg.org/7gkt2y0qv/2012_HD.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fs5.postimg.org%2fn5fv921c7%2fFan_art.png&amp;image=http%3a%2f%2fs5.postimg.org%2f7gkt2y0qv%2f2012_HD.jpg&amp;name=%5bCOLOR%20yellow%5d2012%20HD%5b%2fCOLOR%5d&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fyork.watchkodi.com%2fAfdah%2fy2012.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>2013hd</defaultID>
+		<label>2013 HD</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s5.postimg.org/i4ok1sapz/2013_HD.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fs5.postimg.org%2fn5fv921c7%2fFan_art.png&amp;image=http%3a%2f%2fs5.postimg.org%2fi4ok1sapz%2f2013_HD.jpg&amp;name=%5bCOLOR%20yellow%5d2013%20HD%5b%2fCOLOR%5d&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fyork.watchkodi.com%2fAfdah%2fy2013.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>2013hdmovies</defaultID>
+		<label>2013 HD movies</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://i.imgur.com/q85zpoD.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fi.imgur.com%2fW7qRvEq.png&amp;image=http%3a%2f%2fi.imgur.com%2fq85zpoD.png&amp;name=2013%20HD%20movies&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2ftuzla.watchkodi.com%2f2013%2520HD.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>2014hd</defaultID>
+		<label>2014 HD</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s5.postimg.org/y477lc6rr/2014_HD.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fs5.postimg.org%2fn5fv921c7%2fFan_art.png&amp;image=http%3a%2f%2fs5.postimg.org%2fy477lc6rr%2f2014_HD.jpg&amp;name=%5bCOLOR%20yellow%5d2014%20HD%5b%2fCOLOR%5d&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fyork.watchkodi.com%2fAfdah%2fy2014.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>2014hdmovies</defaultID>
+		<label>2014 HD movies</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://i.imgur.com/TyyiZ4v.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fi.imgur.com%2fW7qRvEq.png&amp;image=http%3a%2f%2fi.imgur.com%2fTyyiZ4v.png&amp;name=2014%20HD%20movies&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2ftuzla.watchkodi.com%2f2014%2520HD.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>2015hd</defaultID>
+		<label>2015 HD</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s5.postimg.org/ulv7oy5vr/2015_HD.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fs5.postimg.org%2fn5fv921c7%2fFan_art.png&amp;image=http%3a%2f%2fs5.postimg.org%2fulv7oy5vr%2f2015_HD.jpg&amp;name=%5bCOLOR%20yellow%5d2015%20HD%5b%2fCOLOR%5d&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fyork.watchkodi.com%2fAfdah%2fy2015.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>2015hdmovies</defaultID>
+		<label>2015 HD movies</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://i.imgur.com/tgiZgd3.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fi.imgur.com%2fW7qRvEq.png&amp;image=http%3a%2f%2fi.imgur.com%2ftgiZgd3.png&amp;name=2015%20HD%20movies&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2ftuzla.watchkodi.com%2f2015%2520HD.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>abcmoviesoftheweek-1969-1980s</defaultID>
+		<label>Abc Movies Of The Week (1969-1980s)</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s3.postimg.org/5qy6hwa9v/abcmovieweek.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=http%3a%2f%2fs3.postimg.org%2f5qy6hwa9v%2fabcmovieweek.jpg&amp;name=Movies%20Of%20The%20Week%20(1969-1980s)&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fCollections%2fabcmovie.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>actionmoviestop25</defaultID>
+		<label>Action Movies Top 25</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s15.postimg.org/cf1bmd8ej/Action_Films1.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=http%3a%2f%2fs15.postimg.org%2fcf1bmd8ej%2fAction_Films1.jpg&amp;name=%5bCOLOR%20yellow%5dNEW%5b%2fCOLOR%5d%20Action%20Movies%20Top%2025&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fMovies%2faction.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>assortedhd</defaultID>
+		<label>Assorted HD</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s5.postimg.org/tkuyztow7/Assorted_HD.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fs5.postimg.org%2fn5fv921c7%2fFan_art.png&amp;image=http%3a%2f%2fs5.postimg.org%2ftkuyztow7%2fAssorted_HD.jpg&amp;name=%5bCOLOR%20yellow%5dAssorted%20HD%5b%2fCOLOR%5d&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fyork.watchkodi.com%2fAfdah%2fyass.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>bestofturnerclassicmovies</defaultID>
+		<label>Best Of Turner Classic Movies</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s18.postimg.org/ddmgoh4ix/Best_Of_TCM.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=http%3a%2f%2fs18.postimg.org%2fddmgoh4ix%2fBest_Of_TCM.jpg&amp;name=Best%20Of%20Turner%20Classic%20Movies&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fCollections%2ftcm1940.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>bestpictureoscars</defaultID>
+		<label>Best Picture Oscars</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s16.postimg.org/dmwumzm1x/oscars.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=http%3a%2f%2fs16.postimg.org%2fdmwumzm1x%2foscars.jpg&amp;name=Best%20Picture%20Oscars&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fCollections%2foscars.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>bestwesterns</defaultID>
+		<label>Best Westerns</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s27.postimg.org/se0q1fawj/Westerns.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=http%3a%2f%2fs27.postimg.org%2fse0q1fawj%2fWesterns.jpg&amp;name=Best%20Westerns&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fCollections%2fwesterns.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>britishgangsters</defaultID>
+		<label>British Gangsters</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s1.postimg.org/cwmoyq7lr/British_Gangsters.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=http%3a%2f%2fs1.postimg.org%2fcwmoyq7lr%2fBritish_Gangsters.jpg&amp;name=British%20Gangsters&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fCollections%2fbritishmob.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>c-i-a</defaultID>
+		<label>C.I.A.</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s14.postimg.org/5niuhagfl/CIA.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=http%3a%2f%2fs14.postimg.org%2f5niuhagfl%2fCIA.jpg&amp;name=C.I.A.&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fCollections%2fcia.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>currentmovies</defaultID>
+		<label>Current Movies</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s5.postimg.org/7myi619vr/Current_Movies.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fs5.postimg.org%2fn5fv921c7%2fFan_art.png&amp;image=http%3a%2f%2fs5.postimg.org%2f7myi619vr%2fCurrent_Movies.jpg&amp;name=%5bCOLOR%20yellow%5dCurrent%20Movies%5b%2fCOLOR%5d&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fyork.watchkodi.com%2fPlaylists%2fCurrent%2520Movies.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>hallmarkmovies</defaultID>
+		<label>Hallmark Movies</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s4.postimg.org/g0mw5lxul/Hallmark.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=http%3a%2f%2fs4.postimg.org%2fg0mw5lxul%2fHallmark.jpg&amp;name=Hallmark%20Movies&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fCollections%2fhallmark.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>hdmoviecollection</defaultID>
+		<label>HD Movie collection</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://i.imgur.com/Ecn7UdO.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fi.imgur.com%2fW7qRvEq.png&amp;image=http%3a%2f%2fi.imgur.com%2fEcn7UdO.png&amp;name=HD%20Movie%20collection&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2ftuzla.watchkodi.com%2fHDcollection.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>horror</defaultID>
+		<label>Horror</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://i.imgur.com/FTurWot.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fi.imgur.com%2fW7qRvEq.png&amp;image=http%3a%2f%2fi.imgur.com%2fFTurWot.png&amp;name=Horror&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2ftuzla.watchkodi.com%2fHalloween.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>jamesbond007</defaultID>
+		<label>James Bond 007</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s8.postimg.org/mfueznlxh/James_Bond.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=http%3a%2f%2fs8.postimg.org%2fmfueznlxh%2fJames_Bond.jpg&amp;name=James%20Bond%20007&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fCollections%2f007.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>martialarts</defaultID>
+		<label>Martial Arts</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s7.postimg.org/lac6fw7vv/Martial_Arts.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=http%3a%2f%2fs7.postimg.org%2flac6fw7vv%2fMartial_Arts.jpg&amp;name=Martial%20Arts&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fCollections%2fkungfu.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>monsters</defaultID>
+		<label>MONSTERS</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s10.postimg.org/9qza0g509/Monsters1.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=http%3a%2f%2fs10.postimg.org%2f9qza0g509%2fMonsters1.jpg&amp;name=MONSTERS&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fCollections%2fmonster.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>moviesbasedonbooks-thebestsellers</defaultID>
+		<label>Movies Based On Books: The Best Sellers</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.phstreams\icon.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.phstreams%5cicon.png&amp;name=Movies%20Based%20On%20Books%3a%20The%20Best%20Sellers&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fMisc%2fbooks.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>newreleases</defaultID>
+		<label>New Releases</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s3.postimg.org/58uxtll6r/New_Releases.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=http%3a%2f%2fs3.postimg.org%2f58uxtll6r%2fNew_Releases.jpg&amp;name=New%20Releases&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fMovies%2fLatestRelease.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>scariestmoviesofall-time</defaultID>
+		<label>Scariest Movies Of All-Time</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s18.postimg.org/dd65emxzt/Scary_Movies.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=http%3a%2f%2fs18.postimg.org%2fdd65emxzt%2fScary_Movies.jpg&amp;name=Scariest%20Movies%20Of%20All-Time&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fCollections%2fScaryMovies.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>spaghettiwesterns</defaultID>
+		<label>Spaghetti Westerns</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s29.postimg.org/kdl523m7r/Spagetti_Westerns2.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=http%3a%2f%2fs29.postimg.org%2fkdl523m7r%2fSpagetti_Westerns2.jpg&amp;name=Spaghetti%20Westerns&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fCollections%2fspagetti.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>sportsfilms</defaultID>
+		<label>Sports Films</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s28.postimg.org/m39uqniy5/Sports_Films.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=http%3a%2f%2fs28.postimg.org%2fm39uqniy5%2fSports_Films.jpg&amp;name=Sports%20Films&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fSports%2fSports_Directory.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>startrekcollection</defaultID>
+		<label>Star Trek Collection</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s14.postimg.org/fsp1kx5gh/Star_Trek.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=http%3a%2f%2fs14.postimg.org%2ffsp1kx5gh%2fStar_Trek.jpg&amp;name=Star%20Trek%20Collection&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fCollections%2fstartrek.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>superheros</defaultID>
+		<label>Superheros</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s16.postimg.org/j55o41a11/Super_Heros.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=http%3a%2f%2fs16.postimg.org%2fj55o41a11%2fSuper_Heros.jpg&amp;name=Superheros&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fMovies%2fsuperhero.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>thetwilightzone</defaultID>
+		<label>The Twilight Zone</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s29.postimg.org/h30osysx3/Twilight_Zone.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=http%3a%2f%2fs29.postimg.org%2fh30osysx3%2fTwilight_Zone.jpg&amp;name=The%20Twilight%20Zone&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fTwilightZone%2ftwilightzone_directory.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>topfivebyyear-tophighestgrossingfilms</defaultID>
+		<label>Top Five By Year - Top Highest Grossing Films</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s9.postimg.org/adc6ps81r/Top5_By_Year.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=http%3a%2f%2fs9.postimg.org%2fadc6ps81r%2fTop5_By_Year.jpg&amp;name=Top%20Five%20By%20Year%20-%20Top%20Highest%20Grossing%20Films&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2ftopten%2fTopTen_Directory.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>ultimatesci-ficollection</defaultID>
+		<label>Ultimate Sci-Fi Collection</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s2.postimg.org/59sabq7mh/Science_Fiction.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=http%3a%2f%2fs2.postimg.org%2f59sabq7mh%2fScience_Fiction.jpg&amp;name=Ultimate%20Sci-Fi%20Collection&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fCollections%2fSciFi.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>warfilms</defaultID>
+		<label>WAR FILMS</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s15.postimg.org/7leps5h7v/War_Films.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fimg05.deviantart.net%2f6db8%2fi%2f2013%2f337%2fb%2ff%2fuprising_of_the_mockingjay_by_sikundoto-d6wm4rz.jpg&amp;image=http%3a%2f%2fs15.postimg.org%2f7leps5h7v%2fWar_Films.jpg&amp;name=WAR%20FILMS&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fCollections%2fwar.xml",return)</action>
+	</shortcut>
+</shortcuts>

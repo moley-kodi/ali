@@ -1,0 +1,7 @@
+<favourites>
+	<favourite name="[COLOR red]Jafaer Sport[/COLOR]" thumb="DefaultFolder.png">ActivateWindow(10025,&quot;plugin://plugin.video.playlistLoader/?description&amp;iconimage&amp;mode=2&amp;name=%5bCOLOR%20blue%5d%5bSport%5d%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fpastebin.com%2fEMHrcEJN&quot;,return)</favourite>
+	<favourite name="[COLOR red]Jafaer Arabic H[/COLOR]" thumb="DefaultFolder.png">ActivateWindow(10025,&quot;plugin://plugin.video.playlistLoader/?description&amp;iconimage&amp;mode=2&amp;name=%5bCOLOR%20blue%5d%5bhu%5d%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fpastebin.com%2fCdtvMQMS&quot;,return)</favourite>
+	<favourite name="[COLOR red]Jafaer Arabic 1[/COLOR]" thumb="DefaultFolder.png">ActivateWindow(10025,&quot;plugin://plugin.video.playlistLoader/?description&amp;iconimage&amp;mode=2&amp;name=%5bCOLOR%20blue%5d%5bArabic%201%5d%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fpastebin.com%2fdZDNhzq7&quot;,return)</favourite>
+	<favourite name="[COLOR red]Jafaer Kids[/COLOR]" thumb="DefaultFolder.png">ActivateWindow(10025,&quot;plugin://plugin.video.playlistLoader/?description&amp;iconimage&amp;mode=2&amp;name=%5bCOLOR%20blue%5d%5bKids%5d%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fpastebin.com%2fwzkRgsKb&quot;,return)</favourite>
+	<favourite name="[COLOR red]Jafaer Arabic 2[/COLOR]" thumb="DefaultFolder.png">ActivateWindow(10025,&quot;plugin://plugin.video.playlistLoader/?description&amp;iconimage&amp;mode=2&amp;name=%5bCOLOR%20blue%5d%5bJafaer%20Arabic%202%5d%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fpastebin.com%2faVxiZiwV&quot;,return)</favourite>
+</favourites>

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>adryanlist</defaultID>
+		<label>AdryanList</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://i.imgur.com/oxTNPnp.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.adryanlist/?fanart=http%3a%2f%2fi.imgur.com%2fGyK9PGj.jpg&amp;mode=1&amp;name=%5bCOLOR%20lime%5d%e2%80%a2%5b%2fCOLOR%5d%5bCOLOR%20deepskyblue%5d%20%20Deportes%5b%2fCOLOR%5d%20&amp;url=http%3a%2f%2fadrian.kodistream.info%2fadryan%2fdeportes_adryan_list.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>bbts</defaultID>
+		<label>BBTS</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(10025,"plugin://plugin.video.bbts/?folder=%2fSPORTS",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.dextertv/</defaultID>
+		<label>dexterTV</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.dextertv\icon.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.dextertv/",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.football.today/</defaultID>
+		<label>Football Today</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.football.today\icon.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.football.today/",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.freestreams/</defaultID>
+		<label>Free Streams</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.freestreams\icon.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.freestreams/",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>israellive</defaultID>
+		<label>Israel Live</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://4vector.com/i/free-vector-sport-vector-pack_098139_sportsvector%20pack.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.israelive/?categoryid=9999&amp;description&amp;displayname=10492&amp;iconimage=http%3a%2f%2f4vector.com%2fi%2ffree-vector-sport-vector-pack_098139_sportsvector%2520pack.jpg&amp;mode=2&amp;name=%5bCOLOR%20blue%5d%5bB%5d%5bSport%20-%20%d7%a1%d7%a4%d7%95%d7%a8%d7%98%5d%5b%2fB%5d%5b%2fCOLOR%5d&amp;url",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.MoneySports/</defaultID>
+		<label>MoneySports</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.MoneySports\icon.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.MoneySports/",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>"script.navi-x/?content_type=video"</defaultID>
+		<label>Navi-X</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\script.navi-x\icon.png</thumb>
+		<action>RunScript("script.navi-x/?content_type=video")</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.NJMSoccer/</defaultID>
+		<label>NJM-Soccer</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.NJMSoccer\icon.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.NJMSoccer/",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>pakindialive</defaultID>
+		<label>Pak India Live</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://cdnimg.dynns.com/iptvpanelnew/prog_data/thumbs/2c3279b0b059b2665593834a264d7de6sportsBigTV.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.pakindia/?iconimage=http%3a%2f%2fcdnimg.dynns.com%2fiptvpanelnew%2fprog_data%2fthumbs%2f2c3279b0b059b2665593834a264d7de6sportsBigTV.jpg&amp;mode=1&amp;name=Sports&amp;url=Sports",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.footballhighlightssubreddit/</defaultID>
+		<label>Sparkys Football Highlights</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.footballhighlightssubreddit\icon.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.footballhighlightssubreddit/",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>stael2014</defaultID>
+		<label>Stael2014</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://buskerbrownes.com/wp-content/uploads/2013/06/img1.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=https%3a%2f%2flh4.googleusercontent.com%2f-WwZHUFLPK2E%2fU3Kd4itvhPI%2fAAAAAAAAAKM%2fsaEb-0QngnM%2fs0-d%2fBurning-Soccer-Ball-1600x1200.jpg&amp;image=http%3a%2f%2fbuskerbrownes.com%2fwp-content%2fuploads%2f2013%2f06%2fimg1.jpg&amp;name=LIVE%20GAMES&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2ftuzla.watchkodi.com%2fLIVE%2520TV%2fnewsport.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>ukturksplaylists</defaultID>
+		<label>UK Turks Playlists</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://metalkettle.co/UKTurk2/thumbs/UK TURK sports.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.ukturk/?description&amp;iconimage=http%3a%2f%2fmetalkettle.co%2fUKTurk2%2fthumbs%2fUK%20TURK%20sports.jpg&amp;mode=1&amp;name=Sports&amp;url=http%3a%2f%2fmetalkettle.co%2fUKTurk2%2fSportsList.txt",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>woody</defaultID>
+		<label>Woody</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://shanghai.watchkodi.com/Sections/Woody/Woody.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fs20.postimg.org%2fw4r6o7t3x%2fPhoenix_Fanart.png&amp;image=http%3a%2f%2fshanghai.watchkodi.com%2fSections%2fWoody%2fWoody.jpg&amp;name=Woody&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fshanghai.watchkodi.com%2fSections%2fWoody%2fWoody.xml",return)</action>
+	</shortcut>
+</shortcuts>

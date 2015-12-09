@@ -1,0 +1,1 @@
+["t", ["taylor swift", "the weeknd", "the hills", "trap queen", "the hills the weeknd lyrics", "try not to laugh", "tyga", "the weeknd can't feel my face", "taylor swift bad blood", "tyler oakley"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

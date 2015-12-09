@@ -1,0 +1,87 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+        <source>
+            <name>Movies</name>
+            <path pathversion="1">special://userdata/addon_data/plugin.video.genesis/Movies/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>TVShows</name>
+            <path pathversion="1">special://home/userdata/addon_data/plugin.video.genesis/TVShows/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>.spinztv</name>
+            <path pathversion="1">http://repo.spinztv.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.Community Portal</name>
+            <path pathversion="1">http://noobsandnerds.com/portal/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.Dexter-repo</name>
+            <path pathversion="1">http://dexteriptv.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.fusion</name>
+            <path pathversion="1">http://fusion.tvaddons.ag/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.temp-spinz-wizard</name>
+            <path pathversion="1">https://archive.org/download/premium_20151011_1114/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.Kodi-master</name>
+            <path pathversion="1">http://kodimaster.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.husham</name>
+            <path pathversion="1">http://repo.husham.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.teamXpat</name>
+            <path pathversion="1">http://teamexpat.ninja/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.NJMSoccer</name>
+            <path pathversion="1">http://njmweb.we.bs/NJMSoccer/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>jafaertv</name>
+            <path pathversion="1">http://repo.jafaer-tv.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>ali</name>
+            <path pathversion="1">http://jafaer-tv.com/ali/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>kidsflix</name>
+            <path pathversion="1">http://pulsemediahub.x10host.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+</sources>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>1037</defaultID>
+		<label>Add-ons</label>
+		<label2>Videos</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,Addons,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>7</defaultID>
+		<label>7</label>
+		<label2>Common Shortcut</label2>
+		<icon>DefaultFolder.png</icon>
+		<thumb />
+		<action>ActivateWindow(FileManager)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Maintenance</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://http%3a%2f%2fxty.me%2fxunitytalk%2fmaintenance_do_not_touch%2fhubmaintenance%2fxunity_images%2fmaintenance.jpg/</thumb>
+		<action>ActivateWindow(10001,"plugin://plugin.video.hubmaintenance/?url=url&amp;mode=9&amp;name=Maintenance&amp;iconimage=http%3A%2F%2Fxty.me%2Fxunitytalk%2Fmaintenance_do_not_touch%2Fhubmaintenance%2Fxunity_images%2Fmaintenance.jpg&amp;fanart=http%3A%2F%2Fxty.me%2Fxunitytalk%2Fmaintenance_do_not_touch%2Fhubmaintenance%2Fxunity_images%2Ffanart%2Fbeginners.jpg&amp;description=Safely+delete+all+cache+from+plugins&amp;special=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>1038</defaultID>
+		<label>1038</label>
+		<label2>Music</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(MusicLibrary,Addons,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>programs</defaultID>
+		<label>10001</label>
+		<label2>Programs</label2>
+		<icon>special://skin/backgrounds/Addons.jpg</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,Addons,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>13009</defaultID>
+		<label>13009</label>
+		<label2>Kodi Command</label2>
+		<icon>special://skin/backgrounds/Quit.jpg</icon>
+		<thumb />
+		<action>Quit</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>20077</defaultID>
+		<label>20077</label>
+		<label2>Custom Shortcut</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>Activatewindow(skinsettings)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>script.thumbnailscleaner</defaultID>
+		<label>Thumbnails Cleaner</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.thumbnailscleaner%5cicon.png/</thumb>
+		<action>RunAddOn(script.thumbnailscleaner)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>simply-tbever</defaultID>
+		<label>UPDATE BUILD</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>https://archive.org/download/LOGOTBE_201509/TBELOGO.jpg</thumb>
+		<action>PlayMedia("plugin://plugin.program.tbebuildswizard/?url=https%3A%2F%2Farchive.org%2Fdownload%2FLOGOTBE_201509%2FSIMPLYEVER.zip&amp;mode=1&amp;name=SIMPLY-TB+EVER&amp;iconimage=https%3A%2F%2Farchive.org%2Fdownload%2FLOGOTBE_201509%2FTBELOGO.jpg&amp;fanart=https%3A%2F%2Farchive.org%2Fdownload%2FLOGOTBE_201509%2Fbackground.jpg&amp;description=SIMPLY-TB+EVER+by+TBE-Builds",return)</action>
+	</shortcut>
+</shortcuts>

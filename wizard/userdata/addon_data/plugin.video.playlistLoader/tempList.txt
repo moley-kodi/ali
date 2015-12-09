@@ -1,0 +1,322 @@
+[
+    {
+        "url": "http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8", 
+        "image": "", 
+        "name": "ALSharqia HD1"
+    }, 
+    {
+        "url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8", 
+        "image": "", 
+        "name": "ALSharqia News"
+    }, 
+    {
+        "url": "http://livestreaming.itworkscdn.net/mayadeenlive/smil:mayadeenmob.smil/playlist.m3u8", 
+        "image": "", 
+        "name": "الميادين"
+    }, 
+    {
+        "url": "http://63.237.48.23/ios/MBC2/MBC2.m3u8 ", 
+        "image": "", 
+        "name": "#EXTINF:-1,MBC 2 "
+    }, 
+    {
+        "url": "http://63.237.48.23/ios/MBC_4/MBC_4.m3u8", 
+        "image": "", 
+        "name": " MBC 4"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/3.ts", 
+        "image": "", 
+        "name": "beinHD Sports HD3"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/4.ts", 
+        "image": "", 
+        "name": "beinHD Sports HD4"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/5.ts", 
+        "image": "", 
+        "name": "beinHD Sports HD5"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/6.ts", 
+        "image": "", 
+        "name": "beinHD Sports HD6"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/7.ts", 
+        "image": "", 
+        "name": "beinHD Sports HD7"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/8.ts", 
+        "image": "", 
+        "name": "beinHD Sports HD8"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/9.ts", 
+        "image": "", 
+        "name": "beinHD Sports HD9"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/10.ts", 
+        "image": "", 
+        "name": "beinHD Sports HD10"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/528.ts", 
+        "image": "", 
+        "name": "OSN Yahala HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/529.ts", 
+        "image": "", 
+        "name": "OSN Yahala Drama HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/530.ts", 
+        "image": "", 
+        "name": "OSN Yahala Shabab"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/550.ts", 
+        "image": "", 
+        "name": "OSN Al youm"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/516.ts", 
+        "image": "", 
+        "name": "OSN Cinema 1"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/517.ts", 
+        "image": "", 
+        "name": "OSN Cinema 2"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/502.ts", 
+        "image": "", 
+        "name": "OSN Movies Box Office 1 HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/503.ts", 
+        "image": "", 
+        "name": "OSN Movies Box Office 2 HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/504.ts", 
+        "image": "", 
+        "name": "OSN Movies Box Office 3 HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/505.ts", 
+        "image": "", 
+        "name": "OSN Movies HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/507.ts", 
+        "image": "", 
+        "name": "OSN Movies Action HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/506.ts", 
+        "image": "", 
+        "name": "OSN MBC Drama HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/703.ts", 
+        "image": "", 
+        "name": "TF1 HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/718.ts", 
+        "image": "", 
+        "name": "FRANCE 2 HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/711.ts", 
+        "image": "", 
+        "name": "M6 HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/700.ts", 
+        "image": "", 
+        "name": "W9 HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/747.ts", 
+        "image": "", 
+        "name": "ACTION HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/789.ts", 
+        "image": "", 
+        "name": "CARTOON NETWORK HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/819.ts", 
+        "image": "", 
+        "name": "Mangas"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/788.ts", 
+        "image": "", 
+        "name": "BOOMERANG HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/731.ts", 
+        "image": "", 
+        "name": "CINE PREMIER HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/734.ts", 
+        "image": "", 
+        "name": "CINE EMOTION HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/730.ts", 
+        "image": "", 
+        "name": "CINE CLASSIC HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/743.ts", 
+        "image": "", 
+        "name": "Canal HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/740.ts", 
+        "image": "", 
+        "name": "Canal Series HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/741.ts", 
+        "image": "", 
+        "name": "Canal Family HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/742.ts", 
+        "image": "", 
+        "name": "Canal Cinema HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/739.ts", 
+        "image": "", 
+        "name": "Canal Sport HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/17.ts", 
+        "image": "", 
+        "name": "beinHD Sport 1 FR"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/18.ts", 
+        "image": "", 
+        "name": "beinHD Sport 2 FR"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/19.ts", 
+        "image": "", 
+        "name": "beinHD Sport 3 FR"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/745.ts", 
+        "image": "", 
+        "name": "ARTE HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/746.ts", 
+        "image": "", 
+        "name": "animaux HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/749.ts", 
+        "image": "", 
+        "name": "Ushuaia HD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/102.ts", 
+        "image": "", 
+        "name": "Samira TV"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/1103.ts", 
+        "image": "", 
+        "name": "Rotana Masriya"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/101.ts", 
+        "image": "", 
+        "name": "Algeria 3"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/328.ts", 
+        "image": "", 
+        "name": "Panorama Film"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/316.ts", 
+        "image": "", 
+        "name": "Panorama Drama"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/327.ts", 
+        "image": "", 
+        "name": "Panorama Comedy"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/103.ts", 
+        "image": "", 
+        "name": "Nessma TV"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/100.ts", 
+        "image": "", 
+        "name": "Nat Geo AD"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/304.ts", 
+        "image": "", 
+        "name": "MBC MAX"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/306.ts", 
+        "image": "", 
+        "name": "MBC Action"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/303.ts", 
+        "image": "", 
+        "name": "MBC 4"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/302.ts", 
+        "image": "", 
+        "name": "MBC 3"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/301.ts", 
+        "image": "", 
+        "name": "MBC 2"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/300.ts", 
+        "image": "", 
+        "name": "MBC 1"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/311.ts", 
+        "image": "", 
+        "name": "Fox Movies"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/106.ts", 
+        "image": "", 
+        "name": "EL Djazairia"
+    }, 
+    {
+        "url": "http://iptv.star7arab.com:80/live/star7arab/df74/104.ts", 
+        "image": "", 
+        "name": "Echorouk TV"
+    }
+]

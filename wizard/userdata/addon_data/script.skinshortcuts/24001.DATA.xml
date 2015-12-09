@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>addonbrowser</defaultID>
+		<label>10040</label>
+		<label2>Custom Shortcut</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(addonbrowser)</action>
+	</shortcut>
+</shortcuts>

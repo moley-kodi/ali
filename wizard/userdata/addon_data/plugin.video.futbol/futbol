@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html manifest="music.manifest">
+<head>
+<title>RojaDirecta</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+  
+    <meta http-equiv="refresh" content="30">
+    
+    
+
+    
+    
+<link rel="icon" type="image/png" href="../../iui/iui-favicon.png">
+<link rel="apple-touch-icon" href="../../iui/iui-logo-touch-icon.png" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<link rel="stylesheet" href="../../iui/iui.css" type="text/css" />
+
+<link rel="stylesheet" title="Default" href="../../iui/t/default/default-theme.css"  type="text/css"/>
+<link rel="alternate stylesheet" title="Default using Gradients" href="../../iui/t/defaultgrad/defaultgrad-theme.css"  type="text/css"/>
+<link rel="alternate stylesheet" title="iPhoneDevCamp" href="../../iui/t/ipdc/ipdc-theme.css"  type="text/css"/>
+<link rel="alternate stylesheet" title="Android" href="../../iui/ext-sandbox/t/android/android-theme.css"  type="text/css"/>
+<link rel="alternate stylesheet" title="Web OS (Palm)" href="../../iui/ext-sandbox/t/webos/webos-theme.css"  type="text/css"/>
+<script type="application/x-javascript" src="../../iui/iui.js"></script>
+<script type="application/x-javascript" src="../../iui/js/iui-theme-switcher.js"></script>
+<script type="application/x-javascript" src="../../iui/ext-sandbox/cache-manager/iui-cache-manager.js"></script>
+<script type="application/x-javascript" src="music-app.js"></script>
+<!--
+<script type="application/x-javascript" src="http://10.0.1.2:1840/ibug.js"></script>
+-->
+
+
+
+<!-- AppsL ****************************************-->
+<!--
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-49085149-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+-->
+<!-- AppsL ****************************************-->
+
+
+
+<!-- Webs4you -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-49085149-2', 'webs4you.es');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Webs4you -->
+
+
+
+        
+<script type="text/JavaScript">
+<!--
+function timedRefresh(timeoutPeriod) {
+	setTimeout("location.reload(true);",timeoutPeriod);
+}
+//   -->
+</script>
+
+
+
+
+
+  <style type="text/css">
+ a {
+
+	-webkit-touch-callout: none;
+	 
+	
+ } 
+  body {
+	background: -webkit-gradient(radial, 100% -10, 50, 70% 0, 200, from(yellow)
+	to(white)) #FFC; 
+	color:white 
+	
+ } 
+ li {
+	 background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#B8B8B8), to(#6C6C6C)) #349;
+	 }
+	img {
+	 -webkit-box-reflect: below 0.3px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(0.5, transparent), to(white));
+	 }
+ 
+	
+ </style>
+ 
+ 
+ 
+ <!--
+     <a href='URL de tu página de facebook' target='_blank' title='Sígueme en Facebook'><img src='canales/Deportes.png'style='display:scroll;position:fixed;bottom:225px;right:0px' alt="" /></a>  
+ -->
+ 
+</head>
+
+
+
+
+<body onLoad="JavaScript:timedRefresh(30000);">
+
+
+
+
+
+
+<script type="text/JavaScript">
+
+if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))  || (navigator.userAgent.match(/iPad/i))){
+
+
+
+}
+else{
+	location.replace("https://itunes.apple.com/es/app/intergoles-hd-deportes/id632694290?mt=8");
+
+<!--
+
+<!-- desactivo esta funcion de Alerta poruqe  se para y muestra la ruta -->
+//function checkAGE() 
+//{
+//if (!confirm
+//("La Mejor Aplicacion de Futbol y deporte ONLINE - ROJADIRECTA HD, ver ACEPTAR, si no presione CANCELAR"))
+//history.go(-1);return " "}
+//document.writeln(checkAGE())
+
+//	location.replace("https://itunes.apple.com/es/app/intergoles-hd-deportes/id632694290?mt=8");
+	}
+	
+
+</script>	
+
+
+  
+<div class="toolbar">
+        <h1 id="pageTitle"></h1>
+        <a id="backButton" class="button" href="#"></a>
+        <!--<a class="button" href="#searchForm">Search</a>-->
+  
+
+     
+<center> <form method="post"><input type="button" value="Actualizar         Canales" onclick="window.location.reload()" /></form></center>
+  
+    </div>
+    
+    
+
+    
+    <ul id="home" title="-" selected="true">
+    
+
+            <!--     <li class="group"><FONT FACE="arial" SIZE=5 COLOR=white><center>Directo -Live Sport</center></FONT></li>-->
+ 
+
+ 
+ 
+ 
+              <li class="group"><FONT FACE="arial" SIZE=5 COLOR=red><center>M&aacute;s canales Semanalmente</center></FONT></li>
+              
+
+            
+
+  
+     		<!--****************************************** CANALES FIJOS ******************************************-->
+            <!--****************************************** CANALES FIJOS ******************************************-->   
+            
+            
+            
+		 <li class="group">-</li>  
+           <li class="group">SPORTS AND OTHER CHANNELS</li>   
+             <li class="group">CANALES DE DEPORTE Y VARIOS</li>      
+ 
+	<!--  MARQUESINA --> 
+   <li class="group">
+ <center> <div class="n"><p>
+    <b><font color="#FFCC00" face="georgia" size="4"><marquee width="device-width" scrollamount="5" bgcolor="#232323">
+  <!--  Si no funciona, espera 15seg. Se refresca automaticamente con nuevos Stream -->
+  
+  <!-- Se refresca automaticamente con nuevos Stream -->
+  Canales actualizados &nbsp;&nbsp; 26/10/15     &nbsp;&nbsp;  Channels updated
+   
+    </marquee>
+    </font></b>
+</p><center>
+ </li>    
+    	<!--  MARQUESINA -->  
+
+
+
+     
+                             <!-- / SECCION DE DEPORTES -->
+                    
+                 <li class="group">Section Sports</li>    
+                 
+ 
+                  
+                 
+                   <!--  <li class="group"><FONT FACE="arial" SIZE=5 COLOR=red><center>canales de Derportes</center></FONT></li>  -->
+                   
+     <!-- XXXXXXXXXXXXXXXXXX nuevos octubre 2014
+     
+ 
+     -->    
+     
+     
+<li><a href="http://195.154.226.186:1935/liveedge/arhd2lsh/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>ArenaSport 2</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>    
+      
+<li><a href="http://195.154.226.186:1935/liveedge/arhd4lsh/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>ArenaSport 4</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>  
+        
+<li><a href="http://195.154.226.186:1935/liveedge/skhd1lsh/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>SportKlub 1</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>       
+         
+ 
+<li><a href="http://195.154.226.186:1935/liveedge/skhd2lsh/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>SportKlub 2</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>  
+          
+<li><a href="http://195.154.226.186:1935/liveedge/skhd3lsh/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>SportKlub 3</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>  
+                   
+                      
+   <li><a href="http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/03.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>Bein&Ntilde; Sports</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>  
+
+<li><a href="http://195.154.226.186:1935/liveedge/skysports1lsh/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>SkySport 1</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>
+
+<li><a href="http://195.154.226.186:1935/liveedge/skysports2lsh/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>SkySport 2</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>
+
+<li><a href="http://195.154.226.186:1935/liveedge/skysports3lsh/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>SkySport 3</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>
+
+<li><a href="http://195.154.226.186:1935/liveedge/skysports4lsh/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>SkySport 4</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>
+
+<li><a href="http://195.154.226.186:1935/liveedge/skysports5lsh/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>SkySport 5</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>
+  
+  
+  <li><a href="http://195.154.226.186:1935/liveedge/vskysf1lsh/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>SkySport F1</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>
+  
+  
+   <li><a href="http://spi.hystream.com:1935/spilive/spistream_480/livestream.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>SporItalia</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>
+  
+   <li><a href="http://spi.hystream.com:1935/spilive/spistream_360/livestream.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>SporItalia</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>
+  
+  
+  
+  <li><a href="http://195.154.226.186:1935/liveedge/bteulsh/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>BT Sport Europe</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>
+  
+  <li><a href="http://195.154.226.186:1935/liveedge/btsports1lsh/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>BT Sport 1</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>
+  
+  <li><a href="http://195.154.226.186:1935/liveedge/btsports2lsh/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>BT Sport 2</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>
+  
+    <li><a href="http://195.154.226.186:1935/liveedge/espnuklsh/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>BT Sport ESPN</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>
+    
+      <li><a href="http://195.154.226.186:1935/liveedge/vpremsplsh/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>Premier sports</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>
+  
+  
+  
+  
+  
+<li><a href="http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>Eurosport 1 ENG</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>
+
+<li><a href="http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>Eurosport 2 ENG</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>
+                             
+  
+     
+<li><a href="http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>BS TV</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>SD</center></b></FONT></a></li>
+   
+
+     
+                          
+<li><a href="http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>Canal FUTBOL 1</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>SD</center></b></FONT></a></li>  
+
+             
+
+  
+<li><a href="http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>Canal FUTBOL 5</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>SD</center></b></FONT></a></li> 
+
+  
+<li><a href="http://xrxs.net/video/live-p12ariz-1164.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>ENCORE</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>SD</center></b></FONT></a></li>   
+  
+ 
+          
+<li><a href="http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>CNOPT 1 -FUTBOL</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>   
+
+<li><a href="http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>CNOPT 1</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD 1080</center></b></FONT></a></li>
+
+<li><a href="http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>BURSASPORT</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>SD</center></b></FONT></a></li>
+
+
+                   
+<li><a href="http://cls.todostreaming.eu/huelvatv/livestream/media-u1y6vnhf2_47.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>HUELVA TV</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>SD</center></b></FONT></a></li>   
+                   
+
+  
+<li><a href="http://xrxs.net/video/live-p12ariz-1164.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>USA Sport</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>SD</center></b></FONT></a></li>  
+  
+
+<li><a href="http://hls.novotelecom.ru/streaming/sport/tvrec/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>Rossiya_2_ (Sports )</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>   
+   
+<li><a href="http://iphonelive.rtve.es/TDP_LV3_IPH_1C/TDP_LV3_IPH_1C.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>TDP SPAIN</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>SD</center></b></FONT></a></li> 
+   
+    
+     
+       <!--NUEVOS DEPORTES --> 
+<li><a href="http://xrxs.net/video/live-p12ariz-4728.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>USA - PAC-12 Net. (Arizona)</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD 1080</center></b></FONT></a></li>   
+
+<li><a href="http://xrxs.net/video/live-p12baya-4728.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>USA - PAC-12 Net. (Bay Area)</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD 1080</center></b></FONT></a></li> 
+
+<li><a href="http://xrxs.net/video/live-p12losa-4728.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>USA - PAC-12 Net. (Los Angeles)</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD 1080</center></b></FONT></a></li> 
+
+<li><a href="http://xrxs.net/video/live-p12netw-4728.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>USA - PAC-12 Net. (National)</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD 1080</center></b></FONT></a></li> 
+
+<li><a href="http://xrxs.net/video/live-p12wash-4728.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>USA - PAC-12 Net. (Washington)</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD 1080</center></b></FONT></a></li> 
+
+<li><a href="http://xrxs.net/video/live-p12baya-2328.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>USA - PAC 12 Bay Area -Basketball-Baseball</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD 1080</center></b></FONT></a></li> 
+
+ 
+        <!--NUEVOS DEPORTES -->  
+        
+<li><a href="http://live.iphone.alsace20.fr/stream_multi.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>ALSACE 20</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>--</center></b></FONT></a></li>         
+
+<li><a href="http://kissfm.en-directo.com/iphone/index_multirate.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>KISS TV</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>--</center></b></FONT></a></li> 
+ 
+<li><a href="http://cdn.djing.com/tv/d-05.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>MUSICA</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>HD</center></b></FONT></a></li>  
+
+<li><a href="http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>TELEMADRID</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>--</center></b></FONT></a></li> 
+ 
+<li><a href="http://mdsiosgeo0-lh.akamaihd.net/i/mitele/esmedia_01@175317/index_0_av-p.m3u8?sd=10&rebase=on" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>ENERGY</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>SD</center></b></FONT></a></li>
+
+
+<li><a href="http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-p.m3u8?sd=10&rebase=on" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>TELE 5 opci&oacute;n1</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>SD</center></b></FONT></a></li>  
+
+<li><a href="http://mdsiosgeo1-lh.akamaihd.net/i/mitele/esmediaset_11@168495/index_0_av-p.m3u8?sd=10&rebase=on" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>TELE 5 opci&oacute;n2</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>SD</center></b></FONT></a></li> 
+
+<li><a href="http://195.49.213.56/ktklive/live.hq/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>KTK</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>SD</center></b></FONT></a></li> 
+
+<li><a href="http://88.212.10.27:81/streams/stv2.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>STV</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>SD</center></b></FONT></a></li> 
+
+      <!-- +++++++++++++++++++++++    Probando nuevos canales +++++++++++++++++++++++++++++++-->
+ 
+ 
+        
+
+<!-- **************************** -->
+
+<li><a href="http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" ><FONT FACE="arial" SIZE=2 COLOR=red><b>TV </b></FONT><FONT FACE="arial" SIZE=2 COLOR=black>REAL JAMAICAN</FONT><br><FONT FACE="arial" SIZE=2 COLOR=blue><b><center>SD</center></b></FONT></a></li> 
+
+
+       <li>
+<a href="http://88.212.10.27:81/streams/region.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" >TV-REGION</a></li> 
+       
+       <li>
+<a href="http://88.212.10.27:81/streams/stv1.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" >STV1</a></li> 
+
+       <li>
+<a href="http://88.212.10.27:81/streams/stv2.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" >STV2</a></li> 
+
+       <li>
+<a href="http://88.212.10.27:81/streams/ta3.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" >TA3</a></li>      
+      
+
+<li>
+<a href="http://88.212.10.27:81/streams/stv1.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" >Slovakia:STV 1</a></li>  
+
+<li>
+<a href="http://88.212.10.27:81/streams/stv2.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" >Slovakia:STV 2 </a></li>  
+
+
+  
+               
+               <!-- MEXIO -->
+     
+<li>
+<a href="http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8" target="_self"><img src="canales/Deportes.png" width="40" height="35" style="vertical-align: top;" >Azteca noticias</a></li> 
+
+
+
+ 
+                     
+                 <li class="group"><FONT FACE="arial" SIZE=5 COLOR=white><center>Directo -Live Sport</center></FONT></li>
+ 
+ 
+ 
+              <li class="group"><FONT FACE="arial" SIZE=5 COLOR=red><center>M&aacute;s canales Semanalmente</center></FONT></li>
+       
+       
+       
+       
+                                                                                            
+        
+    </ul>
+
+  
+</body>
+</html>
+
+ 

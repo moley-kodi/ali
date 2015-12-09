@@ -1,0 +1,58 @@
+[
+  {
+    "group": "10219", 
+    "name": "Toonaroo", 
+    "url": "plugin://plugin.video.israelive/?url=3590&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/3590/extra_big_logo.png", 
+    "type": "video", 
+    "id": "12045"
+  }, 
+  {
+    "group": "10219", 
+    "name": "duck tv", 
+    "url": "izle/duck-tv?mode=12", 
+    "image": "http://img.canlitvlive.com/logo/duck-tv.png", 
+    "type": "ignore", 
+    "id": "11845"
+  }, 
+  {
+    "group": "10219", 
+    "name": "tom&jerry", 
+    "url": "rtmp://208.53.180.218/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html", 
+    "image": "http://images2.fanpop.com/image/photos/11000000/Tom-And-Jerry-tom-and-jerry-11065126-688-493.gif", 
+    "type": "video", 
+    "id": "11607"
+  }, 
+  {
+    "group": "10219", 
+    "name": "CBBC", 
+    "url": "plugin://plugin.video.israelive/?url=29&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/29/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10223"
+  }, 
+  {
+    "group": "10219", 
+    "name": "CBeebies", 
+    "url": "plugin://plugin.video.israelive/?url=3191&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/3191/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10224"
+  }, 
+  {
+    "group": "10219", 
+    "name": "Kartoon Klassics", 
+    "url": "plugin://plugin.video.israelive/?url=793&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/793/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10232"
+  }, 
+  {
+    "group": "10219", 
+    "name": "Smile of a Child", 
+    "url": "plugin://plugin.video.israelive/?url=401&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/401/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10234"
+  }
+]

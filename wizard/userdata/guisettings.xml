@@ -1,0 +1,1325 @@
+<settings>
+    <accessibility>
+        <audiohearing default="true">false</audiohearing>
+        <audiovisual default="true">false</audiovisual>
+        <subhearing default="true">false</subhearing>
+    </accessibility>
+    <audiocds>
+        <autoaction default="true">0</autoaction>
+        <ejectonrip default="true">true</ejectonrip>
+        <encoder default="true">audioencoder.xbmc.builtin.wav</encoder>
+        <recordingpath default="true"></recordingpath>
+        <trackpathformat default="true">%A/%A - %B/[%N. ][%A - ]%T</trackpathformat>
+        <usecddb default="true">true</usecddb>
+    </audiocds>
+    <audiooutput>
+        <ac3passthrough default="true">true</ac3passthrough>
+        <ac3transcode default="true">false</ac3transcode>
+        <audiodevice default="true">DIRECTSOUND:default</audiodevice>
+        <channels default="true">1</channels>
+        <config default="true">2</config>
+        <dtshdpassthrough default="true">false</dtshdpassthrough>
+        <dtspassthrough default="true">false</dtspassthrough>
+        <eac3passthrough default="true">false</eac3passthrough>
+        <guisoundmode default="true">1</guisoundmode>
+        <maintainoriginalvolume default="true">true</maintainoriginalvolume>
+        <passthrough default="true">false</passthrough>
+        <passthroughdevice default="true">DIRECTSOUND:default</passthroughdevice>
+        <processquality default="true">30</processquality>
+        <samplerate default="true">48000</samplerate>
+        <stereoupmix default="true">false</stereoupmix>
+        <streamsilence default="true">1</streamsilence>
+        <truehdpassthrough default="true">false</truehdpassthrough>
+    </audiooutput>
+    <cache>
+        <harddisk default="true">256</harddisk>
+    </cache>
+    <cacheaudio>
+        <dvdrom default="true">256</dvdrom>
+        <internet default="true">256</internet>
+        <lan default="true">256</lan>
+    </cacheaudio>
+    <cachedvd>
+        <dvdrom default="true">2048</dvdrom>
+        <lan default="true">2048</lan>
+    </cachedvd>
+    <cacheunknown>
+        <internet default="true">4096</internet>
+    </cacheunknown>
+    <cachevideo>
+        <dvdrom default="true">2048</dvdrom>
+        <internet default="true">4096</internet>
+        <lan default="true">2048</lan>
+    </cachevideo>
+    <debug>
+        <extralogging default="true">true</extralogging>
+        <screenshotpath default="true"></screenshotpath>
+        <setextraloglevel default="true">32768</setextraloglevel>
+        <showloginfo default="true">false</showloginfo>
+    </debug>
+    <disc>
+        <playback default="true">0</playback>
+    </disc>
+    <dvds>
+        <automenu default="true">false</automenu>
+        <autorun default="true">false</autorun>
+        <playerregion default="true">0</playerregion>
+    </dvds>
+    <epg>
+        <daystodisplay default="true">3</daystodisplay>
+        <epgupdate default="true">120</epgupdate>
+        <hidenoinfoavailable default="true">true</hidenoinfoavailable>
+        <ignoredbforclient default="true">false</ignoredbforclient>
+        <preventupdateswhileplayingtv default="true">false</preventupdateswhileplayingtv>
+        <selectaction default="true">2</selectaction>
+    </epg>
+    <filelists>
+        <allowfiledeletion default="true">false</allowfiledeletion>
+        <ignorethewhensorting default="true">true</ignorethewhensorting>
+        <showaddsourcebuttons default="true">true</showaddsourcebuttons>
+        <showextensions default="true">true</showextensions>
+        <showhidden default="true">false</showhidden>
+        <showparentdiritems default="true">true</showparentdiritems>
+    </filelists>
+    <general>
+        <addonbrokenfilter default="true">true</addonbrokenfilter>
+        <addonforeignfilter default="true">false</addonforeignfilter>
+        <addonnotifications default="true">true</addonnotifications>
+        <addonupdates default="true">0</addonupdates>
+        <systemtotaluptime>7930</systemtotaluptime>
+        <settinglevel>3</settinglevel>
+    </general>
+    <input>
+        <enablejoystick default="true">true</enablejoystick>
+        <enablemouse default="true">true</enablemouse>
+    </input>
+    <karaoke>
+        <autopopupselector default="true">false</autopopupselector>
+        <charset default="true">DEFAULT</charset>
+        <enabled default="true">false</enabled>
+        <font default="true">arial.ttf</font>
+        <fontcolors default="true">0</fontcolors>
+        <fontheight default="true">36</fontheight>
+    </karaoke>
+    <locale>
+        <audiolanguage default="true">original</audiolanguage>
+        <charset default="true">DEFAULT</charset>
+        <country default="true">USA (12h)</country>
+        <keyboardlayouts default="true">English QWERTY</keyboardlayouts>
+        <language>resource.language.en_us</language>
+        <longdateformat default="true">regional</longdateformat>
+        <shortdateformat default="true">regional</shortdateformat>
+        <speedunit default="true">regional</speedunit>
+        <subtitlelanguage default="true">original</subtitlelanguage>
+        <temperatureunit default="true">regional</temperatureunit>
+        <timeformat default="true">regional</timeformat>
+        <timezone default="true">default</timezone>
+        <timezonecountry default="true">default</timezonecountry>
+        <use24hourclock default="true">regional</use24hourclock>
+    </locale>
+    <lookandfeel>
+        <enablerssfeeds>false</enablerssfeeds>
+        <font>Arial</font>
+        <rssedit default="true"></rssedit>
+        <skin>skin.hybrid.dev</skin>
+        <skincolors default="true">SKINDEFAULT</skincolors>
+        <skintheme default="true">SKINDEFAULT</skintheme>
+        <skinzoom default="true">0</skinzoom>
+        <soundskin default="true">resource.uisounds.confluence</soundskin>
+        <startupwindow default="true">10000</startupwindow>
+    </lookandfeel>
+    <masterlock>
+        <maxretries default="true">3</maxretries>
+        <startuplock default="true">false</startuplock>
+    </masterlock>
+    <musicfiles>
+        <findremotethumbs default="true">true</findremotethumbs>
+        <librarytrackformat default="true"></librarytrackformat>
+        <librarytrackformatright default="true"></librarytrackformatright>
+        <nowplayingtrackformat default="true"></nowplayingtrackformat>
+        <nowplayingtrackformatright default="true"></nowplayingtrackformatright>
+        <trackformat default="true">[%N. ]%A - %T</trackformat>
+        <trackformatright default="true">%D</trackformatright>
+        <usetags default="true">true</usetags>
+    </musicfiles>
+    <musiclibrary>
+        <albumsscraper default="true">metadata.album.universal</albumsscraper>
+        <artistsscraper default="true">metadata.artists.universal</artistsscraper>
+        <backgroundupdate default="true">false</backgroundupdate>
+        <downloadinfo default="true">false</downloadinfo>
+        <overridetags default="true">false</overridetags>
+        <showallitems default="true">true</showallitems>
+        <showcompilationartists default="true">true</showcompilationartists>
+        <updateonstartup default="true">false</updateonstartup>
+    </musiclibrary>
+    <musicplayer>
+        <autoplaynextitem default="true">true</autoplaynextitem>
+        <crossfade default="true">0</crossfade>
+        <crossfadealbumtracks default="true">true</crossfadealbumtracks>
+        <queuebydefault default="true">false</queuebydefault>
+        <replaygainavoidclipping default="true">false</replaygainavoidclipping>
+        <replaygainnogainpreamp default="true">89</replaygainnogainpreamp>
+        <replaygainpreamp default="true">89</replaygainpreamp>
+        <replaygaintype default="true">1</replaygaintype>
+        <seekdelay default="true">750</seekdelay>
+        <seeksteps default="true">-60,-30,-10,10,30,60</seeksteps>
+        <visualisation default="true">visualization.milkdrop</visualisation>
+    </musicplayer>
+    <mymusic>
+        <defaultlibview default="true"></defaultlibview>
+        <songthumbinvis default="true">false</songthumbinvis>
+        <startwindow default="true">10501</startwindow>
+        <playlist>
+            <repeat>false</repeat>
+            <shuffle>false</shuffle>
+        </playlist>
+        <needsupdate>0</needsupdate>
+    </mymusic>
+    <myvideos>
+        <extractchapterthumbs default="true">true</extractchapterthumbs>
+        <extractflags default="true">true</extractflags>
+        <extractthumb default="true">true</extractthumb>
+        <flatten default="true">false</flatten>
+        <replacelabels default="true">true</replacelabels>
+        <selectaction default="true">1</selectaction>
+        <stackvideos default="true">false</stackvideos>
+        <watchmodemovies>0</watchmodemovies>
+        <watchmodetvshows>0</watchmodetvshows>
+        <watchmodemusicvideos>0</watchmodemusicvideos>
+        <playlist>
+            <repeat>false</repeat>
+            <shuffle>false</shuffle>
+        </playlist>
+        <needsupdate>0</needsupdate>
+    </myvideos>
+    <network>
+        <bandwidth default="true">0</bandwidth>
+        <httpproxypassword default="true"></httpproxypassword>
+        <httpproxyport default="true">8080</httpproxyport>
+        <httpproxyserver default="true"></httpproxyserver>
+        <httpproxytype default="true">0</httpproxytype>
+        <httpproxyusername default="true"></httpproxyusername>
+        <usehttpproxy default="true">false</usehttpproxy>
+    </network>
+    <pictures>
+        <displayresolution default="true">14</displayresolution>
+        <generatethumbs default="true">true</generatethumbs>
+        <showvideos default="true">true</showvideos>
+        <useexifrotation default="true">true</useexifrotation>
+        <usetags default="true">true</usetags>
+    </pictures>
+    <powermanagement>
+        <displaysoff default="true">0</displaysoff>
+        <shutdownstate default="true">0</shutdownstate>
+        <shutdowntime default="true">0</shutdowntime>
+        <wakeonaccess default="true">false</wakeonaccess>
+    </powermanagement>
+    <pvrmanager>
+        <backendchannelorder default="true">true</backendchannelorder>
+        <enabled default="true">false</enabled>
+        <hideconnectionlostwarning default="true">false</hideconnectionlostwarning>
+        <syncchannelgroups default="true">true</syncchannelgroups>
+        <usebackendchannelnumbers default="true">false</usebackendchannelnumbers>
+    </pvrmanager>
+    <pvrmenu>
+        <closechannelosdonswitch default="true">true</closechannelosdonswitch>
+        <displaychannelinfo default="true">5</displaychannelinfo>
+        <iconpath default="true"></iconpath>
+    </pvrmenu>
+    <pvrparental>
+        <duration default="true">300</duration>
+        <enabled default="true">false</enabled>
+        <pin default="true"></pin>
+    </pvrparental>
+    <pvrplayback>
+        <channelentrytimeout default="true">0</channelentrytimeout>
+        <confirmchannelswitch default="true">false</confirmchannelswitch>
+        <fps default="true">0</fps>
+        <playminimized default="true">true</playminimized>
+        <scantime default="true">10</scantime>
+        <signalquality default="true">true</signalquality>
+        <startlast default="true">0</startlast>
+    </pvrplayback>
+    <pvrpowermanagement>
+        <backendidletime default="true">15</backendidletime>
+        <dailywakeup default="true">false</dailywakeup>
+        <dailywakeuptime default="true">00:00:00</dailywakeuptime>
+        <enabled default="true">false</enabled>
+        <prewakeup default="true">15</prewakeup>
+        <setwakeupcmd default="true"></setwakeupcmd>
+    </pvrpowermanagement>
+    <pvrrecord>
+        <defaultlifetime default="true">99</defaultlifetime>
+        <defaultpriority default="true">50</defaultpriority>
+        <instantrecordtime default="true">120</instantrecordtime>
+        <marginend default="true">0</marginend>
+        <marginstart default="true">0</marginstart>
+        <timernotifications default="true">true</timernotifications>
+    </pvrrecord>
+    <scrapers>
+        <moviesdefault default="true">metadata.themoviedb.org</moviesdefault>
+        <musicvideosdefault default="true">metadata.musicvideos.theaudiodb.com</musicvideosdefault>
+        <tvshowsdefault default="true">metadata.tvdb.com</tvshowsdefault>
+    </scrapers>
+    <screensaver>
+        <mode default="true">screensaver.xbmc.builtin.dim</mode>
+        <time default="true">3</time>
+        <usedimonpause default="true">true</usedimonpause>
+        <usemusicvisinstead default="true">true</usemusicvisinstead>
+    </screensaver>
+    <services>
+        <airplay default="true">false</airplay>
+        <airplayios8compat default="true">true</airplayios8compat>
+        <airplaypassword default="true"></airplaypassword>
+        <airplayvolumecontrol default="true">true</airplayvolumecontrol>
+        <devicename>JAFAER TV</devicename>
+        <esallinterfaces default="true">false</esallinterfaces>
+        <escontinuousdelay default="true">25</escontinuousdelay>
+        <esenabled default="true">true</esenabled>
+        <esinitialdelay default="true">750</esinitialdelay>
+        <esmaxclients default="true">20</esmaxclients>
+        <esport default="true">9777</esport>
+        <esportrange default="true">10</esportrange>
+        <upnpannounce default="true">true</upnpannounce>
+        <upnpcontroller default="true">false</upnpcontroller>
+        <upnplookforexternalsubtitles default="true">false</upnplookforexternalsubtitles>
+        <upnprenderer default="true">false</upnprenderer>
+        <upnpserver default="true">false</upnpserver>
+        <useairplaypassword default="true">false</useairplaypassword>
+        <webserver default="true">false</webserver>
+        <webserverpassword default="true"></webserverpassword>
+        <webserverport default="true">80</webserverport>
+        <webserverusername default="true">kodi</webserverusername>
+        <webskin default="true">webinterface.default</webskin>
+        <zeroconf default="true">false</zeroconf>
+    </services>
+    <slideshow>
+        <displayeffects default="true">true</displayeffects>
+        <shuffle default="true">false</shuffle>
+        <staytime default="true">5</staytime>
+    </slideshow>
+    <smb>
+        <winsserver default="true">0.0.0.0</winsserver>
+        <workgroup default="true">WORKGROUP</workgroup>
+    </smb>
+    <subtitles>
+        <align default="true">0</align>
+        <charset default="true">DEFAULT</charset>
+        <color default="true">1</color>
+        <custompath default="true"></custompath>
+        <downloadfirst default="true">false</downloadfirst>
+        <font default="true">arial.ttf</font>
+        <height default="true">28</height>
+        <languages default="true">English</languages>
+        <movie default="true"></movie>
+        <overrideassfonts default="true">false</overrideassfonts>
+        <parsecaptions default="true">false</parsecaptions>
+        <pauseonsearch default="true">true</pauseonsearch>
+        <stereoscopicdepth default="true">0</stereoscopicdepth>
+        <storagemode default="true">0</storagemode>
+        <style default="true">1</style>
+        <tv default="true"></tv>
+    </subtitles>
+    <system>
+        <playlistspath>special://profile/playlists/</playlistspath>
+    </system>
+    <videolibrary>
+        <actorthumbs default="true">true</actorthumbs>
+        <backgroundupdate default="true">false</backgroundupdate>
+        <flattentvshows default="true">1</flattentvshows>
+        <groupmoviesets default="true">false</groupmoviesets>
+        <showallitems default="true">true</showallitems>
+        <showunwatchedplots default="true">true</showunwatchedplots>
+        <tvshowsincludeallseasonsandspecials default="true">0</tvshowsincludeallseasonsandspecials>
+        <tvshowsselectfirstunwatcheditem default="true">0</tvshowsselectfirstunwatcheditem>
+        <updateonstartup default="true">false</updateonstartup>
+    </videolibrary>
+    <videoplayer>
+        <adjustrefreshrate default="true">0</adjustrefreshrate>
+        <autoplaynextitem default="true">false</autoplaynextitem>
+        <errorinaspect default="true">0</errorinaspect>
+        <hqscalers default="true">0</hqscalers>
+        <pauseafterrefreshchange default="true">0</pauseafterrefreshchange>
+        <preferdefaultflag default="true">true</preferdefaultflag>
+        <prefervaapirender default="true">true</prefervaapirender>
+        <quitstereomodeonstop default="true">true</quitstereomodeonstop>
+        <rendermethod default="true">0</rendermethod>
+        <seekdelay default="true">750</seekdelay>
+        <seeksteps default="true">-600,-300,-180,-60,-30,-10,10,30,60,180,300,600</seeksteps>
+        <stereoscopicplaybackmode default="true">0</stereoscopicplaybackmode>
+        <stretch43 default="true">0</stretch43>
+        <teletextenabled default="true">true</teletextenabled>
+        <teletextscale default="true">true</teletextscale>
+        <useamcodec default="true">true</useamcodec>
+        <usedisplayasclock default="true">false</usedisplayasclock>
+        <usedxva2 default="true">true</usedxva2>
+        <useomx default="true">true</useomx>
+        <useomxplayer default="true">true</useomxplayer>
+        <usevaapi default="true">true</usevaapi>
+        <usevaapimpeg2 default="true">true</usevaapimpeg2>
+        <usevaapimpeg4 default="true">true</usevaapimpeg4>
+        <usevaapivc1 default="true">true</usevaapivc1>
+        <usevda default="true">true</usevda>
+        <usevdpau default="true">true</usevdpau>
+        <usevdpaumixer default="true">true</usevdpaumixer>
+        <usevdpaumpeg2 default="true">true</usevdpaumpeg2>
+        <usevdpaumpeg4 default="true">false</usevdpaumpeg4>
+        <usevdpauvc1 default="true">true</usevdpauvc1>
+        <usevideotoolbox default="true">true</usevideotoolbox>
+    </videoplayer>
+    <videoscreen>
+        <blankdisplays default="true">false</blankdisplays>
+        <fakefullscreen default="true">true</fakefullscreen>
+        <limitedrange default="true">false</limitedrange>
+        <monitor default="true">Default</monitor>
+        <preferedstereoscopicmode default="true">100</preferedstereoscopicmode>
+        <resolution>15</resolution>
+        <screen>-1</screen>
+        <screenmode>WINDOW</screenmode>
+        <stereoscopicmode default="true">0</stereoscopicmode>
+        <vsync default="true">2</vsync>
+    </videoscreen>
+    <weather>
+        <addon default="true"></addon>
+        <currentlocation default="true">1</currentlocation>
+    </weather>
+    <window>
+        <height>705</height>
+        <width>1362</width>
+    </window>
+    <audio>
+        <mute>false</mute>
+        <fvolumelevel>1.000000</fvolumelevel>
+    </audio>
+    <resolutions />
+    <defaultvideosettings>
+        <deinterlacemode>1</deinterlacemode>
+        <interlacemethod>1</interlacemethod>
+        <scalingmethod>1</scalingmethod>
+        <noisereduction>0.000000</noisereduction>
+        <postprocess>false</postprocess>
+        <sharpness>0.000000</sharpness>
+        <viewmode>4</viewmode>
+        <zoomamount>1.000000</zoomamount>
+        <pixelratio>0.997531</pixelratio>
+        <verticalshift>0.000000</verticalshift>
+        <volumeamplification>0.000000</volumeamplification>
+        <outputtoallspeakers>false</outputtoallspeakers>
+        <showsubtitles>true</showsubtitles>
+        <brightness>50.000000</brightness>
+        <contrast>50.000000</contrast>
+        <gamma>20.000000</gamma>
+        <audiodelay>0.000000</audiodelay>
+        <subtitledelay>0.000000</subtitledelay>
+        <nonlinstretch>false</nonlinstretch>
+        <stereomode>0</stereomode>
+    </defaultvideosettings>
+    <skinsettings>
+        <setting type="bool" name="skin.confluence.Use_Startup_Playlist">false</setting>
+        <setting type="bool" name="skin.confluence.UseCustomBackground">false</setting>
+        <setting type="bool" name="skin.confluence.HideBackGroundFanart">false</setting>
+        <setting type="bool" name="skin.confluence.ShowBackgroundVideo">false</setting>
+        <setting type="bool" name="skin.confluence.ShowBackgroundVis">false</setting>
+        <setting type="bool" name="skin.confluence.HomepageHideRecentlyAddedVideo">false</setting>
+        <setting type="bool" name="skin.confluence.HomepageHideRecentlyAddedAlbums">false</setting>
+        <setting type="bool" name="skin.confluence.homepageWeatherinfo">false</setting>
+        <setting type="bool" name="skin.confluence.homepageMusicinfo">false</setting>
+        <setting type="bool" name="skin.confluence.homepageVideoinfo">false</setting>
+        <setting type="bool" name="skin.confluence.HomeMenuNoMovieButton">false</setting>
+        <setting type="bool" name="skin.confluence.HomeMenuNoTVShowButton">false</setting>
+        <setting type="bool" name="skin.confluence.HomeMenuNoWeatherButton">false</setting>
+        <setting type="bool" name="skin.confluence.HomeMenuNoPicturesButton">false</setting>
+        <setting type="bool" name="skin.confluence.HomeMenuNoVideosButton">false</setting>
+        <setting type="bool" name="skin.confluence.HomeMenuNoMusicButton">false</setting>
+        <setting type="bool" name="skin.confluence.HomeMenuNoProgramsButton">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideAutoMusicViz">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.AutoPartySaver">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.InitialSetUpRun">true</setting>
+        <setting type="bool" name="skin.hybrid.dev.EnableAdditionalArtWork">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideNowPlayingFanart">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideEpisodeThumb">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideBackgroundFanart">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.DisableClearArt">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.EnableFileSysArt">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.DisableDiscArt">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.DisableGlobalSearch">true</setting>
+        <setting type="bool" name="skin.hybrid.dev.DisableTVNextAired">true</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideTrailerBtn">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.disableautoscroll">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.UseStickyHomeMenu">true</setting>
+        <setting type="bool" name="skin.hybrid.dev.MultiImageBackground">true</setting>
+        <setting type="bool" name="skin.hybrid.dev.EnableHolidayEffects">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideNowPlayingWidget">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.DisableFanartScript">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.NoDiffuseVizFanart">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideArtistArtOSD">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideBackgroundCDWall">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.UPnP_Mode">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.DisableDataService">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideHomeStats">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideRainDropEffect">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.DisableWidgetAdjust">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.WrapAroundHomeMenu">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HiddenContentAdvice">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.DisableScriptPlaylist">true</setting>
+        <setting type="bool" name="skin.hybrid.dev.EnableCleanHome">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideExtendedWidget">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideSuggestedInfo">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideNext5SongsInfo">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.AutoVisableSubMenu">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.DisableWatchItLater">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideSytemMenuItem">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideHomeWeatherInfo">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideHomePowerBtn">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideHomeDVDBtn">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.EnablePingWOL">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.DisableSlideShowArt">true</setting>
+        <setting type="bool" name="skin.hybrid.dev.EnableFullMPAA">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.DisableYearInTitle">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.EnableKioskMode">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideOSDProfileClock">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideAlbumThumbOSD">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.NoAnimateVizFanart">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideInfoStartOSD">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HidePauseInfo">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideSeekBarOSD">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideArtWorkOSD">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.SetUpWatchitLater">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideHomeMenuSystem">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideStartUpBackground">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideKodiIntro">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.EnablePlayListStartUp">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.usedisctypecase">true</setting>
+        <setting type="bool" name="skin.hybrid.dev.DisableLogoArt">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.EnableFanartScript">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.EnableAutoUpdateArt">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.DisableTVTunes">true</setting>
+        <setting type="bool" name="skin.hybrid.dev.DisableWatchedCheck">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.View515HideBanners">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.EnableDVDCases">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.DarkenWatchedMedia">true</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideWatchedMediaStat">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideNewMediaStat">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.Disable504FanArt">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.DisableAnimatedCase">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.EnableEnableKioskMode">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.disablescriptfavourites">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.WeatherScript_Enable">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.HideNextSongsInfo">false</setting>
+        <setting type="bool" name="skin.hybrid.dev.AnimeWindowXMLDialogClose">false</setting>
+        <setting type="string" name="skin.confluence.CustomBackgroundPath"></setting>
+        <setting type="string" name="skin.confluence.HomeVideosButton1"></setting>
+        <setting type="string" name="skin.confluence.HomeVideosButton2"></setting>
+        <setting type="string" name="skin.confluence.HomeVideosButton3"></setting>
+        <setting type="string" name="skin.confluence.HomeVideosButton4"></setting>
+        <setting type="string" name="skin.confluence.HomeVideosButton5"></setting>
+        <setting type="string" name="skin.confluence.HomeMusicButton1"></setting>
+        <setting type="string" name="skin.confluence.HomeMusicButton2"></setting>
+        <setting type="string" name="skin.confluence.HomeMusicButton3"></setting>
+        <setting type="string" name="skin.confluence.HomeMusicButton4"></setting>
+        <setting type="string" name="skin.confluence.HomeMusicButton5"></setting>
+        <setting type="string" name="skin.confluence.HomePictureButton1"></setting>
+        <setting type="string" name="skin.confluence.HomePictureButton2"></setting>
+        <setting type="string" name="skin.confluence.HomePictureButton3"></setting>
+        <setting type="string" name="skin.confluence.HomePictureButton4"></setting>
+        <setting type="string" name="skin.confluence.HomePictureButton5"></setting>
+        <setting type="string" name="skin.confluence.HomeProgramButton1"></setting>
+        <setting type="string" name="skin.confluence.HomeProgramButton2"></setting>
+        <setting type="string" name="skin.confluence.HomeProgramButton3"></setting>
+        <setting type="string" name="skin.confluence.HomeProgramButton4"></setting>
+        <setting type="string" name="skin.confluence.HomeProgramButton5"></setting>
+        <setting type="string" name="skin.hybrid.dev.UsrColorOne">deepskyblue</setting>
+        <setting type="string" name="skin.hybrid.dev.UsrColorTwo">greenyellow</setting>
+        <setting type="string" name="skin.hybrid.dev.UsrSelectColor">brown</setting>
+        <setting type="string" name="skin.hybrid.dev.MediaPanelTrans">40</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.1.Path">ActivateWindow(Pictures)</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.1.Label">Pictures</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.1.Sub">SubSetEight</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.1.Addon">Pictures</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.1.Widget">None</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.1.Type">Pictures</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.1.Fanart">special://skin/backgrounds/pictures.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.1.Display">Default</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.1.Stats">None</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.2.Label">Live Sports</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.2.Sub">SubSetFive</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.2.Addon">AddonSetFive</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.2.Widget">None</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.2.Type">Favourites</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.2.Fanart">special://home/userdata\Backgrounds\Sports\</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.2.Display">Default</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.2.Stats">None</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.3.Label">Entertainment</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.3.Sub">SubSetEleven</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.3.Addon">AddonSetSeven</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.3.Widget">None</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.3.Type">VideoNode</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.3.Fanart">special://home/userdata\Backgrounds\Movies\</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.3.Display">Default</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.3.Stats">None</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.4.Path">ActivateWindow(Videos,plugin://plugin.video.phstreams/?name=Latest+Animated+Releases&amp;url=http%3A%2F%2Fgibraltar.watchkodi.com%2FCollections%2Fanimated.xml&amp;audio=0&amp;image=http%3A%2F%2Fs16.postimg.org%2Fqu3swamjp%2Fanimation.jpg&amp;fanart=http%3A%2F%2Fs9.postimg.org%2Fgbr27aken%2Fcool4.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.4.Label">4Kids</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.4.Sub">SubSetNine</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.4.Addon">AddonSetFour</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.4.Widget">VideoNode</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.4.Type">VideoNode</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.4.Fanart">special://home/userdata\Backgrounds\Kids\</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.4.Display">Default</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.4.Stats">VideoNode</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.5.Label">القنوات العربية</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.5.Sub">SubSetFour</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.5.Addon">AddonSetTwo</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.5.Widget">Favourites</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.5.Type">Favourites</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.5.Fanart">C:\Users\hai82der\Desktop\Arabic screen\New folder\ali.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.5.Display">Default</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.5.Stats">None</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.6.Label">TV Shows</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.6.Sub">SubSetThree</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.6.Addon">None</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.6.Widget">VideoNode</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.6.Type">VideoNode</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.6.Fanart">special://home/userdata\Backgrounds\TV Shows\</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.6.Display">Default</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.6.Stats">VideoNode</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.7.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.7.Sub"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.7.Addon"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.7.Widget"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.7.Type"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.7.Fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.7.Display"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.7.Stats"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.8.Label">TV</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.8.Sub">SubSetSix</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.8.Widget">None</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.8.Type">LiveTV</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.8.Stats">None</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.8.Addon">AddonSetOne</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.8.Fanart">special://home/userdata\Backgrounds\TV\</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.8.Display">Default</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.9.Path">ActivateWindow(Videos,plugin://plugin.video.genesis/?action=movies&amp;url=theaters,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.9.Label">Movies</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.9.Sub">SubSetTwo</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.9.Addon">AddonSetThree</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.9.Widget">VideoNode</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.9.Type">VideoNode</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.9.Fanart">special://home/userdata\Backgrounds\Movies\</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.9.Display">Default</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.9.Stats">None</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.10.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.10.Sub"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.10.Addon"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.10.Widget"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.10.Type"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.10.Fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.10.Display"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.10.Stats"></setting>
+        <setting type="string" name="skin.hybrid.dev.SettingsMenu.Label">System</setting>
+        <setting type="string" name="skin.hybrid.dev.SettingsMenu.Sub">SubSetSeven</setting>
+        <setting type="string" name="skin.hybrid.dev.SettingsMenu.Addon">None</setting>
+        <setting type="string" name="skin.hybrid.dev.SettingsMenu.Widget">None</setting>
+        <setting type="string" name="skin.hybrid.dev.SettingsMenu.Type">Settings</setting>
+        <setting type="string" name="skin.hybrid.dev.SettingsMenu.Fanart">special://home/userdata\Backgrounds\System\</setting>
+        <setting type="string" name="skin.hybrid.dev.SettingsMenu.Display">Default</setting>
+        <setting type="string" name="skin.hybrid.dev.SettingsMenu.Stats">Settings</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.1.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.1.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.1.Addon"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.1.Widget"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.1.Type"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.1.Fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.1.Display"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.1.Stats"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.1.Sub"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenuSelect.Current">StickyMenu.5</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenuSelect.Label">My Add-ons</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenuSelect.Path">ActivateWindow(Videos,Addons,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.HolidayThemePath">special://skin/extras/holiday/xmastree.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.StartUpBackgroundPath">/storage/external_storage/sda1/Jafaer home.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.WeatherFanartDir">special://home/userdata\Backgrounds\Weather\</setting>
+        <setting type="string" name="skin.hybrid.dev.FanArtCycleRate">10</setting>
+        <setting type="string" name="skin.hybrid.dev.GlobalBackGroundPath"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenuSelect.Fanart">special://home/userdata\Backgrounds\All Add-ons\</setting>
+        <setting type="string" name="skin.hybrid.dev.PhysicalMusicFolder"></setting>
+        <setting type="string" name="skin.hybrid.dev.UsrAlbumThumbsDir"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.2.Path">ActivateWindow(10025,&quot;plugin://plugin.program.super.favourites/?label=Live Sport TV&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper%20Favourites%5CLive%20Sport%20TV&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Fuserdata%5CBackgrounds%5CSports%5Cfootball_10-wallpaper-1920x1080.jpg%26_options_sf&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.3.Path">ActivateWindow(Videos,plugin://plugin.video.phstreams/?name=One242415&amp;url=http%3A%2F%2Fgibraltar.watchkodi.com%2Fmaindir%2Fmain.xml&amp;audio=0&amp;image=http%3A%2F%2Fgibraltar.watchkodi.com%2FskullPhoenicIcon.png&amp;fanart=C%3A%5CUsers%5Cjuan%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.phstreams%5Cfanart.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.5.Path">ActivateWindow(10025,&quot;plugin://plugin.video.pakindia/?iconimage=http%3a%2f%2fcdnimg.dynns.com%2fiptvpanelnew%2fprog_data%2fthumbs%2fac71e0079799a57cc6616312cbbbaf84arabicBigTV.jpg&amp;mode=1&amp;name=Arabic&amp;url=Arabic&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.6.Path">ActivateWindow(Videos,plugin://plugin.video.genesis/?action=tvshows&amp;url=airing,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.7.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.8.Path">ActivateWindow(TVChannels)</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.10.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetOne.1.label">Israel Live</setting>
+        <setting type="string" name="skin.hybrid.dev.UserSelectAddon.1.label">Live TV Shorcuts</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetOne.1.icon">special://home/addons\plugin.video.israelive\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetOne.1.Path">RunAddon(plugin.video.israelive)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetOne.1.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetOne.2.label">Woody</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetOne.2.icon">http://shanghai.watchkodi.com/Sections/Woody/Woody.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetOne.2.Path">ActivateWindow(10025,&quot;plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fs20.postimg.org%2fw4r6o7t3x%2fPhoenix_Fanart.png&amp;image=http%3a%2f%2fshanghai.watchkodi.com%2fSections%2fWoody%2fWoody.jpg&amp;name=Woody&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fshanghai.watchkodi.com%2fSections%2fWoody%2fWoody.xml&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetOne.2.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetOne.3.label">cCloud TV</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetOne.3.icon">special://home/addons\plugin.video.ccloudtv\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetOne.3.Path">RunAddon(plugin.video.ccloudtv)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetOne.3.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetOne.4.label">ProjectCypherTV</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetOne.4.icon">special://home/addons\plugin.video.ProjectCypher\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetOne.4.Path">RunAddon(plugin.video.ProjectCypher)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetOne.4.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetOne.5.label">dexterTV</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetOne.5.icon">special://home/addons\plugin.video.dextertv\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetOne.5.Path">RunAddon(plugin.video.dextertv)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetOne.5.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTwo.1.label">[COLOR red]Halow[COLOR green] LIVE  TV [/COLOR]</setting>
+        <setting type="string" name="skin.hybrid.dev.UserSelectAddon.2.label">Arabic</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTwo.1.icon">special://home/addons/plugin.video.Test/icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTwo.1.Path">RunAddon(plugin.video.Test)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTwo.1.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTwo.2.label">AlArab</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTwo.2.icon">special://home/addons/plugin.video.alarab/icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTwo.2.Path">RunAddon(plugin.video.alarab)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTwo.2.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTwo.3.label">Free Streams</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTwo.3.icon">special://home/addons/plugin.video.freestreams/icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTwo.3.Path">RunAddon(plugin.video.freestreams)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTwo.3.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTwo.4.label">bassleaks</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTwo.4.icon">special://home/addons/plugin.video.bassleaks/icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTwo.4.Path">RunAddon(plugin.video.bassleaks)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTwo.4.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTwo.5.label">DiavolettoBeatsLists</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTwo.5.icon">special://home/addons/plugin.video.DiavolettoBeatsLists/icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTwo.5.Path">RunAddon(plugin.video.DiavolettoBeatsLists)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTwo.5.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.1.label">Staael2014</setting>
+        <setting type="string" name="skin.hybrid.dev.UserSelectAddon.3.label">Movie Shortcuts</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.1.icon">http://s29.postimg.org/ta0bxj12f/staael1.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.1.Path">ActivateWindow(10025,&quot;plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=C%3a%5cUsers%5cjuan%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.phstreams%5cfanart.jpg&amp;image=http%3a%2f%2fs29.postimg.org%2fta0bxj12f%2fstaael1.png&amp;name=Staael2014&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2ftuzla.watchkodi.com%2fmaindir%2fmain.xml&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.1.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.2.label">1Channel</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.2.icon">special://home/addons\plugin.video.1channel\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.2.Path">RunAddon(plugin.video.1channel)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.2.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.3.label">Film Dictator</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.3.icon">special://home/addons\plugin.video.filmdictator\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.3.Path">RunAddon(plugin.video.filmdictator)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.3.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.4.label">Movies HD</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.4.icon">special://home/addons\plugin.video.movieshd\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.4.Path">RunAddon(plugin.video.movieshd)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.4.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.5.label">Stream All The Sources</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.5.icon">special://home/addons\plugin.video.salts\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.5.Path">RunAddon(plugin.video.salts)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.5.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.1.label">Classic Cartoons</setting>
+        <setting type="string" name="skin.hybrid.dev.UserSelectAddon.4.label">4Kids Shorcuts-menu</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.1.icon">http://metalkettle.co/UKTurk/thumbs/UK%20TURK%20cartoons.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.1.Path">ActivateWindow(10025,&quot;plugin://plugin.program.super.favourites/?label=Classic%20Cartoons&amp;mode=660&amp;cmd=ActivateWindow%2810025%2C%22plugin%3A%2F%2Fplugin.video.ukturk%2F%3Fdescription%26iconimage%3Dhttp%253a%252f%252fmetalkettle.co%252fUKTurk%252fthumbs%252fUK%252520TURK%252520cartoons.jpg%26mode%3D1%26name%3DClassic%2520Cartoons%26url%3Dhttp%253a%252f%252fmetalkettle.co%252fUKTurk%252fcartoons%252fIndex.txt%22%2Creturn%29&amp;image=http%3A%2F%2Fmetalkettle.co%2FUKTurk%2Fthumbs%2FUK%2520TURK%2520cartoons.jpg&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.1.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.2.label">KidsFlix</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.2.icon">special://home/addons\plugin.video.kidsflix\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.2.Path">ActivateWindow(10025,&quot;plugin://plugin.video.kidsflix/&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.2.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.3.label">The Disney Collection</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.3.icon">http://s29.postimg.org/3utbebglz/WDW.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.3.Path">ActivateWindow(10025,&quot;plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fcoolbackgroundhd.com%2fwp-content%2fuploads%2f2015%2f04%2fangels-wings-fire-wallpaper.jpg&amp;image=http%3a%2f%2fs29.postimg.org%2f3utbebglz%2fWDW.jpg&amp;name=The%20Disney%20Collection&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fDisney%2fDisney_Directory.xml&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.3.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.4.label">Latest Animated Releases</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.4.icon">http://s16.postimg.org/qu3swamjp/animation.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.4.Path">ActivateWindow(10025,&quot;plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fcoolbackgroundhd.com%2fwp-content%2fuploads%2f2015%2f04%2fangels-wings-fire-wallpaper.jpg&amp;image=http%3a%2f%2fs16.postimg.org%2fqu3swamjp%2fanimation.jpg&amp;name=Latest%20Animated%20Releases&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fCollections%2fanimated.xml&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.4.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.5.label">[COLOR white]KIDZ &amp; FAMILY[/COLOR]</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.5.icon">http://s6.postimg.org/62s275eht/disney.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.5.Path">ActivateWindow(10025,&quot;plugin://plugin.video.zeus/?description&amp;iconimage=http%3a%2f%2fs6.postimg.org%2f62s275eht%2fdisney.png&amp;mode=20&amp;name=%5bCOLOR%20white%5dKIDZ%20%26%20FAMILY%5b%2fCOLOR%5d&amp;url=bDiiCUJL&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.5.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.1.label">[COLOR white][B]LIVE SPORT[/B][/COLOR]</setting>
+        <setting type="string" name="skin.hybrid.dev.UserSelectAddon.5.label">Live Sport Shortcuts</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.1.icon">http://s6.postimg.org/jj51b8q01/zeussport.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.1.Path">ActivateWindow(10025,&quot;plugin://plugin.video.zeus/?description&amp;iconimage=http%3a%2f%2fs6.postimg.org%2fjj51b8q01%2fzeussport.png&amp;mode=20&amp;name=%5bCOLOR%20white%5d%5bB%5dLIVE%20SPORT%5b%2fB%5d%5b%2fCOLOR%5d&amp;url=ieSUr9sZ&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.1.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.2.label">MoneySports</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.2.icon">special://home/addons\plugin.video.MoneySports\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.2.Path">RunAddon(plugin.video.MoneySports)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.2.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.3.label">NJM-Soccer</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.3.icon">special://home/addons\plugin.video.NJMSoccer\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.3.Path">RunAddon(plugin.video.NJMSoccer)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.3.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.4.label">Vdubt25</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.4.icon">special://home/addons\plugin.video.vdubt\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.4.Path">RunAddon(plugin.video.vdubt)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.4.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.5.label">SportsDevil</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.5.icon">special://home/addons\plugin.video.SportsDevil\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.5.Path">RunAddon(plugin.video.SportsDevil)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.5.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSix.1.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.UserSelectAddon.6.label">Programs Shortcuts</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSix.1.icon"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSix.1.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSix.1.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSix.2.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSix.2.icon"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSix.2.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSix.2.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSix.3.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSix.3.icon"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSix.3.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSix.3.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSix.4.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSix.4.icon"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSix.4.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSix.4.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSix.5.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSix.5.icon"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSix.5.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSix.5.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSeven.1.label">Genesis</setting>
+        <setting type="string" name="skin.hybrid.dev.UserSelectAddon.7.label">Entertainment Shortcuts</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSeven.1.icon">special://home/addons\plugin.video.genesis\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSeven.1.Path">RunAddon(plugin.video.genesis)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSeven.1.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSeven.2.label">1Channel</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSeven.2.icon">special://home/addons\plugin.video.1channel\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSeven.2.Path">RunAddon(plugin.video.1channel)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSeven.2.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSeven.3.label">Phoenix</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSeven.3.icon">special://home/addons\plugin.video.phstreams\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSeven.3.Path">RunAddon(plugin.video.phstreams)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSeven.3.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSeven.4.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSeven.4.icon"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSeven.4.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSeven.4.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSeven.5.label">UK Turk Playlists</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSeven.5.icon">special://home/addons\plugin.video.ukturk\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSeven.5.Path">RunAddon(plugin.video.ukturk)</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSeven.5.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetEight.1.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.UserSelectAddon.8.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetEight.1.icon"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetEight.1.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetEight.1.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetEight.2.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetEight.2.icon"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetEight.2.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetEight.2.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetEight.3.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetEight.3.icon"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetEight.3.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetEight.3.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetEight.4.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetEight.4.icon"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetEight.4.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetEight.4.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetEight.5.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetEight.5.icon"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetEight.5.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetEight.5.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetNine.1.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.UserSelectAddon.9.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetNine.1.icon"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetNine.1.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetNine.1.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetNine.2.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetNine.2.icon"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetNine.2.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetNine.2.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetNine.3.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetNine.3.icon"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetNine.3.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetNine.3.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetNine.4.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetNine.4.icon"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetNine.4.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetNine.4.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetNine.5.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetNine.5.icon"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetNine.5.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetNine.5.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTen.1.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.UserSelectAddon.10.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTen.1.icon"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTen.1.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTen.1.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTen.2.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTen.2.icon"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTen.2.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTen.2.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTen.3.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTen.3.icon"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTen.3.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTen.3.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTen.4.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTen.4.icon"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTen.4.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTen.4.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTen.5.label"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTen.5.icon"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTen.5.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetTen.5.fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.2.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.2.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.3.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.3.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.4.Label">Favourites</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.4.Path">ActivateWindow(Favourites)</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.5.Label">My Add-ons</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.5.Path">ActivateWindow(Videos,Addons,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.6.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.6.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetOne.1.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetOne.1.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetOne.2.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetOne.2.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetOne.3.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetOne.3.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetOne.4.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetOne.4.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetOne.5.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetOne.5.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetOne.6.Label">Genesis</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetOne.6.Path">RunAddon(plugin.video.genesis)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwo.1.Label">All Movies</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwo.1.Path">ActivateWindow(10025,&quot;plugin://plugin.video.genesis/?action=movieNavigator&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwo.2.Label">The Mutts Nuts</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwo.2.Path">RunAddon(plugin.video.mutttsnutz)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwo.3.Label">Latest Releases</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwo.3.Path">ActivateWindow(10025,&quot;plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fcoolbackgroundhd.com%2fwp-content%2fuploads%2f2015%2f04%2fangels-wings-fire-wallpaper.jpg&amp;image=http%3a%2f%2fs24.postimg.org%2fxted17znp%2fLatest_Releases.jpg&amp;name=Latest%20Releases&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fMovies%2fLatestRelease.xml&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwo.4.Label">[COLOR yellow]NEW[/COLOR] HD DTS 5.1</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwo.4.Path">ActivateWindow(10025,&quot;plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fcoolbackgroundhd.com%2fwp-content%2fuploads%2f2015%2f04%2fangels-wings-fire-wallpaper.jpg&amp;image=http%3a%2f%2fs23.postimg.org%2fbfjz8fmqj%2fDTS5_1.jpg&amp;name=%5bCOLOR%20yellow%5dNEW%5b%2fCOLOR%5d%20HD%20DTS%205.1&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fMovies%2fHDDTS51.xml&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwo.5.Label">Genesis</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwo.5.Path">RunAddon(plugin.video.genesis)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwo.6.Label">1080p movies</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwo.6.Path">ActivateWindow(10025,&quot;plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fi.imgur.com%2fW7qRvEq.png&amp;image=http%3a%2f%2fi.imgur.com%2fhuFDWrs.png&amp;name=1080p%20movies&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2ftuzla.watchkodi.com%2f1080p%2520movies.xml&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.1.Label">All TV Shows</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.1.Path">ActivateWindow(10025,&quot;plugin://plugin.video.genesis/?action=tvNavigator&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.2.Label">Top TV Shows</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.2.Path">ActivateWindow(10025,&quot;plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fs5.postimg.org%2fasr1ob5tz%2fFan.jpg&amp;image=http%3a%2f%2fs5.postimg.org%2fl42kpaonb%2fTv_shows.png&amp;name=%5bCOLOR%20red%5dTV%20Shows%5b%2fCOLOR%5d&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fyork.watchkodi.com%2fTV%2520Shows%2fShows.xml&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.3.Label">Her TV Shows</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.3.Path">ActivateWindow(10025,&quot;plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fs6.postimg.org%2f4e7vodlfl%2f14266.jpg&amp;image=http%3a%2f%2fs6.postimg.org%2fx6y2yqdmp%2ftv_series_by_victoranjos_d7f931x.png&amp;name=%5bCOLOR%20blue%5dTV%20Shows%5b%2fCOLOR%5d&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fhonolulu.watchkodi.com%2fTV%2520Shows%2fShows.xml&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.4.Label">Most Popular</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.4.Path">ActivateWindow(10025,&quot;plugin://plugin.video.genesis/?action=tvshows&amp;url=popular&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.5.Label">Returning TV Shows</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.5.Path">ActivateWindow(10025,&quot;plugin://plugin.video.genesis/?action=tvshows&amp;url=active&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.6.Label">Favourites</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.6.Path">ActivateWindow(10025,&quot;plugin://plugin.video.genesis/?action=tvFavourites&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.1.Label">Arabic 1</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.1.Path">ActivateWindow(10025,&quot;plugin://plugin.video.pakindia/?iconimage=http%3a%2f%2fcdnimg.dynns.com%2fiptvpanelnew%2fprog_data%2fthumbs%2fac71e0079799a57cc6616312cbbbaf84arabicBigTV.jpg&amp;mode=1&amp;name=Arabic&amp;url=Arabic&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.2.Label">[COLOR red][Jafaer tv H][/COLOR]</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.2.Path">ActivateWindow(10025,&quot;plugin://plugin.video.playlistLoader/?description&amp;iconimage&amp;mode=2&amp;name=%5bCOLOR%20blue%5d%5bJafaer%20tv%20H%5d%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fpastebin.com%2fCdtvMQMS&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.3.Label">[COLOR green][B]Arabic LIVE TV[/B][/COLOR]</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.3.Path">ActivateWindow(10025,&quot;plugin://plugin.video.Test/?fanart=image%3a%2f%2fhttp%253a%252f%252fwww.tamddon.com%252fwp-content%252fuploads%252f2014%252f02%252f%2525D8%2525AA%2525D9%252584%2525D9%252581%2525D8%2525B2%2525D9%25258A%2525D9%252588%2525D9%252586.jpg%2f&amp;mode=53&amp;name=%5bCOLOR%20green%5d%5bB%5dArabic%20LIVE%20TV%5b%2fB%5d%5b%2fCOLOR%5d&amp;url=plugin%3a%2f%2fplugin.video.gul%2f%3furl%3dhttp%253A%252F%252Fpastebin.com%252Fraw.php%253Fi%253DAH2EUHYY%26mode%3d4%26name%3d%255BCOLOR%2bgreen%255D%255BB%255DArabic%2bLIVE%2bTV%255B%252FB%255D%255B%252FCOLOR%255D%26iconimage%3dhttp%253A%252F%252Fwww.tamddon.com%252Fwp-content%252Fuploads%252F2014%252F02%252F%2525D8%2525AA%2525D9%252584%2525D9%252581%2525D8%2525B2%2525D9%25258A%2525D9%252588%2525D9%252586.jpg%26description%3d&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.4.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.4.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.5.Label">[COLOR lime]Husham Arabic TV[/COLOR]</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.5.Path">ActivateWindow(10025,&quot;plugin://plugin.video.HushamLists/?fanart=https%3a%2f%2fraw.githubusercontent.com%2fhmemar%2fhusham.com%2fmaster%2fimages%2fhushamlistlogo.jpg&amp;mode=1&amp;name=%5bCOLOR%20lime%5dHusham%20Arabic%20TV%5b%2fCOLOR%5d&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fhmemar%2fhusham.com%2fmaster%2fLists%2fArabicIPTV.m3u&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.6.Label">Arabic 2</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.6.Path">ActivateWindow(10025,&quot;plugin://plugin.program.super.favourites/?label=ARABIC 3&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper%20Favourites%5CARABIC%203&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%2Fplugin.video.lihattv%2Ficon.png%26_options_sf&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.1.Label">[COLOR blue]All Sport Addons[/COLOR]</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.1.Path">ActivateWindow(10025,&quot;plugin://plugin.program.super.favourites/?label=[COLOR blue]All Sport Addons[/COLOR]&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper%20Favourites%5CAll%20Sport%20Addons&amp;sf_options=fanart%3Dhttp%3A%2F%2F4vector.com%2Fi%2Ffree-vector-sport-vector-pack_098139_sportsvector%2520pack.jpg%26_options_sf&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.2.Label">[COLOR aquamarine]Sports[/COLOR]</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.2.Path">PlayMedia(&quot;plugin://plugin.program.super.favourites/?label=%5BCOLOR+aquamarine%5DSports%5B%2FCOLOR%5D&amp;mode=650&amp;cmd=ActivateWindow%2810025%2C%22plugin%3A%2F%2Fplugin.video.channelpear%2F%3Ffanart%3Dhttps%253a%252f%252fchannelpear.com%252fimages%252fkiwi_new.jpg%26mode%3D1%26name%3DSports%26url%3Dhttps%253a%252f%252fchannelpear.com%252fassets%252fm3u%252f%253fuserid%253d20509%2526key%253def143063c77ded47459d8416f2ac69a40c670447%26sf_options%3Dfanart%253Dhttps%253A%252F%252Fchannelpear.com%252Fimages%252Fkiwi_new.jpg%2526_options_sf%22%2Creturn%29&amp;image=special%3A%2F%2Fhome%2Faddons%5Cplugin.video.channelpear%5Cicon.png&amp;fanart=https%3A%2F%2Fchannelpear.com%2Fimages%2Fkiwi_new.jpg&amp;sf_options=fanart%3Dhttps%3A%2F%2Fchannelpear.com%2Fimages%2Fkiwi_new.jpg%26winID%3D10025%26_options_sf&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.3.Label">DUTCH CLOUD TV</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.4.Path">PlayMedia(&quot;plugin://plugin.program.super.favourites/?label=%5BCOLOR+blue%5D%5BB%5D%5BSport+-+%D7%A1%D7%A4%D7%95%D7%A8%D7%98%5D%5B%2FB%5D%5B%2FCOLOR%5D&amp;mode=650&amp;cmd=ActivateWindow%2810025%2C%22plugin%3A%2F%2Fplugin.video.israelive%2F%3Fcategoryid%3D9999%26description%26displayname%3D10492%26iconimage%3Dhttp%253a%252f%252f4vector.com%252fi%252ffree-vector-sport-vector-pack_098139_sportsvector%252520pack.jpg%26mode%3D2%26name%3D%255bCOLOR%2520blue%255d%255bB%255d%255bSport%2520-%2520%25d7%25a1%25d7%25a4%25d7%2595%25d7%25a8%25d7%2598%255d%255b%252fB%255d%255b%252fCOLOR%255d%26url%26sf_options%3Dfanart%253Dhttp%253A%252F%252F4vector.com%252Fi%252Ffree-vector-sport-vector-pack_098139_sportsvector%252520pack.jpg%2526_options_sf%22%2Creturn%29&amp;image=http%3A%2F%2F4vector.com%2Fi%2Ffree-vector-sport-vector-pack_098139_sportsvector%2520pack.jpg&amp;fanart=http%3A%2F%2F4vector.com%2Fi%2Ffree-vector-sport-vector-pack_098139_sportsvector%2520pack.jpg&amp;sf_options=fanart%3Dhttp%3A%2F%2F4vector.com%2Fi%2Ffree-vector-sport-vector-pack_098139_sportsvector%2520pack.jpg%26winID%3D10025%26_options_sf&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.3.Path">PlayMedia(&quot;plugin://plugin.program.super.favourites/?label=DUTCH+CLOUD+TV&amp;mode=650&amp;cmd=ActivateWindow%2810025%2C%22plugin%3A%2F%2Fplugin.video.cloudtv%3Fsf_options%3Dfanart%253Dspecial%253A%252F%252Fhome%252Faddons%255Cplugin.video.cloudtv%255Cfanart.jpg%2526desc%253Dwww.dutchcloudtv.com%2526_options_sf%22%2Creturn%29&amp;image=special%3A%2F%2Fhome%2Faddons%5Cplugin.video.cloudtv%5Cicon.png&amp;fanart=special%3A%2F%2Fhome%2Faddons%5Cplugin.video.cloudtv%5Cfanart.jpg&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.cloudtv%5Cfanart.jpg%26winID%3D10025%26_options_sf&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.4.Label">[COLOR blue][B][Sport - טרופס][/B][/COLOR]</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.5.Label">[COLOR yellow]NEW[/COLOR] HD live Sports</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.5.Path">ActivateWindow(10025,&quot;plugin://plugin.video.RobinHood-PPL-List/?fanart=http%3a%2f%2fhdking.square7.ch%2fsplash.png&amp;mode=1&amp;name=Sport&amp;url=http%3a%2f%2fhdking.square7.ch%2fhdkingsport.xml&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.6.Label">[COLOR yellow]NEW[/COLOR] Live Events</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.6.Path">ActivateWindow(10025,&quot;plugin://plugin.video.OperationRobocopUltimate/?fanart&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20limegreen%5dTODAY%60S%20LIVE%20EVENTS%5b%2fCOLOR%5d%5b%2fB%5d%20&amp;url=http%3a%2f%2f195.154.225.163%2foperationrobocop%2flists%2fppv%2flist.xml&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSix.1.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSix.1.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSix.2.Label">English TV</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSix.2.Path">ActivateWindow(10025,&quot;plugin://plugin.video.ukturk/?description&amp;iconimage=http%3a%2f%2fmetalkettle.co%2fUKTurk2%2fthumbs%2fUK%20TURK%20english%20tv.jpg&amp;mode=1&amp;name=English%20TV&amp;url=http%3a%2f%2fmetalkettle.co%2fUKTurk2%2fEnglishList.txt&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSix.3.Label">channel PEAR</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSix.3.Path">ActivateWindow(10025,&quot;plugin://plugin.video.channelpear/&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSix.4.Label">[COLOR lime]•[/COLOR][COLOR deepskyblue]  Internaciones[/COLOR]</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSix.4.Path">ActivateWindow(10025,&quot;plugin://plugin.video.adryanlist/?fanart=http%3a%2f%2fi.imgur.com%2fGyK9PGj.jpg&amp;mode=1&amp;name=%5bCOLOR%20lime%5d%e2%80%a2%5b%2fCOLOR%5d%5bCOLOR%20deepskyblue%5d%20%20Internaciones%5b%2fCOLOR%5d%20&amp;url=http%3a%2f%2fadrian.kodistream.info%2fadryan%2finter.xml&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSix.5.Label">Phoenix TV</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSix.5.Path">ActivateWindow(10025,&quot;plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=C%3a%5cUsers%5cjuan%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.phstreams%5cfanart.jpg&amp;image=http%3a%2f%2fshanghai.watchkodi.com%2fPhoenix%2520Tv%2520Icon.jpg&amp;name=Phoenix%20TV&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fshanghai.watchkodi.com%2fmaindir%2fmain.xml&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSix.6.Label">[COLOR yellow]NEW[/COLOR] Popular Channels</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSix.6.Path">ActivateWindow(10025,&quot;plugin://plugin.video.RobinHood-PPL-List/?fanart=http%3a%2f%2fhdking.square7.ch%2fsplash.png&amp;mode=1&amp;name=English&amp;url=http%3a%2f%2fhdking.square7.ch%2fhdkingenglish.xml&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSeven.1.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSeven.1.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSeven.2.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSeven.2.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSeven.3.Label">Delete My Cache</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSeven.3.Path">PlayMedia(&quot;plugin://plugin.video.hubmaintenance/?url=url&amp;mode=3&amp;name=Delete+My+Cache&amp;iconimage=http%3A%2F%2Fxty.me%2Fxunitytalk%2Fmaintenance_do_not_touch%2Fhubmaintenance%2Fxunity_images%2Fmaintenance.jpg&amp;fanart=http%3A%2F%2Fxty.me%2Fxunitytalk%2Fmaintenance_do_not_touch%2Fhubmaintenance%2Fxunity_images%2Ffanart%2Fbeginners.jpg&amp;description=Safely+delete+all+cache+from+plugins&amp;special=&amp;sf_options=winID%3D10025%26_options_sf&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSeven.4.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSeven.4.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSeven.5.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSeven.5.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSeven.6.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSeven.6.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.1.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.1.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.2.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.2.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.3.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.3.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.4.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.4.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.5.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.5.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.6.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.6.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.1.Label">Kids &amp; Animation</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.1.Path">ActivateWindow(10025,&quot;plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fi.imgur.com%2fW7qRvEq.png&amp;image=http%3a%2f%2fi.imgur.com%2fYXaY4BI.png&amp;name=kids%20%26%20animation%201&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2ftuzla.watchkodi.com%2fkids_animation.xml&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.2.Label">[COLOR chartreuse]All Kids adds[/COLOR]</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.2.Path">ActivateWindow(10025,&quot;plugin://plugin.program.super.favourites/?label=[COLOR chartreuse]All Kids adds[/COLOR]&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper%20Favourites%5CAll%20Kids%20adds&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.cartoons8%5Cfanart.jpg%26_options_sf&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.3.Label">Kidzone</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.3.Path">ActivateWindow(10025,&quot;plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=tvshows&amp;fanart=C%3a%5cUsers%5chai82der%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.phstreams%5cfanart.jpg&amp;image=http%3a%2f%2fs20.postimg.org%2foptusf57h%2fkidzone.png&amp;name=Kidzone%20Shortcut&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fzenica.watchkodi.com%2fDirectories%2fKids%2520Directories%2fKidzone%2520Directory.xml&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.4.Label">Animated Movies</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.4.Path">ActivateWindow(10025,&quot;plugin://plugin.video.genesis/?action=movies&amp;url=http%3a%2f%2fapi.themoviedb.org%2f3%2fdiscover%2fmovie%3fapi_key%3d%25s%26with_genres%3d16%26primary_release_date.gte%3d2014-09-07%26primary_release_date.lte%3d2015-09-07%26page%3d1&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.5.Label">Animated TV Shows</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.5.Path">ActivateWindow(10025,&quot;plugin://plugin.video.genesis/?action=tvshows&amp;url=http%3a%2f%2fapi.themoviedb.org%2f3%2fdiscover%2ftv%3fapi_key%3d%25s%26with_genres%3d16%26air_date.gte%3d2014-09-07%26air_date.lte%3d2015-09-07%26page%3d1&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.6.Label">كارتون عربي</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.6.Path">ActivateWindow(10025,&quot;plugin://plugin.video.alarab/?mode=2&amp;name=CARTOON&amp;url=http%3a%2f%2ftv1.alarab.net%2fview-4%2f%25D9%2585%25D8%25B3%25D9%2584%25D8%25B3%25D9%2584%25D8%25A7%25D8%25AA-%25D9%2583%25D8%25B1%25D8%25AA%25D9%2588%25D9%2586&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.1.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.1.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.2.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.2.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.3.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.3.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.4.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.4.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.5.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.5.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.6.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.6.Path">Hidden</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.1.Label">Stand Up</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.1.Path">ActivateWindow(10025,&quot;plugin://plugin.program.super.favourites/?label=Standup&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper%20Favourites%5CStandup&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.program.super.favourites%5Cfanart.jpg%26_options_sf&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.2.Label">Classic TV Shows</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.2.Path">ActivateWindow(10025,&quot;plugin://plugin.video.ukturk/?description&amp;iconimage=http%3a%2f%2fmetalkettle.co%2fUKTurk2%2fthumbs%2fUK%20TURK%20classic%20tv.jpg&amp;mode=1&amp;name=Classic%20TV%20Shows&amp;url=http%3a%2f%2fmetalkettle.co%2fUKTurk2%2ftv%20shows%2fIndex.txt&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.3.Label">[COLOR saddlebrown]DOCUMENTARY[/COLOR]</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.3.Path">ActivateWindow(10025,&quot;plugin://plugin.video.bbts/?folder=%2fDOCUMENTARY&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.4.Label">[COLOR lime]SoloMan IPTV Links[/COLOR]</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.4.Path">ActivateWindow(10025,&quot;plugin://plugin.video.SoloManLists/?fanart=https%3a%2f%2fyt3.ggpht.com%2f-YUHW44PfRLU%2fAAAAAAAAAAI%2fAAAAAAAAAAA%2fTMK9xizbGJU%2fs100-c-k-no%2fphoto.jpg&amp;mode=1&amp;name=%5bCOLOR%20lime%5dSoloMan%20IPTV%20Links%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fbit.ly%2fsolomanchannel&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.5.Label">English TV</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.5.Path">ActivateWindow(10025,&quot;plugin://plugin.video.ukturk/?description&amp;iconimage=http%3a%2f%2fmetalkettle.co%2fUKTurk2%2fthumbs%2fUK%20TURK%20english%20tv.jpg&amp;mode=1&amp;name=English%20TV&amp;url=http%3a%2f%2fmetalkettle.co%2fUKTurk2%2fEnglishList.txt&quot;,return)</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.6.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.6.Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenuSelect.Stats"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenuSelect.Type">Videos</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenuSelect.Addon">None</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenuSelect.Widget">None</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenuSelect.Display">Default</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.1.Data"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.2.Data"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.3.Data">plugin://plugin.video.phstreams/?name=One242415&amp;url=http%3A%2F%2Fgibraltar.watchkodi.com%2Fmaindir%2Fmain.xml&amp;audio=0&amp;image=http%3A%2F%2Fgibraltar.watchkodi.com%2FskullPhoenicIcon.png&amp;fanart=C%3A%5CUsers%5Cjuan%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.phstreams%5Cfanart.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.4.Data">plugin://plugin.video.phstreams/?name=Latest+Animated+Releases&amp;url=http%3A%2F%2Fgibraltar.watchkodi.com%2FCollections%2Fanimated.xml&amp;audio=0&amp;image=http%3A%2F%2Fs16.postimg.org%2Fqu3swamjp%2Fanimation.jpg&amp;fanart=http%3A%2F%2Fs9.postimg.org%2Fgbr27aken%2Fcool4.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.5.Data"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.6.Data">plugin://plugin.video.genesis/?action=tvshows&amp;url=airing</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.7.Data"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.8.Data"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.9.Data">plugin://plugin.video.genesis/?action=movies&amp;url=theaters</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.10.Data"></setting>
+        <setting type="string" name="skin.hybrid.dev.WOLPingTimer"></setting>
+        <setting type="string" name="skin.hybrid.dev.PingMacAddr"></setting>
+        <setting type="string" name="skin.hybrid.dev.MPAACertificate"></setting>
+        <setting type="string" name="skin.hybrid.dev.musicosdinfo"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetOneUser"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwoUser">Movie Sub-menu</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThreeUser">TV Shows Sub-menu</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFourUser">ARABIC Sub-menu</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFiveUser">Sports Sub-menu</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSixUser"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSevenUser"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEightUser">Programs Sub-menu</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNineUser">4Kids Sub-menu</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTenUser"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetElevenUser">Entertainment Sub-menu</setting>
+        <setting type="string" name="skin.hybrid.dev.UserSelectAddon.12.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.2.Addon"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.2.Widget"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.3.Addon"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.3.Widget"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.4.Addon">None</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.4.Widget">Favourites</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.5.Addon">None</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.5.Widget">None</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.6.Addon"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.6.Widget"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.2.Fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.2.Type"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.2.Display"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.3.Fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.3.Type"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.3.Display"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.4.Fanart">special://home/userdata\Backgrounds\Favourites\</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.4.Type">Favourites</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.4.Display">Default</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.5.Fanart">special://home/userdata\Backgrounds\All Add-ons\</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.5.Type">Videos</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.5.Display">Default</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.6.Fanart"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.6.Type"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.6.Display"></setting>
+        <setting type="string" name="skin.hybrid.dev.StartUpPlaylistPath"></setting>
+        <setting type="string" name="skin.hybrid.dev.UPnP_Name"></setting>
+        <setting type="string" name="skin.hybrid.dev.UPnP_Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.UPnPServer">Kodi</setting>
+        <setting type="string" name="skin.hybrid.dev.LyricScript_Path"></setting>
+        <setting type="string" name="skin.hybrid.dev.InitialMenuPosi">4</setting>
+        <setting type="string" name="skin.hybrid.dev.MediaPopUpControl"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.2.List">plugin://plugin.program.super.favourites/?label=Live Sport TV&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper%20Favourites%5CLive%20Sport%20TV&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Fuserdata%5CBackgrounds%5CSports%5Cfootball_10-wallpaper-1920x1080.jpg%26_options_sf</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.2.Icon">http://s6.postimg.org/jj51b8q01/zeussport.png</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.7.List">plugin://plugin.program.super.favourites/?label=Espanol&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper%20Favourites%5CEspanol&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Fuserdata%5CBackgrounds%5CBassFox%5Cfanart.jpg%26_options_sf</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.7.Icon">special://home/userdata\Backgrounds\BassFox\fanart.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.4.List"></setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.4.Icon"></setting>
+        <setting type="string" name="skin.hybrid.dev.UsrSelectAddon"></setting>
+        <setting type="string" name="skin.hybrid.dev.InitialMenuItem">2</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.2.Sub"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.2.Stats"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.3.Sub"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.3.Stats"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.4.Sub">StickyMenu.4</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.4.Stats">None</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.5.Sub">StickyMenu.5</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.5.Stats">Videos</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.6.Sub"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.6.Stats"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.2.List">plugin://plugin.video.playlistLoader/?description&amp;iconimage&amp;mode=2&amp;name=%5bCOLOR%20blue%5d%5bJafaer%20tv%20H%5d%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fpastebin.com%2fCdtvMQMS</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.2.Icon">https://i.ytimg.com/vi/5XiG8R7ULNc/hqdefault.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.6.List">plugin://plugin.program.super.favourites/?label=ARABIC 3&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper%20Favourites%5CARABIC%203&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%2Fplugin.video.lihattv%2Ficon.png%26_options_sf</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.6.Icon">special://home/addons/plugin.video.lihattv/icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.1.List">plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=C%3a%5cUsers%5cjuan%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.phstreams%5cfanart.jpg&amp;image=http%3a%2f%2fs29.postimg.org%2fta0bxj12f%2fstaael1.png&amp;name=Staael2014&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2ftuzla.watchkodi.com%2fmaindir%2fmain.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.2.List">plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=C%3a%5cUsers%5cjuan%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.phstreams%5cfanart.jpg&amp;image=http%3a%2f%2fhonolulu.watchkodi.com%2fmyicon.jpg&amp;name=Her%20Place&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fhonolulu.watchkodi.com%2fmaindir%2fmain.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.3.List">plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=C%3a%5cUsers%5cjuan%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.phstreams%5cfanart.jpg&amp;image=http%3a%2f%2fyork.watchkodi.com%2fmyicon.jpg&amp;name=Rockcrusher&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fyork.watchkodi.com%2fMainDir%2fmain.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.4.List">plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=C%3a%5cUsers%5cjuan%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.phstreams%5cfanart.jpg&amp;image=http%3a%2f%2fgibraltar.watchkodi.com%2fskullPhoenicIcon.png&amp;name=One242415&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fmaindir%2fmain.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.1.List">plugin://plugin.program.super.favourites/?label=Classic%20Cartoons&amp;mode=660&amp;cmd=ActivateWindow%2810025%2C%22plugin%3A%2F%2Fplugin.video.ukturk%2F%3Fdescription%26iconimage%3Dhttp%253a%252f%252fmetalkettle.co%252fUKTurk%252fthumbs%252fUK%252520TURK%252520cartoons.jpg%26mode%3D1%26name%3DClassic%2520Cartoons%26url%3Dhttp%253a%252f%252fmetalkettle.co%252fUKTurk%252fcartoons%252fIndex.txt%22%2Creturn%29&amp;image=http%3A%2F%2Fmetalkettle.co%2FUKTurk%2Fthumbs%2FUK%2520TURK%2520cartoons.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.4.List">plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fcoolbackgroundhd.com%2fwp-content%2fuploads%2f2015%2f04%2fangels-wings-fire-wallpaper.jpg&amp;image=http%3a%2f%2fs16.postimg.org%2fqu3swamjp%2fanimation.jpg&amp;name=Latest%20Animated%20Releases&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fCollections%2fanimated.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.3.List">plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fcoolbackgroundhd.com%2fwp-content%2fuploads%2f2015%2f04%2fangels-wings-fire-wallpaper.jpg&amp;image=http%3a%2f%2fs29.postimg.org%2f3utbebglz%2fWDW.jpg&amp;name=The%20Disney%20Collection&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fDisney%2fDisney_Directory.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.UserSelectAddon.11.Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.1.List">plugin://plugin.video.zeus/?description&amp;iconimage=http%3a%2f%2fs6.postimg.org%2fjj51b8q01%2fzeussport.png&amp;mode=20&amp;name=%5bCOLOR%20white%5d%5bB%5dLIVE%20SPORT%5b%2fB%5d%5b%2fCOLOR%5d&amp;url=ieSUr9sZ</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwo.3.List">plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fcoolbackgroundhd.com%2fwp-content%2fuploads%2f2015%2f04%2fangels-wings-fire-wallpaper.jpg&amp;image=http%3a%2f%2fs24.postimg.org%2fxted17znp%2fLatest_Releases.jpg&amp;name=Latest%20Releases&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fMovies%2fLatestRelease.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwo.3.Icon">http://s24.postimg.org/xted17znp/Latest_Releases.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwo.6.List">plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fi.imgur.com%2fW7qRvEq.png&amp;image=http%3a%2f%2fi.imgur.com%2fhuFDWrs.png&amp;name=1080p%20movies&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2ftuzla.watchkodi.com%2f1080p%2520movies.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwo.6.Icon">http://i.imgur.com/huFDWrs.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwo.5.List">plugin://plugin.video.genesis/?action=movieFavourites</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwo.5.Icon">special://home/addons\plugin.video.genesis\resources\media\gone\movieFavourites.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwo.4.List">plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fcoolbackgroundhd.com%2fwp-content%2fuploads%2f2015%2f04%2fangels-wings-fire-wallpaper.jpg&amp;image=http%3a%2f%2fs23.postimg.org%2fbfjz8fmqj%2fDTS5_1.jpg&amp;name=%5bCOLOR%20yellow%5dNEW%5b%2fCOLOR%5d%20HD%20DTS%205.1&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fMovies%2fHDDTS51.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwo.4.Icon">http://s23.postimg.org/bfjz8fmqj/DTS5_1.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.1.List">plugin://plugin.video.genesis/?action=tvNavigator</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.1.Icon">special://home/addons\plugin.video.genesis\resources\media\gone\tvshows.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwo.1.List">plugin://plugin.video.genesis/?action=movieNavigator</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTwo.1.Icon">special://home/addons\plugin.video.genesis\resources\media\gone\movies.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.2.List">plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fs5.postimg.org%2fasr1ob5tz%2fFan.jpg&amp;image=http%3a%2f%2fs5.postimg.org%2fl42kpaonb%2fTv_shows.png&amp;name=%5bCOLOR%20red%5dTV%20Shows%5b%2fCOLOR%5d&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fyork.watchkodi.com%2fTV%2520Shows%2fShows.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.2.Icon">http://s5.postimg.org/l42kpaonb/Tv_shows.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.3.List">plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fs6.postimg.org%2f4e7vodlfl%2f14266.jpg&amp;image=http%3a%2f%2fs6.postimg.org%2fx6y2yqdmp%2ftv_series_by_victoranjos_d7f931x.png&amp;name=%5bCOLOR%20blue%5dTV%20Shows%5b%2fCOLOR%5d&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fhonolulu.watchkodi.com%2fTV%2520Shows%2fShows.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.3.Icon">http://s6.postimg.org/x6y2yqdmp/tv_series_by_victoranjos_d7f931x.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.4.List">plugin://plugin.video.genesis/?action=tvshows&amp;url=popular</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.4.Icon">special://home/addons\plugin.video.genesis\resources\media\gone\tvshowsPopular.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.5.List">plugin://plugin.video.genesis/?action=tvshows&amp;url=active</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.5.Icon">special://home/addons\plugin.video.genesis\resources\media\gone\tvshowsActive.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.6.List">plugin://plugin.video.genesis/?action=tvFavourites</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetThree.6.Icon">special://home/addons\plugin.video.genesis\resources\media\gone\tvFavourites.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.1.List">plugin://plugin.program.super.favourites/?label=[COLOR blue]All Sport Addons[/COLOR]&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper%20Favourites%5CAll%20Sport%20Addons&amp;sf_options=fanart%3Dhttp%3A%2F%2F4vector.com%2Fi%2Ffree-vector-sport-vector-pack_098139_sportsvector%2520pack.jpg%26_options_sf</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.1.Icon">http://4vector.com/i/free-vector-sport-vector-pack_098139_sportsvector%20pack.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.2.List">plugin://plugin.program.super.favourites/?label=%5BCOLOR+aquamarine%5DSports%5B%2FCOLOR%5D&amp;mode=650&amp;cmd=ActivateWindow%2810025%2C%22plugin%3A%2F%2Fplugin.video.channelpear%2F%3Ffanart%3Dhttps%253a%252f%252fchannelpear.com%252fimages%252fkiwi_new.jpg%26mode%3D1%26name%3DSports%26url%3Dhttps%253a%252f%252fchannelpear.com%252fassets%252fm3u%252f%253fuserid%253d20509%2526key%253def143063c77ded47459d8416f2ac69a40c670447%26sf_options%3Dfanart%253Dhttps%253A%252F%252Fchannelpear.com%252Fimages%252Fkiwi_new.jpg%2526_options_sf%22%2Creturn%29&amp;image=special%3A%2F%2Fhome%2Faddons%5Cplugin.video.channelpear%5Cicon.png&amp;fanart=https%3A%2F%2Fchannelpear.com%2Fimages%2Fkiwi_new.jpg&amp;sf_options=fanart%3Dhttps%3A%2F%2Fchannelpear.com%2Fimages%2Fkiwi_new.jpg%26winID%3D10025%26_options_sf</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.2.Icon">special://home/addons\plugin.video.channelpear\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.4.List">plugin://plugin.program.super.favourites/?label=%5BCOLOR+blue%5D%5BB%5D%5BSport+-+%D7%A1%D7%A4%D7%95%D7%A8%D7%98%5D%5B%2FB%5D%5B%2FCOLOR%5D&amp;mode=650&amp;cmd=ActivateWindow%2810025%2C%22plugin%3A%2F%2Fplugin.video.israelive%2F%3Fcategoryid%3D9999%26description%26displayname%3D10492%26iconimage%3Dhttp%253a%252f%252f4vector.com%252fi%252ffree-vector-sport-vector-pack_098139_sportsvector%252520pack.jpg%26mode%3D2%26name%3D%255bCOLOR%2520blue%255d%255bB%255d%255bSport%2520-%2520%25d7%25a1%25d7%25a4%25d7%2595%25d7%25a8%25d7%2598%255d%255b%252fB%255d%255b%252fCOLOR%255d%26url%26sf_options%3Dfanart%253Dhttp%253A%252F%252F4vector.com%252Fi%252Ffree-vector-sport-vector-pack_098139_sportsvector%252520pack.jpg%2526_options_sf%22%2Creturn%29&amp;image=http%3A%2F%2F4vector.com%2Fi%2Ffree-vector-sport-vector-pack_098139_sportsvector%2520pack.jpg&amp;fanart=http%3A%2F%2F4vector.com%2Fi%2Ffree-vector-sport-vector-pack_098139_sportsvector%2520pack.jpg&amp;sf_options=fanart%3Dhttp%3A%2F%2F4vector.com%2Fi%2Ffree-vector-sport-vector-pack_098139_sportsvector%2520pack.jpg%26winID%3D10025%26_options_sf</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.4.Icon">http://4vector.com/i/free-vector-sport-vector-pack_098139_sportsvector%20pack.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.5.List">plugin://plugin.video.RobinHood-PPL-List/?fanart=http%3a%2f%2fhdking.square7.ch%2fsplash.png&amp;mode=1&amp;name=Sport&amp;url=http%3a%2f%2fhdking.square7.ch%2fhdkingsport.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.5.Icon">http://i.imgur.com/GlnqawT.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.6.List">plugin://plugin.video.OperationRobocopUltimate/?fanart&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20limegreen%5dTODAY%60S%20LIVE%20EVENTS%5b%2fCOLOR%5d%5b%2fB%5d%20&amp;url=http%3a%2f%2f195.154.225.163%2foperationrobocop%2flists%2fppv%2flist.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.6.Icon">http://195.154.225.163/operationrobocop/icons/RoboLive%20events.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.6.List">plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=C%3a%5cUsers%5cjuan%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.phstreams%5cfanart.jpg&amp;image=http%3a%2f%2fgibraltar.watchkodi.com%2fskullPhoenicIcon.png&amp;name=One242415&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fgibraltar.watchkodi.com%2fmaindir%2fmain.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.6.Icon">http://gibraltar.watchkodi.com/skullPhoenicIcon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSix.5.List">plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=C%3a%5cUsers%5cjuan%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.phstreams%5cfanart.jpg&amp;image=http%3a%2f%2fshanghai.watchkodi.com%2fPhoenix%2520Tv%2520Icon.jpg&amp;name=Phoenix%20TV&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fshanghai.watchkodi.com%2fmaindir%2fmain.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSix.5.Icon">http://shanghai.watchkodi.com/Phoenix%20Tv%20Icon.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSix.6.List">plugin://plugin.video.RobinHood-PPL-List/?fanart=http%3a%2f%2fhdking.square7.ch%2fsplash.png&amp;mode=1&amp;name=English&amp;url=http%3a%2f%2fhdking.square7.ch%2fhdkingenglish.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSix.6.Icon">http://i.imgur.com/RJymlv2.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.1.List">plugin://plugin.program.super.favourites/?label=Tutorials&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper%20Favourites%5CTutorials&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Fuserdata%5CBackgrounds%5CAll+Add-ons%5Cspinztviron.jpg%26_options_sf</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.1.Icon">https://i.ytimg.com/vi/sTom13SdCso/hqdefault.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.2.List">plugin://script.rawmaintenance/?url=url&amp;mode=1&amp;name=Clear+Cache</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.2.Icon">special://home/addons\script.rawmaintenance\media\cache.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.3.List">plugin://script.rawmaintenance/?url=url&amp;mode=3&amp;name=Purge+Packages</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.3.Icon">special://home/addons\script.rawmaintenance\media\packages.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.4.List">plugin://script.rawmaintenance/?url=url&amp;mode=2&amp;name=Delete+Thumbnails</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.4.Icon">special://home/addons\script.rawmaintenance\media\thumbs.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.5.List">plugin://plugin.program.spinztv/?url=https%3A%2F%2Farchive.org%2Fdownload%2Fpremium_20151011_1114%2Fpremium.zip&amp;mode=1&amp;name=Install+Premium+Lite&amp;iconimage=https%3A%2F%2Farchive.org%2Fdownload%2Fpremium_20151011_1114%2Fpremium.png&amp;fanart=https%3A%2F%2Farchive.org%2Fdownload%2Fpremium_20151011_1114%2Fpremium.jpg&amp;description=Updated+10%2F11%2F2015</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.5.Icon">https://archive.org/download/premium_20151011_1114/premium.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.1.List">plugin://plugin.video.bassfox/?fanart=https%3a%2f%2fdl.dropbox.com%2fs%2fnghopyunkpy7c6c%2fSECCIONDEPORTES.jpg&amp;mode=1&amp;name=%5bCOLOR%3dwhite%5d(%c2%af%60%c2%b7.%c2%b8%c2%b8.%c2%b7%3e%3e%5bCOLOR%3dwhite%5d(%c2%af%60%c2%b7.%c2%b8%c2%b8.%c2%b7%3e%3e%5bCOLOR%20deepskyblue%5d%5bB%5d%e2%80%a2%20DEPORTES%5b%2fB%5d%5b%2fCOLOR%5d%3c%3c%c2%b7.%c2%b8%c2%b8.%c2%b7%c2%b4%c2%af)%5b%2fCOLOR%5d%3c%3c%c2%b7.%c2%b8%c2%b8.%c2%b7%c2%b4%c2%af)%5b%2fCOLOR%5d&amp;url=https%3a%2f%2fdl.dropboxusercontent.com%2fs%2f3lotftssq1snbyz%2fdeportes2030bassfoxbackup1.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.1.Icon">https://dl.dropbox.com/s/nghopyunkpy7c6c/SECCIONDEPORTES.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.2.List">plugin://plugin.video.bassfox/?fanart=https%3a%2f%2fdl.dropbox.com%2fs%2fy1lburmyozzxjqq%2fSECCIONPELICULASYSERIES.jpg&amp;mode=1&amp;name=%5bCOLOR%3dwhite%5d(%c2%af%60%c2%b7.%c2%b8%c2%b8.%c2%b7%3e%3e%5bCOLOR%20deepskyblue%5d%5bB%5d%e2%80%a2%20PELICULAS%20Y%20SERIES%2024%20HS%5b%2fB%5d%5b%2fCOLOR%5d%3c%3c%c2%b7.%c2%b8%c2%b8.%c2%b7%c2%b4%c2%af)%5b%2fCOLOR%5d&amp;url=https%3a%2f%2fdl.dropbox.com%2fs%2fmlbsmm9mi3y9305%2fpelicyserie24hs_2080bassfxxclientip%2526.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.2.Icon">https://dl.dropbox.com/s/y1lburmyozzxjqq/SECCIONPELICULASYSERIES.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.3.List">plugin://plugin.video.bassfox/?fanart=https%3a%2f%2fdl.dropbox.com%2fs%2f9ix7vbjuuprwh57%2fseccioncanalesvariados.jpg&amp;mode=1&amp;name=%5bCOLOR%3dwhite%5d(%c2%af%60%c2%b7.%c2%b8%c2%b8.%c2%b7%3e%3e%5bCOLOR%20deepskyblue%5d%5bB%5d%e2%80%a2%20CANALES%20VARIADOS%5b%2fB%5d%5b%2fCOLOR%5d%3c%3c%c2%b7.%c2%b8%c2%b8.%c2%b7%c2%b4%c2%af)%5b%2fCOLOR%5d&amp;url=https%3a%2f%2fdl.dropbox.com%2fs%2fulzg9ir6iifkzal%2fvariosalauit_2320bassfoxclientip%2526.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.3.Icon">https://dl.dropbox.com/s/9ix7vbjuuprwh57/seccioncanalesvariados.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.4.List">plugin://plugin.video.bassfox/?fanart=https%3a%2f%2fdl.dropbox.com%2fs%2fzl384eq7s8inuhf%2fseccionagendadeportiva.jpg&amp;mode=1&amp;name=%5bCOLOR%3dwhite%5d(%c2%af%60%c2%b7.%c2%b8%c2%b8.%c2%b7%3e%3e%5bCOLOR%20deepskyblue%5d%5bB%5d%e2%80%a2%20AGENDA%20DEPORTIVA%5b%2fB%5d%5b%2fCOLOR%5d%3c%3c%c2%b7.%c2%b8%c2%b8.%c2%b7%c2%b4%c2%af)%5b%2fCOLOR%5d&amp;url=https%3a%2f%2fdl.dropbox.com%2fs%2fnrv9ub6e2qzdf4c%2feventos3030bassfxipfound%2526.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.4.Icon">https://dl.dropbox.com/s/zl384eq7s8inuhf/seccionagendadeportiva.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.5.List">plugin://plugin.video.bassfox/?fanart=https%3a%2f%2fdl.dropbox.com%2fs%2f9nhl8arr8isvvfl%2fSECCIONPELICULAS.jpg&amp;mode=1&amp;name=%5bCOLOR%3dwhite%5d(%c2%af%60%c2%b7.%c2%b8%c2%b8.%c2%b7%3e%3e%5bCOLOR%20deepskyblue%5d%5bB%5d%e2%80%a2%20PELICULAS%20ESTRENOS%20CLASICAS%20Y%20A%20PEDIDO%5b%2fB%5d%5b%2fCOLOR%5d%3c%3c%c2%b7.%c2%b8%c2%b8.%c2%b7%c2%b4%c2%af)%5b%2fCOLOR%5d&amp;url=https%3a%2f%2fdl.dropbox.com%2fs%2fy8mfdoiouhen2ka%2fpelicculinasss_2050bassfoxmovies%2524.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.5.Icon">https://dl.dropbox.com/s/9nhl8arr8isvvfl/SECCIONPELICULAS.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.6.List">plugin://plugin.program.super.favourites/?label=Tutorials&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper%20Favourites%5CTutorials&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Fuserdata%5CBackgrounds%5CAll+Add-ons%5Cspinztviron.jpg%26_options_sf</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetTen.6.Icon">https://i.ytimg.com/vi/sTom13SdCso/hqdefault.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.1.List">plugin://plugin.program.super.favourites/?label=Standup&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper%20Favourites%5CStandup&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.program.super.favourites%5Cfanart.jpg%26_options_sf</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.1.Icon">http://s6.postimg.org/pxi8nn25d/standup.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.2.List">plugin://plugin.video.ukturk/?description&amp;iconimage=http%3a%2f%2fmetalkettle.co%2fUKTurk2%2fthumbs%2fUK%20TURK%20classic%20tv.jpg&amp;mode=1&amp;name=Classic%20TV%20Shows&amp;url=http%3a%2f%2fmetalkettle.co%2fUKTurk2%2ftv%20shows%2fIndex.txt</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.2.Icon">http://metalkettle.co/UKTurk2/thumbs/UK TURK classic tv.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.3.List">plugin://plugin.video.bbts/?folder=%2fDOCUMENTARY</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.3.Icon">special://home/addons\plugin.program.super.favourites\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.4.List">plugin://plugin.video.SoloManLists/?fanart=https%3a%2f%2fyt3.ggpht.com%2f-YUHW44PfRLU%2fAAAAAAAAAAI%2fAAAAAAAAAAA%2fTMK9xizbGJU%2fs100-c-k-no%2fphoto.jpg&amp;mode=1&amp;name=%5bCOLOR%20lime%5dSoloMan%20IPTV%20Links%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fbit.ly%2fsolomanchannel</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.4.Icon">https://yt3.ggpht.com/-YUHW44PfRLU/AAAAAAAAAAI/AAAAAAAAAAA/TMK9xizbGJU/s100-c-k-no/photo.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.1.List">plugin://plugin.video.pakindia/?iconimage=http%3a%2f%2fcdnimg.dynns.com%2fiptvpanelnew%2fprog_data%2fthumbs%2fac71e0079799a57cc6616312cbbbaf84arabicBigTV.jpg&amp;mode=1&amp;name=Arabic&amp;url=Arabic</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.1.Icon">http://cdnimg.dynns.com/iptvpanelnew/prog_data/thumbs/ac71e0079799a57cc6616312cbbbaf84arabicBigTV.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.5.List">plugin://plugin.video.ukturk/?description&amp;iconimage=http%3a%2f%2fmetalkettle.co%2fUKTurk2%2fthumbs%2fUK%20TURK%20english%20tv.jpg&amp;mode=1&amp;name=English%20TV&amp;url=http%3a%2f%2fmetalkettle.co%2fUKTurk2%2fEnglishList.txt</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.5.Icon">http://metalkettle.co/UKTurk2/thumbs/UK TURK english tv.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.6.List">plugin://plugin.program.super.favourites/?label=Live TV&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper%20Favourites%5CLive%20TV&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.program.super.favourites%5Cfanart.jpg%26_options_sf</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEleven.6.Icon">http://mainlogos.shadowcrew.info/EX%20YU.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSix.4.List">plugin://plugin.video.adryanlist/?fanart=http%3a%2f%2fi.imgur.com%2fGyK9PGj.jpg&amp;mode=1&amp;name=%5bCOLOR%20lime%5d%e2%80%a2%5b%2fCOLOR%5d%5bCOLOR%20deepskyblue%5d%20%20Internaciones%5b%2fCOLOR%5d%20&amp;url=http%3a%2f%2fadrian.kodistream.info%2fadryan%2finter.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSix.4.Icon">http://i.imgur.com/oxTNPnp.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.1.List">plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fi.imgur.com%2fW7qRvEq.png&amp;image=http%3a%2f%2fi.imgur.com%2fYXaY4BI.png&amp;name=kids%20%26%20animation%201&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2ftuzla.watchkodi.com%2fkids_animation.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.1.Icon">http://i.imgur.com/YXaY4BI.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.2.List">plugin://plugin.program.super.favourites/?label=[COLOR chartreuse]All Kids adds[/COLOR]&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper%20Favourites%5CAll%20Kids%20adds&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.cartoons8%5Cfanart.jpg%26_options_sf</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.2.Icon">special://home/addons\plugin.video.cartoons8\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.3.List">plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=tvshows&amp;fanart=C%3a%5cUsers%5chai82der%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.phstreams%5cfanart.jpg&amp;image=http%3a%2f%2fs20.postimg.org%2foptusf57h%2fkidzone.png&amp;name=Kidzone%20Shortcut&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fzenica.watchkodi.com%2fDirectories%2fKids%2520Directories%2fKidzone%2520Directory.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.3.Icon">http://s20.postimg.org/optusf57h/kidzone.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.4.List">plugin://plugin.video.genesis/?action=movies&amp;url=http%3a%2f%2fapi.themoviedb.org%2f3%2fdiscover%2fmovie%3fapi_key%3d%25s%26with_genres%3d16%26primary_release_date.gte%3d2014-09-07%26primary_release_date.lte%3d2015-09-07%26page%3d1</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.4.Icon">special://home/addons\plugin.video.genesis\resources\media\gone\movieGenres.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.5.List">plugin://plugin.video.genesis/?action=tvshows&amp;url=http%3a%2f%2fapi.themoviedb.org%2f3%2fdiscover%2ftv%3fapi_key%3d%25s%26with_genres%3d16%26air_date.gte%3d2014-09-07%26air_date.lte%3d2015-09-07%26page%3d1</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.5.Icon">special://home/addons\plugin.video.genesis\resources\media\gone\tvGenres.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.6.List">plugin://plugin.video.alarab/?mode=2&amp;name=CARTOON&amp;url=http%3a%2f%2ftv1.alarab.net%2fview-4%2f%25D9%2585%25D8%25B3%25D9%2584%25D8%25B3%25D9%2584%25D8%25A7%25D8%25AA-%25D9%2583%25D8%25B1%25D8%25AA%25D9%2588%25D9%2586</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetNine.6.Icon">http://wadeni.com/images/icons/0alarab-net.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.WeatherScript_Label"></setting>
+        <setting type="string" name="skin.hybrid.dev.LastWeatherView"></setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetThree.5.List">plugin://plugin.program.ump/?content_type=video</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSix.1.List">plugin://plugin.program.super.favourites/?label=Tutorials&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper%20Favourites%5CTutorials&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Fuserdata%5CBackgrounds%5CAll+Add-ons%5Cspinztviron.jpg%26_options_sf</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetSix.2.List">plugin://plugin.video.RobinHood-PPL-List/?fanart=http%3a%2f%2fmainlogos.shadowcrew.info%2fmain%2520background.jpg&amp;mode=1&amp;name=%5bCOLOR%20white%5dAdrian%20List%20(Latino%20America)%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fadryanlist.info</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.2.List">plugin://plugin.video.kidsflix/</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFour.5.List">plugin://plugin.video.zeus/?description&amp;iconimage=http%3a%2f%2fs6.postimg.org%2f62s275eht%2fdisney.png&amp;mode=20&amp;name=%5bCOLOR%20white%5dKIDZ%20%26%20FAMILY%5b%2fCOLOR%5d&amp;url=bDiiCUJL</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.5.List">plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=C%3a%5cUsers%5cjuan%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.phstreams%5cfanart.jpg&amp;image=http%3a%2f%2fshanghai.watchkodi.com%2fPhoenix%2520Tv%2520Icon.jpg&amp;name=Phoenix%20TV&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fshanghai.watchkodi.com%2fmaindir%2fmain.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetFive.3.List">plugin://plugin.video.RobinHood-PPL-List/?fanart=http%3a%2f%2fkodistream.info%2fMainLogos%2fmain%2520background.jpg&amp;mode=1&amp;name=%5bCOLOR%20white%5dNJMSoccer%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fkodistream.info%2fnjmsoccer%2fMain_Menu.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.PowerBtnAction"></setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.1.List">plugin://plugin.video.dextertv/?fanart=http%3a%2f%2fopti786.5gbfree.com%2fthumbs%2ffanart.jpg&amp;mode=1&amp;name=%5bCOLOR%20greenyellow%5d%5bB%5dSPORTS%20CHANNELS%5bCOLOR%20blue%5d%20UPDATED!%5b%2fB%5d%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fdexteriptv.com%2flive%2ftv%2fsp%2525dex.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.2.List">plugin://plugin.video.dextertv/?fanart=http%3a%2f%2fopti786.5gbfree.com%2fthumbs%2ffanart.jpg&amp;mode=1&amp;name=%5bCOLOR%20greenyellow%5d%5bB%5dMOVIE%20CHANNELS%5bCOLOR%20blue%5d%20UPDATED!%5b%2fB%5d%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fdexteriptv.com%2flive%2ftv%2fmov%2525dex.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.StickyMenu.3.List">plugin://plugin.video.dextertv/?fanart=http%3a%2f%2fopti786.5gbfree.com%2fthumbs%2ffanart.jpg&amp;mode=1&amp;name=%5bCOLOR%20greenyellow%5d%5bB%5dENTERTAINMENT%5bCOLOR%20blue%5d%20UPDATED!%5b%2fB%5d%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fdexteriptv.com%2flive%2ftv%2fent%2525dex.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.Home_Custom_Back_TV_Folder"></setting>
+        <setting type="string" name="skin.hybrid.dev.lyricscriptpath"></setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.6.List">plugin://plugin.program.totalinstaller/?url=none&amp;mode=wipe_xbmc&amp;name=Wipe+My+Install+%28Fresh+Start%29&amp;fanart=C%3A%5CUsers%5Cjuan%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.program.totalinstaller%5Cfanart.jpg&amp;video=&amp;description=</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetEight.6.Icon">special://home/addons\plugin.program.totalinstaller\icon_menu.png</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetOne.2.List">plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fs20.postimg.org%2fw4r6o7t3x%2fPhoenix_Fanart.png&amp;image=http%3a%2f%2fshanghai.watchkodi.com%2fSections%2fWoody%2fWoody.jpg&amp;name=Woody&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fshanghai.watchkodi.com%2fSections%2fWoody%2fWoody.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.AddonSetOne.5.List">plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=C%3a%5cUsers%5cjuan%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.phstreams%5cfanart.jpg&amp;image=http%3a%2f%2fshanghai.watchkodi.com%2fPhoenix%2520Tv%2520Icon.jpg&amp;name=Phoenix%20TV&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fshanghai.watchkodi.com%2fmaindir%2fmain.xml</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.9.List">plugin://plugin.video.pakindia/?iconimage=http%3a%2f%2fcdnimg.dynns.com%2fiptvpanelnew%2fprog_data%2fthumbs%2fac71e0079799a57cc6616312cbbbaf84arabicBigTV.jpg&amp;mode=1&amp;name=Arabic&amp;url=Arabic</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.9.Icon">http://cdnimg.dynns.com/iptvpanelnew/prog_data/thumbs/ac71e0079799a57cc6616312cbbbaf84arabicBigTV.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.3.List">plugin://plugin.video.Test/?fanart=image%3a%2f%2fhttp%253a%252f%252fwww.tamddon.com%252fwp-content%252fuploads%252f2014%252f02%252f%2525D8%2525AA%2525D9%252584%2525D9%252581%2525D8%2525B2%2525D9%25258A%2525D9%252588%2525D9%252586.jpg%2f&amp;mode=53&amp;name=%5bCOLOR%20green%5d%5bB%5dArabic%20LIVE%20TV%5b%2fB%5d%5b%2fCOLOR%5d&amp;url=plugin%3a%2f%2fplugin.video.gul%2f%3furl%3dhttp%253A%252F%252Fpastebin.com%252Fraw.php%253Fi%253DAH2EUHYY%26mode%3d4%26name%3d%255BCOLOR%2bgreen%255D%255BB%255DArabic%2bLIVE%2bTV%255B%252FB%255D%255B%252FCOLOR%255D%26iconimage%3dhttp%253A%252F%252Fwww.tamddon.com%252Fwp-content%252Fuploads%252F2014%252F02%252F%2525D8%2525AA%2525D9%252584%2525D9%252581%2525D8%2525B2%2525D9%25258A%2525D9%252588%2525D9%252586.jpg%26description%3d</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.3.Icon">image://http%3a%2f%2fwww.tamddon.com%2fwp-content%2fuploads%2f2014%2f02%2f%25D8%25AA%25D9%2584%25D9%2581%25D8%25B2%25D9%258A%25D9%2588%25D9%2586.jpg/</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.4.List">plugin://plugin.video.shahidmbcnet/?mode=14&amp;name=Shahid%20Live&amp;url=CCats</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.4.Icon">special://home/addons/plugin.video.shahidmbcnet/resources/images/Network-1-icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.5.List">plugin://plugin.video.HushamLists/?fanart=https%3a%2f%2fraw.githubusercontent.com%2fhmemar%2fhusham.com%2fmaster%2fimages%2fhushamlistlogo.jpg&amp;mode=1&amp;name=%5bCOLOR%20lime%5dHusham%20Arabic%20TV%5b%2fCOLOR%5d&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fhmemar%2fhusham.com%2fmaster%2fLists%2fArabicIPTV.m3u</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFour.5.Icon">https://i.ytimg.com/vi/5XiG8R7ULNc/hqdefault.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.3.List">plugin://plugin.program.super.favourites/?label=DUTCH+CLOUD+TV&amp;mode=650&amp;cmd=ActivateWindow%2810025%2C%22plugin%3A%2F%2Fplugin.video.cloudtv%3Fsf_options%3Dfanart%253Dspecial%253A%252F%252Fhome%252Faddons%255Cplugin.video.cloudtv%255Cfanart.jpg%2526desc%253Dwww.dutchcloudtv.com%2526_options_sf%22%2Creturn%29&amp;image=special%3A%2F%2Fhome%2Faddons%5Cplugin.video.cloudtv%5Cicon.png&amp;fanart=special%3A%2F%2Fhome%2Faddons%5Cplugin.video.cloudtv%5Cfanart.jpg&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.cloudtv%5Cfanart.jpg%26winID%3D10025%26_options_sf</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetFive.3.Icon">special://home/addons\plugin.video.cloudtv\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSix.2.List">plugin://plugin.video.ukturk/?description&amp;iconimage=http%3a%2f%2fmetalkettle.co%2fUKTurk2%2fthumbs%2fUK%20TURK%20english%20tv.jpg&amp;mode=1&amp;name=English%20TV&amp;url=http%3a%2f%2fmetalkettle.co%2fUKTurk2%2fEnglishList.txt</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSix.2.Icon">http://metalkettle.co/UKTurk2/thumbs/UK TURK english tv.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSix.3.List">plugin://plugin.video.channelpear/</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSix.3.Icon">special://home/addons\plugin.video.channelpear\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSeven.4.List">plugin://plugin.program.super.favourites/?label=jafaer-tv.wizard0.2&amp;mode=660&amp;cmd=ActivateWindow%2810025%2C%22plugin%3A%2F%2Fplugin.program.jafaer-tv.wizard0.2%3Fsf_options%3Ddesc%253Dthis%2Bis%2Btest%2B2%2Bfor%2BArabic%2Bwizard%2526_options_sf%22%2Creturn%29&amp;image=special%3A%2F%2Fhome%2Faddons%5Cplugin.program.jafaer-tv.wizard0.2%5Cicon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSeven.4.Icon">special://home/addons\plugin.program.jafaer-tv.wizard0.2\icon.png</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSeven.3.List">plugin://plugin.video.hubmaintenance/?url=url&amp;mode=3&amp;name=Delete+My+Cache&amp;iconimage=http%3A%2F%2Fxty.me%2Fxunitytalk%2Fmaintenance_do_not_touch%2Fhubmaintenance%2Fxunity_images%2Fmaintenance.jpg&amp;fanart=http%3A%2F%2Fxty.me%2Fxunitytalk%2Fmaintenance_do_not_touch%2Fhubmaintenance%2Fxunity_images%2Ffanart%2Fbeginners.jpg&amp;description=Safely+delete+all+cache+from+plugins&amp;special=&amp;sf_options=winID%3D10025%26_options_sf</setting>
+        <setting type="string" name="skin.hybrid.dev.SubSetSeven.3.Icon">http://xty.me/xunitytalk/maintenance_do_not_touch/hubmaintenance/xunity_images/maintenance.jpg</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.5.List">plugin://plugin.video.pakindia/?iconimage=http%3a%2f%2fcdnimg.dynns.com%2fiptvpanelnew%2fprog_data%2fthumbs%2fac71e0079799a57cc6616312cbbbaf84arabicBigTV.jpg&amp;mode=1&amp;name=Arabic&amp;url=Arabic</setting>
+        <setting type="string" name="skin.hybrid.dev.HomeMenu.5.Icon">http://cdnimg.dynns.com/iptvpanelnew/prog_data/thumbs/ac71e0079799a57cc6616312cbbbaf84arabicBigTV.jpg</setting>
+    </skinsettings>
+    <viewstates>
+        <musicfiles>
+            <viewmode>720896</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </musicfiles>
+        <musiclastfm>
+            <viewmode>65536</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </musiclastfm>
+        <musicnavalbums>
+            <viewmode>65536</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </musicnavalbums>
+        <musicnavartists>
+            <viewmode>65536</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </musicnavartists>
+        <musicnavsongs>
+            <viewmode>65536</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </musicnavsongs>
+        <pictures>
+            <viewmode>720896</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </pictures>
+        <programs>
+            <viewmode>720896</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </programs>
+        <videofiles>
+            <viewmode>66036</viewmode>
+            <sortmethod>0</sortmethod>
+            <sortorder>0</sortorder>
+            <sortattributes>0</sortattributes>
+        </videofiles>
+        <videonavactors>
+            <viewmode>65536</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </videonavactors>
+        <videonavepisodes>
+            <viewmode>720896</viewmode>
+            <sortmethod>21</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </videonavepisodes>
+        <videonavgenres>
+            <viewmode>65536</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </videonavgenres>
+        <videonavmusicvideos>
+            <viewmode>65536</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </videonavmusicvideos>
+        <videonavseasons>
+            <viewmode>65536</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </videonavseasons>
+        <videonavtitles>
+            <viewmode>65536</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </videonavtitles>
+        <videonavtvshows>
+            <viewmode>65536</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </videonavtvshows>
+        <videonavyears>
+            <viewmode>65536</viewmode>
+            <sortmethod>1</sortmethod>
+            <sortorder>1</sortorder>
+            <sortattributes>0</sortattributes>
+        </videonavyears>
+    </viewstates>
+</settings>

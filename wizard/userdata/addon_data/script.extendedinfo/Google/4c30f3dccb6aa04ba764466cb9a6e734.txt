@@ -1,0 +1,1 @@
+["y", ["youtube", "young thug", "yoga", "yg", "yogscast", "young thug best friend", "young thug check", "yelawolf", "you know you like it dj snake remix alunageorge", "you"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

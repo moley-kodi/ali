@@ -1,0 +1,5 @@
+#LWP-Cookies-2.0
+Set-Cookie3: __cfduid=d4f81684509de5996db8f7c7d7476cbef1444287996; path="/"; domain=".afdah.org"; path_spec; domain_dot; expires="2016-10-07 07:06:36Z"; HttpOnly=None; version=0
+Set-Cookie3: begin_referer="https%3A%2F%2Fafdah.org%2Fresults%3Fq%3DThe%2BMartian"; path="/"; domain="afdah.org"; discard; version=0
+Set-Cookie3: ci_session="a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%226d7a7e7a461df287ea3a593d0aab1261%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A15%3A%22108.162.216.191%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A82%3A%22Mozilla%2F5.0+%28compatible%2C+MSIE+11%2C+Windows+NT+6.3%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1444288165%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7Dba112cf8ac2a5ba07b458e9c8ceb48fb"; path="/"; domain="afdah.org"; path_spec; expires="2017-10-07 07:09:25Z"; version=0
+Set-Cookie3: prounder=1; path="/"; domain="afdah.org"; expires="2015-10-08 07:12:39Z"; version=0

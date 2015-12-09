@@ -1,0 +1,20 @@
+<settings>
+	<setting id="epgPath" value="special://home/userdata/addon_data/plugin.video.israelive/guide.xml" />
+	<setting id="epgTSOverride" value="false" />
+	<setting id="m3uUrl" value="http://pastebin.com/dZDNhzq7" />
+	<setting id="epgUrl" value="" />
+	<setting id="logoPathType" value="0" />
+	<setting id="startNum" value="1" />
+	<setting id="m3uCache" value="true" />
+	<setting id="m3uPath" value="special://home/userdata/addon_data/plugin.video.israelive/iptv.m3u" />
+	<setting id="logoFromEpg" value="0" />
+	<setting id="epgTimeShift" value="0" />
+	<setting id="epgPathType" value="0" />
+	<setting id="m3uPathType" value="0" />
+	<setting id="logoPath" value="special://home/userdata/addon_data/plugin.video.israelive/logos" />
+	<setting id="sep1" value="" />
+	<setting id="logoBaseUrl" value="" />
+	<setting id="sep3" value="" />
+	<setting id="epgCache" value="true" />
+	<setting id="sep2" value="" />
+</settings>

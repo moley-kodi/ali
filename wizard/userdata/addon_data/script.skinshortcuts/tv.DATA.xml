@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>plugin.video.adryanlist/</defaultID>
+		<label>AdryanList</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.adryanlist\icon.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.adryanlist/",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>bbciplayer</defaultID>
+		<label>BBC iPlayer</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(10025,"plugin://plugin.video.bbciplayer/?IPID&amp;description&amp;iconimage&amp;mode=2&amp;name=Live&amp;url=url",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>bbts</defaultID>
+		<label>BBTS</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(10025,"plugin://plugin.video.bbts/?folder=%2fWORLD",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>crusader88</defaultID>
+		<label>Crusader88</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://alaska.watchkodi.com/crusader88A.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=dmode&amp;audio=0&amp;content=0&amp;fanart=C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.phstreams%5cfanart.jpg&amp;image=http%3a%2f%2falaska.watchkodi.com%2fcrusader88A.png&amp;name=Crusader88&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2falaska.watchkodi.com%2fmaindir%2fmain.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.dextertv/</defaultID>
+		<label>dexterTV</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.dextertv\icon.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.dextertv/",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>dijentertainments</defaultID>
+		<label>DIJ Entertainments</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://dij.zombie-wizard.uk/pics/UKTV.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.dijentertainments/?fanart&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20green%5d%20Uk%20Tv%20%5b%2fCOLOR%5d%5b%2fB%5d%20&amp;url=http%3a%2f%2fdij.zombie-wizard.uk%2flists%2fxml%2fiptv%2fuktv.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.F.T.V/</defaultID>
+		<label>FilmOn.TV</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.F.T.V\icon.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.F.T.V/",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.freestreams/</defaultID>
+		<label>Free Streams</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.freestreams\icon.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.freestreams/",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>irishtv</defaultID>
+		<label>Irish TV</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.irish.tv\resources\media/RTE_Live.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.irish.tv/?description&amp;iconimage=C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.irish.tv%5cresources%5cmedia%2fRTE_Live.jpg&amp;mode=20&amp;name=Live&amp;url=url",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>"script.navi-x/?content_type=video"</defaultID>
+		<label>Navi-X</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\script.navi-x\icon.png</thumb>
+		<action>RunScript("script.navi-x/?content_type=video")</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>pakindialivearabic</defaultID>
+		<label>Pak India Live Arabic</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://cdnimg.dynns.com/iptvpanelnew/prog_data/thumbs/ac71e0079799a57cc6616312cbbbaf84arabicBigTV.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.pakindia/?iconimage=http%3a%2f%2fcdnimg.dynns.com%2fiptvpanelnew%2fprog_data%2fthumbs%2fac71e0079799a57cc6616312cbbbaf84arabicBigTV.jpg&amp;mode=1&amp;name=Arabic&amp;url=Arabic",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>pakindialivebangladesh</defaultID>
+		<label>Pak India Live Bangladesh</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://cdnimg.dynns.com/iptvpanelnew/prog_data/thumbs/a8badd37c221a3f19d9ad0ac2196849aBangladeshBigTV.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.pakindia/?iconimage=http%3a%2f%2fcdnimg.dynns.com%2fiptvpanelnew%2fprog_data%2fthumbs%2fa8badd37c221a3f19d9ad0ac2196849aBangladeshBigTV.jpg&amp;mode=1&amp;name=Bangladesh&amp;url=Bangladesh",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>pakindialiveindia</defaultID>
+		<label>Pak India Live India </label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://cdnimg.dynns.com/iptvpanelnew/prog_data/thumbs/0d1a9651497a38d8b1c3871c84528bd4indiaBigTV.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.pakindia/?iconimage=http%3a%2f%2fcdnimg.dynns.com%2fiptvpanelnew%2fprog_data%2fthumbs%2f0d1a9651497a38d8b1c3871c84528bd4indiaBigTV.jpg&amp;mode=1&amp;name=Indian&amp;url=Indian",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>pakindialivepakistan</defaultID>
+		<label>Pak India Live Pakistan</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://cdnimg.dynns.com/iptvpanelnew/prog_data/thumbs/b20706935de35bbe643733f856d9e5d6pakistanBigTV.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.pakindia/?iconimage=http%3a%2f%2fcdnimg.dynns.com%2fiptvpanelnew%2fprog_data%2fthumbs%2fb20706935de35bbe643733f856d9e5d6pakistanBigTV.jpg&amp;mode=1&amp;name=Pakistan&amp;url=Pakistan",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>pakindialiveuk</defaultID>
+		<label>Pak India Live UK</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://cdnimg.dynns.com/iptvpanelnew/prog_data/thumbs/3487596cf54cb393afddaa965714ab1fukBigTV.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.pakindia/?iconimage=http%3a%2f%2fcdnimg.dynns.com%2fiptvpanelnew%2fprog_data%2fthumbs%2f3487596cf54cb393afddaa965714ab1fukBigTV.jpg&amp;mode=1&amp;name=Uk%20Channels&amp;url=Uk%20Channels",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>phoenixtv</defaultID>
+		<label>Phoenix TV</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://shanghai.watchkodi.com/Phoenix%20Tv%20Icon.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.phstreams%5cfanart.jpg&amp;image=http%3a%2f%2fshanghai.watchkodi.com%2fPhoenix%2520Tv%2520Icon.jpg&amp;name=Phoenix%20TV&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fshanghai.watchkodi.com%2fmaindir%2fmain.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>sportsdevil</defaultID>
+		<label>SportsDevil</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.SportsDevil\resources\images\folder.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.SportsDevil/?item=title%3dLive%2bTV%26url%3dcustoms.cfg%26definedIn%3dmainMenu.cfg%26director%3dSportsDevil%26genre%3dLive%2bTV%26type%3drss%26icon%3d&amp;mode=1",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>ukturksplaylists</defaultID>
+		<label>UK Turks Playlists</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://metalkettle.co/UKTurk2/thumbs/UK TURK english tv.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.ukturk/?description&amp;iconimage=http%3a%2f%2fmetalkettle.co%2fUKTurk2%2fthumbs%2fUK%20TURK%20english%20tv.jpg&amp;mode=1&amp;name=English%20TV&amp;url=http%3a%2f%2fmetalkettle.co%2fUKTurk2%2fEnglishList.txt",return)</action>
+	</shortcut>
+</shortcuts>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Movies</label>
+		<label2>Video Add-On</label2>
+		<icon>special://skin/backgrounds/Movies.jpg</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.genesis%5cresources%5cmedia%5cmetro%5cmovies.jpg/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=movieNavigator",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>TV Shows</label>
+		<label2>Video Add-On</label2>
+		<icon>special://skin/backgrounds/TVShows.jpg</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.genesis%5cresources%5cmedia%5cmetro%5ctvshows.jpg/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=tvNavigator",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Channels</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.genesis%5cresources%5cmedia%5cmetro%5cchannels.jpg/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=channels",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Latest Movies</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.genesis%5cresources%5cmedia%5cmetro%5cmoviesAdded.jpg/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=movieWidget",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Latest Episodes</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.genesis%5cresources%5cmedia%5cmetro%5ccalendarsAdded.jpg/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=tvWidget",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>TV Calendar</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.genesis%5cresources%5cmedia%5cmetro%5ccalendar.jpg/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=calendars",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Tools</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.genesis%5cresources%5cmedia%5cmetro%5ctools.jpg/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=toolNavigator",return)</action>
+	</shortcut>
+</shortcuts>

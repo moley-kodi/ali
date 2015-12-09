@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Highlights</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.SportsDevil%5cresources%5cimages%5chighlights2.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.SportsDevil/?mode=1&amp;item=title%3DHighlights%26url%3Dhighlights.cfg%26definedIn%3DmainMenu.cfg%26director%3DSportsDevil%26genre%3DHighlights%26type%3Drss%26icon%3DC%253A%255CUsers%255CAqibA%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Chighlights2.png",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Live Sports</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.SportsDevil%5cresources%5cimages%5clivesports.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.SportsDevil/?mode=1&amp;item=title%3DLive%2BSports%26url%3Dlivesports.cfg%26definedIn%3DmainMenu.cfg%26director%3DSportsDevil%26genre%3DLive%2BSports%26type%3Drss%26icon%3DC%253A%255CUsers%255CAqibA%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Clivesports.png",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Sports TV</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.SportsDevil%5cresources%5cimages%5cstation.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.SportsDevil/?mode=1&amp;item=title%3DSports%2BTV%26url%3Dtv.cfg%26definedIn%3DmainMenu.cfg%26director%3DSportsDevil%26genre%3DTV%26type%3Drss%26icon%3DC%253A%255CUsers%255CAqibA%255CAppData%255CRoaming%255CKodi%255Caddons%255Cplugin.video.SportsDevil%255Cresources%255Cimages%255Cstation.png",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Live TV</label>
+		<label2>Video Add-On</label2>
+		<icon>special://skin/backgrounds/Tv.jpg</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.SportsDevil%5cresources%5cimages%5cfolder.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.SportsDevil/?mode=1&amp;item=title%3DLive%2BTV%26url%3Dcustoms.cfg%26definedIn%3DmainMenu.cfg%26director%3DSportsDevil%26genre%3DLive%2BTV%26type%3Drss%26icon%3D",return)</action>
+	</shortcut>
+</shortcuts>

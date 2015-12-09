@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Movies</label>
+		<label2>Video Add-On</label2>
+		<icon>special://skin/backgrounds/Movies.jpg</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.salts.themepak%5cart%5cthemes%5cSimply%20Elegant%5cmovies.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.salts/?section=Movies&amp;mode=browse",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>TV Shows</label>
+		<label2>Video Add-On</label2>
+		<icon>special://skin/backgrounds/TVShows.jpg</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.salts.themepak%5cart%5cthemes%5cSimply%20Elegant%5ctelevision.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.salts/?section=TV&amp;mode=browse",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Settings</label>
+		<label2>Video Add-On</label2>
+		<icon>special://skin/backgrounds/Settings.jpg</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.salts.themepak%5cart%5cthemes%5cSimply%20Elegant%5csettings.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.salts/?mode=settings",return)</action>
+	</shortcut>
+</shortcuts>

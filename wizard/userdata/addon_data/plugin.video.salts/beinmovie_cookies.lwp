@@ -1,0 +1,4 @@
+#LWP-Cookies-2.0
+Set-Cookie3: PHPSESSID=rgc8ua2nt99vetu28gcutqv4i3; path="/"; domain="beinmovie.com"; path_spec; expires="2015-10-24 23:06:37Z"; version=0
+Set-Cookie3: lang=en; path="/"; domain="beinmovie.com"; path_spec; expires="2016-10-07 07:06:37Z"; version=0
+Set-Cookie3: watchedMovies="1097%2C"; path="/"; domain="beinmovie.com"; discard; version=0

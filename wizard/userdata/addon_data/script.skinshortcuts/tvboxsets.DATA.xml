@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>a-z</defaultID>
+		<label>A-Z</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.mdws\resources\art\mdws.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.mdws/?mode=7&amp;name=%5bB%5d%5bCOLOR%20yellow%5dA-Z%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2fwatchseries.vc%2fseries",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>airingtoday</defaultID>
+		<label>Airing today</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.genesis\resources\media\metro\tvshows.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=tvshows&amp;url=airing",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>currenttvshows</defaultID>
+		<label>Current TV Shows</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://s5.postimg.org/6ly9gwsw7/Current_TV_shows.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=http%3a%2f%2fs5.postimg.org%2fn5fv921c7%2fFan_art.png&amp;image=http%3a%2f%2fs5.postimg.org%2f6ly9gwsw7%2fCurrent_TV_shows.jpg&amp;name=%5bCOLOR%20yellow%5dCurrent%20TV%20Shows%5b%2fCOLOR%5d&amp;playable=false&amp;tvshow=0&amp;url=http%3a%2f%2fyork.watchkodi.com%2fPlaylists%2fTV.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>dijentertainments</defaultID>
+		<label>DIJ Entertainments</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>http://dij.zombie-wizard.uk/pics/tvshows.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.dijentertainments/?fanart&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20green%5d%20Tv%20Shows%20%20%5b%2fCOLOR%5d%20%5bCOLOR%20red%5d%20ADDING%20CONTENT%5b%2fCOLOR%5d%20%5b%2fB%5d&amp;url=http%3a%2f%2fdij.zombie-wizard.uk%2flists%2fxml%2ftvshows%2ftvshows.xml",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>genres</defaultID>
+		<label>Genres</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.genesis\resources\media\metro\tvGenres.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=tvGenres",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>highlyrated</defaultID>
+		<label>Highly Rated</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.genesis\resources\media\metro\tvshowsRating.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=tvshows&amp;url=rating",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>latestadded</defaultID>
+		<label>Latest Added</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.tvonlineER/icons/icon.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.tvonlineER/?mode=GetTitles&amp;section=ALL&amp;url=http%3a%2f%2ftvonline.tw%2f%2flatest-added%2f",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>latestepisodes</defaultID>
+		<label>Latest Episodes</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.genesis\resources\media\metro\calendarsAdded.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=calendar&amp;url=added",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>mostpopular</defaultID>
+		<label>Most Popular</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.genesis\resources\media\metro\tvshowsPopular.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=tvshows&amp;url=popular",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>mostvoted</defaultID>
+		<label>Most Voted</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.genesis\resources\media\metro\tvshowsViews.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=tvshows&amp;url=views",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>networks</defaultID>
+		<label>Networks</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.genesis\resources\media\metro\tvshows.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=tvNetworks",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>newestepisodesaddedthisweek</defaultID>
+		<label>Newest Episodes Added This Week</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.mdws\resources\art\mdws.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.mdws/?mode=9&amp;name=%5bB%5d%5bCOLOR%20yellow%5dNewest%20Episodes%20Added%20This%20Week%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2fwatchseries.vc%2flatest",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>colorblue-b-newepisodes-b-color</defaultID>
+		<label>[COLOR blue][B]New Episodes[/B] [/COLOR]&gt;&gt;</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.tvonlineER/icons/icon.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.tvonlineER/?mode=GetTitles5&amp;section=ALL&amp;url=http%3a%2f%2ftvonline.tw%2f%2fnew-episodes%2f",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>newtvshows</defaultID>
+		<label>New TV Shows</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.genesis\resources\media\metro\tvshows.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=tvshows&amp;url=premiere",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>peoplewatching</defaultID>
+		<label>People Watching</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.genesis\resources\media\metro\tvshowsTrending.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=tvshows&amp;url=trending",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>popularepisodesaddedthisweek</defaultID>
+		<label>Popular Episodes Added This Week</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.mdws\resources\art\mdws.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.mdws/?mode=10&amp;name=%5bB%5d%5bCOLOR%20yellow%5dPopular%20Episodes%20Added%20This%20Week%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2fwatchseries.vc%2fnew",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>popular</defaultID>
+		<label>Popular</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.tvonlineER/icons/icon.png</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.tvonlineER/?mode=GetTitles&amp;section=ALL&amp;url=http%3a%2f%2ftvonline.tw%2f%2fmost-popular%2f",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>returningtvshows</defaultID>
+		<label>Returning TV Shows</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.genesis\resources\media\metro\tvshowsActive.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=tvshows&amp;url=active",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>year</defaultID>
+		<label>Year</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/addons\plugin.video.genesis\resources\media\metro\tvshows.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=tvYears",return)</action>
+	</shortcut>
+</shortcuts>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>BBC iPlayer</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.bbciplayer%5cicon.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.bbciplayer/?url=http%3A%2F%2Fwww.bbc.co.uk%2Fiplayer%2Fgroup%2Fmost-popular&amp;mode=10&amp;name=Most+Popular&amp;iconimage=&amp;description=&amp;IPID=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Irish TV Catchup</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.irish.tv%5cicon.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.irish.tv/?url=url&amp;mode=21&amp;name=Catchup&amp;iconimage=&amp;description=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Project Free TV Catchup</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.projectfreetv%2ficons%2fTV_Shows.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.projectfreetv/?section=tv&amp;mode=tv",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.SoapCatchup</defaultID>
+		<label>Soap Catchup</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.SoapCatchup%5cicon.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.SoapCatchup",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.welovesoaps</defaultID>
+		<label>We Love Soaps</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cAqibA%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.welovesoaps%5cicon.png/</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.welovesoaps",return)</action>
+	</shortcut>
+</shortcuts>

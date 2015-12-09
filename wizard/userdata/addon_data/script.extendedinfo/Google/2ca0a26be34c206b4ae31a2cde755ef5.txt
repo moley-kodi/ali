@@ -1,0 +1,1 @@
+["yea", ["years and years", "yeah usher", "years and years king", "yeah yeah yeahs", "years and years shine", "year 3000", "yeah 3x chris brown", "yeah yeah yeahs maps", "years and years desire", "yeah joe nichols"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

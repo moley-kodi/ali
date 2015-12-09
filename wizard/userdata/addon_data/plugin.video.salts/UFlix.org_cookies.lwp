@@ -1,0 +1,4 @@
+#LWP-Cookies-2.0
+Set-Cookie3: __cfduid=d3a1ab0525c2ac61c03dea01b0f8c6ed11444287996; path="/"; domain=".uflix.is"; path_spec; domain_dot; expires="2016-10-07 07:06:36Z"; HttpOnly=None; version=0
+Set-Cookie3: PHPSESSID=41a6d163a0c66a500c41cfc36a5ff06d; path="/"; domain="uflix.me"; path_spec; discard; version=0
+Set-Cookie3: PHPSESSID=16b6c4ea537e2835c54148b655febdd2; path="/"; domain="www.uflix.is"; path_spec; discard; version=0

@@ -1,0 +1,11 @@
+<settings>
+    <setting id="AdditionalRandomTime" value="0" />
+    <setting id="EnableTransitions" value="true" />
+    <setting id="LockPreset" value="false" />
+    <setting id="RandomPresets" value="true" />
+    <setting id="ShowAudioAnalysis" value="false" />
+    <setting id="ShowDebugConsole" value="false" />
+    <setting id="ShowFPS" value="false" />
+    <setting id="StopFirstPreset" value="false" />
+    <setting id="TimeBetweenPresets" value="0" />
+</settings>

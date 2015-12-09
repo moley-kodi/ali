@@ -1,0 +1,53 @@
+{
+  "fullGuide": {
+    "lastModified": "1447556288", 
+    "refresh": 0, 
+    "urls": [
+      "sefm0Z97eLiuvaHe2pR9rY98u6W1", 
+      "sefm0Z97eLiuvaHe2pR9j8K4ksGj", 
+      "sefm0Z97eLiuvaHe2pR9rqKvqrnr", 
+      "sefm0Z97eLiuvaHe2pR9k8C1v6na", 
+      "sefm0Z97eLiuvaHe2pR9lYa6f9fq", 
+      "sefm0Z97eLiuvaHe2pR9r4qfjrfn", 
+      "sefm0Z97eLiuvaHe2pR9k5u6jcfe", 
+      "sefm0Z97eLiuvaHe2pR9lqy8l9zq", 
+      "sefm0Z97eLiuvaHe2pR9msKvv-nc", 
+      "sefm0Z97eLiuvaHe2pR9mJ5-r-3U", 
+      "sefm0Z97eLiuvaHe2pR9oKqQnMjC", 
+      "sefm0Z97eLiuvaHe2pR9oKqRf7-9"
+    ]
+  }, 
+  "remoteSettings": {
+    "lastModified": "1447593314", 
+    "refresh": 12, 
+    "urls": [
+      "sefm0Z97eLiuvaHe2pR9j7mfktng", 
+      "sefm0Z97eLiuvaHe2pR9kpmGjMfG", 
+      "sefm0Z97eLiuvaHe2pR9kqyGlNvn", 
+      "sefm0Z97eLiuvaHe2pR9sZ6xoqvr", 
+      "sefm0Z97eLiuvaHe2pR9k859mKa5", 
+      "sefm0Z97eLiuvaHe2pR9mZqWnuGi", 
+      "sefm0Z97eLiuvaHe2pR9tMWzk82o", 
+      "sefm0Z97eLiuvaHe2pR9m62Twr6_"
+    ]
+  }, 
+  "UA": {
+    "lastModified": "1442215444", 
+    "urls": [
+      "sefm0Z97eLepr6He2pS_rcuGvg==", 
+      "sefm0Z97eMBzsOahl8qSsw==", 
+      "sefm0Z97eMdzsOahmda6uMs="
+    ], 
+    "refresh": 0
+  }, 
+  "plx": {
+    "lastModified": "1447487982", 
+    "refresh": 0, 
+    "urls": [
+      "sefm0Z97eLiuvaHe2pR9gLi-r9nT", 
+      "sefm0Z97eLiuvaHe2pR9v8yylKvn", 
+      "sefm0Z97eLiuvaHe2pR9or6Jwdqm", 
+      "sefm0Z97eLiuvaHe2pR9mbqctr7A"
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>HD SD CAM</label>
+		<label2>Custom shortcut</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media\MOVIES\MOVIES TBE 5.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.salts/?mode=trending&amp;section=Movies",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>TV Boxsets</label>
+		<label2>Custom shortcut</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media\BOXSETS\TV SHOWS TBE 2.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.salts/?section=TV&amp;mode=trending",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>TV</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media\TV\TV TBE 1.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.israelive/?url=&amp;mode=2&amp;name=%5BCOLOR+blue%5D%5BB%5D%5BEntertainment+-+%D7%91%D7%99%D7%93%D7%95%D7%A8%5D%5B%2FB%5D%5B%2FCOLOR%5D&amp;iconimage=http%3A%2F%2Fdigitalmediafilms.webs.com%2FVariety%2520of%2520Your%2520Favortie%2520Channels.jpg&amp;description=&amp;displayname=10087&amp;categoryid=9999",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Catch Up</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media\CATCHUP TV\CATCH UP TBE 3.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=calendars",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Sports TV</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media\SPORTS\SPORTS TBE 10.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.phstreams/?name=Sports&amp;url=http%3A%2F%2Fshanghai.watchkodi.com%2FDirectories%2FSports.xml&amp;audio=0&amp;image=http%3A%2F%2Fs20.postimg.org%2Fy47sfmnfh%2FSports.png&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Fw4r6o7t3x%2FPhoenix_Fanart.png&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=ndmode",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>4Kidz</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media\KIDS\KIDS TBE 2.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis/?action=movies&amp;url=http%3A%2F%2Fapi.themoviedb.org%2F3%2Fdiscover%2Fmovie%3Fapi_key%3D%25s%26with_genres%3D16%26primary_release_date.gte%3D2014-11-02%26primary_release_date.lte%3D2015-11-02%26page%3D1",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.genesis</defaultID>
+		<label>Genesis</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media\GENESIS\GENESIS TBE 1.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.genesis",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.youtube/channel/UCr_wSx5sZh5ydPzf7jOS7ZQ/</defaultID>
+		<label>Kodi Tube</label>
+		<label2>Favourite</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media\KODI TUBE\KODI TUBE TBE 1.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.youtube/channel/UCr_wSx5sZh5ydPzf7jOS7ZQ/",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.salts</defaultID>
+		<label>Salts</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media\SALTS\SALTS TBE 1.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.salts",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.SportsDevil</defaultID>
+		<label>SportsDevil</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media\SD\SD Sports 1.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.SportsDevil",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.mutttsnutz</defaultID>
+		<label>The Mutts Nuts</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media\MUTTS NUTS\Mutts Nuts TBE 1.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.mutttsnutz",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.imdb.trailers</defaultID>
+		<label>Trailers</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://home/media\TRAILERS\TRAILER TBE 2.jpg</thumb>
+		<action>ActivateWindow(10025,"plugin://plugin.video.imdb.trailers",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>movies</defaultID>
+		<label>342</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/backgrounds/Movies.jpg</icon>
+		<thumb />
+		<action>ActivateWindow(VideoLibrary,MovieTitles,return)</action>
+		<visible>!Skin.HasSetting(plexbmc) + Library.HasContent(Movies)</visible>
+	</shortcut>
+	<shortcut>
+		<defaultID>tvshows</defaultID>
+		<label>20343</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/backgrounds/TVShows.jpg</icon>
+		<thumb />
+		<action>ActivateWindow(VideoLibrary,TVShowTitles,return)</action>
+		<visible>!Skin.HasSetting(plexbmc) + Library.HasContent(TVShows)</visible>
+	</shortcut>
+	<shortcut>
+		<defaultID>31972</defaultID>
+		<label>$SKIN[31972|skin.nebula|Clips]</label>
+		<label2>Common Shortcut</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(10501,"videodb://musicvideos/")</action>
+		<visible>!Skin.HasSetting(plexbmc) + Library.HasContent(MusicVideos)</visible>
+	</shortcut>
+	<shortcut>
+		<defaultID>31971</defaultID>
+		<label>$SKIN[31971|skin.nebula|Concerts]</label>
+		<label2>Common Shortcut</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(VideoLibrary,MusicVideoTitles,return)</action>
+		<visible>!Skin.HasSetting(plexbmc) + Library.HasContent(MusicVideos)</visible>
+	</shortcut>
+	<shortcut>
+		<defaultID>livetv</defaultID>
+		<label>32022</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/backgrounds/Tv.jpg</icon>
+		<thumb />
+		<action>ActivateWindow(TVChannels)</action>
+		<visible>System.GetBool(pvrmanager.enabled)</visible>
+	</shortcut>
+	<shortcut>
+		<defaultID>radio</defaultID>
+		<label>32087</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/backgrounds/Radio.jpg</icon>
+		<thumb />
+		<action>ActivateWindow(RadioChannels)</action>
+		<visible>System.GetBool(pvrmanager.enabled)</visible>
+	</shortcut>
+	<shortcut>
+		<defaultID>favourites</defaultID>
+		<label>1036</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/backgrounds/Favourites.jpg</icon>
+		<thumb>special://home/media\FAV\FAV TBE 1.jpg</thumb>
+		<action>ActivateWindow(Favourites)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>dvd</defaultID>
+		<label>32032</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/backgrounds/Dvds.jpg</icon>
+		<thumb />
+		<action>PlayDVD()</action>
+		<visible>System.HasMediaDVD</visible>
+	</shortcut>
+	<shortcut>
+		<defaultID>settings</defaultID>
+		<label>System</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/backgrounds/Settings.jpg</icon>
+		<thumb>special://home/media\SYSTEM\SYSTEM TBE 1.jpg</thumb>
+		<action>ActivateWindow(Settings)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>script.globalsearch</defaultID>
+		<label>137</label>
+		<label2>Program</label2>
+		<icon>special://skin/backgrounds/Search.jpg</icon>
+		<thumb />
+		<action>RunAddOn(script.globalsearch)</action>
+		<visible>!Skin.HasSetting(plexbmc) + System.HasAddon(script.globalsearch)</visible>
+	</shortcut>
+</shortcuts>

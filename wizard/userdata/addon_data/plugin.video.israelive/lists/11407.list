@@ -1,0 +1,106 @@
+[
+  {
+    "group": "11407", 
+    "name": "Andisheh", 
+    "url": "237?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11409"
+  }, 
+  {
+    "group": "11407", 
+    "name": "BBC Persian", 
+    "url": "205?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11410"
+  }, 
+  {
+    "group": "11407", 
+    "name": "Channel One", 
+    "url": "238?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11411"
+  }, 
+  {
+    "group": "11407", 
+    "name": "Gem TV", 
+    "url": "238;;gemtv?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11412"
+  }, 
+  {
+    "group": "11407", 
+    "name": "iFilm", 
+    "url": "205;;ifilm?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11413"
+  }, 
+  {
+    "group": "11407", 
+    "name": "Iran TV Network", 
+    "url": "238;;irantv?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11414"
+  }, 
+  {
+    "group": "11407", 
+    "name": "Manoto 1", 
+    "url": "205;;manoto1?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11415"
+  }, 
+  {
+    "group": "11407", 
+    "name": "Pars TV", 
+    "url": "266;;parstv?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11416"
+  }, 
+  {
+    "group": "11407", 
+    "name": "PMC TV", 
+    "url": "119;;pmctv?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11418"
+  }, 
+  {
+    "group": "11407", 
+    "name": "Royal Time TV", 
+    "url": "292;;royaltime?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11420"
+  }, 
+  {
+    "group": "11407", 
+    "name": "Asre Emrooz TV", 
+    "url": "198;;asreemrooz?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11421"
+  }, 
+  {
+    "group": "11407", 
+    "name": "Jame Jam Network 2", 
+    "url": "159;;jamejam?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11422"
+  }, 
+  {
+    "group": "11407", 
+    "name": "Irinn", 
+    "url": "236;;irinn?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11423"
+  }
+]
