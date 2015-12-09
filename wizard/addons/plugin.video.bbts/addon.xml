@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.bbts" name="BBTS" version="0.1.4" provider-name="BBTS">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">International TV and radio steams brought to you by - BBTS The Source -</summary>
+    <description lang="en">BBTS video plugin is a collection of Live TV and Radio streams from around the world.
+
+BBTS source is brought to you by the people and for the people. With your support, we will give back even more for all of us! Let's get started! 
+Plugin by @koderdude</description>
+    <disclaimer lang="en">This add-on is maintained by the BBTS community and our generator fetches indexs from multiple sources from around the web. We accept no responsibility for the following content, streams and or media. BBTS does not host or stream any of the content displayed on this add-on.</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
