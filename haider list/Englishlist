@@ -13,6 +13,14 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/
 http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1,BBC 1
+http://204.107.27.199/live/14.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe2cab0dbcbc25c1ce1f30dc9954b96861b612848e3ecb87fc7cfac0ba92c1c2f7c40088c7d119dc54c46c7d2f6d04c679efbfcdaa16e0ea0447e36bd11b1410ea646bdd1a4966e735127f24d75b902330c0949292ffe8e946ed917a28e735ea59f53d1e34fdbe1001d9749047f0d2912bf7252defb2ecea46fb52af9dc9d18057b51d8b2049a31c8e95c469effe1b3f77
+#EXTINF:-1,BBC 2
+http://204.107.27.199/live/25.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe3326d7777ac66750d0d354d6557279425a68b9d17bc4aa1f974c49582bce8523623da038ce800312d50291af2ef8ae12100713c13d00105f8af8b80efd5c5ebed7f2162928f9e2a98d432d414d9fbb4c57d6112e76afe39613aeaaefc92419358d79bad0fb78d702dfa0cfb067beb01812713d4699bf23406d2245a6e2ed8b7c0390fa8e9f176550421b8ae9ffab5e4d
+ 
+#EXTINF:-1,Horror
+http://204.107.27.250/live/836.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe0d3ab7892845817ba53aa9d778d7d8040ef9ee3c6c5ba0e0c827f4b45ce11f8465ad436fd923e4ce20c5ef61820e3c5cd545d20cf6489d444c00f8a72cc426cc0562915b307110c02bb2c039366b23c831daddf2b743652075583c2d5242bd2bff356738a35f208afc5553f436e6682908e9acab868938256ac313aad0d9ac9dd0d118101ef24e9f383c393caf79a851
+ 
 #EXTINF:-1,FOx 1 HD
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?supertvlat=/.ts
 #EXTINF:-1, Fox crime HD
