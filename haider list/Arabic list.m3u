@@ -17,7 +17,12 @@ http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/vaa7zb",MBC Bollywood
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-
+#EXTINF:-1,Arabic:***MBC maser 2 غير مستقرة
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2264.ts
+#EXTINF:-1,Arabic:***MBC_1 غير مستقرة
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2251.ts
+#EXTINF:-1,Arabic:***MBC_Drama  غير مستقرة
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2249.ts
 
 
 
@@ -411,13 +416,6 @@ http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?supertvlat=/.ts
 http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
 #EXTINF:-1,Fox Action HD
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?supertvlat=/.ts
-#EXTINF:-1,Comedy Time HD
-http://198.179.31.197/live/344.high.stream/playlist.m3u8?id=0ad5aac39bb13fbed4a71873b129b190ee58c3e0ac20cc6cd800bddbbaacbae7c15bd9eb8c2b1215b1b55efc21247062429eb810ace7f597c09ef653c50c22c3ac4b6c4b359e236d923edac327a38f1d29dbc68bdd6012559d5062bd5a395a015e169c2c4291c5692988ab7d6f0bca9f1f444ea6978d0fd9df134a15f01775ba85fafa6e8536edd1271caa89d44ce04734bbd686a94ac5f7
-
-#EXTINF:-1, CBS drama
-http://198.179.30.110/live/1805.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe4d0420eca527f25f091f053f0aa52d261e5f379ef94181bdd0623a353931fd67a57210495efe807e0038d19a947d5fbedd959c5ec3dad11d61794069a944d27e4655f568ef1e57fe5c61e76e65d06c6611bfacddade87f91099929cd90514970cf1ce9f3b5a8637584c72d952efe5c8a3bba6add19ca5138600b2d464098a59fe86b0341534605da56fc936d578a379bca19fc83b979aa5c
-#EXTINF:-1, CBS Action
-http://198.179.30.110/live/1952.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe268f903f5e3cedae8c1dd83870629425c8ead4ded390c94e5e1b0056f3813551c96e07ace3ad3210c05e51be9dd140415e3d5019e03b00599a2ea7cdbcd661d7e154bcb27c06fa9c784568b50272dac4c549cc6803f84a3380cda26688f716ff2ce5fab839eb82237d012606d47d0c7f0449d5196ad13855ce2ee48720a44f210ab998a44857a5e3ef996cbf21d6269d11640e93ad075253
 
 #EXTINF:-1, Tru
 http://204.107.27.137/live/3707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe7411e087fec09a4893a503f6c65dfd16e5a5c661458e25032050341a05e04965ff917e466acea473fa98822f68427ae34a61a0ba9d60060bdc9d6bb895ae1e5235ac4f0c4635a88b706eefadc233f9b13cc0ee2600e124cdd29d12e48f30998b9e5e3d531ab76c08aaea320a8ecca6c4949de3edd08c2dfb56f518ebddee48a82a16d159dede5e8c62904bbc0b9847ec
@@ -436,8 +434,7 @@ http://212.224.108.76:80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:-1,GINX
 http://204.107.26.252:1935/live/796.high.stream/chunklist_w1818870275.m3u
 
-#EXTINF:-1,HBO
-http://89.248.172.57:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1813545298
+
 #EXTINF:-1,WBTV
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?supertvlat=/.ts
 #EXTINF:-1,Channel 4
@@ -462,25 +459,85 @@ http://streaming.cityofboston.gov:1935/live/cable/chunklist_w1902155007.m3u8
 #EXTINF:-1,i24 
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/650.m3u8
 
-#EXTINF:-1,Comedy Central
-http://103.245.167.28/tot/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8
-#EXTINF:-1,Syfy
-http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
-#EXTINF:-1,Fox 1
-http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?supertvlat=/.ts
-
-#EXTINF:-1,Fox Classics
-http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?supertvlat=/.ts
-
-#EXTINF:-1,Discovery 
-http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?supertvlat=/.ts
-#EXTINF:-1,FOx Action
-http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?supertvlat=/.ts
-#EXTINF:-1,Channel 5
-http://204.107.27.250/live/22.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe5f75fb7094bcd88d2f5863317340986405d14d8cd924d71a521889d06375f9b70cceb7bd70500a1e1bf
 
 
-#EXTINF:-1,amc
-http://india2.xyz:80/amc_by_bt_Vgc7KyBvI3FLj5S6UGzZeiOPD24RmA/index.m3u8
-#EXTINF:-1 Comedy Centeral
-http://india2.xyz:80/comcent_extra_YWUdk7MrETg6IOlvJFu8AhRqQGmCHj/index.m3u8
+
+#EXTINF:-1, ##################### هذه القنوات غير مستقرة#########
+#EXTINF:-1,Arabic:Zaitouna
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2235.ts
+#EXTINF:-1,Arabic:Toyor-jannah
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2217.ts
+#EXTINF:-1,Arabic:TNN
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2229.ts
+#EXTINF:-1,Arabic:Star Movies
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2254.ts
+#EXTINF:-1,Arabic:Star Cinema 2
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2214.ts
+#EXTINF:-1,Arabic:Samira
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2223.ts
+#EXTINF:-1,Arabic:OSN-YaHala-DRAMA-HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2228.ts
+#EXTINF:-1,Arabic:OSN-YaHala!-Shabab-HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2226.ts
+#EXTINF:-1,Arabic:Fox Movies
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2246.ts
+#EXTINF:-1,Arabic:OSN Movies HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2274.ts
+#EXTINF:-1,Arabic:Arradia
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2245.ts
+#EXTINF:-1,Arabic:Rotana Cinema
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2232.ts
+#EXTINF:-1,Arabic:Spacetoon
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2239.ts
+#EXTINF:-1,Arabic:Nessma
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2275.ts
+#EXTINF:-1,Arabic:Movies Drama
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2215.ts
+#EXTINF:-1,Arabic:LBC
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2236.ts
+#EXTINF:-1,Arabic:Hanibal
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2227.ts
+#EXTINF:-1,Arabic:ETTOUNSIA
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2234.ts
+#EXTINF:-1,Arabic:Echourou ktv
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2225.ts
+#EXTINF:-1,Arabic:Discovery Science
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2233.ts
+#EXTINF:-1,Arabic:Discovery HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2269.ts
+#EXTINF:-1,Arabic:Rotana Clip
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2218.ts
+#EXTINF:-1,Arabic:CN
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2224.ts
+#EXTINF:-1,Arabic:CBC +2
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2238.ts
+#EXTINF:-1,Arabic:CBC
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2240.ts
+#EXTINF:-1,Arabic:Baraeem
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2221.ts
+#EXTINF:-1,Arabic:Al Jadeed Tv
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2219.ts
+#EXTINF:-1,Arabic:Animal Planet
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2260.ts
+#EXTINF:-1,Arabic:alarabiya
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2241.ts
+#EXTINF:-1,Arabic:AbuDhabidrama
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2216.ts
+#EXTINF:-1,Arabic:2M Maroc
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2220.ts
+#EXTINF:-1,IN:B4U Movies
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2255.ts
+#EXTINF:-1,Arabic:***OSN-Movies-Festival-HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2230.ts
+#EXTINF:-1,Arabic:***OSN-MBC DRAMA-HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2231.ts
+#EXTINF:-1,Arabic:***OSN-Festival
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2237.ts
+#EXTINF:-1,Arabic:Baraem
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2222.ts
+#EXTINF:-1,Arabic:***OSN-ART-Aflam-2-HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2213.ts
+#EXTINF:-1,Arabic:Nile Drama
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2247.ts
+#EXTINF:-1,Arabic:***MBC_pro_sport_1
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2262.ts
