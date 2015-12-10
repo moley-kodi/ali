@@ -53,6 +53,8 @@ http://198.179.31.201/live/908.low.stream/playlist.m3u8?
 http://api.new.livestream.com/accounts/11436227/events/3998452/broadcasts/105951026.m3u8?dw=100&hdnea=st=1449021118~exp=1449022918~acl=/i/11436227_3998452_af6dd02c_1@317400/*~hmac=7a9b90b7326aac4e11c016880e6e331aa97dca0fa08223a2ea9cf152079632f0
 #EXTINF:-1 tvg-logo="http://goo.gl/V1m1fC",Al Maaref
 http://almaareftv.com:1935/live/1/HasBahCa.m3u8
+#EXTINF:-1,IFILM Arabic 
+http://63.237.48.23/ios/IFILM/IFILM.m3u8
 #EXTINF:-1, Aletejah الاتجاه
 http://162.244.81.186:1935/aletejahtv/aletejahtv3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/q5ue8J",Al-hurra Iraq 
@@ -185,7 +187,8 @@ http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatant
 rtmp://alayam.netromedia.net/btv2 playpath=btv2 swfUrl=http://player.netromedia.com/flowplayer.commercial-3.2.18.swf pageUrl=http://player.netromedia.com/?ID=4d0292f1-e996-4dff-bdcd-01bf49aea468&iframe=true&autoPlay=true&scaling=scale
 #EXTINF:-1,AL SHARJAH
 rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
-
+#EXTINF:-1, oman tv 1
+http://38.96.148.30:1935/live/omantv1/playlist.m3u8
 
 ###############################################################
 
@@ -364,6 +367,15 @@ http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m
 http://212.35.75.130/3330/HasBahCa.m3u8?email=tac@umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
 #EXTINF:-1, ALMAS_TV
 http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8
+
+#EXTINF:-1,alkarmatv
+http://flash.alkarmatv.com:1935/karmatv_na/karmatv_na1/playlist.m3u8
+
+#EXTINF:-1,AL Yawm اليوم
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+
+#EXTINF:-1,Orient 
+http://173.192.180.122/hls-live/livepkgr/_definst_/liveevent/live_ios.m3u8
 
 
 
