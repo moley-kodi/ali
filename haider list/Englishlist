@@ -241,7 +241,27 @@ http://204.107.27.250/live/842.high.stream/playlist.m3u8?id=0ad5aac39bb13fbebb36
 http://204.107.27.250/live/2786.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe4341e8846da51a8c0cd4382ccfe9da561d2419272a35c33454f14724a5e62b619b82fe72f2be0bfa739f209326eeb622adf58e0bde9757c02d79d100686ff11b824bfa39da4190ad0f5e097784f28b0f2eb9d4191b7090b4fc3825ba862384dd5d42240c39b09b753567bd691e8d7b52a55dc5840094e5591ca30be55119b9d87092304bbb8d63189af854f74afbe40b
 #EXTINF:-1,RT Documentary
 http://204.107.27.250/live/1981.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe0c64eceedc93e449b1435733cb2dffc1c0ea7e4b2e2304b5a229250578ae4e69a85b9eed22674c4b06252c4ad55e8771d34848f32d25ee2a7a7b90f6467a0a300820ef10f4c9685403fdadd51aa8c941d4f3c8e3e5e5711f671a8ec8ec74a446638eacaa4c461f9d46c21de67d204bf9c27ee6a888a7ed7c7d095bde7dfcef6c277ac5ce5e1c8ca8708bd5a32a4d8edb
-
+###########
+#EXTINF:0,TNT Series
+http://iptvcanales.com/xw/cable.php?canal=76&player=playlist.m3u8
+#EXTINF:0,TBS
+http://iptvcanales.com/xw/cable.php?canal=77&player=playlist.m3u8
+#EXTINF:0,I-Sat
+http://iptvcanales.com/xw/cable.php?canal=78&player=playlist.m3u8
+#EXTINF:0,WOBI TV
+http://iptvcanales.com/xw/cable.php?canal=25&player=playlist.m3u8
+#EXTINF:0,E!
+http://iptvcanales.com/xw/cable.php?canal=12&player=playlist.m3u8
+#EXTINF:0,SPACE
+http://iptvcanales.com/xw/cable.php?canal=21&player=playlist.m3u8
+#EXTINF:0,FX
+http://iptvcanales.com/xw/cable.php?canal=17&player=playlist.m3u8
+#EXTINF:0,AZ Cinema
+http://iptvcanales.com/xw/cable.php?canal=85&player=playlist.m3u8
+#EXTINF:0,Fox 1 Oeste
+http://iptvcanales.com/xw/cable.php?canal=86&player=playlist.m3u8
+#EXTINF:0,Fox Movies
+http://iptvcanales.com/xw/cable.php?canal=87&player=playlist.m3u8
 
 
 
