@@ -242,6 +242,44 @@ http://204.107.27.250/live/2786.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe434
 #EXTINF:-1,RT Documentary
 http://204.107.27.250/live/1981.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe0c64eceedc93e449b1435733cb2dffc1c0ea7e4b2e2304b5a229250578ae4e69a85b9eed22674c4b06252c4ad55e8771d34848f32d25ee2a7a7b90f6467a0a300820ef10f4c9685403fdadd51aa8c941d4f3c8e3e5e5711f671a8ec8ec74a446638eacaa4c461f9d46c21de67d204bf9c27ee6a888a7ed7c7d095bde7dfcef6c277ac5ce5e1c8ca8708bd5a32a4d8edb
 ###########
+#EXTINF:0,Tru TV
+http://iptvcanales.com/xw/cable.php?canal=72&player=playlist.m3u8
+#EXTINF:0,A&E
+http://iptvcanales.com/xw/cable.php?canal=26&player=playlist.m3u8
+#EXTINF:0,Lifetime
+http://iptvcanales.com/xw/cable.php?canal=55&player=playlist.m3u8
+#EXTINF:0,History
+http://iptvcanales.com/xw/cable.php?canal=38&player=playlist.m3u8
+#EXTINF:0,National Geographic
+http://iptvcanales.com/xw/cable.php?canal=37&player=playlist.m3u8
+#EXTINF:0,Discovery Home & Health
+http://iptvcanales.com/xw/cable.php?canal=95&player=playlist.m3u8
+#EXTINF:0,Animal Planet
+http://iptvcanales.com/xw/cable.php?canal=83&player=playlist.m3u8
+#EXTINF:0,Investigation Discovery
+http://iptvcanales.com/xw/cable.php?canal=84&player=playlist.m3u8
+#EXTINF:0,Fox
+http://iptvcanales.com/xw/cable.php?canal=01&player=playlist.m3u8
+#EXTINF:0,Syfy
+http://iptvcanales.com/xw/cable.php?canal=02&player=playlist.m3u8
+#EXTINF:0,FOX Life
+http://iptvcanales.com/xw/cable.php?canal=27&player=playlist.m3u8
+#EXTINF:0,Distrito Comedia
+http://iptvcanales.com/xw/cable.php?canal=40&player=playlist.m3u8
+#EXTINF:0,Canal Sony
+http://iptvcanales.com/xw/cable.php?canal=14&player=playlist.m3u8
+#EXTINF:0,Warner Channel
+http://iptvcanales.com/xw/cable.php?canal=18&player=playlist.m3u8
+#EXTINF:0,Studio Universal
+http://iptvcanales.com/xw/cable.php?canal=70&player=playlist.m3u8
+#EXTINF:0,AXN
+http://iptvcanales.com/xw/cable.php?canal=71&player=playlist.m3u8
+#EXTINF:0,Comedy Central
+http://iptvcanales.com/xw/cable.php?canal=73&player=playlist.m3u8
+#EXTINF:0,BBC Entertainment
+http://iptvcanales.com/xw/cable.php?canal=74&player=playlist.m3u8
+#EXTINF:0,Universal Channel
+http://iptvcanales.com/xw/cable.php?canal=75&player=playlist.m3u8
 #EXTINF:0,TNT Series
 http://iptvcanales.com/xw/cable.php?canal=76&player=playlist.m3u8
 #EXTINF:0,TBS
@@ -262,8 +300,46 @@ http://iptvcanales.com/xw/cable.php?canal=85&player=playlist.m3u8
 http://iptvcanales.com/xw/cable.php?canal=86&player=playlist.m3u8
 #EXTINF:0,Fox Movies
 http://iptvcanales.com/xw/cable.php?canal=87&player=playlist.m3u8
-
-
+#EXTINF:0,Fox Movies
+http://iptvcanales.com/xw/cable.php?canal=88&player=playlist.m3u8
+#EXTINF:0,Fox Cinema
+http://iptvcanales.com/xw/cable.php?canal=89&player=playlist.m3u8
+#EXTINF:0,Fox Family
+http://iptvcanales.com/xw/cable.php?canal=90&player=playlist.m3u8
+#EXTINF:0,CineCanal
+http://iptvcanales.com/xw/cable.php?canal=91&player=playlist.m3u8
+#EXTINF:0,TNT
+http://iptvcanales.com/xw/cable.php?canal=92&player=playlist.m3u8
+#EXTINF:0,Film Zone
+http://iptvcanales.com/xw/cable.php?canal=93&player=playlist.m3u8
+#EXTINF:0,AMC
+http://iptvcanales.com/xw/cable.php?canal=94&player=playlist.m3u8
+#EXTINF:0,Cinemax
+http://iptvcanales.com/xw/cable.php?canal=15&player=playlist.m3u8
+#EXTINF:0,Paramount Channel
+http://iptvcanales.com/xw/cable.php?canal=16&player=playlist.m3u8
+#EXTINF:0,Golden
+http://iptvcanales.com/xw/cable.php?canal=19&player=playlist.m3u8
+#EXTINF:0,Golden Edge
+http://iptvcanales.com/xw/cable.php?canal=20&player=playlist.m3u8
+#EXTINF:0,Multicinema
+http://iptvcanales.com/xw/cable.php?canal=22&player=playlist.m3u8
+#EXTINF:0,De Pelicula
+http://iptvcanales.com/xw/cable.php?canal=23&player=playlist.m3u8
+#EXTINF:0,Canal DHE
+http://iptvcanales.com/xw/cable.php?canal=24&player=playlist.m3u8
+#EXTINF:0,Nickelodeon
+http://iptvcanales.com/xw/cable.php?canal=28&player=playlist.m3u8
+#EXTINF:0,Cartoon Network
+http://iptvcanales.com/xw/cable.php?canal=29&player=playlist.m3u8
+#EXTINF:0,Disney XD
+http://iptvcanales.com/xw/cable.php?canal=30&player=playlist.m3u8
+#EXTINF:0,Discovery Kids
+http://iptvcanales.com/xw/cable.php?canal=80&player=playlist.m3u8
+#EXTINF:0,Tooncast
+http://iptvcanales.com/xw/cable.php?canal=81&player=playlist.m3u8
+#EXTINF:0,Milenio TV
+http://iptvcanales.com/xw/cable.php?canal=41&player=playlist.m3u8
 
 
 
