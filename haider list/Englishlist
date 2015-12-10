@@ -43,6 +43,8 @@ http://198.179.31.197/live/344.high.stream/playlist.m3u8?id=0ad5aac39bb13fbed4a7
 
 #EXTINF:-1,GINX
 http://204.107.26.252:1935/live/796.high.stream/chunklist_w1818870275.m3u8
+#EXTINF:-1,amc
+http://50.7.136.90:81/live/dextertest@gmail.com/test1234/1428.ts
 
 #EXTINF:-1, CBS drama
 http://198.179.30.110/live/1805.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe0fd3af9d726faf85fc57399f4c34f0033fb719209061f657e27014874523955fe79953f6f93a1fe9b8f23bae2f2e073c2f0a9ae7afa7d60afe7c6b2d6477bf942e5888c629197bee004e48643d61154ada5f920e0f8824f9da16cb4837139dae53c8d9c33419ed7747ef55f4b54aa0bdee622ddbfca32a02d059593f954382adb33bf0c47160e716dbb27f57ebe2d9e2
