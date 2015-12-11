@@ -341,7 +341,55 @@ http://iptvcanales.com/xw/cable.php?canal=81&player=playlist.m3u8
 #EXTINF:0,Milenio TV
 http://iptvcanales.com/xw/cable.php?canal=41&player=playlist.m3u8
 
-
+####################################3333
+#EXTINF:0, Pink
+http://balkanstream.com/stream/pink/sead/sead
+#EXTINF:0, Pink 2
+http://balkanstream.com/stream/pink2/sead/sead
+#EXTINF:0, PinkPlus
+http://balkanstream.com/stream/PinkPlus/sead/sead
+#EXTINF:0, Pink BIH
+http://balkanstream.com/stream/pinkbih/sead/sead
+#EXTINF:0, Pink M
+http://balkanstream.com/stream/PinkM/sead/sead
+#EXTINF:0, Pink Premium
+http://balkanstream.com/stream/pinkpremium/sead/sead
+#EXTINF:0, Pink Reality
+http://balkanstream.com/stream/pinkreality/sead/sead
+#EXTINF:0, Pink Zabava
+http://balkanstream.com/stream/pinkzabava/sead/sead
+#EXTINF:0, Pink Film
+http://balkanstream.com/stream/pinkfilm/sead/sead
+#EXTINF:0, Pink Movie 2
+http://balkanstream.com/stream/pinkmovie2/sead/sead
+#EXTINF:0, Pink Movie 3
+http://balkanstream.com/stream/pinkmovie3/sead/sead
+#EXTINF:0, Pink Action 2
+http://balkanstream.com/stream/pinkaction2/sead/sead
+#EXTINF:0, Pink Action 3
+http://balkanstream.com/stream/pinkaction3/sead/sead
+#EXTINF:0, PinkComedy
+http://balkanstream.com/stream/PinkComedy/sead/sead
+#EXTINF:0, Pink Horor
+http://balkanstream.com/stream/pinkhoror/sead/sead
+#EXTINF:0, PinkKids
+http://balkanstream.com/stream/PinkKids/sead/sead
+#EXTINF:0, PinkSoap
+http://balkanstream.com/stream/PinkSoap/sead/sead
+#EXTINF:0, Pink Folk
+http://balkanstream.com/stream/pinkfolk/sead/sead
+#EXTINF:0, PinkFolk2
+http://balkanstream.com/stream/PinkFolk2/sead/sead
+#EXTINF:0, PinkMusic3
+http://balkanstream.com/stream/PinkMusic3/sead/sead
+#EXTINF:0, Pink Extra
+http://balkanstream.com/stream/pinkextra/sead/sead
+#EXTINF:0, PinkandRoll
+http://balkanstream.com/stream/PinkandRoll/sead/sead
+#EXTINF:0, Pink Live
+http://balkanstream.com/stream/pinklive/sead/sead
+#EXTINF:0, Pink Pedia
+http://balkanstream.com/stream/pinkpedia/sead/sead
 
 
 
