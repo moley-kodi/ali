@@ -563,3 +563,7 @@ http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2213.ts
 http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2247.ts
 #EXTINF:-1,Arabic:***MBC_pro_sport_1
 http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2262.ts
+
+
+#EXTINF:-1,Aghanina
+http://streaming.i-sat.tv:1935/live/aghanina.stream_360p/chunklist_w378813722.m3u8
