@@ -3,7 +3,8 @@
  
 #EXTINF:-1, [COLOR red] --  Jafaer-tv.com This channeles Unstable  --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-
+#EXTINF:-1, CNN
+rtmp://207.244.77.146:6034/tv/ch28q2
 #EXTINF:-1, CNN
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/chunklist.m3u8
 #EXTINF:-1,CNBC
@@ -228,8 +229,7 @@ rtmp://207.244.77.146:6034/tv/ch25q2
 rtmp://207.244.77.146:6034/tv/ch26q2
 #EXTINF:-1, TSN
 rtmp://207.244.77.146:6034/tv/ch27q2
-#EXTINF:-1, CBN
-rtmp://207.244.77.146:6034/tv/ch28q2
+
 http://iptv-zak.blogspot.com/
 
 
