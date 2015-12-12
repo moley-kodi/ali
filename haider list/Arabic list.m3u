@@ -95,6 +95,8 @@ http://jafaer-tv.com
 http://livestreaming.itworkscdn.net/mayadeenlive/smil:mayadeenmob.smil/playlist.m3u8
 #EXTINF:-1,Almnnar
 http://38.96.148.199:1935/liveedge1/livestream_720p/chunklist_w2048781993.m3u8
+#EXTINF:-1,Almnar
+rtmp://162.244.80.108:1935/liveedge? v=1250132868<playpath>livestream_360p <swfUrl>http://www.elahmad.com/tv/swf/player.swf?file=almanartv&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 <pageUrl>http://www.elahmad.com/tv/almanartv.php <objectEncoding>
 #EXTINF:-1,الميادين 
 rtsp://livestreaming3.itworkscdn.net:554/mayadeenlive/mayadsat_240p
 
