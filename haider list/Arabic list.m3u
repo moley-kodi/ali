@@ -197,7 +197,8 @@ http://38.96.148.30:1935/live/omantv1/playlist.m3u8
 #EXTINF:-1,*********[COLOR red]  قنوات مصرية[/COLOR]**********
 http://jafaer-tv.com
 
-
+#EXTINF:0,نيل لايف Nile Life 
+rtmp://.livestreaming5.onlinehorizons.net/NTNNileLife/livestream
 #EXTINF:-1,Cairo Cinema
 http://38.99.146.36:7777/CairoCinema_HD.m3u8
 #EXTINF:-1,Rotana Cinema روتانا سينما
