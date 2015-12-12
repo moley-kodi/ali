@@ -198,34 +198,17 @@ http://iptvcanales.com/xw/cable.php?canal=81&player=playlist.m3u8
 http://iptvcanales.com/xw/cable.php?canal=41&player=playlist.m3u8
 
 ####################################3333
-#EXTINF:-1, ? Sport
-rtmp://207.244.77.146:6034/tv/ch01q2
-#EXTINF:-1, ? Sport
-rtmp://207.244.77.146:6034/tv/ch02q2
+
 #EXTINF:-1, Cartoon Network
 rtmp://207.244.77.146:6034/tv/ch03q2
-#EXTINF:-1, ?
-rtmp://207.244.77.146:6034/tv/ch04q2
-#EXTINF:-1, ?
-rtmp://207.244.77.146:6034/tv/ch05q2
-#EXTINF:-1, ?
-rtmp://207.244.77.146:6034/tv/ch06q2
-#EXTINF:-1, ?
-rtmp://207.244.77.146:6034/tv/ch07q2
-#EXTINF:-1, ?
-rtmp://207.244.77.146:6034/tv/ch08q2
-#EXTINF:-1, ?
-rtmp://207.244.77.146:6034/tv/ch09q2
+
 #EXTINF:-1, Fox Sports
 rtmp://207.244.77.146:6034/tv/ch10q2
 #EXTINF:-1, History
 rtmp://207.244.77.146:6034/tv/ch11q2
 #EXTINF:-1, NBCSN
 rtmp://207.244.77.146:6034/tv/ch12q2
-#EXTINF:-1, beIN HD Sports
-rtmp://207.244.77.146:6034/tv/ch13q2
-#EXTINF:-1, ESPN News
-rtmp://207.244.77.146:6034/tv/ch14q2
+
 #EXTINF:-1, ESPN Soccer
 rtmp://207.244.77.146:6034/tv/ch15q2
 #EXTINF:-1, ESPN 2
@@ -238,14 +221,7 @@ rtmp://207.244.77.146:6034/tv/ch18q2
 rtmp://207.244.77.146:6034/tv/ch19q2
 #EXTINF:-1, ESPN Deportes
 rtmp://207.244.77.146:6034/tv/ch20q2
-#EXTINF:-1, ?
-rtmp://207.244.77.146:6034/tv/ch21q2
-#EXTINF:-1, NHL
-rtmp://207.244.77.146:6034/tv/ch22q2
-#EXTINF:-1, ?
-rtmp://207.244.77.146:6034/tv/ch23q2
-#EXTINF:-1, ?
-rtmp://207.244.77.146:6034/tv/ch24q2
+
 #EXTINF:-1, SNWL
 rtmp://207.244.77.146:6034/tv/ch25q2
 #EXTINF:-1, TSN
