@@ -21,6 +21,8 @@ http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?supertvlat=/.ts
 http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
 #EXTINF:-1,Fox Action HD
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?supertvlat=/.ts
+#EXTINF:0, Fox Comedy
+http://31.220.41.107/LiveEdge/FOXComedyLASD/chunklist_w468984425_b1000000.m3u8?token=cb28c609b7912a2148b947adbed8bb59
 
 #EXTINF:-1,Warner TV HD
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?supertvlat=/.ts
@@ -48,22 +50,8 @@ http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 #EXTINF:-1,Boston city Tv
 http://streaming.cityofboston.gov:1935/live/cable/chunklist_w1902155007.m3u8
 
-
-
-
 #EXTINF:-1,Discovery 
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?supertvlat=/.ts
-
-#EXTINF:-1,Channel 5
-http://204.107.27.250/live/22.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe58746d3bd6ec3476580ceb1bac8db2cd4a1d1262c2c4fb525a63b731970546421814334bea920758d1bc3d4b5102c3c0fee16b7d0c531294bc90ef956d40324fd1258bb960f422a6842e21239b4fbbb8bf6fb6266486c152e98d24e950c82eb5961a60768721bcb8bb6554bbdfcc2dc06451e3c8e21683fb8f7dea015c74934741f4431a146146574fde2224879c51f0
-#EXTINF:-1,Quest
-http://204.107.27.199/live/2707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe7e862bb894916e388d0061a23610d5bfff326b62f296d30eb002aab514f6d267ef238e3e9a9ae9dbf9868599044c5ad2b5be70b055a8683eaa93d8581c29e964e7bdeb74fa8be33b9a9b2b679391822f0dceff73e9ef4c9c2e545ae4aca0afa5d0ef117410c27bd56f47b246fed5ecdc88d361038dfb8786d5993ca9c906999dcbe574645009031f49328ab37fdeab52
-#EXTINF:-1,Really
-http://204.107.27.250/live/372.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe22f64fabcc0bbf4e0d97a017450681f2e7acb1b023bc479e441d30ba01319d7a490c48d6fe3d04683434b873a7dd61d6e9733ef88d6d458053a3089a6cdfa855da800a7bdd344dc5fc64efe2a353186bc94bd6a6249d59b86a9716658947c54f9462256b36c27c997b0b4d1b667f7ea74ebe33a7d72b9c318775c3da68095596c2095b982037f1db802a9411cac2ba6e
-#EXTINF:-1,More 4
-http://204.107.27.137/live/97.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe6265c5dd7453c33df5a78d1d80a85733d371e8db77b4a3a36429e8b1c1d442f5c9c35b66e67fbf54bb129a391901608d4d027114af80a9b8e37f2fddc5a9d1f1673faa7ddd35695ae4f8de2552a2c83c3324cdfcd1ad41e60a3834fe015e0aa1cd996f55adf91ef3560d9686a86711210b16f9c8c22c99302b573bb485235a53a28da2c1d3e88dbb18bde252f6e7f111
-#EXTINF:-1,HBO +
-http://94.102.49.207/iguide0bf02qe6msgtu4s/playlist.m3u8
 
 #EXTINF:-1,Vevo 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
@@ -73,52 +61,18 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:-1,Vevo 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
-#EXTINF:-1,genesis Science
-http://genesis.tulix.tv:1935/live/Stream1/chunklist_w202054687.m3u8
-
 #EXTINF:-1,miami tv +18
 http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
 #EXTINF:-1,London Live 
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 
-#EXTINF:-1,Sky Disney Movies
-http://india2.xyz/sky_movies_disney_PNOjfkmtq5y2Fsz6hdVBAE1RGn7CIQ/index.m3u8
-#EXTINF:-1,Sky Movies Action
-http://india2.xyz/sky_movies_action_gP5AYoSCUQeJ9M6Vs1LkpNwbiOvjnE/index.m3u8
-#EXTINF:-1,Sky Movies Showcase
-http://india2.xyz/sky_mov_show_case_NTlsRAuYFiGJoBnaKcQMeWd9wL12qb/index.m3u8
-#EXTINF:-1,Sky Movies Horror
-http://india2.xyz/sky_mov_scifi_EmCtbPKjolaGSp3Fw6JucfqNYy8kr4/index.m3u8
-#EXTINF:-1,Sky Movies Premiere
-http://india2.xyz/sky_mov_premiere_VzkPKAb73vtiDca4Nde9wLHQqZJTRp/index.m3u8
-#EXTINF:-1,Sky Movies Modern Greats
-http://india2.xyz/sky_mov_greats_EWqYTps9vVeLAHQdU8GtOPzChj1Nan/index.m3u8
-#EXTINF:-1,Sky Movies Family
-http://india2.xyz/sky_mov_family_6kCd01JSInjLpu3iRNl2EgYBbqcGyU/index.m3u8
-#EXTINF:-1,Sky Atlantic
-http://india2.xyz:80/sky_atlantic_10d7CbN5MrSBownAlY8KjQFPTJcLgO/index.m3u8
-#EXTINF:-1,Sky Atlantic +1
-http://india2.xyz:80/sky_atlantic_plus_1_zpGa6NBQgOV8RbSKsDEYjcTuMmlAhH/index.m3u8
-#EXTINF:-1,Sky Art
-http://india2.xyz:80/sky_arts_1_qSUI2joA0mhvd59uzNTaiYwyEHDB8s/index.m3u8
-#EXTINF:-1,Sky living
-http://india2.xyz:80/sky_living_KEcFjNYkLzR7r0fC162bVdtDWHl8w5/index.m3u8
-#EXTINF:-1,amc
-http://india2.xyz:80/amc_by_bt_Vgc7KyBvI3FLj5S6UGzZeiOPD24RmA/index.m3u8
-#EXTINF:-1,india
-http://india2.xyz:80/true_movies_1_2ZNdsvmDKWtaqSA0VHBJFclPOkeyGI/index.m3u8
-#EXTINF:-1,Sky Action
-http://india2.xyz/sky_movies_action_ZUJ3NtLqlpwzY0fcjrHeIgDyVdaFW2/index.m3u8
-#EXTINF:-1,Sky mov
-http://india2.xyz/sky_mov_show_case_81f9kn2pLsb3HYR4aqVUIPivmwuBJN/index.m3u8
-
-#EXTINF:0, Family Movies (24/7)
-http://veetle.com/index.php/hls/streamMbrFast/4d6934c2476b3_/stream.m3u8
 #EXTINF:0, Classics (24/7)
 http://veetle.com/index.php/hls/streamMbrFast/5408d7749bc24_/stream.m3u8
 #EXTINF:-1, BNN
 http://realitatea.m247.ro/hls/live.m3u8
 
+#EXTINF:0, Investigation Channel
+http://latino-webtv.ml/index.m3u8?ch=263&cl=5
 #EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/5141.jpg", Genesis Science Network
 http://genesis.tulix.tv:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/6803.jpg", UFO Channel
@@ -128,16 +82,9 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebas
 #EXTINF:-1,News Bronx
 rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
 
-
-#EXTINF:-1 group-title="ENGLISH",FILMON ENGLISH
-rtmp://mi2.gv.filmon.com:8086/live/716.high.stream
- 
-#EXTINF:-1 group-title="ENGLISH",FILMON ENGLISH Ch 805
-rtmp://mi2.gv.filmon.com:8086/live/805.high.stream
 #EXTINF:-1 group-title="ENGLISH", Bloomberg
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1  tvg-logo="UK/London_Live.png", London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
 #EXTINF:0, Alb Uk Plus
 rtmp://188.138.17.8:1935/albuk/albuk+.stream
 #EXTINF:-1 group-title="ENGLISH", Alb Uk HD
@@ -149,47 +96,7 @@ mms://streams.tvknob.com/tvloops/Ch7/tvknob.wsx
 #EXTINF:-1,Fashion TV
 http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
 
-#EXTINF:-1,The Florida Channel
-rtmp://webcasting.thefloridachannel.org/live/tvweb1
-#EXTINF:-1,Pop corn
-http://204.107.27.250/live/716.high.stream/playlist.m3u8?id=0ad5aac39bb13fbea1a7b23240b396e0e59368d2ea2a69b48c2015a3d14abb2ab458f463d926d97d5fea31ed8e641762208a6f70c4c7c5ad0e60cdf4ed1ebdd1e645bb2a8e1d8133c8d71e7666d15e19077e35e286dfe48240ac30a2a2db0af7d836bc5f3b7f91decd70d9577101593dfa7b937e9168ec1ae84e72d95ddefc1af0b591714e5436eb85a0bc8417327696d6497f10910d8b35
-#EXTINF:-1,Comedy Net
-http://198.179.31.197/live/497.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe6299e0355143636933a3e51ced9146044049ebe4dd43f8abe9980bb44d9116346e6f4419378ff392296d012ae7bd10f404e34dd1731a97190f4866738b51e9f2ef4df740e45acf067a40fa197caabeed57f1363cf603a779b5be0332b7904b8f45088151ff2566f6aafda58ce23c16a2f98d2af42ec254a167369c87296786bde3801a3e80ee3cb5cc2532ae6c053464
-#EXTINF:-1,ifilm-en
-http://nimlive1.giniko.com/ifilm-en/ifilm-en.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDE1IDEyOjQwOjE5IFBNJmhhc2hfdmFsdWU9eXN6S0MzMEhRczR1UlV3a1p5Q3FBdz09JnZhbGlkbWludXRlcz02MA==
-#EXTINF:-1 group-title="CARTOONS", Seasame Street   
-http://204.107.26.92:1935/vodlast/1286.low.m4v/playlist.m3u8
-#EXTINF:-1,Campy channel
-http://204.107.26.245/live/3083.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeccac08d68dcc8f81b01335316fb7295ed9cfca54f27ffe23b326117c2efa2a31786d2357a39df700508e4a95a1009c4713c7e64e778d02eec57c213650235f2b76c9eb22ea0ba324e20cf911c3ad3d0d4d33bcbd34f26bafcb26c82229a4c54810bce3598e47f9c705b8a9a48b5e8d4cc3566fcf38a02f218255ed247255a7389743026e1dce374ae808a2d2168ccc2a
-#EXTINF:-1,The Western channel
-http://198.179.31.196/live/384.high.stream/playlist.m3u8?id=0ad5aac39bb13fbec5668302cd972cb951a4077bea73bc9f31367495c672a6269b7ff4af404b81c27d714807669b66fb95d0bdb977ee285adab5a43c57527cf4e0c24ca564c962b2aa752b82f636cc5808f09dbb6dcd80d3ec0292c65e41d9e6085e3679f0eb75005d3507822018aac010b0e66a907578b58f20f89a677181c571edc61fadaf7638af1abe904d1f7cff31412600444d350d
 
-#EXTINF:-1,Banned Western channel
-http://198.179.31.197/live/2951.high.stream/playlist.m3u8?id=0ad5aac39bb13fbecac3c9d08e41a586190d816cf843cd9468de30cc93e54ca9968e8d5bc886ea3de5de8a9c80bbbc854b9b2669ca0bf47d8f08136c83a2591d3ff6f5398f71b869c610157aa4750b1e606176374a60f5a58d59bef6ae188bfe9c82e257e849e690dc99879dd9e66aebb8918ee95fc2c743f43b0b86082035ec5d4af3d4cc0303f38a0c07f5333cbb992f1df063f1766e13
-
-#EXTINF:-1,Major Crimes
-http://198.179.31.196/live/3095.high.stream/playlist.m3u8?id=0ad5aac39bb13fbec1404b429e0aba01e7b8c6d8f338fffde1f6602728f3b968befa408f78e1a363fab8fadb8a92b9b8ebe7d74e0c4e832b2914fdba20778493db6cd22dae38b524ac0693011d180bc17786add994a0dc043c2b0336466e6f125665f14567331906d730ab0e3388327f9683e4ecc184b7db1b74dc157d9b3a9be16fa9ce234b339d78565faeaa697b7d66f5518ae4ceaeee
-#EXTINF:-1,Bloodzillathon
-http://198.179.31.197/live/2948.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeedb99c848e9bc5152773c67d7ea013619873929d583703b050466dd9ade4f5f10472190f869e3f567f0011f551d58fa89d6de4eb980c719cc250968af9ac2ec0ac35873372f16ac072a46874b40e38c8a5ebda3a03aba15720890fcf1e846ecf4b07ec00a72e7f87d97f998001c84be85101faed092fff6b987a26dfa23dc8ba90a16e29480fcaa8b54315963576ac79
-#EXTINF:-1,Zombies
-http://204.107.26.245/live/3071.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe9a53983d0f1df86967b766a08b993bd72ec3bb0efb500b3e8cd72de75bbfe0658209453e90c275154dd5e675c0283a5582c5365cedcbc1b61a6fa593d2e7aaa7a22a3abcdf2b725187ba8673d74440441415d0fa4035c8e31318b7a32633bd73809e330226086b34eaa11ba30e22a7542b20b5a517e697fe0755779059671faceb6e1cb7f50cb42e41c02b3ba4b96386
-#EXTINF:-1,Alien Channel
-http://204.107.26.245/live/3122.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe7a2bea11de2fd8880a10eacbf65b1e1500d3b0ef72254d09c0fcf35652285093cf371487f14d4e101030461c6371919eb614fd785ccdac7c42cce12589095bdaeab4d8cc0058b45346c806199cc1711c280642e1ea6014cec87449a7400744d1fd6500400e24479551e13fa3a9c966817d5d06b91a42b918d9b0d052fba34225bbc2b54811077f46b8b7f6ae9c23b1f8
-#EXTINF:-1,Horro Network
-http://198.179.31.197/live/1684.high.stream/playlist.m3u8?id=0ad5aac39bb13fbed1ca9cd885638d015bde353a47775c203a7eb62d412b27beb35e092f7acf6c7743944b400e5c3a860a3cb242e4f204c814b9fa1dedee6f4c3a51b7c98173d3a19c888bd79b2d0118bf9d79b62f5823147ccdb9f3905874377322b89cd33bfdeb031d2a5a43905721c5b7786a480b618e2e0bbec1d1a7271d5af181a28b9f1d4e3e4992477bab0da53b8c6a5c5dfcd135
-#EXTINF:-1,Double Feature
-http://198.179.31.196/live/1693.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee6fb7b440ebde3aee4d9cbeccb4cac6ba25c8c74d9850c3b6db9f294a6ba9d0db69913312df1531e7bebd322f6e11d67850a27bb762e8d0da44be7e4d1c95579b9e696911ba30a5dfa2d3454db773069ce8b928a52480b301062fb2205cdac64a0d0915e19ae55f7f1a0f0a9a8b7f7c8409a91ee6095b2c99c96d5e67e2d299a62ef945282357d3dde3a093804d032b3
-#EXTINF:-1,National Geographic Abu Dhabi
-rtmp://web3.iptv-planet.com:1937/live2/playpath=natgeographic?cle=087101100032068101099032048057032048052032048050 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=natgeographic&width=600&height=400 objectEncoding=
-
-#EXTINF:-1,Dog Tv
-http://204.107.27.250/live/3226.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe701e12d8658535ba5efbc818330afcbb9e2666d41bb23d591bb190194794c1670284762a06c40ab85b7344db13b183344e35c4447ad3045cae56f0c9e15b811edd9b5bbf6d5c03bd4ac4d6f5293b62fc33bc707759ad137590b7096bfed5484b0e46cde4053b670517ba68549459ae2926ff241f5087014e2eece84344c92bb678d8259a4d658bbe0067ef3d070122a7
-#EXTINF:-1,Travel Channel 1+
-http://204.107.27.250/live/842.high.stream/playlist.m3u8?id=0ad5aac39bb13fbebb361eb3e855f8957f99dff6628609e95843abf1bfff78892e6293f36a841a28f59c5fd350bc7b3a42da73a20b141133732457d7cd3cde60ae6128d67c8b881024b2cf917d6aaec428118283803229c02752109280cb9d186451fd9f7117a8e246256f1980f40a7a3ba7baaf5dbb9d3951d0fd5bc9621fdbdeea01c33dc54a3f908e38258285eee5ef6463b511e5cdaf
-#EXTINF:-1,CCTV 9 Documentary
-http://204.107.27.250/live/2786.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe4341e8846da51a8c0cd4382ccfe9da561d2419272a35c33454f14724a5e62b619b82fe72f2be0bfa739f209326eeb622adf58e0bde9757c02d79d100686ff11b824bfa39da4190ad0f5e097784f28b0f2eb9d4191b7090b4fc3825ba862384dd5d42240c39b09b753567bd691e8d7b52a55dc5840094e5591ca30be55119b9d87092304bbb8d63189af854f74afbe40b
-#EXTINF:-1,RT Documentary
-http://204.107.27.250/live/1981.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe0c64eceedc93e449b1435733cb2dffc1c0ea7e4b2e2304b5a229250578ae4e69a85b9eed22674c4b06252c4ad55e8771d34848f32d25ee2a7a7b90f6467a0a300820ef10f4c9685403fdadd51aa8c941d4f3c8e3e5e5711f671a8ec8ec74a446638eacaa4c461f9d46c21de67d204bf9c27ee6a888a7ed7c7d095bde7dfcef6c277ac5ce5e1c8ca8708bd5a32a4d8edb
 ###########
 #EXTINF:0,Tru TV
 http://iptvcanales.com/xw/cable.php?canal=72&player=playlist.m3u8
