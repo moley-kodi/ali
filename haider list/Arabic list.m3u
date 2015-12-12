@@ -97,8 +97,7 @@ http://livestreaming.itworkscdn.net/mayadeenlive/smil:mayadeenmob.smil/playlist.
 http://38.96.148.199:1935/liveedge1/livestream_720p/chunklist_w2048781993.m3u8
 #EXTINF:-1,الميادين 
 rtsp://livestreaming3.itworkscdn.net:554/mayadeenlive/mayadsat_240p
-#EXTINF:0, Almanar
-rtmp://162.244.80.108:1935/liveedge?livestream_360p
+
 #EXTINF:-1, العالم
 http://fml.BE1E.edgecastcdn.net/20BE1E/HLSAlalamHLS/playlist.m3u8
 
@@ -198,7 +197,7 @@ http://38.96.148.30:1935/live/omantv1/playlist.m3u8
 http://jafaer-tv.com
 
 #EXTINF:0,نيل لايف Nile Life 
-rtmp://.livestreaming5.onlinehorizons.net/NTNNileLife/livestream
+rtmp://livestreaming5.onlinehorizons.net/NTNNileLife <playpath>livestream <swfUrl> <objectEncoding>
 #EXTINF:-1,Cairo Cinema
 http://38.99.146.36:7777/CairoCinema_HD.m3u8
 #EXTINF:-1,Rotana Cinema روتانا سينما
