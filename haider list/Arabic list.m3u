@@ -523,86 +523,9 @@ http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3959.ts
 http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2642.ts
 #EXTINF:-1,UK:Disney
 http://62.210.248.96:11000/live/mehhhdi/mehhhdi/87.ts
-#EXTINF:-1,[COLOR red]****************Sport ****************[/COLOR]
-
-
-#EXTINF:-1,قناة الكاس 1
-http://alkass-i.akamaihd.net/hls/live/205534/1/live_13s20.m3u8
-#EXTINF:-1,قناة الكاس 2
-http://alkass-i.akamaihd.net/hls/live/205534/2/live_14s20.m3u8
-#EXTINF:-1,قناة الكاس 3
-http://alkass-i.akamaihd.net/hls/live/205534/3/live_12s12.m3u8
-#EXTINF:-1,قناة الكاس 4
-http://alkass-i.akamaihd.net/hls/live/205534/4/live_13s20.m3u8
-
-
-#EXTINF:-1, BAHRAIN SPORTS
-rtmp://alayam.netromedia.net/btv3/btv3
-#EXTINF:-1, Dubai Sp 3
-http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/HasBahCa.m3u8
-
-
-#EXTINF:-1,[COLOR red]****************US channels ****************[/COLOR]
-
-
-
-#EXTINF:-1,FOx News
-http://103.245.167.28/tot/1e2041858ca543fa90ec95d28197e907.m3u8
-#EXTINF:-1,CNBC
-http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
-#EXTINF:-1,ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:-1,FOx 1 HD
-http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?supertvlat=/.ts
-#EXTINF:-1, Fox crime HD
-http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
-#EXTINF:-1,Fox Action HD
-http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?supertvlat=/.ts
-
-#EXTINF:-1, Tru
-http://204.107.27.137/live/3707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe7411e087fec09a4893a503f6c65dfd16e5a5c661458e25032050341a05e04965ff917e466acea473fa98822f68427ae34a61a0ba9d60060bdc9d6bb895ae1e5235ac4f0c4635a88b706eefadc233f9b13cc0ee2600e124cdd29d12e48f30998b9e5e3d531ab76c08aaea320a8ecca6c4949de3edd08c2dfb56f518ebddee48a82a16d159dede5e8c62904bbc0b9847ec
-
-
-
-#EXTINF:-1,Travel Channel
-http://stream.taksimbilisim.com:1935/wtc/bant1/chunklist_w509790984.m3u8
-#EXTINF:-1,Fox college Sport 
-http://ftve1100-i.akamaihd.net/hls/live/217047/fcsp/3964k/prog.m3u8
-#EXTINF:-1,Golf channel
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
-
-#EXTINF:-1,dream tv
-http://212.224.108.76:80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:-1,GINX
-http://204.107.26.252:1935/live/796.high.stream/chunklist_w1818870275.m3u
-
-
-#EXTINF:-1,WBTV
-http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?supertvlat=/.ts
-#EXTINF:-1,Channel 4
-http://204.107.27.250/live/2.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe2c12fec38cb924b4889e07b1c0d6490d42f8ac92e00768449674b5b009dc0465e2bc1cafe3cfb0ef944b7af1b8dce0ab9144b58e5e2b2193238581b8865f976f131b8d2fc037ef618901d9a656d7d375df5eeabbf89fa6dfd968dceed46b14ea4c75103763d8666529c286b8861d504afba0d6877239f650576349b058c59e06c71c8d85dd802c6fe5e5c2d2df6ca878
-#EXTINF:-1,Travel Channel
-http://stream.taksimbilisim.com:1935/wtc/bant1/chunklist_w509790984.m3u8
-#EXTINF:-1,Fox college Sport 
-http://ftve1100-i.akamaihd.net/hls/live/217047/fcsp/3964k/prog.m3u8
-#EXTINF:-1,Golf channel
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
-#EXTINF:-1,RT US
-http://rt.ashttp6.visionip.tv/live/RT_America-HD/chunklist.m3u8
-#EXTINF:-1,dream tv
-http://212.224.108.76:80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:-1,Fox 59
-http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
 
 #EXTINF:-1,RT DOcumentary
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
-#EXTINF:-1,Boston city Tv
-http://streaming.cityofboston.gov:1935/live/cable/chunklist_w1902155007.m3u8
-#EXTINF:-1,i24 
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/650.m3u8
-
-
-
 
 #EXTINF:-1,Aghanina
 http://streaming.i-sat.tv:1935/live/aghanina.stream_360p/chunklist_w378813722.m3u8
