@@ -1,6 +1,6 @@
 
 #EXTM3U
- 
+
 #EXTINF:-1, [COLOR red] --  Jafaer-tv.com This channeles Unstable  --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, CNN
@@ -11,6 +11,48 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/
 http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1,USA:USA NET
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4367.ts
+#EXTINF:-1,USA:WIS test
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4304.ts
+#EXTINF:-1,USA:TV W
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4310.ts
+#EXTINF:-1,USA:Pbs Kids
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4308.ts
+#EXTINF:-1,USA:HLN
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4305.ts
+#EXTINF:-1,USA:Fox 47
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4307.ts
+#EXTINF:-1,IN:KTV HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4318.ts
+#EXTINF:-1,USA:BET
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4309.ts
+#EXTINF:-1,IN:SUN Music HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4320.ts
+#EXTINF:-1,USA:27 ABC Wkow
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4306.ts
+#EXTINF:-1,Nordic:C MORE EXTREME
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4330.ts
+#EXTINF:-1,IN:SUN TV HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4328.ts
+#EXTINF:-1,USA:Starz Encore
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4262.ts
+#EXTINF:-1,USA:Starz Edge
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4263.ts
+#EXTINF:-1,USA:Starz
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4265.ts
+#EXTINF:-1,USA:Spike
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4266.ts
+#EXTINF:-1,USA:Poker Central
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4303.ts
+#EXTINF:-1,USA:DIY
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4273.ts
+#EXTINF:-1,USA:Lifetime
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4276.ts
+#EXTINF:-1,USA:Telemundo
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4270.ts
+#EXTINF:-1,USA:HBO 2
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4274.ts
 
 #EXTINF:-1,FOx 1 HD
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?supertvlat=/.ts
