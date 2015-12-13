@@ -1,10 +1,9 @@
 
 #EXTM3U
 
-#EXTINF:-1, [COLOR red] --  Jafaer-tv.com This channeles Unstable  --[/COLOR]
+#EXTINF:-1, [COLOR red] --  Jafaer-tv.com ----wait and the channel will work  --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-#EXTINF:-1, CNN
-rtmp://207.244.77.146:6034/tv/ch28q2
+
 #EXTINF:-1, CNN
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/chunklist.m3u8
 #EXTINF:-1,CNBC
@@ -47,7 +46,36 @@ http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4276.ts
 http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4270.ts
 #EXTINF:-1,USA:HBO 2
 http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4274.ts
-
+#EXTINF:-1,USA:CC
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4222.ts
+#EXTINF:-1,USA:Disney JR
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4223.ts
+#EXTINF:-1,USA:FX
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4224.ts
+#EXTINF:-1,USA:CBS Sport
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4225.ts
+#EXTINF:-1,USA:Cinemax Action
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4226.ts
+#EXTINF:-1,USA:HBO
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4227.ts
+#EXTINF:-1,USA:Showtime
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4229.ts
+#EXTINF:-1,USA:IFC
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4236.ts
+#EXTINF:-1,USA:HBO Signature
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4219.ts
+#EXTINF:-1,USA:HBO Comedy
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4221.ts
+#EXTINF:-1,USA:TCM
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4220.ts
+#EXTINF:-1,USA:Discovery HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4235.ts
+#EXTINF:-1,USA:COOKING
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4231.ts
+#EXTINF:-1,USA:BRAVO
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4232.ts
+#EXTINF:-1,USA:Box Office 1
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4205.ts
 #EXTINF:-1,FOx 1 HD
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?supertvlat=/.ts
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
