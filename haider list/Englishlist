@@ -10,8 +10,24 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/
 http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-
-
+#EXTINF:-1,RT US
+http://rt.ashttp6.visionip.tv/live/RT_America-HD/chunklist.m3u8
+#EXTINF:-1,USA:CNN
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3459.ts
+#EXTINF:-1,USA:ABC News
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/1645.ts
+#EXTINF:-1,UK:Sky News
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2650.ts
+#EXTINF:-1,UK:opt:UK: BBC 4
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2696.ts
+#EXTINF:-1,UK:BBC 4 HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2648.ts
+#EXTINF:-1,UK:BBC 2 HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/76.ts
+#EXTINF:-1,UK:BBC 1 HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/75.ts
+#EXTINF:-1,Fox 59
+http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
 #EXTINF:-1,USA:HLN
 http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4305.ts
 #EXTINF:-1,USA:Fox 47
@@ -79,7 +95,6 @@ http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4205.ts
 #EXTINF:-1,FOx 1 HD
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?supertvlat=/.ts
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
-
 #EXTINF:-1,Fox Classics
 http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?supertvlat=/.ts
 #EXTINF:-1, Fox crime HD
@@ -88,36 +103,220 @@ http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?supertvlat=/.ts
 #EXTINF:0, Fox Comedy
 http://31.220.41.107/LiveEdge/FOXComedyLASD/chunklist_w468984425_b1000000.m3u8?token=cb28c609b7912a2148b947adbed8bb59
-
 #EXTINF:-1,Warner TV HD
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?supertvlat=/.ts
 #EXTINF:-1,GINX
 http://204.107.26.252:1935/live/796.high.stream/chunklist_w1818870275.m3u8
-
-
 #EXTINF:-1,WBTV
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?supertvlat=/.ts
 
 #EXTINF:-1,Travel Channel
 http://stream.taksimbilisim.com:1935/wtc/bant1/chunklist_w509790984.m3u8
+#EXTINF:-1,RT DOcumentary
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+#EXTINF:-1,UK:Discovery Turbo
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/83.ts
+#EXTINF:-1,UK:Discovery History
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/82.ts
+#EXTINF:-1,UK:History
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/98.ts
+#EXTINF:-1,UK:opt:Aliens
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2704.ts
+#EXTINF:-1,UK:National Geographic
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/59.ts
+#EXTINF:-1,UK:Nat Geo Wild
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/86.ts
+#EXTINF:-1,RO:National Tv
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4140.ts
+#EXTINF:-1,RO:National Geographic
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4197.ts
+#EXTINF:-1,RO:Nat Geo Wild
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4196.ts
+#EXTINF:-1,RO:History Channel
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4198.ts
+#EXTINF:-1,RO:Discovery World
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4152.ts
+#EXTINF:-1,RO:Discovery Science
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4153.ts
+#EXTINF:-1,RO:Digi Animal World
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4195.ts
+#EXTINF:-1,UK:Animal Planet
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/49.ts
+#EXTINF:-1,UK-NATIONAL GEO
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/1892.ts
+#EXTINF:-1,UK-DISCOVERY SCIENCE
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/1894.ts
+#EXTINF:-1,UK-DISCOVERY HISTORY
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/1895.ts
+#EXTINF:-1,UK-DISCOVERY
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/1896.ts
+#EXTINF:-1,Discovery USA
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?supertvlat=/.ts
+
 
 #EXTINF:-1,Golf channel
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
-#EXTINF:-1,RT US
-http://rt.ashttp6.visionip.tv/live/RT_America-HD/chunklist.m3u8
+
 #EXTINF:-1,dream tv
 http://212.224.108.76:80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:-1,Fox 59
-http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
 
-#EXTINF:-1,RT DOcumentary
-http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
-#EXTINF:-1,Boston city Tv
-http://streaming.cityofboston.gov:1935/live/cable/chunklist_w1902155007.m3u8
+#EXTINF:-1,USA:WWE
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3946.ts
+#EXTINF:-1,USA:OWN
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3957.ts
+#EXTINF:-1,USA:Moremax
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3955.ts
+#EXTINF:-1,USA:HIFI
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3954.ts
 
-#EXTINF:-1,Discovery 
-http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?supertvlat=/.ts
 
+
+
+
+
+#EXTINF:-1,UK:Really
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2672.ts
+#EXTINF:-1,UK:Universal
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/84.ts
+
+#EXTINF:-1,UK:Sky One
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/52.ts
+
+#EXTINF:-1,UK:Sky Movies Thriller
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/26.ts
+#EXTINF:-1,UK:Sky Movies Select
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/20.ts
+#EXTINF:-1,UK:Sky Movies Premiere
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/24.ts
+#EXTINF:-1,UK:Sky Movies Greats
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/30.ts
+#EXTINF:-1,UK:Sky Movies Family
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/28.ts
+#EXTINF:-1,UK:Sky Movies Drama & Romance
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/29.ts
+#EXTINF:-1,UK:Sky Movies Disney
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/27.ts
+#EXTINF:-1,UK:Sky Movies Comedy
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/23.ts
+#EXTINF:-1,UK:Sky Movies Action
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/22.ts
+#EXTINF:-1,UK:Sky Movie Showcase
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3255.ts
+#EXTINF:-1,UK:Sky Movie Sci-Fi & horror
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/21.ts
+#EXTINF:-1,UK:Sky Living
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/31.ts
+#EXTINF:-1,UK:Sky Box Office PPV
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4053.ts
+#EXTINF:-1,UK:Sky Atlantic
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/48.ts
+#EXTINF:-1,UK:Sky Art 1
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/100.ts
+#EXTINF:-1,UK:Setanta Irland
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/95.ts
+#EXTINF:-1,UK:RTE Two HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/56.ts
+#EXTINF:-1,UK:RTE One
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/55.ts
+#EXTINF:-1,UK:Quest
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/1147.ts
+
+#EXTINF:-1,UK:Setanta
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/69.ts
+#EXTINF:-1,UK:opt:UK: VH1
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2667.ts
+#EXTINF:-1,UK:opt:UK: THRILLER
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2668.ts
+
+#EXTINF:-1,UK:opt:UK: MTV Classic
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2686.ts
+#EXTINF:-1,UK:opt:UK: MOVIES ACTION
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2684.ts
+#EXTINF:-1,UK:opt:UK: MODERN GREATS
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2678.ts
+#EXTINF:-1,UK:opt:UK: Living
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2680.ts
+#EXTINF:-1,UK:opt:UK: Horror
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2681.ts
+#EXTINF:-1,UK:opt:UK: Fox
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2691.ts
+#EXTINF:-1,UK:opt:UK: Crime Thriller
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2682.ts
+#EXTINF:-1,UK:opt:UK: COMEDY
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2683.ts
+#EXTINF:-1,UK:opt:Sony Movies
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2703.ts
+
+#EXTINF:-1,UK:MUTV
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2783.ts
+#EXTINF:-1,UK:LFCTV
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2877.ts
+#EXTINF:-1,UK:ITV Encore
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3016.ts
+#EXTINF:-1,UK:ITV Be
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2694.ts
+#EXTINF:-1,UK:ITV 4 SD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/74.ts
+#EXTINF:-1,UK:ITV 4*
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2631.ts
+#EXTINF:-1,UK:ITV 3 SD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/73.ts
+#EXTINF:-1,UK:ITV 3 HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2632.ts
+#EXTINF:-1,UK:ITV 2 SD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/72.ts
+#EXTINF:-1,UK:ITV 2 HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2633.ts
+#EXTINF:-1,UK:ITV 1 SD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/71.ts
+#EXTINF:-1,UK:ITV 1 HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2634.ts
+
+#EXTINF:-1,UK:Heart TV
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/1674.ts
+#EXTINF:-1,UK:Gold
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2635.ts
+#EXTINF:-1,UK:Fox
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/396.ts
+#EXTINF:-1,UK:Food Network
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2123.ts
+#EXTINF:-1,UK:F1 SD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2652.ts
+#EXTINF:-1,UK:F1 HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/19.ts
+#EXTINF:-1,UK:Drama
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/89.ts
+
+#EXTINF:-1,UK:BBC RED BUTTON LIVE
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3372.ts
+#EXTINF:-1,UK:BBC Entertainment
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/96.ts
+#EXTINF:-1,UK:At The Races
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2643.ts
+#EXTINF:-1,UK:5 USA
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2637.ts
+#EXTINF:-1,UK:5 Star
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/33.ts
+#EXTINF:-1,UK:4 Seven
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2628.ts
+#EXTINF:-1,UK-TCL
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/1898.ts
+#EXTINF:-1,UK:Watch
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/1891.ts
+#EXTINF:-1,UK-ID
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/1884.ts
+#EXTINF:-1,UK-CHANNEL 5
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/1885.ts
+#EXTINF:-1,UK-CHANNEL 4
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/1886.ts
+#EXTINF:-1,UK-CBS REALITY
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/1887.ts
+#EXTINF:-1,UK*-Gold
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2115.ts
+#EXTINF:-1,UK*-CN
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2116.ts
+#EXTINF:-1,UK:Alibi
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2117.ts
 #EXTINF:-1,Vevo 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 
@@ -272,35 +471,48 @@ http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4310.ts
 http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4308.ts
 #EXTINF:-1, Cartoon Network
 rtmp://207.244.77.146:6034/tv/ch03q2
+#EXTINF:-1,UK:Disney XD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/67.ts
+#EXTINF:-1,UK:CN
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/93.ts
+#EXTINF:-1,UK:Disney Junior
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/50.ts
+#EXTINF:-1,USA:TVO Kids
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3961.ts
+#EXTINF:-1,UK:Nicktoons
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/99.ts
+#EXTINF:-1,UK:NICKLEODON
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/57.ts
+#EXTINF:-1,UK:Nick JR
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2644.ts
+#EXTINF:-1,RO:Nickelodeon
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4157.ts
+#EXTINF:-1,RO:Nick Jr
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4156.ts
+#EXTINF:-1,RO:Disney Junior
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4158.ts
+#EXTINF:-1,RO:Disney Channel
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4159.ts
+#EXTINF:-1,USA:Cartoon Network
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3959.ts
+#EXTINF:-1,UK:Disney Channel
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2642.ts
+#EXTINF:-1,UK:Disney
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/87.ts
 
 #EXTINF:-1, Fox Sports
 rtmp://207.244.77.146:6034/tv/ch10q2
 #EXTINF:-1, History
 rtmp://207.244.77.146:6034/tv/ch11q2
-#EXTINF:-1, NBCSN
-rtmp://207.244.77.146:6034/tv/ch12q2
 
-#EXTINF:-1, ESPN Soccer
-rtmp://207.244.77.146:6034/tv/ch15q2
-#EXTINF:-1, ESPN 2
-rtmp://207.244.77.146:6034/tv/ch16q2
-#EXTINF:-1, ESPN USA
-rtmp://207.244.77.146:6034/tv/ch17q2
-#EXTINF:-1, NBA USA
-rtmp://207.244.77.146:6034/tv/ch18q2
-#EXTINF:-1, NHL USA
-rtmp://207.244.77.146:6034/tv/ch19q2
-#EXTINF:-1, ESPN Deportes
-rtmp://207.244.77.146:6034/tv/ch20q2
 
 #EXTINF:-1, SNWL
 rtmp://207.244.77.146:6034/tv/ch25q2
 #EXTINF:-1, TSN
 rtmp://207.244.77.146:6034/tv/ch26q2
-#EXTINF:-1, TSN
-rtmp://207.244.77.146:6034/tv/ch27q2
 
-http://iptv-zak.blogspot.com/
+
+
 
 
 
