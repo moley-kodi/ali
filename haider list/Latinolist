@@ -1,7 +1,102 @@
 #EXTM3U
 
 
-
+#EXTINF:-1,SP:Telecinco HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3230.ts
+#EXTINF:-1,SP:A&E
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/343.ts
+#EXTINF:-1,SP:Syfy HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/342.ts
+#EXTINF:-1,SP:Syfy
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3065.ts
+#EXTINF:-1,SP:Quatro
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3229.ts
+#EXTINF:-1,SP:Odisea
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2799.ts
+#EXTINF:-1,SP:Canal Panda
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2785.ts
+#EXTINF:-1,SP:Nat Geo
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/340.ts
+#EXTINF:-1,Sp:Movistar MotoGP
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/338.ts
+#EXTINF:-1,Sp:Movistar F1
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/339.ts
+#EXTINF:-1,SP:Mega HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2903.ts
+#EXTINF:-1,SP:Mega
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/351.ts
+#EXTINF:-1,SP:La Sexta
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/349.ts
+#EXTINF:-1,SP:La 2
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/337.ts
+#EXTINF:-1,SP:La 1
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/348.ts
+#EXTINF:-1,SP:Hollywood
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/336.ts
+#EXTINF:-1,SP:History
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2350.ts
+#EXTINF:-1,SP:Galicia
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/344.ts
+#EXTINF:-1,SP:FOX LIFE
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2182.ts
+#EXTINF:-1,SP:FOX
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2181.ts
+#EXTINF:-1,SP:Extreme Madura
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/347.ts
+#EXTINF:-1,SP:TCM
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3066.ts
+#EXTINF:-1,SP:Discovery
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2793.ts
+#EXTINF:-1,SP:DCINE
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2794.ts
+#EXTINF:-1,SP:Cosmo
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/350.ts
+#EXTINF:-1,SP:Cocina
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/324.ts
+#EXTINF:-1,SP:Caza y Pesca
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2801.ts
+#EXTINF:-1,SP:Canal+ Futbol
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/392.ts
+#EXTINF:-1,SP:Canal+
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2186.ts
+#EXTINF:-1,SP:Canal Series Xtra
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/353.ts
+#EXTINF:-1,SP:Vijar
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/346.ts
+#EXTINF:-1,SP:Canal  Xtra
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/333.ts
+#EXTINF:-1,SP:Canal  Liga
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/332.ts
+#EXTINF:-1,SP:Canal  Golf
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/331.ts
+#EXTINF:-1,SP:Canal  Estrenos
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/330.ts
+#EXTINF:-1,SP:CANAL  DEPORTES 2 HD
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3501.ts
+#EXTINF:-1,SP:Canal  Deportes
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/328.ts
+#EXTINF:-1,SP:Canal  DCine
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/327.ts
+#EXTINF:-1,SP:Canal  Comedia
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/326.ts
+#EXTINF:-1,SP:Canal  Accion
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/325.ts
+#EXTINF:-1,SP:Calle 13
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/321.ts
+#EXTINF:-1,SP:C  Toros
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2802.ts
+#EXTINF:-1,SP:AXN White
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2795.ts
+#EXTINF:-1,SP:ANX White
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/320.ts
+#EXTINF:-1,SP:Antena 3
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/345.ts
+#EXTINF:-1,SP:Anime TV
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2796.ts
+#EXTINF:-1,SP:Canal+ Liga 2
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/341.ts
+#EXTINF:-1,SP:A & E
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2787.ts
 #EXTINF:-1,RTP 1
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
 #EXTINF:-1,RTP 2
