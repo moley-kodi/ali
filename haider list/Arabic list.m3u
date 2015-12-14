@@ -531,3 +531,348 @@ http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 http://streaming.i-sat.tv:1935/live/aghanina.stream_360p/chunklist_w378813722.m3u8
 
 
+#EXTINF:-1,*********[COLOR red]  المزيد من القنوات[/COLOR]**********
+http://jafaer-tv.com
+#EXTINF:-1,AR: _EL_DJAZAIRIA
+http://top-iptv.zapto.org:8000/live/walid/walid/1002.ts
+#EXTINF:-1,AR: ZAYTOONA
+http://top-iptv.zapto.org:8000/live/walid/walid/984.ts
+#EXTINF:-1,AR: WATAN_DZAIER
+http://top-iptv.zapto.org:8000/live/walid/walid/1003.ts
+#EXTINF:-1,AR: TOUNESNA
+http://top-iptv.zapto.org:8000/live/walid/walid/983.ts
+#EXTINF:-1,AR: TELVZA TV
+http://top-iptv.zapto.org:8000/live/walid/walid/986.ts
+#EXTINF:-1,AR: SAMIRA_TV
+http://top-iptv.zapto.org:8000/live/walid/walid/997.ts
+#EXTINF:-1,AR: M_TUNISIA
+http://top-iptv.zapto.org:8000/live/walid/walid/987.ts
+#EXTINF:-1,AR: MEDI_1_SAT
+http://top-iptv.zapto.org:8000/live/walid/walid/996.ts
+#EXTINF:-1,AR: FIRST_TV
+http://top-iptv.zapto.org:8000/live/walid/walid/988.ts
+#EXTINF:-1,AR: ENNAHAR_ALGERIE
+http://top-iptv.zapto.org:8000/live/walid/walid/1004.ts
+#EXTINF:-1,AR: DZAIR_TV
+http://top-iptv.zapto.org:8000/live/walid/walid/999.ts
+#EXTINF:-1,AR: ATTASSIA
+http://top-iptv.zapto.org:8000/live/walid/walid/985.ts
+#EXTINF:-1,AR: ASSADISSA
+http://top-iptv.zapto.org:8000/live/walid/walid/995.ts
+#EXTINF:-1,AR: ARRABIA
+http://top-iptv.zapto.org:8000/live/walid/walid/998.ts
+#EXTINF:-1,AR: AL_MOUTAWASIT
+http://top-iptv.zapto.org:8000/live/walid/walid/989.ts
+#EXTINF:-1,AR: AL_MOUSTAKILLA
+http://top-iptv.zapto.org:8000/live/walid/walid/990.ts
+#EXTINF:-1,AR: AL_MAGHRIBIA
+http://top-iptv.zapto.org:8000/live/walid/walid/993.ts
+#EXTINF:-1,AR: AL_JANOUBIA
+http://top-iptv.zapto.org:8000/live/walid/walid/991.ts
+#EXTINF:-1,AR: AL_AOULA_MAROC
+http://top-iptv.zapto.org:8000/live/walid/walid/992.ts
+#EXTINF:-1,AR: ALGERIE_TV
+http://top-iptv.zapto.org:8000/live/walid/walid/1000.ts
+#EXTINF:-1,AR: ALGERIA_3
+http://top-iptv.zapto.org:8000/live/walid/walid/1001.ts
+#EXTINF:-1,AR: 2M_MAROC
+http://top-iptv.zapto.org:8000/live/walid/walid/994.ts
+#EXTINF:-1,AR: MBC+ Drama
+http://top-iptv.zapto.org:8000/live/walid/walid/417.ts
+#EXTINF:-1,AR: OSN Yahla HD
+http://top-iptv.zapto.org:8000/live/walid/walid/406.ts
+#EXTINF:-1,AR: OSN_CINEMA_1
+http://top-iptv.zapto.org:8000/live/walid/walid/450.ts
+#EXTINF:-1,AR: OSN ALYOUM
+http://top-iptv.zapto.org:8000/live/walid/walid/422.ts
+#EXTINF:-1,AR: OSN_CINEMA_2
+http://top-iptv.zapto.org:8000/live/walid/walid/449.ts
+#EXTINF:-1,AR: OSN_SERIES_ARABIC
+http://top-iptv.zapto.org:8000/live/walid/walid/447.ts
+#EXTINF:-1,AR: OSN Ya Hala! Shabab HD
+http://top-iptv.zapto.org:8000/live/walid/walid/391.ts
+#EXTINF:-1,AR: OSN FIRST MORE
+http://top-iptv.zapto.org:8000/live/walid/walid/418.ts
+#EXTINF:-1,AR: OSN Movie Festival
+http://top-iptv.zapto.org:8000/live/walid/walid/412.ts
+#EXTINF:-1,AR: OSN Ya Hala Drama
+http://top-iptv.zapto.org:8000/live/walid/walid/408.ts
+#EXTINF:-1,AR: OSN Nat Geo Wild HD
+http://top-iptv.zapto.org:8000/live/walid/walid/404.ts
+#EXTINF:-1,AR: OSN Movies Premiere
+http://top-iptv.zapto.org:8000/live/walid/walid/409.ts
+#EXTINF:-1,AR:  OSN Action HD
+http://top-iptv.zapto.org:8000/live/walid/walid/405.ts
+#EXTINF:-1,AR:  OSN Star Movies HD
+http://top-iptv.zapto.org:8000/live/walid/walid/411.ts
+#EXTINF:-1,AR: OSN Movies Comedy HD
+http://top-iptv.zapto.org:8000/live/walid/walid/413.ts
+#EXTINF:-1,AR: OSN Movies HD
+http://top-iptv.zapto.org:8000/live/walid/walid/416.ts
+#EXTINF:-1,AR: OSN Movies Drama HD
+http://top-iptv.zapto.org:8000/live/walid/walid/415.ts
+#EXTINF:-1,AR:  OSN MOVIE KIDS HD
+http://top-iptv.zapto.org:8000/live/walid/walid/407.ts
+#EXTINF:-1,AR: OSN First HD
+http://top-iptv.zapto.org:8000/live/walid/walid/410.ts
+#EXTINF:-1,AR: OSN_MOVIES_KIDS
+http://top-iptv.zapto.org:8000/live/walid/walid/445.ts
+#EXTINF:-1,AR: OSN_FIRST_COMEDY
+http://top-iptv.zapto.org:8000/live/walid/walid/398.ts
+iptv-zak.blogspot.com
+#EXTINF:-1,AR: OSN Discovery HD
+http://top-iptv.zapto.org:8000/live/walid/walid/420.ts
+#EXTINF:-1,AR: OSN Movies Festival HD
+http://top-iptv.zapto.org:8000/live/walid/walid/403.ts
+#EXTINF:-1,AR: Chelsea TV
+http://top-iptv.zapto.org:8000/live/walid/walid/611.ts
+#EXTINF:-1,AR: OSN_ANIMAL_PANET
+http://top-iptv.zapto.org:8000/live/walid/walid/451.ts
+#EXTINF:-1,AR: OSN_Safwa
+http://top-iptv.zapto.org:8000/live/walid/walid/446.ts
+#EXTINF:-1,AR: OSN Animal Planet HD
+http://top-iptv.zapto.org:8000/live/walid/walid/419.ts
+#EXTINF:-1,OSN : Star Movies HD
+http://top-iptv.zapto.org:8000/live/walid/walid/414.ts
+#EXTINF:-1,AR: OSN Movie kids HD
+http://top-iptv.zapto.org:8000/live/walid/walid/448.ts
+#EXTINF:-1,AR: mbc-masr
+http://top-iptv.zapto.org:8000/live/walid/walid/295.ts
+#EXTINF:-1,AR: cbc
+http://top-iptv.zapto.org:8000/live/walid/walid/332.ts
+#EXTINF:-1,AR:  AlNahar AlYoum
+http://top-iptv.zapto.org:8000/live/walid/walid/284.ts
+#EXTINF:-1,AR: AlRessala
+http://top-iptv.zapto.org:8000/live/walid/walid/285.ts
+#EXTINF:-1,AR: lbc lebnanon
+http://top-iptv.zapto.org:8000/live/walid/walid/286.ts
+#EXTINF:-1,AR: Noursat Shebab
+http://top-iptv.zapto.org:8000/live/walid/walid/287.ts
+#EXTINF:-1,AR: alIraquia
+http://top-iptv.zapto.org:8000/live/walid/walid/290.ts
+#EXTINF:-1,AR: mbc2
+http://top-iptv.zapto.org:8000/live/walid/walid/292.ts
+#EXTINF:-1,AR: al-nahar-drama
+http://top-iptv.zapto.org:8000/live/walid/walid/326.ts
+#EXTINF:-1,AR: mbc4
+http://top-iptv.zapto.org:8000/live/walid/walid/293.ts
+#EXTINF:-1,AR: mbc1
+http://top-iptv.zapto.org:8000/live/walid/walid/291.ts
+#EXTINF:-1,AR: toktok aflam
+http://top-iptv.zapto.org:8000/live/walid/walid/354.ts
+#EXTINF:-1,AR: Mehwer
+http://top-iptv.zapto.org:8000/live/walid/walid/289.ts
+#EXTINF:-1,AR: Noursat
+http://top-iptv.zapto.org:8000/live/walid/walid/288.ts
+#EXTINF:-1,AR: MBC. DRAMA
+http://top-iptv.zapto.org:8000/live/walid/walid/294.ts
+#EXTINF:-1,AR: cairo-cinema
+http://top-iptv.zapto.org:8000/live/walid/walid/328.ts
+#EXTINF:-1,AR: al-maghribia
+http://top-iptv.zapto.org:8000/live/walid/walid/346.ts
+#EXTINF:-1,AR: al-mayadeen
+http://top-iptv.zapto.org:8000/live/walid/walid/310.ts
+#EXTINF:-1,AR: saudi-quran
+http://top-iptv.zapto.org:8000/live/walid/walid/314.ts
+#EXTINF:-1,AR: cbc-drama
+http://top-iptv.zapto.org:8000/live/walid/walid/330.ts
+#EXTINF:-1,AR: cairo-drama
+http://top-iptv.zapto.org:8000/live/walid/walid/329.ts
+#EXTINF:-1,AR: cbc-sofra
+http://top-iptv.zapto.org:8000/live/walid/walid/331.ts
+#EXTINF:-1,AR: nile-culture
+http://top-iptv.zapto.org:8000/live/walid/walid/335.ts
+#EXTINF:-1,AR: bbc-news-arabic
+http://top-iptv.zapto.org:8000/live/walid/walid/349.ts
+#EXTINF:-1,AR: nile-comedy
+http://top-iptv.zapto.org:8000/live/walid/walid/334.ts
+#EXTINF:-1,AR: al-rai
+http://top-iptv.zapto.org:8000/live/walid/walid/361.ts
+#EXTINF:-1,AR: nile-drama
+http://top-iptv.zapto.org:8000/live/walid/walid/336.ts
+#EXTINF:-1,AR: rotana-khalijia
+http://top-iptv.zapto.org:8000/live/walid/walid/318.ts
+#EXTINF:-1,AR:suadi-news
+http://top-iptv.zapto.org:8000/live/walid/walid/312.ts
+#EXTINF:-1,AR: panomara-drama2
+http://top-iptv.zapto.org:8000/live/walid/walid/337.ts
+#EXTINF:-1,AR: artaflam2
+http://top-iptv.zapto.org:8000/live/walid/walid/340.ts
+#EXTINF:-1,AR: rotana-cinema
+http://top-iptv.zapto.org:8000/live/walid/walid/315.ts
+#EXTINF:-1,AR: rotana-classic
+http://top-iptv.zapto.org:8000/live/walid/walid/316.ts
+#EXTINF:-1,AR: almanar
+http://top-iptv.zapto.org:8000/live/walid/walid/371.ts
+#EXTINF:-1,AR: time-film
+http://top-iptv.zapto.org:8000/live/walid/walid/355.ts
+#EXTINF:-1,AR: panorama-film
+http://top-iptv.zapto.org:8000/live/walid/walid/338.ts
+#EXTINF:-1,AR: Sada_ELBalad
+http://top-iptv.zapto.org:8000/live/walid/walid/372.ts
+#EXTINF:-1,AR: al-hayat2
+http://top-iptv.zapto.org:8000/live/walid/walid/353.ts
+#EXTINF:-1,AR: rotana-masyria
+http://top-iptv.zapto.org:8000/live/walid/walid/319.ts
+#EXTINF:-1,AR: rotana-music
+http://top-iptv.zapto.org:8000/live/walid/walid/320.ts
+#EXTINF:-1,AR: al-emirate
+http://top-iptv.zapto.org:8000/live/walid/walid/304.ts
+#EXTINF:-1,AR: fatafeat
+http://top-iptv.zapto.org:8000/live/walid/walid/303.ts
+#EXTINF:-1,AR: nbn-arabic
+http://top-iptv.zapto.org:8000/live/walid/walid/352.ts
+#EXTINF:-1,AR: al-arabiya
+http://top-iptv.zapto.org:8000/live/walid/walid/300.ts
+#EXTINF:-1,AR: alhadath
+http://top-iptv.zapto.org:8000/live/walid/walid/299.ts
+#EXTINF:-1,AR: AL JAZEERA DOC
+http://top-iptv.zapto.org:8000/live/walid/walid/322.ts
+#EXTINF:-1,AR: art-cinema
+http://top-iptv.zapto.org:8000/live/walid/walid/341.ts
+#EXTINF:-1,AR: alemerat
+http://top-iptv.zapto.org:8000/live/walid/walid/369.ts
+#EXTINF:-1,AR: time-comedy
+http://top-iptv.zapto.org:8000/live/walid/walid/357.ts
+#EXTINF:-1,AR: zee-aflam
+http://top-iptv.zapto.org:8000/live/walid/walid/342.ts
+#EXTINF:-1,AR: Abu Dhabi SPORT.
+http://top-iptv.zapto.org:8000/live/walid/walid/345.ts
+#EXTINF:-1,AR: art-hekayat2
+http://top-iptv.zapto.org:8000/live/walid/walid/344.ts
+#EXTINF:-1,AR:  alarabia
+http://top-iptv.zapto.org:8000/live/walid/walid/367.ts
+#EXTINF:-1,AR: IQRA
+http://top-iptv.zapto.org:8000/live/walid/walid/373.ts
+#EXTINF:-1,AR: nile-cinema
+http://top-iptv.zapto.org:8000/live/walid/walid/333.ts
+#EXTINF:-1,AR: natgeoabudhabi
+http://top-iptv.zapto.org:8000/live/walid/walid/297.ts
+#EXTINF:-1,AR: dubai-one
+http://top-iptv.zapto.org:8000/live/walid/walid/301.ts
+#EXTINF:-1,AR: dubai aloula
+http://top-iptv.zapto.org:8000/live/walid/walid/302.ts
+#EXTINF:-1,AR: Echourouk
+http://top-iptv.zapto.org:8000/live/walid/walid/298.ts
+#EXTINF:-1,AR: kuwait-tv
+http://top-iptv.zapto.org:8000/live/walid/walid/351.ts
+#EXTINF:-1,AR: star-cinema1
+http://top-iptv.zapto.org:8000/live/walid/walid/358.ts
+#EXTINF:-1,AR: Echourouk_Benna
+http://top-iptv.zapto.org:8000/live/walid/walid/323.ts
+#EXTINF:-1,PBS America
+http://top-iptv.zapto.org:8000/live/walid/walid/459.ts
+#EXTINF:-1,AR: MBC PRO2
+http://top-iptv.zapto.org:8000/live/walid/walid/453.ts
+#EXTINF:-1,Areana Sport 1
+http://top-iptv.zapto.org:8000/live/walid/walid/464.ts
+#EXTINF:-1,AR: MBC PRO1
+http://top-iptv.zapto.org:8000/live/walid/walid/452.ts
+#EXTINF:-1,AR: MBC PRO3
+http://top-iptv.zapto.org:8000/live/walid/walid/454.ts
+#EXTINF:-1,AR: rotana-clip
+http://top-iptv.zapto.org:8000/live/walid/walid/317.ts
+#EXTINF:-1,AR: AL JAZEERA MOUBCHER
+http://top-iptv.zapto.org:8000/live/walid/walid/324.ts
+#EXTINF:-1,AR: al-hayat
+http://top-iptv.zapto.org:8000/live/walid/walid/325.ts
+#EXTINF:-1,AR: time-cinema
+http://top-iptv.zapto.org:8000/live/walid/walid/356.ts
+#EXTINF:-1,AR: artaflam1
+http://top-iptv.zapto.org:8000/live/walid/walid/339.ts
+#EXTINF:-1,AR: dubai-nour
+http://top-iptv.zapto.org:8000/live/walid/walid/360.ts
+#EXTINF:-1,AR: star-cinema2
+http://top-iptv.zapto.org:8000/live/walid/walid/359.ts
+#EXTINF:-1,AR: fox-arabic
+http://top-iptv.zapto.org:8000/live/walid/walid/362.ts
+#EXTINF:-1,AR: futuretv
+http://top-iptv.zapto.org:8000/live/walid/walid/370.ts
+#EXTINF:-1,AR: sky news arabic
+http://top-iptv.zapto.org:8000/live/walid/walid/308.ts
+#EXTINF:-1,AR: mbc-bollywood
+http://top-iptv.zapto.org:8000/live/walid/walid/307.ts
+#EXTINF:-1,AR: fox-movies-arabic
+http://top-iptv.zapto.org:8000/live/walid/walid/363.ts
+#EXTINF:-1,AR: rt news
+http://top-iptv.zapto.org:8000/live/walid/walid/309.ts
+#EXTINF:-1,AR: abudhabi drama
+http://top-iptv.zapto.org:8000/live/walid/walid/305.ts
+#EXTINF:-1,AR: mbc-action
+http://top-iptv.zapto.org:8000/live/walid/walid/306.ts
+#EXTINF:-1,AR: abudhabidrama
+http://top-iptv.zapto.org:8000/live/walid/walid/368.ts
+#EXTINF:-1,AR: almayadeen
+http://top-iptv.zapto.org:8000/live/walid/walid/364.ts
+#EXTINF:-1,AR: mbc-sport1
+http://top-iptv.zapto.org:8000/live/walid/walid/347.ts
+#EXTINF:-1,AR: suadi2
+http://top-iptv.zapto.org:8000/live/walid/walid/313.ts
+#EXTINF:-1,AR: aljazeera
+http://top-iptv.zapto.org:8000/live/walid/walid/321.ts
+#EXTINF:-1,AR: syriandrama/pub
+http://top-iptv.zapto.org:8000/live/walid/walid/366.ts
+#EXTINF:-1,AR: ajial
+http://top-iptv.zapto.org:8000/live/walid/walid/311.ts
+#EXTINF:-1,AR: mbc-sport2
+http://top-iptv.zapto.org:8000/live/walid/walid/348.ts
+#EXTINF:-1,AR: mbcbollywood
+http://top-iptv.zapto.org:8000/live/walid/walid/365.ts
+#EXTINF:-1,AR: mbc-max
+http://top-iptv.zapto.org:8000/live/walid/walid/296.ts
+#EXTINF:-1,AR:al-nahar-sport
+http://top-iptv.zapto.org:8000/live/walid/walid/350.ts
+#EXTINF:-1,AR:  Sharjah
+http://top-iptv.zapto.org:8000/live/walid/walid/400.ts
+#EXTINF:-1,AR:  Aghani
+http://top-iptv.zapto.org:8000/live/walid/walid/401.ts
+#EXTINF:-1,AR:  Libya 2
+http://top-iptv.zapto.org:8000/live/walid/walid/397.ts
+#EXTINF:-1,AR:  Hannibal
+http://top-iptv.zapto.org:8000/live/walid/walid/385.ts
+#EXTINF:-1,FR: Watania 1
+http://top-iptv.zapto.org:8000/live/walid/walid/384.ts
+#EXTINF:-1,AR:  Jordan
+http://top-iptv.zapto.org:8000/live/walid/walid/402.ts
+#EXTINF:-1,AR:  Mecca
+http://top-iptv.zapto.org:8000/live/walid/walid/399.ts
+#EXTINF:-1,AR:  Dubai Sport 3
+http://top-iptv.zapto.org:8000/live/walid/walid/389.ts
+#EXTINF:-1,AR:  Aljazeera Children
+http://top-iptv.zapto.org:8000/live/walid/walid/395.ts
+#EXTINF:-1,AR:  CBC Extra
+http://top-iptv.zapto.org:8000/live/walid/walid/392.ts
+#EXTINF:-1,AR:  Al Sharqiya News
+http://top-iptv.zapto.org:8000/live/walid/walid/393.ts
+#EXTINF:-1,AR:  TOP MOVIES
+http://top-iptv.zapto.org:8000/live/walid/walid/388.ts
+#EXTINF:-1,AR:  AD YAS Sports
+http://top-iptv.zapto.org:8000/live/walid/walid/390.ts
+#EXTINF:-1,AR: peacetv
+http://top-iptv.zapto.org:8000/live/walid/walid/375.ts
+#EXTINF:-1,AR:  JSC Documentaire tv
+http://top-iptv.zapto.org:8000/live/walid/walid/386.ts
+#EXTINF:-1,AR: alquran
+http://top-iptv.zapto.org:8000/live/walid/walid/379.ts
+#EXTINF:-1,AR: alsunna
+http://top-iptv.zapto.org:8000/live/walid/walid/380.ts
+#EXTINF:-1,AR: nessma-tv
+http://top-iptv.zapto.org:8000/live/walid/walid/382.ts
+#EXTINF:-1,AR: elhiwar-ettounsia
+http://top-iptv.zapto.org:8000/live/walid/walid/381.ts
+#EXTINF:-1,AR: islamchannel
+http://top-iptv.zapto.org:8000/live/walid/walid/378.ts
+#EXTINF:-1,AR:  Palestine
+http://top-iptv.zapto.org:8000/live/walid/walid/394.ts
+#EXTINF:-1,AR:  AL-Maghribia
+http://top-iptv.zapto.org:8000/live/walid/walid/396.ts
+#EXTINF:-1,AR:  MOGA COMEDY
+http://top-iptv.zapto.org:8000/live/walid/walid/387.ts
+#EXTINF:-1,AR: OSN Discovery Science HD
+http://top-iptv.zapto.org:8000/live/walid/walid/421.ts
+#EXTINF:-1,AR: cbc-extra
+http://top-iptv.zapto.org:8000/live/walid/walid/343.ts
+#EXTINF:-1,AR:  Watania 2
+http://top-iptv.zapto.org:8000/live/walid/walid/383.ts
+#EXTINF:-1,AR: al-nahar
+http://top-iptv.zapto.org:8000/live/walid/walid/327.ts
