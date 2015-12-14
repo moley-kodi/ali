@@ -317,6 +317,16 @@ http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2115.ts
 http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2116.ts
 #EXTINF:-1,UK:Alibi
 http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2117.ts
+#EXTINF:-1,Movie_CINEMA_53
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3750.ts
+#EXTINF:-1,Movie_CINEMA_48
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3746.ts
+#EXTINF:-1,Movie_CINEMA_2
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3780.ts
+#EXTINF:-1,Movie_CINEMA_12
+http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3790.ts
+
+
 #EXTINF:-1,Vevo 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 
