@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1, [COLOR red] تم التحديث الرجاء انتظر قليلا و ستعمل القنات/COLOR]
+
+#EXTINF:-1, [COLOR red] -- لمتابعة القنوان الامريكية و الرياضية الرجاء الذهاب الى Haider list --[/COLOR]
+
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
-#EXTINF:-1, [COLOR red] -- Jafaer-tv.com--[/COLOR]
+#EXTINF:-1, [COLOR red] -- الرجاء انتظر قليلا وستعمل القناة--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
 
@@ -531,7 +533,7 @@ http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 http://streaming.i-sat.tv:1935/live/aghanina.stream_360p/chunklist_w378813722.m3u8
 
 
-#EXTINF:-1,*********[COLOR red]  المزيد من القنوات[/COLOR]**********
+#EXTINF:-1,*********[COLOR red] هذه القنوات غير مستقرة  [/COLOR]**********
 http://jafaer-tv.com
 #EXTINF:-1,AR: _EL_DJAZAIRIA
 http://top-iptv.zapto.org:8000/live/walid/walid/1002.ts
