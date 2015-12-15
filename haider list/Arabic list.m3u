@@ -12,7 +12,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
 
 #EXTINF:-1 tvg-logo="http://s.alriyadh.com/2011/11/10/img/044923346065.jpg",MBC MAX 
-http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+http://148.251.73.76:8000/live/cristo/start1/300.ts
 #EXTINF:-1 tvg-logo="http://vector.me/files/images/7/8/788941/mbc_action.png",MBC Action HD 
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 <swfUrl>http://embed.iptv-planet.com/swfs/player.swf 
@@ -531,4 +531,21 @@ http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 
 #EXTINF:-1,Aghanina
 http://streaming.i-sat.tv:1935/live/aghanina.stream_360p/chunklist_w378813722.m3u8
-
+#‎EXTINF‬:-1,quran tv 1
+http://148.251.73.76:8000/live/cristo/start1/296.ts
+#EXTINF:-1,mbc max
+http://148.251.73.76:8000/live/cristo/start1/300.ts
+#EXTINF:-1,mbc action
+http://148.251.73.76:8000/live/cristo/start1/299.ts
+#EXTINF:-1,mbc 4
+http://148.251.73.76:8000/live/cristo/start1/298.ts
+#EXTINF:-1,mbc 2
+http://148.251.73.76:8000/live/cristo/start1/297.ts
+#EXTINF:-1,mbc 1
+http://148.251.73.76:8000/live/cristo/start1/306.ts
+#EXTINF:-1,3sat
+http://148.251.73.76:8000/live/cristo/start1/79.ts
+#EXTINF:-1,AR-Toyor-jannah
+http://148.251.73.76:8000/live/cristo/start1/1.ts
+#EXTINF:-1,MTV.AM HD
+http://148.251.73.76:8000/live/cristo/start1/22.ts
