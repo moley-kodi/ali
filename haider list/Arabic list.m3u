@@ -287,7 +287,12 @@ http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_de
 
 #EXTINF:-1 group-title=”ARABIC”,AL JAZEERA INT
 http://origin.live.web.tv.streamprovider.net/streams/8cbc1bc6c935f62ac2e44c5b2854f3ca_live_0_0/index.m3u8
-
+#EXTINF:-1, المستقلة
+http://38.99.146.36:7777/AlMustakila_HD/AlMustakila_HD.m3u8?user=&session=&hlsid=HTTP_ID_340998&group_id=-1&starttime=20151215T181615.227434
+#EXTINF:-1, Al Yawm  اليوم
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+#EXTINF:-1,France 24 AR
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 
 
 
