@@ -37,7 +37,24 @@ rtmp://www1.iguide.to/iguide playpath=ql4mb7goxh0gx7y swfUrl=http://cdn.iguide.t
 #EXTINF:-1,Bein 12 AR
 rtmp://www1.iguide.to/iguide playpath=zrbbip5ikugr384 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf <pageUrl>http://www.iguide.to/embedplayer_new.php?channel=31508&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 
-
+#EXTINF:-1,beIN SPORT HD1
+http://5.196.67.222:80/live/Beinf/live/3797.ts
+#EXTINF:-1,beIN SPORT HD2
+http://5.196.67.222:80/live/Beinf/live/3097.ts
+#EXTINF:-1,beIN SPORT HD3
+ http://5.196.67.222:80/live/Beinf/live/3807.ts
+#EXTINF:-1,beIN SPORT HD4
+ http://5.196.67.222:80/live/Beinf/live/3799.ts
+#EXTINF:-1,beIN SPORT HD5
+ http://5.196.67.222:80/live/Beinf/live/3805.ts
+#EXTINF:-1,beIN SPORT HD6
+ http://5.196.67.222:80/live/Beinf/live/3101.ts
+#EXTINF:-1,beIN SPORT HD7
+ http://5.196.67.222:80/live/Beinf/live/3803.ts
+#EXTINF:-1,beIN SPORT HD8
+ http://5.196.67.222:80/live/Beinf/live/3802.ts
+#EXTINF:-1,beIN SPORT HD9
+ http://5.196.67.222:80/live/Beinf/live/3798.ts
 
 #EXTINF:-1,Now Live
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
