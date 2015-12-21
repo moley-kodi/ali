@@ -1,43 +1,6 @@
 
 #EXTM3U
-#EXTINF:-1,TF1 HD
-http://megaiptv.spdns.eu:8000/live/free5284/VtldGr3cWz/44.ts
-#EXTINF:-1,M6 HD
-http://megaiptv.spdns.eu:8000/live/free5284/VtldGr3cWz/45.ts
-#EXTINF:-1,FRANCE O
-http://megaiptv.spdns.eu:8000/live/free5284/VtldGr3cWz/50.ts
-#EXTINF:-1,FRANCE 5,
-http://megaiptv.spdns.eu:8000/live/free5284/VtldGr3cWz/49.ts
-#EXTINF:-1,FRANCE 4
-http://megaiptv.spdns.eu:8000/live/free5284/VtldGr3cWz/48.ts
-#EXTINF:-1,FRANCE 3
-http://megaiptv.spdns.eu:8000/live/free5284/VtldGr3cWz/47.ts
-#EXTINF:-1,FRANCE 2
-http://megaiptv.spdns.eu:8000/live/free5284/VtldGr3cWz/46.ts
-#EXTINF:-1,CANAL SPORT
-http://megaiptv.spdns.eu:8000/live/free5284/VtldGr3cWz/56.ts
-#EXTINF:-1,CANAL SERIES
-http://megaiptv.spdns.eu:8000/live/free5284/VtldGr3cWz/57.ts
-#EXTINF:-1,CANAL FAMILY
-http://megaiptv.spdns.eu:8000/live/free5284/VtldGr3cWz/55.ts
-#EXTINF:-1,CANAL DECALE
-http://megaiptv.spdns.eu:8000/live/free5284/VtldGr3cWz/53.ts
-#EXTINF:-1,CANAL CINEMA
-http://megaiptv.spdns.eu:8000/live/free5284/VtldGr3cWz/54.ts
-#EXTINF:-1,CANAL
-http://megaiptv.spdns.eu:8000/live/free5284/VtldGr3cWz/52.ts
-#EXTINF:-1,ARTE FR
-http://megaiptv.spdns.eu:8000/live/free5284/VtldGr3cWz/51.ts
-#EXTINF:-1,A LA CARTE 5,
-http://megaiptv.spdns.eu:8000/live/free5284/VtldGr3cWz/62.ts
-#EXTINF:-1,A LA CARTE 4,
-http://megaiptv.spdns.eu:8000/live/free5284/VtldGr3cWz/61.ts
-#EXTINF:-1,A LA CARTE 3,
-http://megaiptv.spdns.eu:8000/live/free5284/VtldGr3cWz/60.ts
-#EXTINF:-1,A LA CARTE 2
-http://megaiptv.spdns.eu:8000/live/free5284/VtldGr3cWz/59.ts
-#EXTINF:-1,A LA CARTE 1
-http://megaiptv.spdns.eu:8000/live/free5284/VtldGr3cWz/58.ts
+
 #EXTINF:-1,ARTE
 http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
 #EXTINF:-1,24 NEWS
@@ -54,39 +17,3 @@ http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
 http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
 #EXTINF:-1,2M MONDE
 http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
-#EXTINF:-1,TF1
-http://178.33.88.130:888/udp/239.102.0.56:1234
-#EXTINF:-1,CARTOON NET
-http://178.33.88.130:888/udp/239.102.0.57:1234
-#EXTINF:-1,CANAL 1
-http://178.33.88.130:888/udp/239.102.0.74:1234
-#EXTINF:-1,MTV FR
-http://178.33.88.130:888/udp/239.102.0.75:1234
-#EXTINF:-1,DISCOVERY SCIENC
-http://178.33.88.130:888/udp/239.102.0.79:1234
-#EXTINF:-1,TEVE
-http://178.33.88.130:888/udp/239.102.0.80:1234
-#EXTINF:-1,SERIE CLUB HD
-http://178.33.88.130:888/udp/239.102.0.82:1234
-#EXTINF:-1,VOYAGE
-http://178.33.88.130:888/udp/239.102.0.85:1234
-#EXTINF:-1,DISNEY HD
-http://178.33.88.130:888/udp/239.102.0.88:1234
-#EXTINF:-1,CARTOON NETWORK
-http://178.33.88.130:888/udp/239.102.0.89:1234
-#EXTINF:-1,DISCOVERY WORLD
-http://178.33.88.130:888/udp/239.102.0.90:1234
-#EXTINF:-1,USHUAIA TV
-http://178.33.88.130:888/udp/239.102.0.91:1234
-#EXTINF:-1,PLANETE+THALASSA
-http://178.33.88.130:888/udp/239.102.0.92:1234
-#EXTINF:-1,CANAL+ SPORT
-http://178.33.88.130:888/udp/239.102.0.55:1234
-#EXTINF:-1,BEIN SPORTS 1 FR
-http://178.33.88.129:888/udp/239.102.0.20:1234
-#EXTINF:-1,BEIN SPORTS 2 FR,
-http://178.33.88.129:888/udp/239.102.0.21:1234
-#EXTINF:-1,BEIN SPORTS 3 FR,
-http://178.33.88.129:888/udp/239.102.0.22:1234
-#EXTINF:-1,SKY SPORT 1 DE,
-http://178.33.88.129:888/udp/239.102.0.23:1234
