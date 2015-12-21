@@ -27,37 +27,7 @@ http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/vaa7zb",MBC Bollywood 
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
-#EXTINF:-1,Arabic:***MBC_1 
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2251.ts
-#EXTINF:-1,Arabic:***MBC maser 2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2264.ts
-#EXTINF:-1,Arabic:***MBC_Drama  
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2249.ts
-#EXTINF:-1,Arabic:***OSN-MBC DRAMA-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2231.ts
-#EXTINF:-1,Arabic:OSN-YaHala-DRAMA-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2228.ts
-#EXTINF:-1,Arabic:OSN-YaHala!-Shabab-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2226.ts
-#EXTINF:-1,Arabic:OSN Movies HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2274.ts
-#EXTINF:-1,Arabic:Star Movies
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2254.ts
-#EXTINF:-1,Arabic:Star Cinema 2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2214.ts
-#EXTINF:-1,Arabic:Fox Movies
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2246.ts
-#EXTINF:-1,Arabic:Movies Drama
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2215.ts
-#EXTINF:-1,IN:B4U Movies
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2255.ts
-#EXTINF:-1,Arabic:***OSN-Movies-Festival-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2230.ts
-#EXTINF:-1,Arabic:***OSN-Festival
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2237.ts
 
-#EXTINF:-1,Arabic:***MBC_pro_sport_1
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2262.ts
 
 
 #EXTINF:-1,*********[COLOR red]قنوات عراقية[/COLOR]**********
@@ -138,10 +108,7 @@ rtsp://livestreaming3.itworkscdn.net:554/mayadeenlive/mayadsat_240p
 #EXTINF:-1,El masira المسيرة
 http://livestreaming4.itworkscdn.com/masira/livetv1/chunklist_w860649189.m3u8
 
-#EXTINF:-1,Arabic:LBC
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2236.ts
-#EXTINF:-1,Arabic:Al Jadeed Tv
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2219.ts
+
 #EXTINF:-1,Sama Syria 
 http://sama-tv.net:1935/live/samatv/playlist.m3u8
 #EXTINF:-1,Syria drama
@@ -239,18 +206,7 @@ http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2218.ts
 rtmp://livestreaming5.onlinehorizons.net/NTNNileLife <playpath>livestream <swfUrl> <objectEncoding>
 #EXTINF:-1,Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/HasBahCa.m3u8
-#EXTINF:-1,Arabic:CBC +2
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2238.ts
-#EXTINF:-1,Arabic:CBC
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2240.ts
-#EXTINF:-1,Arabic:Rotana Cinema
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2232.ts
-#EXTINF:-1,Arabic:Nessma
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2275.ts
-#EXTINF:-1,Arabic:***OSN-ART-Aflam-2-HD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2213.ts
-#EXTINF:-1,Arabic:Nile Drama
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2247.ts
+
 
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
 http://jafaer-tv.com
@@ -346,14 +302,7 @@ http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
 http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
 #EXTINF:-1,Echorouk Tv
 http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
-#EXTINF:-1,Arabic:TNN تونس
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2229.ts
-#EXTINF:-1,Arabic:Hanibal
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2227.ts
-#EXTINF:-1,Arabic:ETTOUNSIA
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2234.ts
-#EXTINF:-1,Arabic:Echourou ktv
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2225.ts
+
 #EXTINF:-1,Talaqie
 rtmp://82.137.248.20/Talaqie/TalaqieLive2
 #EXTINF:-1,FATAFIT
@@ -399,51 +348,11 @@ http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2220.ts
 
 #EXTINF:-1,*********[COLOR red]  قنوات وثائقية[/COLOR]**********
 http://jafaer-tv.com
-#EXTINF:-1,Arabic:Discovery Science عربي
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2233.ts
-#EXTINF:-1,Arabic:Discovery HD عربي
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2269.ts
-#EXTINF:-1,Arabic:Animal Planet
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2260.ts
+
 #EXTINF:-1 , TRT Arabic 
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 
-#EXTINF:-1,UK:Discovery Turbo
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/83.ts
-#EXTINF:-1,UK:Discovery History
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/82.ts
-#EXTINF:-1,UK:History
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/98.ts
-#EXTINF:-1,UK:opt:Aliens
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2704.ts
-#EXTINF:-1,UK:National Geographic
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/59.ts
-#EXTINF:-1,UK:Nat Geo Wild
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/86.ts
-#EXTINF:-1,RO:National Tv
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4140.ts
-#EXTINF:-1,RO:National Geographic
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4197.ts
-#EXTINF:-1,RO:Nat Geo Wild
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4196.ts
-#EXTINF:-1,RO:History Channel
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4198.ts
-#EXTINF:-1,RO:Discovery World
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4152.ts
-#EXTINF:-1,RO:Discovery Science
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4153.ts
-#EXTINF:-1,RO:Digi Animal World
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4195.ts
-#EXTINF:-1,UK:Animal Planet
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/49.ts
-#EXTINF:-1,UK-NATIONAL GEO
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/1892.ts
-#EXTINF:-1,UK-DISCOVERY SCIENCE
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/1894.ts
-#EXTINF:-1,UK-DISCOVERY HISTORY
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/1895.ts
-#EXTINF:-1,UK-DISCOVERY
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/1896.ts
+
 #EXTINF:-1,الجزيرة الوثائقية
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1,قناة العربي الثقافية 
@@ -470,46 +379,7 @@ http://38.99.146.36:7777/Karameesh_HD.m3u8
 http://54.255.155.24:1935/Live/_definst_/sweetbcha1novD28_W_250.sdp/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://channelpear.com/images/media/7188.jpg", SpongeBob (24/7)
 http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
-#EXTINF:-1,Arabic:Toyor-jannah
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2217.ts
-#EXTINF:-1,Arabic:Baraem براعم
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2222.ts
 
-#EXTINF:-1,Arabic:CN
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2224.ts
-#EXTINF:-1,Arabic:Baraeem
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2221.ts
-#EXTINF:-1,Arabic:Spacetoon
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2239.ts
-
-#EXTINF:-1,UK:Disney XD
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/67.ts
-#EXTINF:-1,UK:CN
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/93.ts
-#EXTINF:-1,UK:Disney Junior
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/50.ts
-#EXTINF:-1,USA:TVO Kids
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3961.ts
-#EXTINF:-1,UK:Nicktoons
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/99.ts
-#EXTINF:-1,UK:NICKLEODON
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/57.ts
-#EXTINF:-1,UK:Nick JR
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2644.ts
-#EXTINF:-1,RO:Nickelodeon
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4157.ts
-#EXTINF:-1,RO:Nick Jr
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4156.ts
-#EXTINF:-1,RO:Disney Junior
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4158.ts
-#EXTINF:-1,RO:Disney Channel
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/4159.ts
-#EXTINF:-1,USA:Cartoon Network
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3959.ts
-#EXTINF:-1,UK:Disney Channel
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2642.ts
-#EXTINF:-1,UK:Disney
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/87.ts
 
 #EXTINF:-1,RT DOcumentary
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
@@ -517,17 +387,5 @@ http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 #EXTINF:-1,Aghanina
 http://streaming.i-sat.tv:1935/live/aghanina.stream_360p/chunklist_w378813722.m3u8
 
-#EXTINF:-1,Arabic:alarabiya
-http://93.188.161.181:612/ali/ali/33.ch
-#EXTINF:-1,AR:beIN SPORT 1 HD
-http://93.188.161.181:612/ali/ali/71.ch
-#EXTINF:-1,Arabic:Toyor-jannah
-http://93.188.161.181:612/ali/ali/2.ch
-#EXTINF:-1,Arabic:TNN
-http://93.188.161.181:612/ali/ali/3.ch
-#EXTINF:-1,Arabic:Rotana Cinema
-http://93.188.161.181:612/ali/ali/10.ch
-#EXTINF:-1,Arabic:LBC
-http://93.188.161.181:612/ali/ali/18.ch
 
 
