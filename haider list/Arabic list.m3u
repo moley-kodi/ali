@@ -517,4 +517,17 @@ http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 #EXTINF:-1,Aghanina
 http://streaming.i-sat.tv:1935/live/aghanina.stream_360p/chunklist_w378813722.m3u8
 
+#EXTINF:-1,Arabic:alarabiya
+http://93.188.161.181:612/ali/ali/33.ch
+#EXTINF:-1,AR:beIN SPORT 1 HD
+http://93.188.161.181:612/ali/ali/71.ch
+#EXTINF:-1,Arabic:Toyor-jannah
+http://93.188.161.181:612/ali/ali/2.ch
+#EXTINF:-1,Arabic:TNN
+http://93.188.161.181:612/ali/ali/3.ch
+#EXTINF:-1,Arabic:Rotana Cinema
+http://93.188.161.181:612/ali/ali/10.ch
+#EXTINF:-1,Arabic:LBC
+http://93.188.161.181:612/ali/ali/18.ch
+
 
