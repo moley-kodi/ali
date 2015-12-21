@@ -9,7 +9,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
 
 #EXTM3U
-#EXTINF:-1, [COLOR red] تم التحديث الرجاء انتظر قليلا و ستعمل القناة/COLOR]
+#EXTINF:-1, [COLOR red] Arabic 1 تعمل جيدا حاليا جميع القنوات [COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
 #EXTINF:-1, [COLOR red] -- تم التحديث 12\16--[/COLOR]
