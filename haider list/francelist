@@ -17,3 +17,56 @@ http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
 http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
 #EXTINF:-1,2M MONDE
 http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
+#EXTINF:-1,6TER HD,
+http://stream4.latvdefrance.com/demo/6ter.m3u8
+#EXTINF:-1,EURONEWS
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/fr_vidan750_rtp.sdp
+#EXTINF:-1,EURONEWS ENG,
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
+#EXTINF:-1,ANIMANIA,
+http://teleclub.fr/animania.mp4
+#EXTINF:-1,FRANCE 4,
+mms://live3.ipercast.net/darty.fr/france4/live
+#EXTINF:-1,FRANCE 5,
+mms://live3.ipercast.net/darty.fr/france5/live
+#EXTINF:-1,FRANCE 24,
+http://tv.flux.france24.com/4684/02.m3u8
+#EXTINF:-1,NRJ TV,
+rtmp://rtmp.infomaniak.ch:1935/livecast/energytv
+#EXTINF:-1,BFM BUSINESS,
+http://bfmlive-i.akamaihd.net/hls/live/218341/876450612001/bfmbusiness/04.m3u8
+#EXTINF:-1,EURONEWS,
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8
+#EXTINF:-1,FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:-1,24 NEWS FRENCH
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+#EXTINF:-1,TV LUX,
+rtmp://wowza.tvlux.imust.org/live/tvlux-live
+#EXTINF:-1,LA TELE,
+http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8
+#EXTINF:-1,LA TELE,
+http://rtmp.infomaniak.ch/livecast/latele/BratuMarian.m3u8
+
+#EXTINF:-1,ROUGE TV,
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
+#EXTINF:-1,rmc decouverte,
+http://streaming-hub.com/stream/rmc.m3u8
+#EXTINF:-1,24 News,
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+#EXTINF:-1,OUI TV,
+http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
+#EXTINF:-1,TELE VESTRE,
+http://vm109.imust.org:1935/live/televesdre-live/playlist.m3u8
+#EXTINF:-1,YVELINES PREMIER,
+http://rtmp.infomaniak.ch/livecast/yveline1/index.m3u8
+#EXTINF:-1,ROUGE TV,
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
+#EXTINF:-1,MUSIC BOX 90,
+http://teleclub.fr/musicbox.mp4
+#EXTINF:-1,NANCY TV,
+rtmp://rtmp.infomaniak.ch/livecast/nancy-webtv
+#EXTINF:-1,NOTELE,
+rtmp://streaming06.axeweb.be:1935/live/direct.stream
+#EXTINF:-1,LA TELE,
+rtsp://rtmp.infomaniak.ch/livecast/latele
