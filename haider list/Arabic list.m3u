@@ -14,7 +14,20 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR red] -- تم التحديث 12\16--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
-
+#EXTINF:-1,Arabic:***MBC_Drama
+http://62.210.248.96:11000/live/mehhddhi/XGlwJQMuB9/2249.ts
+#EXTINF:-1,Arabic:***MBC_Action
+http://62.210.248.96:11000/live/mehhddhi/XGlwJQMuB9/2248.ts
+#EXTINF:-1,Arabic:***MBC_4
+http://62.210.248.96:11000/live/mehhddhi/XGlwJQMuB9/2253.ts
+#EXTINF:-1,Arabic:***MBC_2
+http://62.210.248.96:11000/live/mehhddhi/XGlwJQMuB9/2252.ts
+#EXTINF:-1,Arabic:***MBC_1
+http://62.210.248.96:11000/live/mehhddhi/XGlwJQMuB9/2251.ts
+#EXTINF:-1,Arabic:***MBC-Max
+http://62.210.248.96:11000/live/mehhddhi/XGlwJQMuB9/2250.ts
+#EXTINF:-1,Arabic:***MBC maser 2
+http://62.210.248.96:11000/live/mehhddhi/XGlwJQMuB9/2264.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/nYSeKu",MBC 2 
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
 
