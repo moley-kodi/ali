@@ -182,3 +182,91 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 
 
 ################################################3
+#EXTINF:-1,Eurosport 1 ENG
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1,EUROSPORT 1 FR
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:-1,esp+
+http://185.63.255.101/live/max5b3/playlist.m3u8
+#EXTINF:-1,AD SPORTS1
+http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
+#EXTINF:-1,lig tv
+http://92.222.205.40:8080/superlig
+#EXTINF:-1,Slovak Sport 1
+rtmp://195.168.51.178/live/ss1HD
+#EXTINF:-1, FSC
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1, Sportal TV HD
+http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
+#EXTINF:-1, Iraqiya Sport (low)
+http://212.7.205.5:1935/sport/live/playlist.m3u8
+#EXTINF:-1, M4 Sport
+http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
+#EXTINF:-1, Buraspor TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u
+#EXTINF:-1, Fox Sports 3 HD China
+rtmp://kv2.ts33.net/sat/us162
+#EXTINF:1,Fight
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+#EXTINF:-1,TURK-A SPOR rtmp 720*510
+http://rtmp.turkuvazgroup.net/aspor/aspor3/player.m3u8
+#EXTINF:-1,TURK-BURSASPOR TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
+#EXTINF:0, TRT SPOR HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#EXTINF:-1, Diema Sport
+http://145.255.192.18:4022/udp/224.156.69.37:5000
+#EXTINF:-1,PAC-12 Net. (Arizona) 1280*720
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:-1,Xtreme Impacts
+http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
+#EXTINF:0,Sport 1
+http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
+#EXTINF:0,Football
+http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
+#EXTINF:0,Motosports
+http://motorsport.hopto.org:8081/
+#EXTINF:0,Sport Max
+http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
+#EXTINF:0,Sports Night
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16×9-SD
+#EXTINF:0, SPORTSNET 360 HD
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:-1, TRT SPOR SD
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
+#EXTINF:-1,TURK-NTV SPOR m3u8 640*360
+http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
+#EXTINF:-1,tyson
+http://hls.cn.ru/streaming/futbol/tvrec/playlist.m3u8
+#EXTINF:-1,ARENA SPORT
+http://118.97.167.19/jhos/arena//Playlist.m3u8
+#EXTINF:-1,GolTV
+http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,ENG-MMA BAY TV
+rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
+#EXTINF:-1,CANADA:TVA Sport
+rtmp://cp39414.live.edgefcs.net/live/event1@9756
+#EXTINF:0,Sport 1 (RU)
+http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
+#EXTINF:0,Sport 2 (RU)
+http://hls.novotelecom.ru/streaming/sport/tvrec/playlist.m3u8
+#EXTINF:0, Football (RU)
+http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1,PAC National
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1,PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-2328.m3u8
