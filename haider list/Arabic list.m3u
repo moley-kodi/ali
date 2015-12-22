@@ -341,10 +341,13 @@ http://173.192.180.122/hls-live/livepkgr/_definst_/liveevent/live_ios.m3u8
 http://live.echoroukonline.com/live/EchoroukTV/chunklist.m3u8
 #EXTINF:-1,Royatv
 http://212.35.75.130/3330/HasBahCa.m3u8?email=tac%40umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
-#EXTINF:-1,Arabic:Samira
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2223.ts
-#EXTINF:-1,Arabic:2M Maroc
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2220.ts
+#EXTINF:-1,Maan معا
+http://vstream2.hadara.ps:1935/maan/maan_1/chunklist_w981189018.m3u8
+#EXTINF:-1,Orient او رينت
+http://173.192.180.122/hls-live/livepkgr/_definst_/liveevent/live_ios.m3u8
+
+
+
 
 #EXTINF:-1,*********[COLOR red]  قنوات وثائقية[/COLOR]**********
 http://jafaer-tv.com
