@@ -12,11 +12,8 @@ http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb24271
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 #EXTINF:-1,RT US
 http://rt.ashttp6.visionip.tv/live/RT_America-HD/chunklist.m3u8
-
-
 #EXTINF:-1,Fox 59
 http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
-
 #EXTINF:-1,FOx 1 HD
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?supertvlat=/.ts
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -39,31 +36,33 @@ http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?supertvlat=/.ts
 http://stream.taksimbilisim.com:1935/wtc/bant1/chunklist_w509790984.m3u8
 #EXTINF:-1,RT DOcumentary
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+#EXTINF:-1,NDTV news
+http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8
 
+#EXTINF:-1,OPTV world
+http://app.pakistanvision.tv:1935/live/8090/player.m3u8
+#EXTINF:-1,The Weather Channel
+http://kalsegsec-a.akamaihd.net/dc-0/m/pa-live-publish3/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
+#EXTINF:-1,Weather nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1,Animal Plant 
+http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Discoveries
+http://162.212.176.83:8080/mystream1.m3u8
 #EXTINF:-1,Discovery USA
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?supertvlat=/.ts
-
-
 #EXTINF:-1,Golf channel
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
-
 #EXTINF:-1,dream tv
 http://212.224.108.76:80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-
-
-
 #EXTINF:-1,Vevo 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-
 #EXTINF:-1,Vevo 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:-1,Vevo 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-
 #EXTINF:-1,miami tv +18
 http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
-
-
 #EXTINF:0, Classics (24/7)
 http://veetle.com/index.php/hls/streamMbrFast/5408d7749bc24_/stream.m3u8
 #EXTINF:-1, BNN
@@ -89,6 +88,31 @@ rtmp://188.138.17.8:1935/albuk/albuk+.stream
 rtmp://188.138.17.8:1935/albuk/albuk.stream 
 #EXTINF:-1 tvg-id="TWiT US" tvg-name="TWiT_US" group-title="ENGLISH" tvg-logo="b9ea6c3f841ce9d44fae986aee5ca81a.png",TWiT US
 http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8
+#EXTINF:-1,Daystar
+http://bcoveliveios-i.akamaihd.net/hls/live/203127/1539097700001/master_360p.m3u8
+#EXTINF:-1,WFTV Florida 
+http://bcoveliveios-i.akamaihd.net/hls/live/207141/268012959001/WFTV_EVENTLIVE1/WFTV_EVENTLIVE1_800.m3u8
+#EXTINF:-1,WGN Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
+
+#EXTINF:-1,FOx Family
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1,Fox Spanish
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?supertvlat=/.ts
+#EXTINF:-1,Fox
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1,FOx 1
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+Disney Channel
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE05.m3u8?supertvlat=/.ts
+Disney Junior
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332/ParaKodi.ts
+Disney XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332/ParaKodi.ts
+Nickelodean
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332/ParaKodi.ts
+Smile Of a Child
+http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
 
 
 
