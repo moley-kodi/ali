@@ -8,13 +8,31 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
 
-#EXTINF:-1, [COLOR red]تعمل جيدا وبدون توقف Arabic 1  جميع القنوات على  [/COLOR]
+
+
+#EXTINF:-1, [COLOR red] -- 26 التحديث 12\16--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
-#EXTINF:-1, [COLOR red] -- تم التحديث 12\16--[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-
-
+#EXTINF:-1,OSN-CINEMA1
+http://40.113.21.146:8000/Daziptv/Streamall/90.ch
+#EXTINF:-1,OSN-CINEMA2
+http://40.113.21.146:8000/Daziptv/Streamall/91.ch
+#EXTINF:-1,OSN Al Youm
+http://40.113.21.146:8000/Daziptv/Streamall/107.ch
+#EXTINF:-1,OSN-MBC DRAMA
+http://40.113.21.146:8000/Daziptv/Streamall/93.ch
+#EXTINF:-1,OSN-YaHala-HD
+http://40.113.21.146:8000/Daziptv/Streamall/92.ch
+#EXTINF:-1,OSN-Movies HD
+http://40.113.21.146:8000/Daziptv/Streamall/102.ch
+#EXTINF:-1,OSN-Movies Action HD
+http://40.113.21.146:8000/Daziptv/Streamall/103.ch
+#EXTINF:-1,OSN-Movies First more
+http://40.113.21.146:8000/Daziptv/Streamall/104.ch
+#EXTINF:-1,OSN YaHala Shabab
+http://40.113.21.146:8000/Daziptv/Streamall/105.ch
+#EXTINF:-1,OSN Movies Premier
+http://40.113.21.146:8000/Daziptv/Streamall/106.ch
 #EXTINF:-1 tvg-logo="https://goo.gl/nYSeKu",MBC 2 
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
 
