@@ -1,6 +1,25 @@
 #EXTM3U
 
+#EXTINF:-1,Fox sport 1
+http://40.113.21.146:8000/Daziptv/Streamall/127.ch
 
+#EXTINF:-1,Fox sport 2
+http://40.113.21.146:8000/Daziptv/Streamall/128.ch
+
+#EXTINF:-1,Fox sport 3
+http://40.113.21.146:8000/Daziptv/Streamall/129.ch
+
+#EXTINF:-1,Fox sport 4
+http://40.113.21.146:8000/Daziptv/Streamall/131.ch
+
+#EXTINF:-1,Fox sport 5
+http://40.113.21.146:8000/Daziptv/Streamall/130.ch
+
+#EXTINF:-1,BT Sport 1
+http://40.113.21.146:8000/Daziptv/Streamall/115.ch
+
+#EXTINF:-1,BT Sport 2
+http://40.113.21.146:8000/Daziptv/Streamall/116.ch
 #EXTINF:-1,قناة الكاس 1  alkass
 http://alkass-i.akamaihd.net/hls/live/205534/1/live_13s20.m3u8
 
