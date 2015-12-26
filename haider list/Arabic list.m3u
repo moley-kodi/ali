@@ -402,7 +402,16 @@ http://38.99.146.36:7777/Karameesh_HD.m3u8
 http://54.255.155.24:1935/Live/_definst_/sweetbcha1novD28_W_250.sdp/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://channelpear.com/images/media/7188.jpg", SpongeBob (24/7)
 http://veetle.com/index.php/hls/streamMbrfast/50686cb1bbaa9_/stream.m3u8
-
+#EXTINF:-1,Disney Channel
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE05.m3u8?supertvlat=/.ts
+#EXTINF:-1,Disney Junior
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332/ParaKodi.ts
+#EXTINF:-1,Disney XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332/ParaKodi.ts
+#EXTINF:-1,Nickelodean
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332/ParaKodi.ts
+#EXTINF:-1,Smile Of a Child
+http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
 
 #EXTINF:-1,RT DOcumentary
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
