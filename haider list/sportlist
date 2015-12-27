@@ -49,7 +49,17 @@ http://40.113.21.146:8000/Daziptv/Streamall/120.ch
 
 #EXTINF:-1,SKY SPORTS5
 http://40.113.21.146:8000/Daziptv/Streamall/121.ch
-Share this:
+#EXTINF:0, Arena Sport 1
+http://tinyurl.com/nmkmcq8
+#EXTINF:0, Arena Sport 2
+http://tinyurl.com/nmskwnh
+#EXTINF:0, Arena Sport 3
+http://tinyurl.com/q4hy9ko
+#EXTINF:0, Arena Sport 4
+http://tinyurl.com/on4bmsl
+#EXTINF:0, Arena Sport 5
+http://tinyurl.com/o9p4pth
+
 #EXTINF:-1,قناة الكاس 1  alkass
 http://alkass-i.akamaihd.net/hls/live/205534/1/live_13s20.m3u8
 
