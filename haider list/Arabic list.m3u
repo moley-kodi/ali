@@ -10,7 +10,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
 
 
-#EXTINF:-1, [COLOR red] -- 26 التحديث 12\16--[/COLOR]
+#EXTINF:-1, [COLOR red] -- 26/12--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
 
@@ -22,7 +22,8 @@ http://148.251.73.76:8000/live/cristo/start1/300.ts
 #EXTINF:-1 tvg-logo="http://vector.me/files/images/7/8/788941/mbc_action.png",MBC Action HD 
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 <swfUrl>http://embed.iptv-planet.com/swfs/player.swf 
-
+#EXTINF:-1,MBC 4
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/vaa7zb",MBC Bollywood 
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
@@ -180,7 +181,8 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
 #EXTINF:-1,KAS
 http://137.135.64.32:1935/kas/kas/gmswf.m3u8
-
+#EXTINF:-1,KUWAIT 3_SPORT
+http://63.237.48.23/ios/KUWAIT_3_SPORT/KUWAIT_3_SPORT.m3u8
 #EXTINF:-1,Alwatan Plus
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8
 #EXTINF:-1,BAHRIN
@@ -298,6 +300,9 @@ http://63.237.48.3/ios/DIDAR/DIDAR.m3u8
 rtmp://stream.truth-voice.net/FadyLive//FadyLive
 #EXTINF:-1,Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
+
+#EXTINF:-1,anb العربية
+http://82.212.95.122:1935/live/anb.stream_360p/chunklist_w640443579.m3u8?v=411569703
 
 #EXTINF:-1,Hawacom
 http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
