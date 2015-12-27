@@ -7,6 +7,8 @@ http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
 #EXTINF:-1,FRANCE 24 HD
 http://162.212.176.83:8080/map-france24roku.stream.m3u8
+#EXTINF:-1,France 2
+http://stream4.latvdefrance.com/demo/france2.m3u8
 #EXTINF:-1,EUROSPORT
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 #EXTINF:-1,RTC
