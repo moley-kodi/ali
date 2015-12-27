@@ -365,7 +365,12 @@ http://212.35.75.130/3330/HasBahCa.m3u8?email=tac%40umniah.com&password=2acc51f1
 http://vstream2.hadara.ps:1935/maan/maan_1/chunklist_w981189018.m3u8
 #EXTINF:-1,Orient او رينت
 http://173.192.180.122/hls-live/livepkgr/_definst_/liveevent/live_ios.m3u8
-
+#EXTINF:-1, El Aqtasadya الاقتصادية 
+http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel09/_definst_/live/stream1.m3u8
+#EXTINF:-1, الثقافية
+http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel08/_definst_/live/stream2.m3u8
+#EXTINF:-1, KSA 1
+http://204.107.27.196/live/1775.low.stream/1451181370770.ts
 
 
 
