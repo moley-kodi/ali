@@ -1,6 +1,24 @@
 #EXTM3U
 
-
+#EXTINF:-1,دبي الرياضية
+http://204.107.27.250/live/79.low.stream/1451185079839.ts
+#EXTINF:-1,ALKaas
+http://137.135.64.32:1935/kas/kas/gmswf.m3u8
+#EXTINF:-1,Bein Sport Eng 1
+http://180.250.29.22:80/jhos/beib1_4/chunklist_w2105600560.m3u8
+#EXTINF:-1,Bein Sport Eng 2
+http://180.250.29.22:80/jhos/beib2_4/chunklist_w2039787057.m3u8
+#EXTINF:-1,Bein Sport Eng 3
+http://180.250.29.22/jhos/beib3_4/playlist.m3u8
+http://180.250.29.22:80/jhos/beib3_4/chunklist_w51361344.m3u8
+#EXTINF:-1,Bein Sport Eng 
+http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/01.m3u8
+#EXTINF:-1,ENCORE Sport
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1,ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?=/.ts
+#EXTINF:-1,Golf
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
 #EXTINF:0, Arena Sport 1
 http://tinyurl.com/nmkmcq8
 #EXTINF:0, Arena Sport 2
