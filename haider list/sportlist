@@ -299,3 +299,14 @@ http://xrxs.net/video/live-p12losa-2328.m3u8
 http://xrxs.net/video/live-p12oreg-2328.m3u8
 #EXTINF:-1,PAC-12 Net. (Washington)
 http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:-1,KUWAIT 3_SPORT
+http://63.237.48.23/ios/KUWAIT_3_SPORT/KUWAIT_3_SPORT.m3u8
+#EXTINF:-1,Mls
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1,Moldova sport
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+#EXTINF:-1,Real Madrid Tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Red Bull sport 
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+#EXTINF:-1,
