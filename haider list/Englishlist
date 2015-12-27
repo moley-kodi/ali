@@ -31,6 +31,16 @@ http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?supertvlat=/.ts
 http://204.107.26.252:1935/live/796.high.stream/chunklist_w1818870275.m3u8
 #EXTINF:-1,WBTV
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?supertvlat=/.ts
+#EXTINF:-1,Fox 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1,Fox 
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1,AMC
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=/.ts
+#EXTINF:-1,Dubai One
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
+#EXTINF:-1,BBC one
+http://198.179.30.109/live/14.high.stream/1451236055961.ts
 
 #EXTINF:-1,Travel Channel
 http://stream.taksimbilisim.com:1935/wtc/bant1/chunklist_w509790984.m3u8
