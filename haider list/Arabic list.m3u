@@ -2,16 +2,13 @@
 
 #EXTINF:-1, [COLOR red] -- لمتابعة القنوان الامريكية و الرياضية الرجاء الذهاب الى Haider list --[/COLOR]
 
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 #EXTINF:-1, [COLOR red] -- نعتذر عن توقف بعض القنوات سنحاول اعادتهم بسرع وقت--[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-
-
-
+plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 #EXTINF:-1, [COLOR red] -- 26/12--[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/nYSeKu",MBC 2 
@@ -300,7 +297,22 @@ http://63.237.48.3/ios/DIDAR/DIDAR.m3u8
 rtmp://stream.truth-voice.net/FadyLive//FadyLive
 #EXTINF:-1,Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
-
+#EXTINF:0,ALOULA
+http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
+#EXTINF:0,SAT
+http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+#EXTINF:0,DRAMA
+http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+#EXTINF:0,SNEWS
+http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
+#EXTINF:0,TALAQIE
+http://82.137.248.20:1935/Talaqie/TalaqieLive3/playlist.m3u8
+#EXTINF:0,NOUR
+http://82.137.248.21:1935/Nour/NourLive3/playlist.m3u8
+#EXTINF:0,UGARIT
+http://82.137.248.21:1935/Ugarit/UgaritLive/playlist.m3u8
+#EXTINF:0,SEDU
+http://82.137.248.20:1935/SEdu/SEduLive3/playlist.m3u8
 #EXTINF:-1,anb العربية
 http://82.212.95.122:1935/live/anb.stream_360p/chunklist_w640443579.m3u8?v=411569703
 
