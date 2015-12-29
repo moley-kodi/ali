@@ -55,6 +55,8 @@ http://api.new.livestream.com/accounts/11436227/events/3998452/broadcasts/105951
 http://almaareftv.com:1935/live/1/HasBahCa.m3u8
 #EXTINF:-1,IFILM Arabic 
 http://63.237.48.23/ios/IFILM/IFILM.m3u8
+#EXTINF:-1,قناة فدك
+plugin://plugin.video.youtube/?action=play_video&videoid=zlWgdnYYGWo
 #EXTINF:-1, Aletejah الاتجاه
 http://162.244.81.186:1935/aletejahtv/aletejahtv3/playlist.m3u8
 #EXTINF:-1,العهد
@@ -86,8 +88,6 @@ rtmp://live.afaq.tv/live/afaqtv<playpath>livestream <swfUrl> <pageUrl> <objectEn
 #EXTINF:-1 tvg-logo="http://www.jfranews.com.jo/assets/images/70526_18_1379073604.jpg", Dijlah TV
 rtmp://stream.joinvisions.net/dij//dij
 
-
-
 #EXTINF:-1, IFILM Eng
 rtmp://mtv.fms-01.visionip.tv/live/ playpath=mtv-ifilm-ifilm-live-16x9-SDh swfUrl= 
 
@@ -97,17 +97,12 @@ http://jafaer-tv.com
 http://livestreaming.itworkscdn.net/mayadeenlive/smil:mayadeenmob.smil/playlist.m3u8
 #EXTINF:-1,Almnnar
 http://38.96.148.199:1935/liveedge1/livestream_720p/chunklist_w2048781993.m3u8
-#EXTINF:-1,Almnar
-rtmp://162.244.80.108:1935/liveedge? v=1250132868<playpath>livestream_360p <swfUrl>http://www.elahmad.com/tv/swf/player.swf?file=almanartv&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 <pageUrl>http://www.elahmad.com/tv/almanartv.php <objectEncoding>
+#EXTINF:-1,Almanar Channel البث جديد
+plugin://plugin.video.youtube/?action=play_video&videoid=fbe_4BJrkgE
 #EXTINF:-1,الميادين 
 rtsp://livestreaming3.itworkscdn.net:554/mayadeenlive/mayadsat_240p
-
-
-
 #EXTINF:-1,El masira المسيرة
 http://livestreaming4.itworkscdn.com/masira/livetv1/chunklist_w860649189.m3u8
-
-
 #EXTINF:-1,Sama Syria 
 http://sama-tv.net:1935/live/samatv/playlist.m3u8
 #EXTINF:-1,Syria drama
@@ -147,10 +142,12 @@ http://82.137.248.21:1935/Drama/DramaLive3/HasBahCa.m3u8
 http://82.137.248.21:1935/Nour/NourLive2/HasBahCa.m3u8
 #EXTINF:-1 tvg-logo="http://goo.gl/DB9Fhk", ٍٍٍٍٍSama tv
 http://sama-tv.net:1935/live/samatv/playlist.m3u8
+#EXTINF:-1,قناة تلاقي الفضائية
+plugin://plugin.video.youtube/?action=play_video&videoid=l5hASDATpao
+
 #EXTINF:-1,*********[COLOR red] قنوات خليجية[/COLOR]**********
 http://jafaer-tv.com
-#EXTINF:-1,Arabic:AbuDhabidrama
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2216.ts
+
 #EXTINF:-1, Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
 #EXTINF:-1, Dubai ONE
@@ -159,15 +156,12 @@ http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
 http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 #EXTINF:-1, Sama Dubai
 http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
-
 #EXTINF:-1 group-title=”ARABIC”,DUBAI DRAMA
 http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
 #EXTINF:-1,Dubai
 http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8
 #EXTINF:-1,Sama Dubai
 http://cdnedvrsamadubai.endavomedia.com/smil:dmilivesamadubaihls.smil/BratuMarian.m3u8
-
-
 #EXTINF:-1, Dubai Racing
 http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
 #EXTINF:-1, Dubai Sports
@@ -188,6 +182,8 @@ rtmp://alayam.netromedia.net/btv2 playpath=btv2 swfUrl=http://player.netromedia.
 rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
 #EXTINF:-1, oman tv 1
 http://38.96.148.30:1935/live/omantv1/playlist.m3u8
+#EXTINF:-1, روتانا خليجية
+plugin://plugin.video.youtube/?action=play_video&videoid=d7PSti__6-E
 
 ###############################################################
 
@@ -206,7 +202,27 @@ http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2218.ts
 rtmp://livestreaming5.onlinehorizons.net/NTNNileLife <playpath>livestream <swfUrl> <objectEncoding>
 #EXTINF:-1,Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/HasBahCa.m3u8
+#EXTINF:-1,TEN TV مصرية
+plugin://plugin.video.youtube/?action=play_video&videoid=-XUIDPRyJBA
 
+#EXTINF:-1,القاهرة و الناس 2
+plugin://plugin.video.youtube/?action=play_video&videoid=N4Trs03VKT4
+#EXTINF:-1,قناة البلد دراما
+plugin://plugin.video.youtube/?action=play_video&videoid=7NgyiRV8Fas
+#EXTINF:-1, CBC Extra
+plugin://plugin.video.youtube/?action=play_video&videoid=r7ammFV2blg
+#EXTINF:-1,CBC sofra سي بي سي سفرة
+plugin://plugin.video.youtube/?action=play_video&videoid=K8XaIiikpAo
+#EXTINF:-1,CBC Drama سي بي سي دراما
+plugin://plugin.video.youtube/?action=play_video&videoid=uMvhnVugCjo
+#EXTINF:-1,CBC Live 
+plugin://plugin.video.youtube/?action=play_video&videoid=1yEMLzYzE1g
+#EXTINF:-1,الشرق الفضائية
+plugin://plugin.video.youtube/?action=play_video&videoid=8ITFSKZAXD4
+#EXTINF:-1,أون تي في ONtv
+plugin://plugin.video.youtube/?action=play_video&videoid=y7B3BqUJbtk
+#EXTINF:-1,قناة الندى الفضائية
+plugin://plugin.video.youtube/?action=play_video&videoid=0G6qeODyRbc
 
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
 http://jafaer-tv.com
@@ -315,6 +331,9 @@ http://82.137.248.21:1935/Ugarit/UgaritLive/playlist.m3u8
 http://82.137.248.20:1935/SEdu/SEduLive3/playlist.m3u8
 #EXTINF:-1,anb العربية
 http://82.212.95.122:1935/live/anb.stream_360p/chunklist_w640443579.m3u8?v=411569703
+#EXTINF:-1,قناة بلقيس الفضائية
+plugin://plugin.video.youtube/?action=play_video&videoid=dfO8X01YCjY
+
 
 #EXTINF:-1,Hawacom
 http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
