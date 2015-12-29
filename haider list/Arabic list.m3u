@@ -227,8 +227,10 @@ plugin://plugin.video.youtube/?action=play_video&videoid=0G6qeODyRbc
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
 http://jafaer-tv.com
 
-#EXTINF:-1,Arabic:alarabiya العربية
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2241.ts
+
+#EXTINF:-1,العربية 
+plugin://plugin.video.youtube/?action=play_video&videoid=rlvfffhWo2A
+
 
 #EXTINF:-1, Skynewa سكاي نيوز
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
