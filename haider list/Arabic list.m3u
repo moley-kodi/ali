@@ -4,7 +4,7 @@
 
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
-#EXTINF:-1, [COLOR red] -- نعتذر عن توقف بعض القنوات سنحاول اعادتهم بسرع وقت--[/COLOR]
+#EXTINF:-1, [COLOR red] -- Arabic 1 جميع القنوات تعمل جيدا/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 #EXTINF:-1, [COLOR red] -- 26/12--[/COLOR]
@@ -47,8 +47,7 @@ http://ngx.cr2.streamzilla.xlcdn.com/session/8c55fcd37882178c8e9c7c93287a0e89/sz
 
 #EXTINF:-1 tvg-logo="http://goo.gl/6DFzwR",قناة الامام الحسين ع
 rtsp://ca.live.imamhussein.tv:1935/live/mp4:ih203
-#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/iFilm_Iran.jpg",IFELM
-http://198.179.31.201/live/908.low.stream/playlist.m3u8?
+
 #EXTINF:-1 tvg-logo="http://goo.gl/7ibWAA",قناة كربلاء  
 http://api.new.livestream.com/accounts/11436227/events/3998452/broadcasts/105951026.m3u8?dw=100&hdnea=st=1449021118~exp=1449022918~acl=/i/11436227_3998452_af6dd02c_1@317400/*~hmac=7a9b90b7326aac4e11c016880e6e331aa97dca0fa08223a2ea9cf152079632f0
 #EXTINF:-1 tvg-logo="http://goo.gl/V1m1fC",Al Maaref
@@ -87,10 +86,12 @@ http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 rtmp://live.afaq.tv/live/afaqtv<playpath>livestream <swfUrl> <pageUrl> <objectEncoding>
 #EXTINF:-1 tvg-logo="http://www.jfranews.com.jo/assets/images/70526_18_1379073604.jpg", Dijlah TV
 rtmp://stream.joinvisions.net/dij//dij
-
+#EXTINF:-1, IFILM Arabic
+rtmp://mtv.fms-01.visionip.tv/live/mtv-ifilm-ifilm_arabic-live-4x3-SD
 #EXTINF:-1, IFILM Eng
 rtmp://mtv.fms-01.visionip.tv/live/ playpath=mtv-ifilm-ifilm-live-16x9-SDh swfUrl= 
-
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/iFilm_Iran.jpg",IFELM
+http://198.179.31.201/live/908.low.stream/playlist.m3u8?
 #EXTINF:-1,*********[COLOR red] قنوات الشام[/COLOR]**********
 http://jafaer-tv.com
 #EXTINF:-1,الميادين
