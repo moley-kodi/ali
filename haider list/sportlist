@@ -15,6 +15,10 @@ http://180.250.29.22/jhos/beib3_4/playlist.m3u8
 http://180.250.29.22:80/jhos/beib3_4/chunklist_w51361344.m3u8
 #EXTINF:-1,Bein Sport Eng 
 http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/01.m3u8
+#EXTINF:0,Bein Sport 11
+http://stream.liteiptv.ru/bein11
+#EXTINF:0,Bein Sport 12
+http://stream.liteiptv.ru/bein12
 #EXTINF:-1,ENCORE Sport
 http://xrxs.net/video/live-p12moun-4728.m3u8
 #EXTINF:-1,ESPN 2
