@@ -42,7 +42,61 @@ http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=/.ts
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
 #EXTINF:-1,BBC one
 http://198.179.30.109/live/14.high.stream/1451236055961.ts
+#EXTINF:-1,Movies Action
+http://s4.iptvapi.com:8081/H2UK/index.m3u8?token=sUdchee0JPZGx04Kh-dqBQ&e=1451443733&u=48394&channel=H2UK
 
+#EXTINF:-1, sky Comedy 
+http://s2.iptvapi.com:8081/SkyComedy/index.m3u8?token=guJTBxiY-X0TK5TWHJ8J8A&e=1451448895&u=48394&channel=SkyComedy
+
+#EXTINF:-1, sky Greats
+http://s4.iptvapi.com:8081/SkyGreats/index.m3u8?token=l9RCJ5tSeqxV_ZDaAj34AQ&e=1451449625&u=48394&channel=SkyGreats
+#EXTINF:-1, Sky Crime
+http://s2.iptvapi.com:8081/SkyCrime/index.m3u8?token=6soTixZ1igQPaGd6OzJIuA&e=1451450002&u=48394&channel=SkyCrime
+#EXTINF:-1, Sky Family
+http://s4.iptvapi.com:8081/SkyFamily/index.m3u8?token=brBIbuOETEwHT3pShSe4Fg&e=1451451466&u=48394&channel=SkyFamily
+#EXTINF:-1, Sky Premire
+http://s4.iptvapi.com:8081/SkyPremiere/index.m3u8?token=k_TjRHsNT_on0TJAJb7ttQ&e=1451451507&u=48394&channel=SkyPremiere
+#EXTINF:-1, Sky ScifiHorror
+http://s2.iptvapi.com:8081/SkySci/index.m3u8?token=PvZzt69s6Es5DCkf1Jc1pQ&e=1451451563&u=48394&channel=SkySci
+
+#EXTINF:-1,Sky Drama
+http://s2.iptvapi.com:8081/SkyDrama/index.m3u8?token=Mavk83tfFWHmBxP8_2mBmw&e=1451449741&u=48394&channel=SkyDrama
+#EXTINF:-1, CBS Reality
+http://s2.iptvapi.com:8081/CBSReality/index.m3u8?token=0092MJ7V9VKt_doxqNUMkQ&e=1451450931&u=48394&channel=CBSReality
+#EXTINF:-1,Movies 4 men
+http://s2.iptvapi.com:8081/M4M/index.m3u8?token=WWNMzFx5i0CxJnc5D6y7Yw&e=1451451405&u=48394&channel=M4M
+
+
+#EXTINF:-1, RTE2
+http://s2.iptvapi.com:8081/RTE2/index.m3u8?token=wu7tWuTL2Qqi6FKMANnTFA&e=1451449879&u=48394&channel=RTE2
+#EXTINF:-1, itv 4
+http://s4.iptvapi.com:8081/ITV4/index.m3u8?token=O7vTRa4HGCIiQUyombUsLg&e=1451451035&u=48394&channel=ITV4
+
+#EXTINF:-1,REAL LIVES
+http://s2.iptvapi.com:8081/REALLIVES/index.m3u8?token=NaqtXytHStUtDsKAyuuO6Q&e=1451451204&u=48394&channel=REALLIVES
+#EXTINF:-1,TCM
+http://s2.iptvapi.com:8081/TCMUK/index.m3u8?token=4Byr3LA6yrhjRfE38izHiQ&e=1451450607&u=48394&channel=TCMUK
+
+#EXTINF:-1,Sky2
+http://s2.iptvapi.com:8081/Sky2/index.m3u8?token=-zEWGpcEYcFM_mr-xxU2Ug&e=1451450490&u=48394&channel=Sky2
+
+#EXTINF:-1,BBC 3
+http://s2.iptvapi.com:8081/HDBBC3/index.m3u8?token=CwbDDZD-YZAqoQNYHrTMbg&e=1451450842&u=48394&channel=HDBBC3
+
+#EXTINF:-1,Discovery 
+http://s2.iptvapi.com:8081/DISS/index.m3u8?token=_GrDorug03jgnud6oyJ4Ig&e=1451449803&u=48394&channel=DISS
+
+#EXTINF:-1,DIScovery Turbo
+http://s4.iptvapi.com:8081/DISTurbo/index.m3u8?token=6jqLKqfybkk23vRkjTYsnQ&e=1451449923&u=48394&channel=DISTurbo
+
+#EXTINF:-1,NAtinoal geo
+http://s4.iptvapi.com:8081/NATGEOWUK/index.m3u8?token=Pbe3Ydujr5fl2WdtpjiS7g&e=1451450670&u=48394&channel=NATGEOWUK
+#EXTINF:-1, History
+http://s2.iptvapi.com:8081/HISTUK/index.m3u8?token=jskY94tKG_rbYZZ57nOIRQ&e=1451450783&u=48394&channel=HISTUK
+#EXTINF:-1, History UK
+http://s2.iptvapi.com:8081/H2UK/index.m3u8?token=ipJAzQjvP90pIwPYbhqCzA&e=1451450874&u=48394&channel=H2UK
+#EXTINF:-1, Animal Planet
+http://s2.iptvapi.com:8081/ANIUK/index.m3u8?token=n-dmiuPTTtJVl2oQ8fnn9g&e=1451451285&u=48394&channel=ANIUK
 
 #EXTINF:-1,Travel Channel
 http://stream.taksimbilisim.com:1935/wtc/bant1/chunklist_w509790984.m3u8
@@ -128,6 +182,10 @@ http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332/ParaKodi.ts
 http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332/ParaKodi.ts
 #EXTINF:-1,Smile Of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
+#EXTINF:-1,Disey Junior
+http://s2.iptvapi.com:8081/DIJR/index.m3u8?token=B8JyzC5nbDgVNMgWv2NfRQ&e=1451450115&u=48394&channel=DIJR
+#EXTINF:-1, Boom Kids
+http://s2.iptvapi.com:8081/BOO/index.m3u8?token=O4SQPQ4rxkCmtH0y9U03JQ&e=1451451086&u=48394&channel=BOO
 
 
 
