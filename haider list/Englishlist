@@ -42,47 +42,7 @@ http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=/.ts
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
 #EXTINF:-1,BBC one
 http://198.179.30.109/live/14.high.stream/1451236055961.ts
-#EXTINF:-1,Movies Action
-http://s4.iptvapi.com:8081/H2UK/index.m3u8?token=sUdchee0JPZGx04Kh-dqBQ&e=1451443733&u=48394&channel=H2UK
 
-#EXTINF:-1, sky Comedy 
-http://s2.iptvapi.com:8081/SkyComedy/index.m3u8?token=FAEBZHW3M0nzH6uEze8Jjw&e=1451444768&u=48363&channel=SkyComedy
-#EXTINF:-1, sky Greats
-http://s4.iptvapi.com:8081/SkyGreats/index.m3u8?token=rat4pupzqxQbZ0qyRvyISA&e=1451445329&u=48363&channel=SkyGreats
-
-#EXTINF:-1,Sky Select
-http://s4.iptvapi.com:8081/SkySelect/index.m3u8?token=Qrbw12euHaj0FsCBHPwJQQ&e=1451445428&u=48363&channel=SkySelect
-#EXTINF:-1,Sky Drama
-http://s2.iptvapi.com:8081/SkyDrama/index.m3u8?token=J7GWKIOWDTcK81sCryNQOg&e=1451445579&u=48363&channel=SkyDrama
-
-
-#EXTINF:-1,Animal Plant
-http://s4.iptvapi.com:8081/ANIUK/index.m3u8?token=WVCQ3KcOkCmSa4dkg7vdiA&e=1451446358&u=48363&channel=ANIUK
-
-#EXTINF:-1,RTE 1
-http://s2.iptvapi.com:8081/RTE1/index.m3u8?token=4UF_Pt5LU4Agxsj6GMAivw&e=1451447136&u=48363&channel=RTE1
-
-#EXTINF:-1, RTE2
-http://s4.iptvapi.com:8081/RTE2/index.m3u8?token=Fc0fNYkcj2nUjfJP9IULIw&e=1451447167&u=48363&channel=RTE2
-
-#EXTINF:-1,TG4
-http://s4.iptvapi.com:8081/TG4/index.m3u8?token=SZkGUEHwnMRMdITequ5--w&e=1451447484&u=48363&channel=TG4
-
-#EXTINF:-1,Sky2
-http://s4.iptvapi.com:8081/Sky2/index.m3u8?token=ynMEsZYnlDHUi_-WYmO87g&e=1451448058&u=48363&channel=Sky2
-
-#EXTINF:-1,BBC 2
-http://s4.iptvapi.com:8081/HDBBC2/index.m3u8?token=Dnl6rPbDzZaxU_p3kfZcQw&e=1451448158&u=48363&channel=HDBBC2
-
-#EXTINF:-1,SkyDisney
-http://s4.iptvapi.com:8081/SkyDisney/index.m3u8?token=lAZE-XooVLbRCrWLwX1tGg&e=1451448217&u=48363&channel=SkyDisney
-
-#EXTINF:-1,Syfy
-http://s2.iptvapi.com:8081/Syfys/index.m3u8?token=BWtRbziMGB1-P2AGgYACtg&e=1451448275&u=48363&channel=Syfys
-#EXTINF:-1, Crime
-http://s2.iptvapi.com:8081/Crime/index.m3u8?token=3jcufatetgIeBaLc_GYqOg&e=1451448312&u=48363&channel=Crime
-#EXTINF:-1,NAtinoal geo
-http://s2.iptvapi.com:8081/NATGEOWUK/index.m3u8?token=i7bj__Jhah5kBaHFED0cCg&e=1451448410&u=48363&channel=NATGEOWUK
 
 #EXTINF:-1,Travel Channel
 http://stream.taksimbilisim.com:1935/wtc/bant1/chunklist_w509790984.m3u8
