@@ -52,10 +52,11 @@ rtsp://ca.live.imamhussein.tv:1935/live/mp4:ih203
 http://api.new.livestream.com/accounts/11436227/events/3998452/broadcasts/105951026.m3u8?dw=100&hdnea=st=1449021118~exp=1449022918~acl=/i/11436227_3998452_af6dd02c_1@317400/*~hmac=7a9b90b7326aac4e11c016880e6e331aa97dca0fa08223a2ea9cf152079632f0
 #EXTINF:-1 tvg-logo="http://goo.gl/V1m1fC",Al Maaref
 http://almaareftv.com:1935/live/1/HasBahCa.m3u8
-#EXTINF:-1,IFILM Arabic 
-http://63.237.48.23/ios/IFILM/IFILM.m3u8
+
 #EXTINF:-1,قناة فدك
 plugin://plugin.video.youtube/?action=play_video&videoid=zlWgdnYYGWo
+#EXTINF:-1,صوت العترة
+plugin://plugin.video.youtube/?action=play_video&videoid=zTnXGbaj-zA
 #EXTINF:-1, Aletejah الاتجاه
 http://162.244.81.186:1935/aletejahtv/aletejahtv3/playlist.m3u8
 #EXTINF:-1,العهد
@@ -145,6 +146,9 @@ http://82.137.248.21:1935/Nour/NourLive2/HasBahCa.m3u8
 http://sama-tv.net:1935/live/samatv/playlist.m3u8
 #EXTINF:-1,قناة تلاقي الفضائية
 plugin://plugin.video.youtube/?action=play_video&videoid=l5hASDATpao
+#EXTINF:-1,قناة أوغاريت
+plugin://plugin.video.youtube/?action=play_video&videoid=rhwLx44zwr4
+
 
 #EXTINF:-1,*********[COLOR red] قنوات خليجية[/COLOR]**********
 http://jafaer-tv.com
@@ -205,7 +209,8 @@ rtmp://livestreaming5.onlinehorizons.net/NTNNileLife <playpath>livestream <swfUr
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/HasBahCa.m3u8
 #EXTINF:-1,TEN TV مصرية
 plugin://plugin.video.youtube/?action=play_video&videoid=-XUIDPRyJBA
-
+#EXTINF:-1, 1 القاهرة و الناس
+plugin://plugin.video.youtube/?action=play_video&videoid=EG3ORF_KtDc
 #EXTINF:-1,القاهرة و الناس 2
 plugin://plugin.video.youtube/?action=play_video&videoid=N4Trs03VKT4
 #EXTINF:-1,قناة البلد دراما
@@ -369,6 +374,11 @@ http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_,264,528,8
 http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1,ROya رؤيا
 http://212.35.75.130/3330/HasBahCa.m3u8?email=tac@umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
+#EXTINF:-1,قناة الاستقامة
+plugin://plugin.video.youtube/?action=play_video&videoid=ij5ddhPNENk
+
+#EXTINF:-1,قناة بلقيس
+plugin://plugin.video.youtube/?action=play_video&videoid=dfO8X01YCjY
 #EXTINF:-1, ALMAS_TV
 http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8
 #EXTINF:-1,alkarmatv
