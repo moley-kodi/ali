@@ -1,7 +1,7 @@
 
 #EXTM3U
 
-#EXTINF:-1, [COLOR red] --  new channels 12/29 ----wait and the channel will work  --[/COLOR]
+#EXTINF:-1, [COLOR red] --  new channels 1/4 ----wait and the channel will work  --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1,Sky News
 plugin://plugin.video.youtube/?action=play_video&videoid=y60wDzZt8yg
@@ -147,8 +147,7 @@ http://128.104.128.176:8080/udp/239.1.1.92:3092?live786
 http://128.104.128.176:8080/udp/239.1.1.211:2000?live786
 #EXTINF:-1,HLN
 http://128.104.128.176:8080/udp/239.1.1.80:3080?live786
-#EXTINF:-1,Art
-http://128.104.128.176:8080/udp/239.1.1.206:2000?live786
+
 #EXTINF:-1,CCTV News
 http://128.104.128.176:8080/udp/239.1.1.204:2000?live786
 #EXTINF:-1,WIS
@@ -169,75 +168,10 @@ http://128.104.128.176:8080/udp/239.1.1.25:3025?live786
 http://128.104.128.176:8080/udp/239.1.1.100:3100?live786
 #EXTINF:-1,Tivi 5
 http://128.104.128.176:8080/udp/239.1.1.214:2000?live786
-#EXTINF:-1,BBC
-http://laganvpn12.plus.com:9981/stream/channelid/1
-#EXTINF:-1,BBC Red Button
-http://laganvpn12.plus.com:9981/stream/channelid/2
-#EXTINF:-1,Cbeebies
-http://laganvpn12.plus.com:9981/stream/channelid/3
-#EXTINF:-1,Cbbc
-http://laganvpn12.plus.com:9981/stream/channelid/6
-#EXTINF:-1,BBC1 NI
-http://laganvpn12.plus.com:9981/stream/channelid/7
-#EXTINF:-1,BBC Parliament
-http://laganvpn12.plus.com:9981/stream/channelid/8
-#EXTINF:-1,BBC News
-http://laganvpn12.plus.com:9981/stream/channelid/9
-#EXTINF:-1,UTV+1
-http://laganvpn12.plus.com:9981/stream/channelid/11
-#EXTINF:-1,UTV
-http://laganvpn12.plus.com:9981/stream/channelid/12
-#EXTINF:-1,Channel5
-http://laganvpn12.plus.com:9981/stream/channelid/13
-#EXTINF:-1,Channel4+1
-http://laganvpn12.plus.com:9981/stream/channelid/14
-#EXTINF:-1,4 More
-http://laganvpn12.plus.com:9981/stream/channelid/15
-#EXTINF:-1,Channel4
-http://laganvpn12.plus.com:9981/stream/channelid/16
-#EXTINF:-1,E4
-http://laganvpn12.plus.com:9981/stream/channelid/17
-#EXTINF:-1,Film4
-http://laganvpn12.plus.com:9981/stream/channelid/18
-#EXTINF:-1,itv2
-http://laganvpn12.plus.com:9981/stream/channelid/19
-#EXTINF:-1,RT
-http://laganvpn12.plus.com:9981/stream/channelid/20
-#EXTINF:-1,BT Promo
-http://laganvpn12.plus.com:9981/stream/channelid/21
-#EXTINF:-1,Dave ja vu
-http://laganvpn12.plus.com:9981/stream/channelid/22
-#EXTINF:-1,Al Jazeera
-http://laganvpn12.plus.com:9981/stream/channelid/23
-#EXTINF:-1,Yesterday
-http://laganvpn12.plus.com:9981/stream/channelid/24
-#EXTINF:-1,itv4
-http://laganvpn12.plus.com:9981/stream/channelid/25
-#EXTINF:-1,Ideal World
-http://laganvpn12.plus.com:9981/stream/channelid/27
-#EXTINF:-1,Music 4
-http://laganvpn12.plus.com:9981/stream/channelid/29
-#EXTINF:-1,Jewellery Maker
-http://laganvpn12.plus.com:9981/stream/channelid/30
-#EXTINF:-1,QVC Beauty
-http://laganvpn12.plus.com:9981/stream/channelid/32
-#EXTINF:-1,Rocks&Co. –
-http://laganvpn12.plus.com:9981/stream/channelid/34
-#EXTINF:-1,4/7
-http://laganvpn12.plus.com:9981/stream/channelid/35
-#EXTINF:-1,Travel Ch.
-http://laganvpn12.plus.com:9981/stream/channelid/36
-#EXTINF:-1,Spike
-http://laganvpn12.plus.com:9981/stream/channelid/37
-#EXTINF:-1,CBS Action
-http://laganvpn12.plus.com:9981/stream/channelid/38
-#EXTINF:-1,Quest+1
-http://laganvpn12.plus.com:9981/stream/channelid/39
-#EXTINF:-1,Citv
-http://laganvpn12.plus.com:9981/stream/channelid/46
-#EXTINF:-1,CBS Drama
-http://laganvpn12.plus.com:9981/stream/channelid/111
-
+#EXTINF:-1,Sky atlantic 
+http://top-iptv.zapto.org:8000/live/walid/walid/753.m3u8
+#EXTINF:-1,SYFY
+http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8
 
 
 
