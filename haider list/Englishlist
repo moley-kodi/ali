@@ -172,7 +172,27 @@ http://128.104.128.176:8080/udp/239.1.1.214:2000?live786
 http://top-iptv.zapto.org:8000/live/walid/walid/753.m3u8
 #EXTINF:-1,SYFY
 http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8
+#EXTINF:-1,Z Cinema سينما هندي
+http://stream.zeefamily.tv/zeecinema/index.m3u8
 
+#EXTINF:-1, Classic Cinema سينما هندي
+http://stream.zeefamily.tv/zeeclassic/index.m3u8
+
+
+#EXTINF:-1,Ajyal Cinema
+http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
+
+#EXTINF:-1,Drama UK
+http://top-iptv.zapto.org:8000/live/walid/walid/530.m3u8
+#EXTINF:-1,Fashion TV
+http://edgeb.streaming.sk/fashiontv/fashiontv.stream/playlist.m3u8
+
+#EXTINF:-1,Cinema Canal
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="https://goo.gl/nYSeKu",MBC 2
+http://63.237.48.23/ios/MBC2/MBC2.m3u8
+#EXTINF:-1 tvg-logo="http://vector.me/files/images/7/8/788941/mbc_action.png",MBC Action HD
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 
 
 
