@@ -7,10 +7,11 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR red] -- Arabic 1 جميع القنوات تعمل جيدا/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
-#EXTINF:-1, [COLOR red] -- 26/12--[/COLOR]
+#EXTINF:-1, [COLOR red] -- 1/4--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
-
+#EXTINF:-1,mbc 1
+http://streamup.global.ssl.fastly.net/app/sami2015s-channel/chunklist.m3u8?v=411569703
 #EXTINF:-1 tvg-logo="https://goo.gl/nYSeKu",MBC 2 
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
 
