@@ -25,8 +25,6 @@ http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
 
-
-
 #EXTINF:-1,*********[COLOR red]قنوات عراقية[/COLOR]**********
 
 #EXTINF:-1 tvg-logo="https://goo.gl/Y9g6gK",Al Forat
@@ -97,8 +95,9 @@ http://198.179.31.201/live/908.low.stream/playlist.m3u8?
 http://jafaer-tv.com
 #EXTINF:-1,الميادين
 http://livestreaming.itworkscdn.net/mayadeenlive/smil:mayadeenmob.smil/playlist.m3u8
-#EXTINF:-1,Almnnar
-http://38.96.148.199:1935/liveedge1/livestream_720p/chunklist_w2048781993.m3u8
+#EXTINF:-1,العالم
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_alam/ls_satlink/b_828.m3u8?token=20151214xjEfuGen5pHAwecru
+
 #EXTINF:-1,Almanar Channel البث جديد
 plugin://plugin.video.youtube/?action=play_video&videoid=fbe_4BJrkgE
 #EXTINF:-1,الميادين 
