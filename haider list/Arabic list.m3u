@@ -194,12 +194,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=d7PSti__6-E
 
 #EXTINF:-1,*********[COLOR red]  قنوات مصرية[/COLOR]**********
 http://jafaer-tv.com
-#EXTINF:0,روتانا سينما
-http://www.t12v.com:8000/live/maison/maison/91.m3u8
-#EXTINF:0,روتانا مصرية
-http://www.t12v.com:8000/live/maison/maison/92.m3u8
-#EXTINF:0,روتانا موسيقا
-http://www.t12v.com:8000/live/maison/maison/93.m3u8
+#EXTINF:-1,Art
+http://128.104.128.176:8080/udp/239.1.1.206:2000?live786
 #EXTINF:-1,Arabic:Rotana Clip
 http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2218.ts
 
