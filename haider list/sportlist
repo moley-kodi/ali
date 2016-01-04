@@ -109,7 +109,7 @@ rtmpe://104.254.90.228:1935/app/skysports1lsh playpath=skysports1lsh swfUrl=http
 #EXTINF:-1,sky sport 2
 rtmpe://104.254.90.228:1935/app/skysports2lsh playpath=skysports2lsh swfUrl=http://cdn.lshstream.com/jw/jwplayer.js timeout=0 live=1 pageUrl=http://www.lshstream.com/embed.php?u=btsports1lsh58 token=SECURET0KEN#yw%.?@W!
 #EXTINF:-1,sky sport 3
-rtmpe://104.254.90.228:1935/app/skysports3lsh playpath=skysports2lsh swfUrl=http://cdn.lshstream.com/jw/jwplayer.js timeout=0 live=1 pageUrl=http://www.lshstream.com/embed.php?u=btsports1lsh58 token=SECURET0KEN#yw%.?@W!
+rtmpe://104.254.90.228:1935/app/skysports3lsh playpath=skysports3lsh swfUrl=http://cdn.lshstream.com/jw/jwplayer.js timeout=0 live=1 pageUrl=http://www.lshstream.com/embed.php?u=btsports1lsh58 token=SECURET0KEN#yw%.?@W!
 #EXTINF:-1,Euro Sport
 http://213.81.153.241/live001/channel014_p3.stream/chunklist_w558968909_DVR.m3u8
 
