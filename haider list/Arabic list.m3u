@@ -454,5 +454,13 @@ http://s2.iptvapi.com:8081/BOO/index.m3u8?token=O4SQPQ4rxkCmtH0y9U03JQ&e=1451451
 #EXTINF:-1,Aghanina
 http://streaming.i-sat.tv:1935/live/aghanina.stream_360p/chunklist_w378813722.m3u8
 
+#EXTINF:-1,Z Cinema سينما هندي
+http://stream.zeefamily.tv/zeecinema/index.m3u8
 
+#EXTINF:-1, Classic Cinema سينما هندي
+http://stream.zeefamily.tv/zeeclassic/index.m3u8
+
+
+#EXTINF:-1,Ajyal Cinema
+http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
 
