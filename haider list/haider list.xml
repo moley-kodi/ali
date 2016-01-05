@@ -54,3 +54,15 @@
    <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/francelist</externallink>   
    
 </channel>
+
+<channels>
+
+<channel>
+      <name>[COLOR lime]Movies List (Test) [/COLOR]</name>
+  <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
+<fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/Movies</externallink> ##change haider
+   
+</channel>
+  </channels>
