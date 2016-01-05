@@ -45,6 +45,8 @@ http://198.179.30.109/live/14.high.stream/1451236055961.ts
 
 #EXTINF:-1,Travel Channel
 http://stream.taksimbilisim.com:1935/wtc/bant1/chunklist_w509790984.m3u8
+#EXTINF:-1,Poker channel
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 #EXTINF:-1,RT DOcumentary
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 #EXTINF:-1,NDTV news
