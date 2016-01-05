@@ -5,6 +5,8 @@
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1,Sky News
 plugin://plugin.video.youtube/?action=play_video&videoid=y60wDzZt8yg
+#EXTINF:-1,CNN link 1
+http://edge1.everyon.tv/etv1sb/phd16/chunklist_w1519714347.m3u8
 #EXTINF:-1, CNN
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/chunklist.m3u8
 #EXTINF:-1,CNBC
