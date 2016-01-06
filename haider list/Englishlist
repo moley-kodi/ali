@@ -34,22 +34,17 @@ http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?supertvlat=/.ts
 http://204.107.26.252:1935/live/796.high.stream/chunklist_w1818870275.m3u8
 #EXTINF:-1,WBTV
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?supertvlat=/.ts
-#EXTINF:-1,Fox 1 HD
-http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
 #EXTINF:-1,Fox 
 http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 #EXTINF:-1,AMC
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=/.ts
-#EXTINF:-1,HBO
-http://31.220.40.108/LiveEdge/HBOLASD/chunklist_w1344516939_b1000000.m3u8?token=a8aeb2c8a871f1bfa0eb7c3da4839ed3
+
 
 #EXTINF:-1,Dubai One
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
-#EXTINF:-1,BBC one
-http://198.179.30.109/live/14.high.stream/1451236055961.ts
 
-#EXTINF:-1,Travel Channel
-http://stream.taksimbilisim.com:1935/wtc/bant1/chunklist_w509790984.m3u8
+
 #EXTINF:-1,Poker channel
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 #EXTINF:-1,RT DOcumentary
@@ -86,12 +81,7 @@ http://veetle.com/index.php/hls/streamMbrFast/5408d7749bc24_/stream.m3u8
 #EXTINF:-1, BNN
 http://realitatea.m247.ro/hls/live.m3u8
 
-#EXTINF:0, Investigation Channel
-http://latino-webtv.ml/index.m3u8?ch=263&cl=5
-#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/5141.jpg", Genesis Science Network
-http://genesis.tulix.tv:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="http://channelpear.com/images/media/6803.jpg", UFO Channel
-http://veetle.com/index.php/hls/streamMbrfast/5570083766031_/stream.m3u8
+
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/3807.jpg", NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,News Bronx
