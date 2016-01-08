@@ -1,6 +1,6 @@
 
 
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
 
 <item>
 <title>[COLOR red]TV SHOWS [/COLOR][COLOR white]CLICK HERE !!![/COLOR]</title>
@@ -10,19 +10,5 @@
 <fanart>http://s15.postimg.org/3rgtfhppn/image.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR white]Stargate [/COLOR]</title>
-<link>$doregex[get-url]|User-Agent=extrawatch_agent</link>
-<regex>
-<name>get-url</name>
-<expres>source src="(.*?)"</expres>
-<page>http://www.stream4free.eu/stargate</page>
-</regex>
-
-<item>
-<title>Stargate</title>
-<sportsdevil>http://www.stream4free.eu/stargate</sportsdevil>
-<referer>http://www.ultracast.me/</referer>
-</item>
 
 
