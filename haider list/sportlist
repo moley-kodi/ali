@@ -15,10 +15,7 @@ http://180.250.29.22/jhos/beib3_4/playlist.m3u8
 http://180.250.29.22:80/jhos/beib3_4/chunklist_w51361344.m3u8
 #EXTINF:-1,Bein Sport Eng 
 http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/01.m3u8
-#EXTINF:0,Bein Sport 11
-http://stream.liteiptv.ru/bein11
-#EXTINF:0,Bein Sport 12
-http://stream.liteiptv.ru/bein12
+
 #EXTINF:-1,ENCORE Sport
 http://xrxs.net/video/live-p12moun-4728.m3u8
 #EXTINF:-1,ESPN 2
@@ -36,11 +33,6 @@ http://tinyurl.com/on4bmsl
 #EXTINF:0, Arena Sport 5
 http://tinyurl.com/o9p4pth
 
-#EXTINF:-1,قناة الكاس 1  alkass
-http://alkass-i.akamaihd.net/hls/live/205534/1/live_13s20.m3u8
-
-#EXTINF:-1,قناة الكاس 4 alkass
-http://alkass-i.akamaihd.net/hls/live/205534/4/live_13s20.m3u8
 
 #EXTINF:-1,Bein 1 AR
 rtmp://www1.iguide.to/iguide playpath=nujkqb82ht54f05 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
@@ -72,29 +64,11 @@ rtmp://www1.iguide.to/iguide playpath=ql4mb7goxh0gx7y swfUrl=http://cdn.iguide.t
 #EXTINF:-1,Bein 12 AR
 rtmp://www1.iguide.to/iguide playpath=zrbbip5ikugr384 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf <pageUrl>http://www.iguide.to/embedplayer_new.php?channel=31508&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 
-#EXTINF:-1,beIN SPORT HD1
-http://5.196.67.222:80/live/Beinf/live/3797.ts
-#EXTINF:-1,beIN SPORT HD2
-http://5.196.67.222:80/live/Beinf/live/3097.ts
-#EXTINF:-1,beIN SPORT HD3
- http://5.196.67.222:80/live/Beinf/live/3807.ts
-#EXTINF:-1,beIN SPORT HD4
- http://5.196.67.222:80/live/Beinf/live/3799.ts
-#EXTINF:-1,beIN SPORT HD5
- http://5.196.67.222:80/live/Beinf/live/3805.ts
-#EXTINF:-1,beIN SPORT HD6
- http://5.196.67.222:80/live/Beinf/live/3101.ts
-#EXTINF:-1,beIN SPORT HD7
- http://5.196.67.222:80/live/Beinf/live/3803.ts
-#EXTINF:-1,beIN SPORT HD8
- http://5.196.67.222:80/live/Beinf/live/3802.ts
-#EXTINF:-1,beIN SPORT HD9
- http://5.196.67.222:80/live/Beinf/live/3798.ts
+
 
 #EXTINF:-1,Now Live
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
-#EXTINF:0,PAC-12 Net. 
-http://xrxs.net/video/live-p12baya-4728.m3u8?
+
 
 #EXTINF:-1,Eurosport
 http://4.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
@@ -105,23 +79,17 @@ http://176.10.104.216/ss1sd/index.m3u8
 #EXTINF:-1,Fox Sports HD1
 http://streamup.global.ssl.fastly.net/app/zonasports2hds-stream/playlist.m3u8
 #EXTINF:-1,sky sport 1
-rtmpe://104.254.90.228:1935/app/skysports1lsh playpath=skysports1lsh swfUrl=http://cdn.lshstream.com/jw/jwplayer.js timeout=0 live=1 pageUrl=http://www.lshstream.com/embed.php?u=btsports1lsh58 token=SECURET0KEN#yw%.?@W!
+http://live.pushpublish.tv/mylive/vskys1/playlist.m3u8
 #EXTINF:-1,sky sport 2
-rtmpe://104.254.90.228:1935/app/skysports2lsh playpath=skysports2lsh swfUrl=http://cdn.lshstream.com/jw/jwplayer.js timeout=0 live=1 pageUrl=http://www.lshstream.com/embed.php?u=btsports1lsh58 token=SECURET0KEN#yw%.?@W!
 #EXTINF:-1,sky sport 3
-rtmpe://104.254.90.228:1935/app/skysports3lsh playpath=skysports3lsh swfUrl=http://cdn.lshstream.com/jw/jwplayer.js timeout=0 live=1 pageUrl=http://www.lshstream.com/embed.php?u=btsports1lsh58 token=SECURET0KEN#yw%.?@W!
 #EXTINF:-1,sky sport 4
-rtmpe://104.254.90.228:1935/app/skysports4lsh playpath=skysports4lsh swfUrl=http://cdn.lshstream.com/jw/jwplayer.js timeout=0 live=1 pageUrl=http://www.lshstream.com/embed.php?u=btsports1lsh58 token=SECURET0KEN#yw%.?@W!
 #EXTINF:-1,sky sport 5
-rtmpe://104.254.90.228:1935/app/skysports5lsh playpath=skysports5lsh swfUrl=http://cdn.lshstream.com/jw/jwplayer.js timeout=0 live=1 pageUrl=http://www.lshstream.com/embed.php?u=btsports1lsh58 token=SECURET0KEN#yw%.?@W!
 
 
 #EXTINF:-1,Euro Sport
 http://213.81.153.241/live001/channel014_p3.stream/chunklist_w558968909_DVR.m3u8
 
-#EXTINF:-1 group-title="SPORTS",PAC-12 Net. 1280*720
-http://xrxs.net/video/live-p12netw-2328.m3u8
- 
+
 #EXTINF:-1 group-title="SPORTS",PAC-12 Net. (Oregon) 1280*720
 http://xrxs.net/video/live-p12oreg-2328.m3u8
   
