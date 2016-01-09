@@ -79,7 +79,8 @@ http://176.10.104.216/ss1sd/index.m3u8
 #EXTINF:-1,Fox Sports HD1
 http://streamup.global.ssl.fastly.net/app/zonasports2hds-stream/playlist.m3u8
 #EXTINF:-1,sky sport 1
-http://live.pushpublish.tv/mylive/vskys1/playlist.m3u8
+rtmp://89.248.172.52/live/ playpath=s1 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.cast4u.tv/embedcr.php?live=s1&vw=620&vh=490
+
 #EXTINF:-1,sky sport 2
 #EXTINF:-1,sky sport 3
 #EXTINF:-1,sky sport 4
