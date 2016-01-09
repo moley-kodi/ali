@@ -13,6 +13,23 @@ http://180.250.29.22:80/jhos/beib2_4/chunklist_w2039787057.m3u8
 #EXTINF:-1,Bein Sport Eng 3
 http://180.250.29.22/jhos/beib3_4/playlist.m3u8
 http://180.250.29.22:80/jhos/beib3_4/chunklist_w51361344.m3u8
+#EXTINF:-1,Bein 4
+http://live01.pushpublish.tv/mylive/bein4/playlist.m3u8
+#EXTINF:-1,Bein 5
+http://live01.pushpublish.tv/mylive/bein5/playlist.m3u8
+#EXTINF:-1,Bein 6
+http://live01.pushpublish.tv/mylive/bein6/playlist.m3u8
+#EXTINF:-1,Bein 7
+http://live01.pushpublish.tv/mylive/bein7/playlist.m3u8
+#EXTINF:-1,Bein 8
+http://live01.pushpublish.tv/mylive/bein8/playlist.m3u8
+#EXTINF:-1,Bein 9
+http://live01.pushpublish.tv/mylive/bein9/playlist.m3u8
+#EXTINF:-1,Bein 10
+http://live01.pushpublish.tv/mylive/bein10/playlist.m3u8
+#EXTINF:-1,Bein 11
+http://live01.pushpublish.tv/mylive/bein11/playlist.m3u8
+
 #EXTINF:-1,Bein Sport Eng 
 http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/01.m3u8
 
