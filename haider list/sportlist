@@ -30,8 +30,7 @@ http://live01.pushpublish.tv/mylive/bein10/playlist.m3u8
 #EXTINF:-1,Bein 11
 http://live01.pushpublish.tv/mylive/bein11/playlist.m3u8
 
-#EXTINF:-1,Bein Sport Eng 
-http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/01.m3u8
+
 
 #EXTINF:-1,ENCORE Sport
 http://xrxs.net/video/live-p12moun-4728.m3u8
@@ -148,11 +147,9 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
 #EXTINF:-1 group-title="SPORTS",Motorsport 7 Australia
 http://motorsport.hopto.org:8080/
-#EXTINF:-1, Xtreme Impacts
-http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8 
-#EXTINF:-1, Sports Night HD
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
 
+#EXTINF:-1,Sport Max
+http://46.249.213.93/iPhone/HLS_TS/broadcast/sport_max-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
 #EXTINF:-1,SPORTES 1 HD
 http://www.xrxs.net/video/live-p12ariz-4728.m3u8
  
