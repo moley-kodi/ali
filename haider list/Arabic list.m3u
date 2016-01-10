@@ -5,7 +5,7 @@
 
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
-#EXTINF:-1, [COLOR red] -- Arabic 1 جميع القنوات تعمل جيدا/COLOR]
+#EXTINF:-1, [COLOR red] --نعتذر عن عدم عمل بعض القنوات نحن نعل على تحديث البرنامج [COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 #EXTINF:-1, [COLOR red] -- 1/4--[/COLOR]
