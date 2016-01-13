@@ -39,6 +39,11 @@ http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?supertvlat=/.ts
 http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 #EXTINF:-1,AMC
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=/.ts
+#EXTINF:-1, HBO
+http://173.199.120.51/hls/hbo.m3u8
+
+#EXTINF:12.2,HBO 2
+http://123.29.68.180/pkg3/channels/vstv036/medium/34/88/54/medium-1434885418.ts?c=vstv036&q=medium&type=tvlive-seg&pkg=pkg3&zn=net&userId=3517&deviceId=5212&location=&p=0&pnode=&rkey=t1mIwNVkVFVgmyvM
 
 
 #EXTINF:-1,Dubai One
