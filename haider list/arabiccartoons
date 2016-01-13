@@ -1,1 +1,12 @@
-test
+
+<channel>
+      <name>[COLOR lime]Arabic cartoons [/COLOR]</name>
+  <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
+<fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
+<link>http://ignoreme</link>
+   <externallink>#EXTINF:-1, 
+plugin://plugin.video.youtube/?action=play_video&videoid=mlOwREmLNEE&list=PL8XovLToH9hYd1Yo6gehiq6xiT4fodI3m>##change haider
+   
+</channel>
+
+mlOwREmLNEE&list=PL8XovLToH9hYd1Yo6gehiq6xiT4fodI3m
