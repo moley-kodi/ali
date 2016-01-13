@@ -1,7 +1,7 @@
 
 #EXTM3U
 
-#EXTINF:-1, [COLOR red] --  new channels 1/4 ----please update you device by click Jafaer-tv and click the newest one 0.5.3  --[/COLOR]
+#EXTINF:-1, [COLOR red] --  please update you device by click Jafaer-tv and click the newest one 0.5.3  --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1,Sky News
 plugin://plugin.video.youtube/?action=play_video&videoid=y60wDzZt8yg
