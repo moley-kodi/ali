@@ -233,23 +233,18 @@ plugin://plugin.video.youtube/?action=play_video&videoid=0G6qeODyRbc
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
 http://jafaer-tv.com
 
-
 #EXTINF:-1,العربية 
 plugin://plugin.video.youtube/?action=play_video&videoid=rlvfffhWo2A
-
-
 #EXTINF:-1, Skynewa سكاي نيوز
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
 #EXTINF:-1,بي بي سي عربي bbc arabic bbc
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-
 #EXTINF:-1,RT Arabic 
 http://rt-lh.akamaihd.net/i/ch_03@325607/index_720p_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,ANB Live
 http://188.247.93.26:1935/live/anb.stream_360p/playlist.m3u8
 #EXTINF:-1,ANN News
 rtmp://ns8.indexforce.com/ann/ann
-
 #EXTINF:-1 group-title=”ARABIC”,AL HADATHالحدث 
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 group-title=”ARABIC”,AL HURRA قناة الحرة
@@ -360,10 +355,7 @@ http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
 http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
 #EXTINF:-1,قناة الدنيا
 rtmp://www.teledunet.com:1935/live2<playpath>teledunet_tv <swfUrl>http://www.teledunet.com/mobile/player.swf <pageUrl>http://www.teledunet.com/mobile/ <objectEncoding>
-#EXTINF:-1,Arabic:Zaitouna
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2235.ts
-#EXTINF:-1,Arabic:Arradia
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2245.ts
+
 #EXTINF:-1,2M المغربيه
 128.http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 #EXTINF:-1 group-title=”ARABIC”,AL MAGHRIBYA
@@ -409,8 +401,6 @@ http://jafaer-tv.com
 
 #EXTINF:-1 , TRT Arabic 
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-
-
 #EXTINF:-1,الجزيرة الوثائقية
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1,قناة العربي الثقافية 
@@ -467,5 +457,4 @@ http://stream.zeefamily.tv/zeeclassic/index.m3u8
 
 #EXTINF:-1,Ajyal Cinema
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
-#EXTINF:-1, test
-http://www.t12v.com:8000/live/angelo/angelo/1073.ts
+
