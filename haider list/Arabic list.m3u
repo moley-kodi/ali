@@ -229,6 +229,29 @@ plugin://plugin.video.youtube/?action=play_video&videoid=8ITFSKZAXD4
 plugin://plugin.video.youtube/?action=play_video&videoid=y7B3BqUJbtk
 #EXTINF:-1,قناة الندى الفضائية
 plugin://plugin.video.youtube/?action=play_video&videoid=0G6qeODyRbc
+#EXTINF:-1,rotana_masria
+
+http://94.23.50.218:2468/109/IPTV_LINKS
+
+#EXTINF:-1,rotana_cinma
+
+http://94.23.50.218:2468/110/IPTV_LINKS
+
+#EXTINF:-1,rotana_khalijia
+
+http://94.23.50.218:2468/111/IPTV_LINKS
+
+#EXTINF:-1,rotana_music
+
+http://94.23.50.218:2468/112/IPTV_LINKS
+
+#EXTINF:-1,rotana_clip
+
+http://94.23.50.218:2468/113/IPTV_LINKS
+
+#EXTINF:-1,rotana_classic
+
+http://94.23.50.218:2468/114/IPTV_LINKS
 
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
 http://jafaer-tv.com
