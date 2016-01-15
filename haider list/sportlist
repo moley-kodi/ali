@@ -29,12 +29,7 @@ http://live01.pushpublish.tv/mylive/bein9/playlist.m3u8
 http://live01.pushpublish.tv/mylive/bein10/playlist.m3u8
 #EXTINF:-1,Bein 11
 http://live01.pushpublish.tv/mylive/bein11/playlist.m3u8
-#EXTINF:-1, Bein sport Arabic  3
-http://cdn540.xyz/live/bd9c18ccd059e60/playlist.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1Mjc4MjU1NiZoYXNoX3ZhbHVlPTY5YmE2ZGI2ZGRjM2MwNzQ4ZTg3ZjY5NDIzYWE5NTlhJnZhbGlkbWludXRlcz0zMCZpcD0xNzAuMTg1LjIzMy4xMDcm
-#EXTINF:-1, Bein sport Arabic 2
-http://cdn540.xyz/live/e61eb5c4fa429b3/playlist.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1Mjc4MjkxNyZoYXNoX3ZhbHVlPTU0ZGY4NjA2MDI0OGRhOGI5MWE4YTc3ZjFhODc2Yjc4JnZhbGlkbWludXRlcz0zMCZpcD0xNzAuMTg1LjIzMy4xMDcm
-#EXTINF:-1, Bein sport Arabic 1
-http://cdn540.xyz/live/c4a5a0bb459b8fc/playlist.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1Mjc4MzA2NiZoYXNoX3ZhbHVlPTM5OWQ5MmU0OGZlNWFjZWIxMWYyYTZlMmQ0YzZiMTExJnZhbGlkbWludXRlcz0zMCZpcD0xNzAuMTg1LjIzMy4xMDcm
+
 
 
 #EXTINF:-1,ENCORE Sport
@@ -43,52 +38,9 @@ http://xrxs.net/video/live-p12moun-4728.m3u8
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?=/.ts
 #EXTINF:-1,Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
-#EXTINF:0, Arena Sport 1
-http://tinyurl.com/nmkmcq8
-#EXTINF:0, Arena Sport 2
-http://tinyurl.com/nmskwnh
-#EXTINF:0, Arena Sport 3
-http://tinyurl.com/q4hy9ko
-#EXTINF:0, Arena Sport 4
-http://tinyurl.com/on4bmsl
-#EXTINF:0, Arena Sport 5
-http://tinyurl.com/o9p4pth
-
-
-#EXTINF:-1,Bein 1 AR
-rtmp://www1.iguide.to/iguide playpath=nujkqb82ht54f05 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-
-#EXTINF:-1,Bein 2 AR
-rtmp://www1.iguide.to/iguide playpath=ix87jz08b1l9wjl swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-
-#EXTINF:-1,Bein 3 AR
-rtmp://www1.iguide.to/iguide playpath=zqd4jye2ubzsk8g swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-
-#EXTINF:-1,Bein 4 AR
-rtmp://www1.iguide.to/iguide playpath=6kvth9vfk31w5hq swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-
-#EXTINF:-1,Bein 5 AR
-rtmp://www1.iguide.to/iguide playpath=uzd0xctulomtekn swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-
-#EXTINF:-1,Bein 6 AR
-rtmp://www1.iguide.to/iguide playpath=a66ht7p4opy1s5r swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-
-#EXTINF:-1,Bein 7 AR
-rtmp://www1.iguide.to/iguide playpath=ilirzmz6u21561n swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-
-#EXTINF:-1,Bein 8 AR
-rtmp://www1.iguide.to/iguide playpath=heh8qiagrxkwcm3 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-
-#EXTINF:-1,Bein 11 AR
-rtmp://www1.iguide.to/iguide playpath=ql4mb7goxh0gx7y swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31507&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-
-#EXTINF:-1,Bein 12 AR
-rtmp://www1.iguide.to/iguide playpath=zrbbip5ikugr384 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf <pageUrl>http://www.iguide.to/embedplayer_new.php?channel=31508&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 
 
 
-#EXTINF:-1,Now Live
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 
 
 #EXTINF:-1,Eurosport
