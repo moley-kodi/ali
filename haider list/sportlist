@@ -30,10 +30,10 @@ http://live01.pushpublish.tv/mylive/bein8/playlist.m3u8
 http://live01.pushpublish.tv/mylive/bein9/playlist.m3u8
 #EXTINF:-1,Bein 10
 http://live01.pushpublish.tv/mylive/bein10/playlist.m3u8
-#EXTINF:-1,Bein 11
+ #EXTINF:-1,Bein 11
 http://live01.pushpublish.tv/mylive/bein11/playlist.m3u8
-
-
+#EXTINF:-1,Bein FR
+rtmp://watch4.streamlive.to:1935/edge/_definst_/?xs=_we_bjVwcnR6dzVhMWx2dTg3fDE0NTMwNTEyNTZ8NzQuMTMxLjEzMS4xMzJ8NTY5YTdiZjhkZGMwNHxkOWE1ODU1ZWM4YjA5NzcwMjI3ODgyY2JhZjMzMGQwY2E2Mzk0Mjk2/n5prtzw5a1lvu87 
 
 #EXTINF:-1,ENCORE Sport
 http://xrxs.net/video/live-p12moun-4728.m3u8
@@ -74,21 +74,11 @@ http://213.81.153.241/live001/channel014_p3.stream/chunklist_w558968909_DVR.m3u8
 
 #EXTINF:-1,EUROSPORT 1 ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1, SPORT TIME TV 3HQ
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+
 #EXTINF:-1,SPORT TIME TV 1HD
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
  
-#EXTINF:-1,SPORT TIME TV 2HD
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
- 
-#EXTINF:-1,SPORT TIME TV 3HD
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
- 
-#EXTINF:-1,SPORT TIME TV 4HD
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
-#EXTINF:-1 group-title="SPORTS",Motorsport 7 Australia
-http://motorsport.hopto.org:8080/
+
 
 #EXTINF:-1,Sport Max
 http://46.249.213.93/iPhone/HLS_TS/broadcast/sport_max-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
