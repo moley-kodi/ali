@@ -1,10 +1,36 @@
 
 #EXTM3U
-
+#EXTINF:-1,FR: DISCOVERY
+http://startimes.mine.nu:8080/live/startimes/10012016/435.m3u8
+#EXTINF:-1,FR: CANAL+ SERIE
+http://startimes.mine.nu:8080/live/startimes/10012016/431.m3u8
+#EXTINF:-1,FR: CANAL+ FAMILY
+http://startimes.mine.nu:8080/live/startimes/10012016/430.m3u8
+#EXTINF:-1,FR: CANAL+ DECALE
+http://startimes.mine.nu:8080/live/startimes/10012016/428.m3u8
+#EXTINF:-1,FR: CANAL+ CINEMA
+http://startimes.mine.nu:8080/live/startimes/10012016/429.m3u8
+#EXTINF:-1,FR: W9 HD
+http://startimes.mine.nu:8080/live/startimes/10012016/417.m3u8
+#EXTINF:-1,FR: TF1 HD
+http://startimes.mine.nu:8080/live/startimes/10012016/415.m3u8
+#EXTINF:-1,FR: NRJ12
+http://startimes.mine.nu:8080/live/startimes/10012016/419.m3u8
+#EXTINF:-1,FR: M6 HD
+http://startimes.mine.nu:8080/live/startimes/10012016/416.m3u8
+#EXTINF:-1,FR: FRANCE O
+http://startimes.mine.nu:8080/live/startimes/10012016/410.m3u8
+#EXTINF:-1,FR: FRANCE 5
+http://startimes.mine.nu:8080/live/startimes/10012016/411.m3u8
+#EXTINF:-1,FR: FRANCE 4
+http://startimes.mine.nu:8080/live/startimes/10012016/412.m3u8
+#EXTINF:-1,FR: FRANCE 3
+http://startimes.mine.nu:8080/live/startimes/10012016/413.m3u8
+#EXTINF:-1,FR: FRANCE 2
+http://startimes.mine.nu:8080/live/startimes/10012016/414.m3u8
 #EXTINF:-1,ARTE
 http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
-#EXTINF:-1,24 NEWS
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+
 #EXTINF:-1,FRANCE 24 HD
 http://162.212.176.83:8080/map-france24roku.stream.m3u8
 #EXTINF:-1,France 2
@@ -15,26 +41,16 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 http://media.webtvlive.eu/rtc/smil:live.smil/playlist.m3u8
 #EXTINF:-1,BFM TV
 http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
-#EXTINF:-1,TV5 MONDE
-http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
-#EXTINF:-1,2M MONDE
-http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
+
 #EXTINF:-1,6TER HD,
 http://stream4.latvdefrance.com/demo/6ter.m3u8
 #EXTINF:-1,EURONEWS
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/fr_vidan750_rtp.sdp
 #EXTINF:-1,EURONEWS ENG,
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
-#EXTINF:-1,ANIMANIA,
-http://teleclub.fr/animania.mp4
-#EXTINF:-1,FRANCE 4,
-mms://live3.ipercast.net/darty.fr/france4/live
-#EXTINF:-1,FRANCE 5,
-mms://live3.ipercast.net/darty.fr/france5/live
-#EXTINF:-1,FRANCE 24,
-http://tv.flux.france24.com/4684/02.m3u8
-#EXTINF:-1,NRJ TV,
-rtmp://rtmp.infomaniak.ch:1935/livecast/energytv
+
+
+
 #EXTINF:-1,BFM BUSINESS,
 http://bfmlive-i.akamaihd.net/hls/live/218341/876450612001/bfmbusiness/04.m3u8
 #EXTINF:-1,EURONEWS,
@@ -54,8 +70,7 @@ http://rtmp.infomaniak.ch/livecast/latele/BratuMarian.m3u8
 http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
 #EXTINF:-1,rmc decouverte,
 http://streaming-hub.com/stream/rmc.m3u8
-#EXTINF:-1,24 News,
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+
 #EXTINF:-1,OUI TV,
 http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
 #EXTINF:-1,TELE VESTRE,
