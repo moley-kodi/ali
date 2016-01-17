@@ -47,8 +47,7 @@ http://streamer1.hamuraabi.com:1935/salam/live/chunklist_w473936807.m3u8
 #EXTINF:-1,اهل البيت
 rtmp://ahlulbaytlive.nanocdn.com/live/ahlulbayt256
 #EXTINF:-1,تعمل الانوار 2
-http://ngx.cr1.streamzilla.xlcdn.com/session/41186096a4cc850eaf29209953c857e7/sz/anwartv2/wowza4/live/jazem/chunklist.m3u8
-
+http://ngx.cr2.streamzilla.xlcdn.com/session/64a606684d0d5094473ec682af148c77/sz/anwartv2/wowza4/live/jazem/playlist.m3u8?token=X9kwATT9i8HX1V4p3ieWfg&time=1453057423|User-Agent=Mozilla/5.0 
 #EXTINF:-1 tvg-logo="http://goo.gl/6DFzwR",قناة الامام الحسين ع
 rtsp://ca.live.imamhussein.tv:1935/live/mp4:ih203
 
@@ -174,6 +173,9 @@ http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
 http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8
 #EXTINF:-1,Sama Dubai
 http://cdnedvrsamadubai.endavomedia.com/smil:dmilivesamadubaihls.smil/BratuMarian.m3u8
+#EXTINF:-1,دبي زمان
+http://dmi.mangomolo.com:1935/dubaizaman/smil:dubaizaman.stream.smil/chunklist_w2003666137_b1200000.m3u8
+
 #EXTINF:-1, Dubai Racing
 http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
 #EXTINF:-1, Dubai Sports
