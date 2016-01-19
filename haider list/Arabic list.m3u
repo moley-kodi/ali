@@ -240,8 +240,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=y7B3BqUJbtk
 #EXTINF:-1,قناة الندى الفضائية
 plugin://plugin.video.youtube/?action=play_video&videoid=0G6qeODyRbc
 #EXTINF:-1, Dream 2
-rtmp://livestreaming5.onlinehorizons.net:1935/Dream2CH playpath=livestream swfUrl=https://onlinehorizons.net/livestreaming/DreamTV/flowplayer-3.2.18.swf pageUrl=https://onlinehorizons.net/livestreaming/DreamTV/Channels/index1.html <objectEncoding>
-
+rtmp://livestreaming5.onlinehorizons.net:1935/Dream2CH/livestream 
 
 
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
