@@ -70,6 +70,11 @@ http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3
 http://162.212.176.83:8080/mystream1.m3u8
 #EXTINF:-1,Discovery USA
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?supertvlat=/.ts
+#EXTINF:-1,Comedy  Centeral
+http://167.114.102.27/live/suhFBQE9uw2sJs7KS1WcOw/1453253326/fa894851552e99b1cc146264a8ffaf4b.m3u8
+
+#EXTINF:-1, A&E
+http://167.114.102.27/live/3VqgWclBOofPnEyTAW6I8A/1453253045/bb38d9048b7b91706264169a031f32a4.m3u8
 #EXTINF:-1,Golf channel
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
 #EXTINF:-1,dream tv
