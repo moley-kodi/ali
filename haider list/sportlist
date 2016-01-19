@@ -7,33 +7,6 @@ http://63.237.48.23/ios/KUWAIT_3_SPORT/KUWAIT_3_SPORT.m3u8
 #EXTINF:-1,ALKaas
 http://137.135.64.32:1935/kas/kas/gmswf.m3u8
 
-#EXTINF:-1,BT SPORT 1HD
-http://94.23.50.218:2468/179/IPTV_LINKS
-#EXTINF:-1,Bein Sport Eng 1
-http://180.250.29.22:80/jhos/beib1_4/chunklist_w2105600560.m3u8
-#EXTINF:-1,Bein Sport Eng 2
-http://180.250.29.22:80/jhos/beib2_4/chunklist_w2039787057.m3u8
-#EXTINF:-1,Bein Sport Eng 3
-http://180.250.29.22/jhos/beib3_4/playlist.m3u8
-http://180.250.29.22:80/jhos/beib3_4/chunklist_w51361344.m3u8
-#EXTINF:-1,Bein 4
-http://live01.pushpublish.tv/mylive/bein4/playlist.m3u8
-#EXTINF:-1,Bein 5
-http://live01.pushpublish.tv/mylive/bein5/playlist.m3u8
-#EXTINF:-1,Bein 6
-http://live01.pushpublish.tv/mylive/bein6/playlist.m3u8
-#EXTINF:-1,Bein 7
-http://live01.pushpublish.tv/mylive/bein7/playlist.m3u8
-#EXTINF:-1,Bein 8
-http://live01.pushpublish.tv/mylive/bein8/playlist.m3u8
-#EXTINF:-1,Bein 9
-http://live01.pushpublish.tv/mylive/bein9/playlist.m3u8
-#EXTINF:-1,Bein 10
-http://live01.pushpublish.tv/mylive/bein10/playlist.m3u8
- #EXTINF:-1,Bein 11
-http://live01.pushpublish.tv/mylive/bein11/playlist.m3u8
-#EXTINF:-1,Bein FR
-rtmp://watch4.streamlive.to:1935/edge/_definst_/?xs=_we_bjVwcnR6dzVhMWx2dTg3fDE0NTMwNTEyNTZ8NzQuMTMxLjEzMS4xMzJ8NTY5YTdiZjhkZGMwNHxkOWE1ODU1ZWM4YjA5NzcwMjI3ODgyY2JhZjMzMGQwY2E2Mzk0Mjk2/n5prtzw5a1lvu87 
 
 #EXTINF:-1,ENCORE Sport
 http://xrxs.net/video/live-p12moun-4728.m3u8
@@ -41,6 +14,39 @@ http://xrxs.net/video/live-p12moun-4728.m3u8
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?=/.ts
 #EXTINF:-1,Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
+
+#EXTINF:-1,BEIN_SPORT1
+
+http://bit.ly/1SrHMnH
+#EXTINF:-1,BEIN_SPORT10
+
+http://bit.ly/209DZNs
+#EXTINF:-1,BEIN_SPORT11
+
+http://bit.ly/1JcuwRg
+#EXTINF:-1,BEIN_SPORT12
+http://bit.ly/1OAId9k
+#EXTINF:-1,BEIN_SPORT13
+http://bit.ly/1NgaiRw
+#EXTINF:-1,BEIN_SPORT14
+
+http://bit.ly/1RPfV16
+#EXTINF:-1,BEIN_SPORT15
+
+http://bit.ly/1V1JXwm
+#EXTINF:-1,BEIN_SPORT5
+
+http://bit.ly/1Rw0xX8
+#EXTINF:-1,BEIN_SPORT6
+
+http://bit.ly/1PlA08D
+#EXTINF:-1,BEIN_SPORT7
+
+http://bit.ly/23a2kF2
+#EXTINF:-1,BEIN_SPORT8
+http://bit.ly/1QiaDJN
+#EXTINF:-1,BEIN_SPORT9
+http://bit.ly/1S088vI
 
 
 
