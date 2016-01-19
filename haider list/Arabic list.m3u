@@ -9,48 +9,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 
-#EXTINF:-1,OSN: ON Demande 3
-
-http://Starcccamfull.hopto.org:8000/live/star7/YGqnxAGDEU/492.ts
-#EXTINF:-1,OSN: ON Demande 2
-
-http://Starcccamfull.hopto.org:8000/live/star7/YGqnxAGDEU/493.ts
-#EXTINF:-1,OSN: ON Demande 1
-
-http://Starcccamfull.hopto.org:8000/live/star7/YGqnxAGDEU/494.ts
-#EXTINF:-1,OSN: MOVIE PREMIERE
-
-http://Starcccamfull.hopto.org:8000/live/star7/YGqnxAGDEU/495.ts
-#EXTINF:-1,OSN: MOVIE ACTION 2
-
-http://Starcccamfull.hopto.org:8000/live/star7/YGqnxAGDEU/496.ts
-#EXTINF:-1,OSN: MOVIE ACTION
-
-http://Starcccamfull.hopto.org:8000/live/star7/YGqnxAGDEU/497.ts
-#EXTINF:-1,OSN: CINEMA 2
-
-http://Starcccamfull.hopto.org:8000/live/star7/YGqnxAGDEU/498.ts
-#EXTINF:-1,OSN: box office 3
-
-http://Starcccamfull.hopto.org:8000/live/star7/YGqnxAGDEU/499.ts
-#EXTINF:-1,OSN: box office 2
-
-http://Starcccamfull.hopto.org:8000/live/star7/YGqnxAGDEU/500.ts
-#EXTINF:-1,OSN: box office 1
-
-http://Starcccamfull.hopto.org:8000/live/star7/YGqnxAGDEU/501.ts
-#EXTINF:-1,AR: OSN Movies Box Office 3 HD
-
-http://Starcccamfull.hopto.org:8000/live/star7/YGqnxAGDEU/502.ts
-#EXTINF:-1,AR: OSN Movies Box Office 2 HD
-
-http://Starcccamfull.hopto.org:8000/live/star7/YGqnxAGDEU/503.ts
-#EXTINF:-1,AR: OSN Cinema 2
-
-http://Starcccamfull.hopto.org:8000/live/star7/YGqnxAGDEU/504.ts
-#EXTINF:-1,AR: OSN Cinema 1
-
-http://Starcccamfull.hopto.org:8000/live/star7/YGqnxAGDEU/505.ts
 
 #EXTINF:-1,mbc 1
 http://streamup.global.ssl.fastly.net/app/sami2015s-channel/chunklist.m3u8?v=411569703
