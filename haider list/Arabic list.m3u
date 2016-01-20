@@ -24,7 +24,8 @@ http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/vaa7zb",MBC Bollywood 
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-
+#EXTINF:-1, Cinema
+http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
 
 
 #EXTINF:-1,*********[COLOR red]قنوات عراقية[/COLOR]**********
@@ -45,8 +46,24 @@ http://streamer1.hamuraabi.com:1935/salam/live/chunklist_w473936807.m3u8
 
 #EXTINF:-1,اهل البيت
 rtmp://ahlulbaytlive.nanocdn.com/live/ahlulbayt256
-#EXTINF:-1,تعمل الانوار 2
-http://ngx.cr2.streamzilla.xlcdn.com/session/64a606684d0d5094473ec682af148c77/sz/anwartv2/wowza4/live/jazem/playlist.m3u8?token=X9kwATT9i8HX1V4p3ieWfg&time=1453057423|User-Agent=Mozilla/5.0 
+#EXTINF:-1,Al Anwar 2
+http://62.210.162.88:80/live/arab75/184018012016/1114.ts
+#EXTINF:-1,Al Anwar
+http://62.210.162.88:80/live/arab75/184018012016/1113.ts
+#EXTINF:-1,Alkadhmy TV
+http://62.210.162.88:80/live/arab75/184018012016/1092.ts
+
+#EXTINF:-1,Iraq TV Channel
+http://62.210.162.88:80/live/arab75/184018012016/1032.ts
+#EXTINF:-1,Al Forat Tv
+http://62.210.162.88:80/live/arab75/184018012016/1108.ts
+
+#EXTINF:-1,Al Alam
+http://62.210.162.88:80/live/arab75/184018012016/1028.ts
+#EXTINF:-1,Al Adalah
+http://62.210.162.88:80/live/arab75/184018012016/1056.ts
+
+
 #EXTINF:-1 tvg-logo="http://goo.gl/6DFzwR",قناة الامام الحسين ع
 rtsp://ca.live.imamhussein.tv:1935/live/mp4:ih203
 
@@ -467,6 +484,5 @@ http://stream.zeefamily.tv/zeecinema/index.m3u8
 http://stream.zeefamily.tv/zeeclassic/index.m3u8
 
 
-#EXTINF:-1,Ajyal Cinema
-http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
+
 
