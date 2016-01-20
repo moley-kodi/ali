@@ -1,11 +1,11 @@
 
 #EXTM3U
 
-#EXTINF:-1, [COLOR red] -- ومن ثما الضغط على اخر اصدار 0.5.3/ Jafaer-tv يرجى تحديث البرنامج وذالك في الضغط على --[/COLOR]
+#EXTINF:-1, [COLOR red] --وبعد ذالك على اخر اصدار 5.0.3\  Jafaer-tv يرجى تحديث البرنامج وذالك في الضغط على --[/COLOR]
 
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
-#EXTINF:-1, [COLOR red] -تم اضافة الكثير من القنوات في اخر القائمة-[/OLOR]
+#EXTINF:-1, [COLOR red] -\تم اضافة الكثير من القنوات في اخر القائمة-[/OLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 
