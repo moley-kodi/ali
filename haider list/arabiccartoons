@@ -1,12 +1,3752 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1"> 
+<title>Liste de lecture</title> 
+<trackList> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch76?code=0421a7ebf644e4e</location> 
+<title>2M Maroc</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>1</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1072?code=0421a7ebf644e4e</location> 
+<title>2M National</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>2</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch80?code=0421a7ebf644e4e</location> 
+<title>Abu Dhabi</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>3</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch967?code=0421a7ebf644e4e</location> 
+<title>Abu Dhabi DAR</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>4</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch54?code=0421a7ebf644e4e</location> 
+<title>Abu Dhabi Drama</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>5</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch810?code=0421a7ebf644e4e</location> 
+<title>Abu Dhabi Emarat</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>6</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch79?code=0421a7ebf644e4e</location> 
+<title>Abu Dhabi Sport</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>7</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch865?code=0421a7ebf644e4e</location> 
+<title>Abu Dhabi Sport 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>8</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch81?code=0421a7ebf644e4e</location> 
+<title>Aghanina</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>9</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch82?code=0421a7ebf644e4e</location> 
+<title>Ajyal</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>10</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch53?code=0421a7ebf644e4e</location> 
+<title>Al Arabia News</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>11</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch314?code=0421a7ebf644e4e</location> 
+<title>Al Babilia Irak</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>12</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch330?code=0421a7ebf644e4e</location> 
+<title>Al Dafra</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>13</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch825?code=0421a7ebf644e4e</location> 
+<title>AL Djazairia</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>14</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch956?code=0421a7ebf644e4e</location> 
+<title>Al Ettijah Iraq</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>15</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch966?code=0421a7ebf644e4e</location> 
+<title>Al Haddaf TV Algerie</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>16</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch831?code=0421a7ebf644e4e</location> 
+<title>Al Hayat</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>17</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch338?code=0421a7ebf644e4e</location> 
+<title>Al Hayat 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>18</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch924?code=0421a7ebf644e4e</location> 
+<title>Al Hurra TV Iraq</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>19</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch938?code=0421a7ebf644e4e</location> 
+<title>Al Iraqia News</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>20</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch932?code=0421a7ebf644e4e</location> 
+<title>Al Iraquia 1</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>21</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch952?code=0421a7ebf644e4e</location> 
+<title>Al Kaas One</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>22</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch847?code=0421a7ebf644e4e</location> 
+<title>Al Magharibia</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>23</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch56?code=0421a7ebf644e4e</location> 
+<title>Al Maghrebia</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>24</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch404?code=0421a7ebf644e4e</location> 
+<title>Al Majd 3 Coran TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>25</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch58?code=0421a7ebf644e4e</location> 
+<title>Al Manar</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>26</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch84?code=0421a7ebf644e4e</location> 
+<title>Al Masria</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>27</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch90?code=0421a7ebf644e4e</location> 
+<title>Al Mayadeen</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>28</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch337?code=0421a7ebf644e4e</location> 
+<title>Al Nahar</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>29</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch341?code=0421a7ebf644e4e</location> 
+<title>Al Nahar Alyawm</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>30</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch59?code=0421a7ebf644e4e</location> 
+<title>Al Nahar Drama</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>31</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch972?code=0421a7ebf644e4e</location> 
+<title>Al Nahar Laki</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>32</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch310?code=0421a7ebf644e4e</location> 
+<title>Al Nahar Noor</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>33</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch961?code=0421a7ebf644e4e</location> 
+<title>Al Nahar plus 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>34</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch852?code=0421a7ebf644e4e</location> 
+<title>Al Nahar Sport</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>35</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch55?code=0421a7ebf644e4e</location> 
+<title>Al Oula Maroc</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>36</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch853?code=0421a7ebf644e4e</location> 
+<title>Al Oula Masria</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>37</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch935?code=0421a7ebf644e4e</location> 
+<title>Al Rai</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>38</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch92?code=0421a7ebf644e4e</location> 
+<title>Al Resalah</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>39</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch88?code=0421a7ebf644e4e</location> 
+<title>Al Sumaria</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>40</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch307?code=0421a7ebf644e4e</location> 
+<title>Al Thanya Masria</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>41</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch94?code=0421a7ebf644e4e</location> 
+<title>Alan TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>42</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch95?code=0421a7ebf644e4e</location> 
+<title>Algeria 3</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>43</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch72?code=0421a7ebf644e4e</location> 
+<title>Algeria Tamazigh</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>44</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch99?code=0421a7ebf644e4e</location> 
+<title>Aljadeed Sat</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>45</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch276?code=0421a7ebf644e4e</location> 
+<title>Alriayadia Sport</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>46</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch329?code=0421a7ebf644e4e</location> 
+<title>AlWatan Algerie</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>47</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch927?code=0421a7ebf644e4e</location> 
+<title>ANB News</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>48</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch843?code=0421a7ebf644e4e</location> 
+<title>Anbar TV Irak</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>49</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch406?code=0421a7ebf644e4e</location> 
+<title>Arabica Music</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>50</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch883?code=0421a7ebf644e4e</location> 
+<title>Arrabia Maroc</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>51</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch40?code=0421a7ebf644e4e</location> 
+<title>ART Aflem 1</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>52</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch41?code=0421a7ebf644e4e</location> 
+<title>ART Aflem 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>53</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch409?code=0421a7ebf644e4e</location> 
+<title>ART Cinema</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>54</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch407?code=0421a7ebf644e4e</location> 
+<title>ART Hikayat 1</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>55</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch408?code=0421a7ebf644e4e</location> 
+<title>ART Hikayat 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>56</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch405?code=0421a7ebf644e4e</location> 
+<title>Assadissa Maroc</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>57</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch880?code=0421a7ebf644e4e</location> 
+<title>Baghdadia</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>58</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch863?code=0421a7ebf644e4e</location> 
+<title>Baghdadia 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>59</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch50?code=0421a7ebf644e4e</location> 
+<title>Baraem</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>60</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch113?code=0421a7ebf644e4e</location> 
+<title>BBC Arabic</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>61</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch959?code=0421a7ebf644e4e</location> 
+<title>Beirout Cinema</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>62</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch410?code=0421a7ebf644e4e</location> 
+<title>Blue Nile TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>63</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch89?code=0421a7ebf644e4e</location> 
+<title>Bolika Music</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>64</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch973?code=0421a7ebf644e4e</location> 
+<title>Bzaf TV Algerie</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>65</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch63?code=0421a7ebf644e4e</location> 
+<title>Cairo Cinema</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>66</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch64?code=0421a7ebf644e4e</location> 
+<title>Cairo Drama</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>67</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch860?code=0421a7ebf644e4e</location> 
+<title>Canal Algerie</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>68</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch62?code=0421a7ebf644e4e</location> 
+<title>Canary Kids</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>69</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch65?code=0421a7ebf644e4e</location> 
+<title>Cartoon Network AR</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>70</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch22?code=0421a7ebf644e4e</location> 
+<title>CBC Drama</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>71</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch255?code=0421a7ebf644e4e</location> 
+<title>CBC Extra</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>72</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch256?code=0421a7ebf644e4e</location> 
+<title>CBC Sofra</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>73</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch23?code=0421a7ebf644e4e</location> 
+<title>CBC TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>74</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch254?code=0421a7ebf644e4e</location> 
+<title>CBC Two</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>75</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch109?code=0421a7ebf644e4e</location> 
+<title>Cima</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>76</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch295?code=0421a7ebf644e4e</location> 
+<title>Cine Majestic</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>77</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch837?code=0421a7ebf644e4e</location> 
+<title>Darbaka Aflem</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>78</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch897?code=0421a7ebf644e4e</location> 
+<title>DardaNile TV Sudan</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>79</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch884?code=0421a7ebf644e4e</location> 
+<title>Dream 1</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>80</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch931?code=0421a7ebf644e4e</location> 
+<title>Dream 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>81</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch111?code=0421a7ebf644e4e</location> 
+<title>Dubai One</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>82</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch274?code=0421a7ebf644e4e</location> 
+<title>Dubai Sport 1</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>83</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch839?code=0421a7ebf644e4e</location> 
+<title>Dubai Sport 4</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>84</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch923?code=0421a7ebf644e4e</location> 
+<title>Dubai TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>85</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch849?code=0421a7ebf644e4e</location> 
+<title>DW TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>86</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch845?code=0421a7ebf644e4e</location> 
+<title>Dzair News</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>87</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch335?code=0421a7ebf644e4e</location> 
+<title>Echourouk News</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>88</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch118?code=0421a7ebf644e4e</location> 
+<title>Echourouk TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>89</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1143?code=0421a7ebf644e4e</location> 
+<title>El Bilad</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>90</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch402?code=0421a7ebf644e4e</location> 
+<title>Ennahar Algeria</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>91</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch990?code=0421a7ebf644e4e</location> 
+<title>ENTV Algerie</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>92</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch848?code=0421a7ebf644e4e</location> 
+<title>EuroNews Arabic</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>93</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch26?code=0421a7ebf644e4e</location> 
+<title>FataFeat</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>94</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch119?code=0421a7ebf644e4e</location> 
+<title>Founoun</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>95</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch107?code=0421a7ebf644e4e</location> 
+<title>Fox</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>96</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch27?code=0421a7ebf644e4e</location> 
+<title>Fox Movies</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>97</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch106?code=0421a7ebf644e4e</location> 
+<title>France 24 Arabic</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>98</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch349?code=0421a7ebf644e4e</location> 
+<title>Future TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>99</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch121?code=0421a7ebf644e4e</location> 
+<title>Ghinwa</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>100</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch954?code=0421a7ebf644e4e</location> 
+<title>Hadath</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>101</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch83?code=0421a7ebf644e4e</location> 
+<title>Haneen Music</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>102</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch963?code=0421a7ebf644e4e</location> 
+<title>Hawacom TV Music</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>103</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch21?code=0421a7ebf644e4e</location> 
+<title>Hayat Series</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>104</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch934?code=0421a7ebf644e4e</location> 
+<title>Heiya TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>105</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch838?code=0421a7ebf644e4e</location> 
+<title>Hogar Algeria</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>106</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch926?code=0421a7ebf644e4e</location> 
+<title>IFilm</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>107</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch957?code=0421a7ebf644e4e</location> 
+<title>Index Algerie TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>108</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch154?code=0421a7ebf644e4e</location> 
+<title>Iqra TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>109</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch939?code=0421a7ebf644e4e</location> 
+<title>Jazairia</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>110</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch918?code=0421a7ebf644e4e</location> 
+<title>Jordan TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>111</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch52?code=0421a7ebf644e4e</location> 
+<title>JSC Documentaire</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>112</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch348?code=0421a7ebf644e4e</location> 
+<title>JSC News Arabic</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>113</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch334?code=0421a7ebf644e4e</location> 
+<title>JSC News English</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>114</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch332?code=0421a7ebf644e4e</location> 
+<title>JSC News USA</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>115</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch827?code=0421a7ebf644e4e</location> 
+<title>Kahera Wal Nass 1</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>116</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch343?code=0421a7ebf644e4e</location> 
+<title>Kahera Wal Nass 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>117</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch904?code=0421a7ebf644e4e</location> 
+<title>Koky Kids</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>118</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch149?code=0421a7ebf644e4e</location> 
+<title>KSA 1</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>119</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch347?code=0421a7ebf644e4e</location> 
+<title>KSA 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>120</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch862?code=0421a7ebf644e4e</location> 
+<title>Kuwait Tv 1</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>121</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch28?code=0421a7ebf644e4e</location> 
+<title>LBC</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>122</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch823?code=0421a7ebf644e4e</location> 
+<title>LDC Lebanon</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>123</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch855?code=0421a7ebf644e4e</location> 
+<title>Libya Ahrar</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>124</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch968?code=0421a7ebf644e4e</location> 
+<title>Libya One</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>125</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch965?code=0421a7ebf644e4e</location> 
+<title>Libya Toumast</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>126</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch833?code=0421a7ebf644e4e</location> 
+<title>Libya TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>127</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1001?code=0421a7ebf644e4e</location> 
+<title>Massaya TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>128</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch30?code=0421a7ebf644e4e</location> 
+<title>MBC 1</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>129</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch31?code=0421a7ebf644e4e</location> 
+<title>MBC 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>130</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch32?code=0421a7ebf644e4e</location> 
+<title>MBC 3</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>131</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch33?code=0421a7ebf644e4e</location> 
+<title>MBC 4</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>132</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch34?code=0421a7ebf644e4e</location> 
+<title>MBC Action</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>133</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch35?code=0421a7ebf644e4e</location> 
+<title>MBC Bollywood</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>134</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch36?code=0421a7ebf644e4e</location> 
+<title>MBC Drama</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>135</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch37?code=0421a7ebf644e4e</location> 
+<title>MBC Masr</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>136</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch802?code=0421a7ebf644e4e</location> 
+<title>MBC Masr 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>137</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch38?code=0421a7ebf644e4e</location> 
+<title>MBC MAX</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>138</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch994?code=0421a7ebf644e4e</location> 
+<title>MBC Variety HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>139</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch830?code=0421a7ebf644e4e</location> 
+<title>Medi 1 Sat</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>140</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch832?code=0421a7ebf644e4e</location> 
+<title>Mehwer 1</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>141</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch403?code=0421a7ebf644e4e</location> 
+<title>Melody</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>142</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch842?code=0421a7ebf644e4e</location> 
+<title>Mody Kids</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>143</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch145?code=0421a7ebf644e4e</location> 
+<title>MTV Lebanon</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>144</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch876?code=0421a7ebf644e4e</location> 
+<title>MTV Lebanon</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>145</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch841?code=0421a7ebf644e4e</location> 
+<title>Music Plus</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>146</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch271?code=0421a7ebf644e4e</location> 
+<title>Nat Geo AD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>147</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch146?code=0421a7ebf644e4e</location> 
+<title>NBN TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>148</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch995?code=0421a7ebf644e4e</location> 
+<title>Neileen Sport Channel</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>149</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch131?code=0421a7ebf644e4e</location> 
+<title>Nile Cinema</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>150</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch68?code=0421a7ebf644e4e</location> 
+<title>Nile Comedy</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>151</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch69?code=0421a7ebf644e4e</location> 
+<title>Nile Drama</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>152</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch70?code=0421a7ebf644e4e</location> 
+<title>Nile Family</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>153</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch259?code=0421a7ebf644e4e</location> 
+<title>Nile Life</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>154</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch133?code=0421a7ebf644e4e</location> 
+<title>Nile News</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>155</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch134?code=0421a7ebf644e4e</location> 
+<title>Nile Sport</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>156</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch260?code=0421a7ebf644e4e</location> 
+<title>Nile TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>157</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch854?code=0421a7ebf644e4e</location> 
+<title>Noon TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>158</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch928?code=0421a7ebf644e4e</location> 
+<title>Noor Dubai</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>159</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch936?code=0421a7ebf644e4e</location> 
+<title>Oman TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>160</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch835?code=0421a7ebf644e4e</location> 
+<title>OnTv</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>161</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch292?code=0421a7ebf644e4e</location> 
+<title>OTV Lebanon</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>162</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch100?code=0421a7ebf644e4e</location> 
+<title>Palestine</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>163</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch114?code=0421a7ebf644e4e</location> 
+<title>Panorama Comedy</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>164</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch117?code=0421a7ebf644e4e</location> 
+<title>Panorama Drama</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>165</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch115?code=0421a7ebf644e4e</location> 
+<title>Panorama Drama 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>166</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch836?code=0421a7ebf644e4e</location> 
+<title>Panorama Film</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>167</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch969?code=0421a7ebf644e4e</location> 
+<title>RAK TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>168</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch45?code=0421a7ebf644e4e</location> 
+<title>Rotana Cinema</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>169</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch44?code=0421a7ebf644e4e</location> 
+<title>Rotana Classic</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>170</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch135?code=0421a7ebf644e4e</location> 
+<title>Rotana Clip</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>171</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch136?code=0421a7ebf644e4e</location> 
+<title>Rotana Khaligi</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>172</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch42?code=0421a7ebf644e4e</location> 
+<title>Rotana Masria</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>173</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch43?code=0421a7ebf644e4e</location> 
+<title>Rotana Music</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>174</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch829?code=0421a7ebf644e4e</location> 
+<title>Roya</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>175</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1002?code=0421a7ebf644e4e</location> 
+<title>Royal Dohek</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>176</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch974?code=0421a7ebf644e4e</location> 
+<title>Royal Secrets</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>177</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch826?code=0421a7ebf644e4e</location> 
+<title>Sada Al Balad 2 HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>178</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch339?code=0421a7ebf644e4e</location> 
+<title>Sada Al Balad Drama</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>179</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch844?code=0421a7ebf644e4e</location> 
+<title>Sama</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>180</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch138?code=0421a7ebf644e4e</location> 
+<title>Sama Dubai</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>181</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch139?code=0421a7ebf644e4e</location> 
+<title>Samira TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>182</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch342?code=0421a7ebf644e4e</location> 
+<title>Saudi Sport 1</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>183</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch970?code=0421a7ebf644e4e</location> 
+<title>SemSem Kids TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>184</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch87?code=0421a7ebf644e4e</location> 
+<title>Shar9ia</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>185</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch140?code=0421a7ebf644e4e</location> 
+<title>Sharjah</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>186</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch875?code=0421a7ebf644e4e</location> 
+<title>Sky News Arabia</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>187</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch49?code=0421a7ebf644e4e</location> 
+<title>SpaceToon</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>188</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch141?code=0421a7ebf644e4e</location> 
+<title>Star Cinema</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>189</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch840?code=0421a7ebf644e4e</location> 
+<title>Star Cinema 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>190</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch412?code=0421a7ebf644e4e</location> 
+<title>Sudan TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>191</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch896?code=0421a7ebf644e4e</location> 
+<title>Syria Sat</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>192</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch325?code=0421a7ebf644e4e</location> 
+<title>Syrian Drama</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>193</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch882?code=0421a7ebf644e4e</location> 
+<title>Taha Tv</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>194</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch834?code=0421a7ebf644e4e</location> 
+<title>Tamazigh Maroc</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>195</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch925?code=0421a7ebf644e4e</location> 
+<title>Tele Liban</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>196</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch976?code=0421a7ebf644e4e</location> 
+<title>Ten</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>197</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch47?code=0421a7ebf644e4e</location> 
+<title>Time Comedy</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>198</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch328?code=0421a7ebf644e4e</location> 
+<title>TL Liban</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>199</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch73?code=0421a7ebf644e4e</location> 
+<title>Touyour Al Jannah</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>200</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1000?code=0421a7ebf644e4e</location> 
+<title>TRT Arabic</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>201</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch257?code=0421a7ebf644e4e</location> 
+<title>Wanasa</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>202</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch74?code=0421a7ebf644e4e</location> 
+<title>Zee Aflem</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>203</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch48?code=0421a7ebf644e4e</location> 
+<title>Zee Alwen</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>204</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch444?code=0421a7ebf644e4e</location> 
+<title>Bein Fox Sports HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>205</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch719?code=0421a7ebf644e4e</location> 
+<title>Bein News</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>206</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch507?code=0421a7ebf644e4e</location> 
+<title>Bein Sport 1 FR</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>207</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch508?code=0421a7ebf644e4e</location> 
+<title>Bein Sport 2 FR</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>208</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch906?code=0421a7ebf644e4e</location> 
+<title>Bein Sport 3 FR</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>209</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch12?code=0421a7ebf644e4e</location> 
+<title>Bein Sport HD 1</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>210</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch910?code=0421a7ebf644e4e</location> 
+<title>Bein Sport HD 10</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>211</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch866?code=0421a7ebf644e4e</location> 
+<title>Bein Sport HD 11</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>212</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch870?code=0421a7ebf644e4e</location> 
+<title>Bein Sport HD 12</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>213</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch872?code=0421a7ebf644e4e</location> 
+<title>Bein Sport HD 13</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>214</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch869?code=0421a7ebf644e4e</location> 
+<title>Bein Sport HD 14</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>215</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch868?code=0421a7ebf644e4e</location> 
+<title>Bein Sport HD 15</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>216</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch13?code=0421a7ebf644e4e</location> 
+<title>Bein Sport HD 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>217</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch14?code=0421a7ebf644e4e</location> 
+<title>Bein Sport HD 3</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>218</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch867?code=0421a7ebf644e4e</location> 
+<title>Bein Sport HD 4</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>219</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch864?code=0421a7ebf644e4e</location> 
+<title>Bein Sport HD 5</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>220</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch911?code=0421a7ebf644e4e</location> 
+<title>Bein Sport HD 6</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>221</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch912?code=0421a7ebf644e4e</location> 
+<title>Bein Sport HD 7</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>222</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch874?code=0421a7ebf644e4e</location> 
+<title>Bein Sport HD 8</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>223</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch873?code=0421a7ebf644e4e</location> 
+<title>Bein Sport HD 9</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>224</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch75?code=0421a7ebf644e4e</location> 
+<title>Bein Sports NBA HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>225</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch5000?code=0421a7ebf644e4e</location> 
+<title>Arabic Box Office 1</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>226</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch993?code=0421a7ebf644e4e</location> 
+<title>Africa 1 TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>227</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch992?code=0421a7ebf644e4e</location> 
+<title>Africa 2 TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>228</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch846?code=0421a7ebf644e4e</location> 
+<title>Africa 3 TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>229</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch857?code=0421a7ebf644e4e</location> 
+<title>Ahly Sport TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>230</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch321?code=0421a7ebf644e4e</location> 
+<title>Al Ajwaa Algeria</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>231</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch322?code=0421a7ebf644e4e</location> 
+<title>Al Amaken Drama</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>232</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch805?code=0421a7ebf644e4e</location> 
+<title>Al Arabia Hadath</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>233</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch809?code=0421a7ebf644e4e</location> 
+<title>Al Chourouk Sudan</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>234</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch856?code=0421a7ebf644e4e</location> 
+<title>Al Quds</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>235</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch893?code=0421a7ebf644e4e</location> 
+<title>ANN Syria</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>236</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch331?code=0421a7ebf644e4e</location> 
+<title>B4U Aflem</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>237</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch814?code=0421a7ebf644e4e</location> 
+<title>B4U Plus</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>238</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch859?code=0421a7ebf644e4e</location> 
+<title>Baynouna</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>239</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch962?code=0421a7ebf644e4e</location> 
+<title>Beur TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>240</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch891?code=0421a7ebf644e4e</location> 
+<title>CNBC Arabic</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>241</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch323?code=0421a7ebf644e4e</location> 
+<title>Coran Tv Algeria</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>242</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch981?code=0421a7ebf644e4e</location> 
+<title>ERI TV Eritrea</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>243</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch982?code=0421a7ebf644e4e</location> 
+<title>ESTV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>244</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch980?code=0421a7ebf644e4e</location> 
+<title>ETV Ethiopia</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>245</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch879?code=0421a7ebf644e4e</location> 
+<title>Fayhaa Irak</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>246</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1007?code=0421a7ebf644e4e</location> 
+<title>Horn Cable TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>247</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch400?code=0421a7ebf644e4e</location> 
+<title>Imagines Movies</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>248</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch812?code=0421a7ebf644e4e</location> 
+<title>JSC Mubasher Live</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>249</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch877?code=0421a7ebf644e4e</location> 
+<title>Kalsan TV Somali</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>250</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch858?code=0421a7ebf644e4e</location> 
+<title>Karameesh</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>251</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch889?code=0421a7ebf644e4e</location> 
+<title>KBC Algeria</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>252</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch887?code=0421a7ebf644e4e</location> 
+<title>Kuwait Sport</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>253</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch885?code=0421a7ebf644e4e</location> 
+<title>Mazzika</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>254</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch820?code=0421a7ebf644e4e</location> 
+<title>Nile Culture</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>255</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch401?code=0421a7ebf644e4e</location> 
+<title>Qatar TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>256</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch892?code=0421a7ebf644e4e</location> 
+<title>Sama Cinema</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>257</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch345?code=0421a7ebf644e4e</location> 
+<title>Saudi Quaran</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>258</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch346?code=0421a7ebf644e4e</location> 
+<title>Saudi Sunnah</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>259</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch850?code=0421a7ebf644e4e</location> 
+<title>SNTV Somali</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>260</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch813?code=0421a7ebf644e4e</location> 
+<title>Somaliland National TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>261</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch822?code=0421a7ebf644e4e</location> 
+<title>Time Cinema</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>262</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch804?code=0421a7ebf644e4e</location> 
+<title>Time Quran</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>263</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch895?code=0421a7ebf644e4e</location> 
+<title>TV5 Monde Orient</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>264</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch821?code=0421a7ebf644e4e</location> 
+<title>Universal Somali TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>265</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1026?code=0421a7ebf644e4e</location> 
+<title>13 Eme Rue</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>266</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch997?code=0421a7ebf644e4e</location> 
+<title>6ter</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>267</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1098?code=0421a7ebf644e4e</location> 
+<title>AB1</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>268</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1093?code=0421a7ebf644e4e</location> 
+<title>Animaux</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>269</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch301?code=0421a7ebf644e4e</location> 
+<title>ARTE</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>270</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch945?code=0421a7ebf644e4e</location> 
+<title>BFM Business</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>271</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch299?code=0421a7ebf644e4e</location> 
+<title>BFM TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>272</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch801?code=0421a7ebf644e4e</location> 
+<title>Canal Cinema</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>273</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch999?code=0421a7ebf644e4e</location> 
+<title>Canal J</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>274</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch800?code=0421a7ebf644e4e</location> 
+<title>Canal Plus</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>275</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch930?code=0421a7ebf644e4e</location> 
+<title>Canal Plus Decale HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>276</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch919?code=0421a7ebf644e4e</location> 
+<title>Canal Plus Family HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>277</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch306?code=0421a7ebf644e4e</location> 
+<title>Canal Plus Series HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>278</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch916?code=0421a7ebf644e4e</location> 
+<title>Canal Plus Sport</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>279</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch907?code=0421a7ebf644e4e</location> 
+<title>Cartoon Network FR HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>280</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1097?code=0421a7ebf644e4e</location> 
+<title>Chasse et Peche</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>281</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch921?code=0421a7ebf644e4e</location> 
+<title>Cine Emotion HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>282</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch941?code=0421a7ebf644e4e</location> 
+<title>Cine Plus Frisson</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>283</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch920?code=0421a7ebf644e4e</location> 
+<title>Cine plus Premier HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>284</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch978?code=0421a7ebf644e4e</location> 
+<title>Comedie Plus</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>285</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch311?code=0421a7ebf644e4e</location> 
+<title>D17</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>286</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch308?code=0421a7ebf644e4e</location> 
+<title>D8</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>287</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch909?code=0421a7ebf644e4e</location> 
+<title>Discovery Science FR HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>288</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch943?code=0421a7ebf644e4e</location> 
+<title>Discovery Showcase HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>289</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch861?code=0421a7ebf644e4e</location> 
+<title>Disney HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>290</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1005?code=0421a7ebf644e4e</location> 
+<title>Disney Junior</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>291</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch899?code=0421a7ebf644e4e</location> 
+<title>Disney XD HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>292</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch803?code=0421a7ebf644e4e</location> 
+<title>Equidia</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>293</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch300?code=0421a7ebf644e4e</location> 
+<title>Equidia Live</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>294</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch309?code=0421a7ebf644e4e</location> 
+<title>Equipe 21</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>295</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch915?code=0421a7ebf644e4e</location> 
+<title>EuroSport HD 1</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>296</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch905?code=0421a7ebf644e4e</location> 
+<title>EuroSport HD 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>297</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch903?code=0421a7ebf644e4e</location> 
+<title>Foot Plus HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>298</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch305?code=0421a7ebf644e4e</location> 
+<title>FR O</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>299</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch303?code=0421a7ebf644e4e</location> 
+<title>FR2 HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>300</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch302?code=0421a7ebf644e4e</location> 
+<title>FR3</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>301</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch313?code=0421a7ebf644e4e</location> 
+<title>FR4</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>302</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch304?code=0421a7ebf644e4e</location> 
+<title>FR5</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>303</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1027?code=0421a7ebf644e4e</location> 
+<title>Golf Plus</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>304</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1103?code=0421a7ebf644e4e</location> 
+<title>Gulli</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>305</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1032?code=0421a7ebf644e4e</location> 
+<title>HD1</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>306</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1146?code=0421a7ebf644e4e</location> 
+<title>Itele</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>307</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch998?code=0421a7ebf644e4e</location> 
+<title>June</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>308</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1147?code=0421a7ebf644e4e</location> 
+<title>LCI</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>309</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch104?code=0421a7ebf644e4e</location> 
+<title>M6 HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>310</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1095?code=0421a7ebf644e4e</location> 
+<title>Manga TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>311</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1025?code=0421a7ebf644e4e</location> 
+<title>MTV Base</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>312</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch946?code=0421a7ebf644e4e</location> 
+<title>MTV France</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>313</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1023?code=0421a7ebf644e4e</location> 
+<title>MTV Idole</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>314</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1024?code=0421a7ebf644e4e</location> 
+<title>Mtv Pulse</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>315</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch898?code=0421a7ebf644e4e</location> 
+<title>National Geo FR HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>316</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch914?code=0421a7ebf644e4e</location> 
+<title>National Geo Wild FR HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>317</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch297?code=0421a7ebf644e4e</location> 
+<title>NRJ 12</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>318</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch960?code=0421a7ebf644e4e</location> 
+<title>OCS Choc</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>319</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch951?code=0421a7ebf644e4e</location> 
+<title>Paris Premiere</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>320</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch901?code=0421a7ebf644e4e</location> 
+<title>Planet Plus HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>321</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch917?code=0421a7ebf644e4e</location> 
+<title>Planet Thalassa HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>322</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch979?code=0421a7ebf644e4e</location> 
+<title>RMC Decouvert</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>323</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1096?code=0421a7ebf644e4e</location> 
+<title>RTL 9</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>324</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1101?code=0421a7ebf644e4e</location> 
+<title>Science et Vie TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>325</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1144?code=0421a7ebf644e4e</location> 
+<title>Science et Vie TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>326</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch996?code=0421a7ebf644e4e</location> 
+<title>Serie Club HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>327</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch900?code=0421a7ebf644e4e</location> 
+<title>SyFy HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>328</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1008?code=0421a7ebf644e4e</location> 
+<title>TeleToon</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>329</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch944?code=0421a7ebf644e4e</location> 
+<title>Teva</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>330</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch714?code=0421a7ebf644e4e</location> 
+<title>TF1 HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>331</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch298?code=0421a7ebf644e4e</location> 
+<title>TMC</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>332</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1094?code=0421a7ebf644e4e</location> 
+<title>Tout Histoire</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>333</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch908?code=0421a7ebf644e4e</location> 
+<title>Ushuaia TV HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>334</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch902?code=0421a7ebf644e4e</location> 
+<title>Voyage HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>335</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch315?code=0421a7ebf644e4e</location> 
+<title>W9</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>336</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch890?code=0421a7ebf644e4e</location> 
+<title>Al Insen TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>337</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch7?code=0421a7ebf644e4e</location> 
+<title>Al Janoubia TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>338</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch11?code=0421a7ebf644e4e</location> 
+<title>Al Moutawaset TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>339</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch85?code=0421a7ebf644e4e</location> 
+<title>Al Mustaquilla</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>340</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1003?code=0421a7ebf644e4e</location> 
+<title>Attasi3a TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>341</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch3?code=0421a7ebf644e4e</location> 
+<title>Ettounisia</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>342</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch828?code=0421a7ebf644e4e</location> 
+<title>First TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>343</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch6?code=0421a7ebf644e4e</location> 
+<title>Hannibal TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>344</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1004?code=0421a7ebf644e4e</location> 
+<title>Maghreb 24</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>345</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch5?code=0421a7ebf644e4e</location> 
+<title>Nessma Rouge</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>346</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch10?code=0421a7ebf644e4e</location> 
+<title>Telvza TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>347</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch103?code=0421a7ebf644e4e</location> 
+<title>TNN Tunisia</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>348</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch326?code=0421a7ebf644e4e</location> 
+<title>TT1 Tunisie</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>349</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1?code=0421a7ebf644e4e</location> 
+<title>Tunisie NAT 1</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>350</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch2?code=0421a7ebf644e4e</location> 
+<title>Tunisie NAT 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>351</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch8?code=0421a7ebf644e4e</location> 
+<title>Tunisna TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>352</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch9?code=0421a7ebf644e4e</location> 
+<title>Zaitouna TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>353</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1069?code=0421a7ebf644e4e</location> 
+<title>4 Shabab</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>354</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1035?code=0421a7ebf644e4e</location> 
+<title>Africa 4 TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>355</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1074?code=0421a7ebf644e4e</location> 
+<title>Al Askandaria TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>356</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1085?code=0421a7ebf644e4e</location> 
+<title>Al Assema Egypt</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>357</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch986?code=0421a7ebf644e4e</location> 
+<title>Al Fourat Tv</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>358</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1073?code=0421a7ebf644e4e</location> 
+<title>Al Kaas 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>359</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1116?code=0421a7ebf644e4e</location> 
+<title>Alsa3eed</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>360</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1011?code=0421a7ebf644e4e</location> 
+<title>Animal Planet HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>361</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1067?code=0421a7ebf644e4e</location> 
+<title>Asia TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>362</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1106?code=0421a7ebf644e4e</location> 
+<title>Azhari</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>363</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1092?code=0421a7ebf644e4e</location> 
+<title>Balkis TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>364</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1117?code=0421a7ebf644e4e</location> 
+<title>BBC1</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>365</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1118?code=0421a7ebf644e4e</location> 
+<title>BBC2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>366</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1119?code=0421a7ebf644e4e</location> 
+<title>BBC3</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>367</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1120?code=0421a7ebf644e4e</location> 
+<title>BBC4</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>368</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1111?code=0421a7ebf644e4e</location> 
+<title>Bein Sport HD 1 Backup</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>369</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1061?code=0421a7ebf644e4e</location> 
+<title>Berber TV Music</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>370</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1053?code=0421a7ebf644e4e</location> 
+<title>BerberTV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>371</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1048?code=0421a7ebf644e4e</location> 
+<title>Canal Comedy Espagna</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>372</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1047?code=0421a7ebf644e4e</location> 
+<title>Canal Espagna</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>373</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1068?code=0421a7ebf644e4e</location> 
+<title>Canal plus 2 Espagne</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>374</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1080?code=0421a7ebf644e4e</location> 
+<title>CRT</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>375</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1071?code=0421a7ebf644e4e</location> 
+<title>Cuatro TV Espagne</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>376</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1064?code=0421a7ebf644e4e</location> 
+<title>Daloo3a</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>377</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1070?code=0421a7ebf644e4e</location> 
+<title>Disney Channel Espagne</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>378</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1012?code=0421a7ebf644e4e</location> 
+<title>DocuBox HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>379</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1099?code=0421a7ebf644e4e</location> 
+<title>Ettounisia 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>380</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1126?code=0421a7ebf644e4e</location> 
+<title>Eurosport DE</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>381</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1010?code=0421a7ebf644e4e</location> 
+<title>Fight Box HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>382</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1060?code=0421a7ebf644e4e</location> 
+<title>Gali Kurd TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>383</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1079?code=0421a7ebf644e4e</location> 
+<title>Gear One</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>384</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1019?code=0421a7ebf644e4e</location> 
+<title>H2 UK HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>385</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1109?code=0421a7ebf644e4e</location> 
+<title>Haysa TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>386</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1063?code=0421a7ebf644e4e</location> 
+<title>Kanal 4 Kurd</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>387</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1077?code=0421a7ebf644e4e</location> 
+<title>KurdSat</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>388</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1113?code=0421a7ebf644e4e</location> 
+<title>Magharibia 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>389</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1127?code=0421a7ebf644e4e</location> 
+<title>MBC Sport 1</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>390</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1128?code=0421a7ebf644e4e</location> 
+<title>MBC Sport 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>391</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1129?code=0421a7ebf644e4e</location> 
+<title>MBC Sport 3</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>392</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1088?code=0421a7ebf644e4e</location> 
+<title>Moga Comedy</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>393</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1006?code=0421a7ebf644e4e</location> 
+<title>Nickelodeon</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>394</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch824?code=0421a7ebf644e4e</location> 
+<title>OCS City</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>395</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch989?code=0421a7ebf644e4e</location> 
+<title>OSN BOX Office 1</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>396</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch929?code=0421a7ebf644e4e</location> 
+<title>OSN BOX Office 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>397</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1056?code=0421a7ebf644e4e</location> 
+<title>Payam TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>398</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1086?code=0421a7ebf644e4e</location> 
+<title>Plug RTL</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>399</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1114?code=0421a7ebf644e4e</location> 
+<title>Quran TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>400</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1090?code=0421a7ebf644e4e</location> 
+<title>Rahma TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>401</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1014?code=0421a7ebf644e4e</location> 
+<title>Rotana Aflem plus HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>402</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1013?code=0421a7ebf644e4e</location> 
+<title>Rotana Music plus HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>403</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1091?code=0421a7ebf644e4e</location> 
+<title>RTL TVI</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>404</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch948?code=0421a7ebf644e4e</location> 
+<title>RTS Deux HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>405</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch947?code=0421a7ebf644e4e</location> 
+<title>RTS UN HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>406</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1108?code=0421a7ebf644e4e</location> 
+<title>Sabaia</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>407</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1034?code=0421a7ebf644e4e</location> 
+<title>Saiida TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>408</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1123?code=0421a7ebf644e4e</location> 
+<title>Sky Action DE</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>409</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1045?code=0421a7ebf644e4e</location> 
+<title>Sky Cinema DE</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>410</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1124?code=0421a7ebf644e4e</location> 
+<title>Sky Comedy DE</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>411</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1057?code=0421a7ebf644e4e</location> 
+<title>Sky Diney UK</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>412</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1051?code=0421a7ebf644e4e</location> 
+<title>Sky Discovery DE</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>413</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1122?code=0421a7ebf644e4e</location> 
+<title>Sky Emotion DE</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>414</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1037?code=0421a7ebf644e4e</location> 
+<title>Sky family UK</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>415</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1039?code=0421a7ebf644e4e</location> 
+<title>Sky Great UK</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>416</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1125?code=0421a7ebf644e4e</location> 
+<title>Sky NAT GEO DE</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>417</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1043?code=0421a7ebf644e4e</location> 
+<title>Sky Nat Geo UK</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>418</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1042?code=0421a7ebf644e4e</location> 
+<title>Sky Sport 1 UK</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>419</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1044?code=0421a7ebf644e4e</location> 
+<title>Sky Sport 3 UK</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>420</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1046?code=0421a7ebf644e4e</location> 
+<title>Sky Sport 4 UK</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>421</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1104?code=0421a7ebf644e4e</location> 
+<title>Sky Sport 5 UK</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>422</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch991?code=0421a7ebf644e4e</location> 
+<title>Sky Sport DE HD 1</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>423</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1033?code=0421a7ebf644e4e</location> 
+<title>Sky Sport DE HD 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>424</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1078?code=0421a7ebf644e4e</location> 
+<title>Sky Sport HD 1 IT</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>425</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1083?code=0421a7ebf644e4e</location> 
+<title>Sky Sport HD 2 IT</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>426</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1087?code=0421a7ebf644e4e</location> 
+<title>Sky Sport HD 3 IT</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>427</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1054?code=0421a7ebf644e4e</location> 
+<title>Sky Wild DE</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>428</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch949?code=0421a7ebf644e4e</location> 
+<title>SRF 1 HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>429</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch950?code=0421a7ebf644e4e</location> 
+<title>SRF 2 HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>430</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1112?code=0421a7ebf644e4e</location> 
+<title>Star Acedemy Channel</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>431</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1110?code=0421a7ebf644e4e</location> 
+<title>Sudan Sport</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>432</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1107?code=0421a7ebf644e4e</location> 
+<title>Tanasoh TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>433</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1050?code=0421a7ebf644e4e</location> 
+<title>Teledeporto Espagna</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>434</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1062?code=0421a7ebf644e4e</location> 
+<title>Ten 2</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>435</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch6027?code=0421a7ebf644e4e</location> 
+<title>test</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>436</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch6028?code=0421a7ebf644e4e</location> 
+<title>test</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>437</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch6029?code=0421a7ebf644e4e</location> 
+<title>Test Channel</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>438</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch5001?code=0421a7ebf644e4e</location> 
+<title>TF1 HD FR</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>439</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1084?code=0421a7ebf644e4e</location> 
+<title>Time Aflem</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>440</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1100?code=0421a7ebf644e4e</location> 
+<title>Trek</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>441</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1121?code=0421a7ebf644e4e</location> 
+<title>TRT Kurdi</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>442</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1052?code=0421a7ebf644e4e</location> 
+<title>TVE 1 Espagne</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>443</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1015?code=0421a7ebf644e4e</location> 
+<title>Ultra Docs HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>444</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1016?code=0421a7ebf644e4e</location> 
+<title>Ultra Fiesta HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>445</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1018?code=0421a7ebf644e4e</location> 
+<title>Ultra Films HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>446</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1017?code=0421a7ebf644e4e</location> 
+<title>Ultra Kidz HD</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>447</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch985?code=0421a7ebf644e4e</location> 
+<title>Velayat TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>448</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1082?code=0421a7ebf644e4e</location> 
+<title>VOX</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>449</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1055?code=0421a7ebf644e4e</location> 
+<title>Yemen Masira</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>450</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1075?code=0421a7ebf644e4e</location> 
+<title>Yoser TV Yemen</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>451</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1089?code=0421a7ebf644e4e</location> 
+<title>ZDF</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>452</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1105?code=0421a7ebf644e4e</location> 
+<title>ZDF Info</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>453</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1142?code=0421a7ebf644e4e</location> 
+<title>A HBR</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>454</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1140?code=0421a7ebf644e4e</location> 
+<title>Ankara TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>455</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1145?code=0421a7ebf644e4e</location> 
+<title>K TV</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>456</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1133?code=0421a7ebf644e4e</location> 
+<title>TRT 3 Sport</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>457</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch10132?code=0421a7ebf644e4e</location> 
+<title>TRT 6 Kurdi</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>458</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1130?code=0421a7ebf644e4e</location> 
+<title>TRT Avaz</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>459</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1136?code=0421a7ebf644e4e</location> 
+<title>TRT Cocuk</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>460</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1134?code=0421a7ebf644e4e</location> 
+<title>TRT Haber</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>461</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1135?code=0421a7ebf644e4e</location> 
+<title>TRT Music</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>462</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1131?code=0421a7ebf644e4e</location> 
+<title>TRT Turk</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>463</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1141?code=0421a7ebf644e4e</location> 
+<title>Turkish Animal Planet</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>464</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1139?code=0421a7ebf644e4e</location> 
+<title>Turkish Disney Channel</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>465</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1138?code=0421a7ebf644e4e</location> 
+<title>Turkish Eurosport</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>466</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+<track> 
+<location>rtmp://aymeniptv.xcamd.com/live/ch1137?code=0421a7ebf644e4e</location> 
+<title>Turkish Nickelodeon</title> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:id>467</vlc:id> 
+<vlc:option>network-caching=1000</vlc:option> 
+</extension> 
+</track> 
+</trackList> 
+<extension application="http://www.videolan.org/vlc/playlist/0"> 
+<vlc:item tid="1"/> 
+<vlc:item tid="2"/> 
+<vlc:item tid="3"/> 
+<vlc:item tid="4"/> 
+<vlc:item tid="5"/> 
+<vlc:item tid="6"/> 
+<vlc:item tid="7"/> 
+<vlc:item tid="8"/> 
 
-<channel>
-      <name>[COLOR lime]Arabic cartoons [/COLOR]</name>
-  <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
-<fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
-<link>http://ignoreme</link>
-   <externallink>#EXTINF:-1, 
-plugin://plugin.video.youtube/?action=play_video&videoid=mlOwREmLNEE&list=PL8XovLToH9hYd1Yo6gehiq6xiT4fodI3m>##change haider
-   
-</channel>
-
-mlOwREmLNEE&list=PL8XovLToH9hYd1Yo6gehiq6xiT4fodI3m
+ 
