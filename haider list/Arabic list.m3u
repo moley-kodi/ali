@@ -253,6 +253,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=y7B3BqUJbtk
 plugin://plugin.video.youtube/?action=play_video&videoid=0G6qeODyRbc
 #EXTINF:-1, Dream 2
 rtmp://livestreaming5.onlinehorizons.net:1935/Dream2CH/livestream 
+#EXTINF:-1,الفضائية المصرية
+rtmp://46.165.220.232/live playpath=aloula42?id=241532&pk=a3a4bfb4a00927e58891bbe69ce0d151012854933a7dd665f6cebdeb7748ec93 swfUrl http://www.mipsplayer.com/content/scripts/fplayer.swf pageUrl=http://www.mipsplayer.com/embedplayer/aloula42/1/550/450 <objectEncoding>
 
 
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
