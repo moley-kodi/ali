@@ -46,7 +46,8 @@ http://173.199.120.51/hls/hbo.m3u8
 http://123.29.68.180/pkg3/channels/vstv036/medium/34/88/54/medium-1434885418.ts?c=vstv036&q=medium&type=tvlive-seg&pkg=pkg3&zn=net&userId=3517&deviceId=5212&location=&p=0&pnode=&rkey=t1mIwNVkVFVgmyvM
 #EXTINF:-1,Sky comedy
 http://top-iptv.zapto.org:8000/live/walid/walid/544.m3u8
-
+#EXTINF:-1,ABC east
+rtmp://watch4.streamlive.to:1935/edge/?xs=_we_Mzcxamx1aXJsamNzamVufDE0NTM0NTE4NTF8NzQuMTMxLjEzMy4xMjd8NTZhMTQxOGJhYzk2Y3xmM2M2N2Q2NjA3ZDYyMGFiZTY3NWFkODM1Njk5NjhhYjQ4ZWZlZmU2 playpath=371jluirljcsjen swfUrl=http://www.streamlive.to/ads/streamlive.swf pageUrl=http://www.streamlive.to/view/68969 <objectEncoding>
 #EXTINF:-1,Dubai One
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
 
