@@ -8,6 +8,20 @@ http://63.237.48.23/ios/KUWAIT_3_SPORT/KUWAIT_3_SPORT.m3u8
 http://137.135.64.32:1935/kas/kas/gmswf.m3u8
 
 
+#EXTINF:-1 group-title=”ARABIC”,MBC PROSPORT1
+http://intigral_live-lh.akamaihd.net/i/DPS3SPLITDXRAD150315_1@129126/index_512_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=”ARABIC”,MBC PROSPORT2
+http://intigral_live-lh.akamaihd.net/i/DPS3SPLFTHXTWN070315_1@129126/index_1200_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Dubai Sport 3
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
+
+
+#EXTINF:-1,Al-Kass
+http://137.135.64.32:1935/kas/kas/gmswf.m3u8
+#EXTINF:-16,NILE Sport
+rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport
+
 #EXTINF:-1,ENCORE Sport
 http://xrxs.net/video/live-p12moun-4728.m3u8
 #EXTINF:-1,ESPN 2
@@ -15,7 +29,10 @@ http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?=/.ts
 #EXTINF:-1,Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
 
-
+#EXTINF:-1,BMW CHANNEL Italia mms
+mms://100automoto.tv/bmw
+#EXTINF:-1,Eurosport
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 #EXTINF:-1,Eurosport
 http://4.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
 #EXTINF:-1,Eurosport 2
