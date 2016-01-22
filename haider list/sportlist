@@ -153,6 +153,43 @@ rtmp://cp39414.live.edgefcs.net/live/event1@9756
 http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
 #EXTINF:0,Sport 2 (RU)
 http://hls.novotelecom.ru/streaming/sport/tvrec/playlist.m3u8
+#EXTINF:-1, M4 Sport
+http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
+#EXTINF:-1, Buraspor TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
+
+
+
+#EXTINF:-1, PORSCHE CHANNEL
+mms://100automoto.tv/channel_porsche
+
+#EXTINF:-1, AutoSport TV
+mms://100automoto.tv/100livesport
+
+#EXTINF:-1, BMW CHANNEL Italia
+mms://100automoto.tv/bmw
+
+#EXTINF:0, Mercedes-Benz Channel
+mms://100automoto.tv/channel_mercedes
+
+#EXTINF:0, Auto Italia Channel
+mms://100automoto.tv/channel_italy
+
+#EXTINF:0, Cars & Sports
+mms://100automoto.tv/100livesport
+#EXTINF:-1,Auto HD 576P (China)
+rtmp://182.92.189.193/live/ playpath=h_auto_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
+
+#EXTINF:-1 tvg-logo=”BTN.png” group-title=”All Sports”, Big Ten Network HD
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:-1,SPORTTV 1 Portugal
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c pageUrl=http://sharecast.to/
+#EXTINF:0, Rai Sport 1
+mmsh://212.162.68.163:80/raisport+
+
+#EXTINF:-1,Sports Max
+http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
+
 
 #EXTINF:-1,USA-BASKET UNI.(Arizona)
 http://xrxs.net/video/live-p12ariz-1164.m3u8
