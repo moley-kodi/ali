@@ -168,6 +168,8 @@ http://sama-tv.net:1935/live/samatv/playlist.m3u8
 plugin://plugin.video.youtube/?action=play_video&videoid=l5hASDATpao
 #EXTINF:-1,قناة أوغاريت
 plugin://plugin.video.youtube/?action=play_video&videoid=rhwLx44zwr4
+#EXTINF:-1,OTV
+rtmp://livestreaming.itworkscdn.net/otvlive playpath=otvlive_1 swfUrl=http://player.l1vetv.com/otvent/jwplayer.flash.swf live=1 pageUrl=http://player.l1vetv.com/otvent/live2.php
 
 
 #EXTINF:-1,*********[COLOR red] قنوات خليجية[/COLOR]**********
@@ -230,6 +232,29 @@ plugin://plugin.video.youtube/?action=play_video&videoid=d7PSti__6-E
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=qatartv
 #EXTINF:-1,oman tv 
 http://38.96.148.30:1935/live/omantv1/gmswf.m3u8?v=1053886998
+#EXTINF:-1,koweit_1
+http://stream03.fasttelco.net:1935/live/_definst_/ktv1_480.stream/playlist.m3u8
+#EXTINF:-1,koweit_2
+http://stream03.fasttelco.net:1935/live/_definst_/ktv2_480.stream/playlist.m3u8
+#EXTINF:-1,koweit_idhra
+http://stream03.fasttelco.net:1935/live/_definst_/ktv5_480.stream/playlist.m3u8
+#EXTINF:-1,koweit_plus
+http://stream03.fasttelco.net:1935/live/_definst_/ktv8_480.stream/playlist.m3u8
+#EXTINF:-1,koweit_arabe
+http://stream03.fasttelco.net:1935/live/_definst_/ktv6_480.stream/playlist.m3u8
+#EXTINF:-1,koweit_almajlis
+http://stream03.fasttelco.net:1935/live/_definst_/ktv7_480.stream/playlist.m3u8
+#EXTINF:-1,koweit_sport HD
+http://stream03.fasttelco.net:1935/live/_definst_/ktv3_480.stream/playlist.m3u8
+#EXTINF:-1,koweit_sport plus
+http://stream03.fasttelco.net:1935/live/_definst_/ktv4_480.stream/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC”,MBC PROSPORT1
+http://intigral_live-lh.akamaihd.net/i/DPS3SPLITDXRAD150315_1@129126/index_512_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=”ARABIC”,MBC PROSPORT2
+http://intigral_live-lh.akamaihd.net/i/DPS3SPLFTHXTWN070315_1@129126/index_1200_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Dubai Sport 3
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
 
 
 ###############################################################
@@ -275,7 +300,10 @@ plugin://plugin.video.youtube/?action=play_video&videoid=0G6qeODyRbc
 rtmp://livestreaming5.onlinehorizons.net:1935/Dream2CH/livestream 
 #EXTINF:-1,الفضائية المصرية
 rtmp://46.165.220.232/live playpath=aloula42?id=241532&pk=a3a4bfb4a00927e58891bbe69ce0d151012854933a7dd665f6cebdeb7748ec93 swfUrl http://www.mipsplayer.com/content/scripts/fplayer.swf pageUrl=http://www.mipsplayer.com/embedplayer/aloula42/1/550/450 <objectEncoding>
-
+#EXTINF:-0,Dream_1
+rtmp://livestreaming5.onlinehorizons.net:1935/Dream2CH playpath=livestream swfUrl=https://www.onlinehorizons.net/livestreaming/DreamTV/flowplayer-3.2.18.swf live=1 pageUrl=https://www.onlinehorizons.net/livestreaming/DreamTV/Channels/index1.html
+#EXTINF:-1,Almihwar_tv
+rtmp://livestreaming5.onlinehorizons.net:1935/elmehwar playpath=livestream swfUrl=https://www.onlinehorizons.net/livestreaming/MehwarTV/FP/flowplayer-3.2.18.swf live=1 pageUrl=https://www.onlinehorizons.net/livestreaming/MehwarTV/FP/MehwarChannels/index1.html
 
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
 http://jafaer-tv.com
@@ -442,8 +470,12 @@ http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel09/_definst_/live/st
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel08/_definst_/live/stream2.m3u8
 #EXTINF:-1, KSA 1
 http://204.107.27.196/live/1775.low.stream/1451181370770.ts
-
-
+#EXTINF:-1 group-title=”ARABIC”,AL MAGHRIBYA
+http://almaghribya-tv.scdn.arkena.com/almaghribya.isml/almaghribya-audio101_fra=64000-video=350000.m3u8
+#EXTINF:-1,salamtv
+rtmp://46.43.64.166/salamtv/salamtv 
+#EXTINF:-0,Stars
+rtmp://194.165.136.150:1935/live playpath=myStream swfUrl=http://oklivetv.com/xplay/swf/GrindPlayer.swf live=1 pageUrl=http://oklivetv.com/xplay/xplay.php?idds=4d545535
 
 #EXTINF:-1,*********[COLOR red]  قنوات وثائقية[/COLOR]**********
 http://jafaer-tv.com
@@ -494,7 +526,12 @@ http://s2.iptvapi.com:8081/DIJR/index.m3u8?token=B8JyzC5nbDgVNMgWv2NfRQ&e=145145
 http://s2.iptvapi.com:8081/BOO/index.m3u8?token=O4SQPQ4rxkCmtH0y9U03JQ&e=1451451086&u=48394&channel=BOO
 
 
-
+#EXTINF:-1,Arabica اغاني
+rtmp://svs.itworkscdn.net/arabicatvlive playpath=arabicatv swfUrl=http://www.itworks-me.net/arabica/jwplayer.flash.swf live=1 pageUrl=http://www.itworks-me.net/arabica/
+#EXTINF:-1,AGHANI Tv
+http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
+#EXTINF:-1,Hawacom
+http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
 #EXTINF:-1,Aghanina
 http://streaming.i-sat.tv:1935/live/aghanina.stream_360p/chunklist_w378813722.m3u8
 
