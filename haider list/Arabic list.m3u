@@ -110,16 +110,19 @@ rtmp://mtv.fms-01.visionip.tv/live/ playpath=mtv-ifilm-ifilm-live-16x9-SDh swfUr
 http://198.179.31.201/live/908.low.stream/playlist.m3u8?
 #EXTINF:-1,*********[COLOR red] قنوات الشام[/COLOR]**********
 http://jafaer-tv.com
+#EXTINF:-1,almayadeen tv
+http://63.237.48.8/ios/ALMAYADEEN/ALMAYADEEN.m3u8?v=1053886998
 #EXTINF:-1,الميادين
 http://livestreaming.itworkscdn.net/mayadeenlive/smil:mayadeenmob.smil/playlist.m3u8
 #EXTINF:-1,العالم
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_alam/ls_satlink/b_828.m3u8?token=20151214xjEfuGen5pHAwecru
-#EXTINF:-1,Al Alam
-http://62.210.162.88:80/live/arab75/184018012016/1028.ts
+#EXTINF:-1,Alalam 
+http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=alalam
 #EXTINF:-1,Almanar Channel البث جديد
 plugin://plugin.video.youtube/?action=play_video&videoid=fbe_4BJrkgE
-#EXTINF:-1,Al Manar
-http://62.210.162.88:80/live/arab75/184018012016/930.ts
+#EXTINF:-1,al manar tv
+http://31.24.33.68:1935/liveorigin/livestream_360p/gmswf.m3u8?v=1053886998
+
 #EXTINF:-1,الميادين 
 rtsp://livestreaming3.itworkscdn.net:554/mayadeenlive/mayadsat_240p
 #EXTINF:-1,El masira المسيرة
@@ -201,16 +204,35 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
 http://137.135.64.32:1935/kas/kas/gmswf.m3u8
 #EXTINF:-1,KUWAIT 3_SPORT
 http://63.237.48.23/ios/KUWAIT_3_SPORT/KUWAIT_3_SPORT.m3u8
+
+#EXTINF:-1,kuwait sport 
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:-1,sudia ekhbariya
+www.elahmad.com/tv/m3u8/sauditv.m3u8?id=ekhbariyatv
+#EXTINF:-1,sudia sport
+http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel04/_definst_/live/stream2.m3u8
+
 #EXTINF:-1,Alwatan Plus
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8
 #EXTINF:-1,BAHRIN
 rtmp://alayam.netromedia.net/btv2 playpath=btv2 swfUrl=http://player.netromedia.com/flowplayer.commercial-3.2.18.swf pageUrl=http://player.netromedia.com/?ID=4d0292f1-e996-4dff-bdcd-01bf49aea468&iframe=true&autoPlay=true&scaling=scale
 #EXTINF:-1,AL SHARJAH
 rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
+
+#EXTINF:-1,alsharja sport
+http://livestreaming.itworkscdn.net:1935/smc4sportslive/smc4tv_360p/gmswf.m3u8?v=1053886998
+
 #EXTINF:-1, oman tv 1
 http://38.96.148.30:1935/live/omantv1/playlist.m3u8
+#EXTINF:-1,oman sport 
+http://38.96.148.30:1935/live/omantv2/gmswf.m3u8?v=1053886998
 #EXTINF:-1, روتانا خليجية
 plugin://plugin.video.youtube/?action=play_video&videoid=d7PSti__6-E
+#EXTINF:-1,qatar tv
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=qatartv
+#EXTINF:-1,oman tv 
+http://38.96.148.30:1935/live/omantv1/gmswf.m3u8?v=1053886998
+
 
 ###############################################################
 
@@ -219,9 +241,9 @@ http://jafaer-tv.com
 
 
 
+#EXTINF:-1,rotana cinema
+http://vai.la/jN2b
 
-#EXTINF:-1,Art
-http://128.104.128.176:8080/udp/239.1.1.206:2000?live786
 #EXTINF:-1,Arabic:Rotana Clip
 http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2218.ts
 
@@ -335,10 +357,14 @@ http://xtvalasrx.api.channel.livestream.com/3.0/playlist.m3u8
 http://jafaer-tv.com
 #EXTINF:-1,Al yawm
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
-#EXTINF:-1, Flastin Alyom فلسطين اليوم
-http://live.paltoday.tv:1935/paltv/live/chunklist.m3u8?v=1250133442
-#EXTINF:-1, DIDAR TV
-http://63.237.48.3/ios/DIDAR/DIDAR.m3u8
+#EXTINF:-1,sama tv
+http://sama-tv.net:1935/live/samatv/gmswf.m3u8?v=1053886998
+#EXTINF:-1,alquds tv
+http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8?v=1053886998
+#EXTINF:-1,aqsa rv
+http://live.aqsatv.ps:1935/aqsatv/live/tv/gmswf.m3u8?v=1053886998
+#EXTINF:-1,alfajer tv
+http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv/gmswf.m3u8?v=1053886998
 #EXTINF:-1,Alfady TV
 rtmp://stream.truth-voice.net/FadyLive//FadyLive
 #EXTINF:-1,Al Hayat 2
@@ -396,8 +422,6 @@ http://212.35.75.130/3330/HasBahCa.m3u8?email=tac@umniah.com&password=2acc51f15b
 #EXTINF:-1,قناة الاستقامة
 plugin://plugin.video.youtube/?action=play_video&videoid=ij5ddhPNENk
 
-#EXTINF:-1,قناة بلقيس
-plugin://plugin.video.youtube/?action=play_video&videoid=dfO8X01YCjY
 #EXTINF:-1, ALMAS_TV
 http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8
 #EXTINF:-1,alkarmatv
@@ -447,6 +471,7 @@ http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
 #EXTINF:-1, Al Jazeera Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8?b?b*t$
+
 #EXTINF:-1, براعم 
 http://78.100.40.195:1935/brm/brm/chunklist.m3u8?wowzasessionid=2061182377
 #EXTINF:-1,Karameesh Kids
@@ -488,112 +513,3 @@ http://stream.zeefamily.tv/zeeclassic/index.m3u8
 #EXTM3U 
 #EXTINF:0,هذه القنوات غير مستقرة
 rtmp://aymeniptv.xcamd.com/live/ch1?code=0421a7ebf644e4e
-#EXTINF:-1,dubai
-http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8?v=1053886998
-#EXTINF:-1,sama dubai
-http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/gmswf.m3u8?v=1053886998
-#EXTINF:-1,dubai drama 
-http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/gmswf.m3u8?v=1053886998
-#EXTINF:-1,alaan
-http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=al_aan
-#EXTINF:-1,abu dhabi aloula
-http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula.m3u8?v=1053886998
-#EXTINF:-1,shareja tv
-http://livestreaming.itworkscdn.net:1935/smc1live/smc1tv_360p/gmswf.m3u8?v=1053886998
-#EXTINF:-1,alsharja sport
-http://livestreaming.itworkscdn.net:1935/smc4sportslive/smc4tv_360p/gmswf.m3u8?v=1053886998
-#EXTINF:-1,rotana cinema
-http://vai.la/jN2b
-#EXTINF:-1,rotana clasic
-http://bit.ly/1SiN3KW
-#EXTINF:-1,rotana khlijia
-http://bit.ly/1LZ23fx
-#EXTINF:-1,sudia 1
-http://199.167.151.237:1935/live/sp15_15.stream/gmswf.m3u8?v=1053886998&key=F0645B69278437229F1C8606B4112D244ABFDEA1B7758ACE0722110E372FB15E
-#EXTINF:-1,sudia ekhbariya
-www.elahmad.com/tv/m3u8/sauditv.m3u8?id=ekhbariyatv
-#EXTINF:-1,sudia sport
-http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel04/_definst_/live/stream2.m3u8
-#EXTINF:-1,mbc 1
-http://streamup.global.ssl.fastly.net/app/sami2015s-channel/gmswf.m3u8?user=&session=5f75907171eb3cd32da68f34de105cdc6c872053b3e5ecdbdc7bdb5cfa7ca73a&v=1053886998
-#EXTINF:-1,mbc 2
-http://1053886998@63.237.48.3/ios/MBC2/MBC2.m3u8
-#EXTINF:-1,mbc 3
-http://2.109.65.152/sge677usygfu/14617.m3u8?v=1053886998
-#EXTINF:-1,mbc 4
-http://1053886998@63.237.48.23/ios/MBC_4/MBC_4.m3u8
-#EXTINF:-1,mbc drama
-http://streamup.global.ssl.fastly.net/app/sami2016s-channel/gmswf.m3u8?user=&session=913942da58af7fd7004ff2354368abae873b53fa2023d230983def3d6ea60193&v=1053886998
-#EXTINF:-1,mbc action
-http://1053886998@63.237.48.8/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:-1,art aflam 1
-http://bit.ly/1MDTG62
-#EXTINF:-1,art aflam 2
-http://bit.ly/1MDTJ1J
-#EXTINF:-1,art cinema 
-http://bit.ly/1LZcwaw
-#EXTINF:-1,kuwait tv
-http://91.140.238.7/Segments/HLS_TS/rtpencoder/ch1.sdp.m3u8?v=1053886998
-#EXTINF:-1,kuwait sport 
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
-#EXTINF:-1,funon
-http://38.99.146.93:7777/Funoon_LR.m3u8?user=arash&session=37992cb33c1d8954a9c14064d3f164e9418206246683ced3011cb872bb368795&v=1053886998
-#EXTINF:-1,alrai
-http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=1053886998
-#EXTINF:-1,oman tv 
-http://38.96.148.30:1935/live/omantv1/gmswf.m3u8?v=1053886998
-#EXTINF:-1,oman sport 
-http://38.96.148.30:1935/live/omantv2/gmswf.m3u8?v=1053886998
-#EXTINF:-1,bahrain tv
-http://31.14.40.20:2387/live/International/gmswf.m3u8?v=1053886998
-#EXTINF:-1,bahrin sport
-http://38.99.146.93:7777/BahrainSport_LR.m3u8?user=arash&session=a3b9af6168b1617f80f3b5bef9b66c3e730ab33878df06990097c842dd26c8a3&v=1053886998
-#EXTINF:-1,future tv
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
-#EXTINF:-1,al jadeed tv
-http://livestreaming.itworkscdn.net:1935/aljadeedlive/aljadeed_360p/gmswf.m3u8?v=1053886998
-#EXTINF:-1,al manar tv
-http://31.24.33.68:1935/liveorigin/livestream_360p/gmswf.m3u8?v=1053886998
-#EXTINF:-1,almayadeen tv
-http://63.237.48.8/ios/ALMAYADEEN/ALMAYADEEN.m3u8?v=1053886998
-#EXTINF:-1,syria tv
-http://82.137.248.16:1935/Sat/SatLive3/gmswf.m3u8?v=1053886998
-#EXTINF:-1,syria drama
-http://82.137.248.21:1935/Drama/DramaLive3/gmswf.m3u8?v=1053886998
-#EXTINF:-1, yria news
-http://82.137.248.16:1935/Snews/SnewsLive3/gmswf.m3u8?v=1053886998
-#EXTINF:-1,sama tv
-http://sama-tv.net:1935/live/samatv/gmswf.m3u8?v=1053886998
-#EXTINF:-1,aliraqiya tv
-http://38.99.146.93:7777/AlIraqiya_LR.m3u8?user=arash&session=1ea7cf746ad81bafb27b2b4494a8ea5f66e8dff17d385c953e4a7a595763fd04&v=1053886998
-#EXTINF:-1,al forat tv 
-http://38.99.146.93:7777/AlForat_LR.m3u8?user=arash&session=d386b0078c1a9b59cc81c90a7ff9cd97b5c1841805e1aac8345826389469b9e9&v=1053886998
-#EXTINF:-1,jordon tv
-http://38.99.146.93:7777/AlOrdoni_LR.m3u8?user=arash&session=611fd51cfdf9620f17ee9b3b614352bd769b5b97a4505d676185121ac10c0e40&v=1053886998
-#EXTINF:-1,toyor aljanah tv
-http://38.99.146.93:7777/ToyorAlJanah_LR.m3u8?user=arash&session=d5bea7af02baadf4b2777b1856713eff125ed59dc002e5d17cb761e3433183b7&v=1053886998
-#EXTINF:-1,karameesh tv
-http://38.99.146.93:7777/Karameesh_LR.m3u8?user=arash&session=2f6cffe3230aa39ad1598567683f6c89aab090ac5229aed7ada0f5598201360b&v=1053886998
-#EXTINF:-1,alquds tv
-http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8?v=1053886998
-#EXTINF:-1,aqsa rv
-http://live.aqsatv.ps:1935/aqsatv/live/tv/gmswf.m3u8?v=1053886998
-#EXTINF:-1,alfajer tv
-http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv/gmswf.m3u8?v=1053886998
-#EXTINF:-1,alalam 
-http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=alalam
-#EXTINF:-1,almasira tv
-http://livestreaming4.itworkscdn.com:1935/masira/livetv1/gmswf.m3u8?v=1053886998
-#EXTINF:-1,bbc arbic
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1,alarabiya
-http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
-#EXTINF:-1,aljazeera tv 
-http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/160.m3u8?v=1053886998
-#EXTINF:-1,qatar tv
-http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=qatartv
-#EXTINF:-1,jeam tv 
-http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream5/masterPlaylist.m3u8?v=1053886998&i=hghpl%5D
-#EXTINF:-1,akass tv 
-http://38.99.146.93:7777/AlDawriAlKassSport_LR.m3u8?user=arash&session=b0a85d0a70754afd02b49589a44911dde2f198d1964affab1f958d0b0d6eeaad&v=1053886998
-
