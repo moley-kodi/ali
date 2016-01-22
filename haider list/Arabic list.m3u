@@ -5,17 +5,15 @@
 
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
-#EXTINF:-1, [COLOR red] -\تم اضافة الكثير من القنوات في اخر القائمة-[/OLOR]
+#EXTINF:-1, [COLOR red] -1-22-2016\ من القنوات في اخر القائمة-[/OLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 
-#EXTINF:-1,MBC Max
-rtmp://aymeniptv.xcamd.com/live/ch1137?code=0421a7ebf644e4e
 
 
 
-#EXTINF:-1,mbc 1
-http://streamup.global.ssl.fastly.net/app/sami2015s-channel/chunklist.m3u8?v=411569703
+#EXTINF:-1,MBC_1
+rtmp://web4.iptv-planet.com/live playpath=Hi_mbc1?cle=084117101032068101099032050057032048051032049053 swfUrl=http://embed.iptv-planet.com/swfs/player.swf live=1 pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbc1&width=600&height=400
 #EXTINF:-1 tvg-logo="https://goo.gl/nYSeKu",MBC 2 
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
 
