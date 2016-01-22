@@ -41,6 +41,7 @@ http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/BratuMarian.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="http://goo.gl/SPb1Zg",Al Kout
 rtmp://66.23.237.233:1935/alkout/alkout
+
 #EXTINF:-1 tvg-logo="http://goo.gl/V1m1fC",المعارف
 rtmp://almaareftv.com:1935/live/ playpath=11 swfUrl=http://www.almaareftv.com/nver/jwplayer/jwplayer.flash.swf pageUrl=http://www.almaareftv.com/nver/#
 #EXTINF:-1 tvg-logo="http://vb.top-new.net/image/14/02/images_kwes.jpg",السلام 
@@ -118,8 +119,10 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_alam/ls_satlink/b_828.m3u8?to
 http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=alalam
 #EXTINF:-1,Almanar Channel البث جديد
 plugin://plugin.video.youtube/?action=play_video&videoid=fbe_4BJrkgE
-#EXTINF:-1,al manar tv
+#EXTINF:-1,al manar tv 2
 http://31.24.33.68:1935/liveorigin/livestream_360p/gmswf.m3u8?v=1053886998
+#EXTINF:-1, Al_Manar 2
+rtmp://162.244.80.108:1935/liveedge/ playpath=livestream_360p swfUrl=http://www.almanar.com.lb/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.almanar.com.lb/manarlive.php?type=asx
 
 #EXTINF:-1,الميادين 
 rtsp://livestreaming3.itworkscdn.net:554/mayadeenlive/mayadsat_240p
@@ -170,7 +173,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=l5hASDATpao
 plugin://plugin.video.youtube/?action=play_video&videoid=rhwLx44zwr4
 #EXTINF:-1,OTV
 rtmp://livestreaming.itworkscdn.net/otvlive playpath=otvlive_1 swfUrl=http://player.l1vetv.com/otvent/jwplayer.flash.swf live=1 pageUrl=http://player.l1vetv.com/otvent/live2.php
-
+#EXTINF:-1,Al_Donia tv
+rtmp://sama-tv.net/live/?gmswf=1499330773 playpath=samatv swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=addounia&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/addouniatv.htm
 
 #EXTINF:-1,*********[COLOR red] قنوات خليجية[/COLOR]**********
 http://jafaer-tv.com
@@ -202,15 +206,9 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
 #EXTINF:-1,KAS
 http://137.135.64.32:1935/kas/kas/gmswf.m3u8
-#EXTINF:-1,KUWAIT 3_SPORT
-http://63.237.48.23/ios/KUWAIT_3_SPORT/KUWAIT_3_SPORT.m3u8
 
-#EXTINF:-1,kuwait sport 
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
 #EXTINF:-1,sudia ekhbariya
 www.elahmad.com/tv/m3u8/sauditv.m3u8?id=ekhbariyatv
-#EXTINF:-1,sudia sport
-http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel04/_definst_/live/stream2.m3u8
 
 #EXTINF:-1,Alwatan Plus
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8
@@ -219,13 +217,9 @@ rtmp://alayam.netromedia.net/btv2 playpath=btv2 swfUrl=http://player.netromedia.
 #EXTINF:-1,AL SHARJAH
 rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
 
-#EXTINF:-1,alsharja sport
-http://livestreaming.itworkscdn.net:1935/smc4sportslive/smc4tv_360p/gmswf.m3u8?v=1053886998
-
 #EXTINF:-1, oman tv 1
 http://38.96.148.30:1935/live/omantv1/playlist.m3u8
-#EXTINF:-1,oman sport 
-http://38.96.148.30:1935/live/omantv2/gmswf.m3u8?v=1053886998
+
 #EXTINF:-1, روتانا خليجية
 plugin://plugin.video.youtube/?action=play_video&videoid=d7PSti__6-E
 #EXTINF:-1,qatar tv
@@ -255,6 +249,20 @@ http://intigral_live-lh.akamaihd.net/i/DPS3SPLFTHXTWN070315_1@129126/index_1200_
 
 #EXTINF:-1,Dubai Sport 3
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1,Al-Kass
+http://137.135.64.32:1935/kas/kas/gmswf.m3u8
+#EXTINF:-1,oman sport 
+http://38.96.148.30:1935/live/omantv2/gmswf.m3u8?v=1053886998
+#EXTINF:-1,alsharja sport
+http://livestreaming.itworkscdn.net:1935/smc4sportslive/smc4tv_360p/gmswf.m3u8?v=1053886998
+#EXTINF:-1,sudia sport
+http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel04/_definst_/live/stream2.m3u8
+#EXTINF:-1,KUWAIT 3_SPORT
+http://63.237.48.23/ios/KUWAIT_3_SPORT/KUWAIT_3_SPORT.m3u8
+
+#EXTINF:-1,kuwait sport 
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
 
 
 ###############################################################
@@ -304,6 +312,21 @@ rtmp://46.165.220.232/live playpath=aloula42?id=241532&pk=a3a4bfb4a00927e58891bb
 rtmp://livestreaming5.onlinehorizons.net:1935/Dream2CH playpath=livestream swfUrl=https://www.onlinehorizons.net/livestreaming/DreamTV/flowplayer-3.2.18.swf live=1 pageUrl=https://www.onlinehorizons.net/livestreaming/DreamTV/Channels/index1.html
 #EXTINF:-1,Almihwar_tv
 rtmp://livestreaming5.onlinehorizons.net:1935/elmehwar playpath=livestream swfUrl=https://www.onlinehorizons.net/livestreaming/MehwarTV/FP/flowplayer-3.2.18.swf live=1 pageUrl=https://www.onlinehorizons.net/livestreaming/MehwarTV/FP/MehwarChannels/index1.html
+#EXTINF:-1,NILE Drama
+rtmp://livestreaming5.onlinehorizons.net/NTNNileDrama playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=drama
+#EXTINF:-1,NILE Cenima
+rtmp://livestreaming5.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=cinema
+#EXTINF:-1,NILE Life
+rtmp://livestreaming5.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=life
+#EXTINF:-1,NILE COMEDIE
+rtmp://livestreaming5.onlinehorizons.net/NTNNileComedy playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=comedy
+#EXTINF:-1,NILE FAMILLE
+rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily/livestream 
+
+#EXTINF:-16,NILE Sport
+rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport
+
+
 
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
 http://jafaer-tv.com
@@ -476,6 +499,21 @@ http://almaghribya-tv.scdn.arkena.com/almaghribya.isml/almaghribya-audio101_fra=
 rtmp://46.43.64.166/salamtv/salamtv 
 #EXTINF:-0,Stars
 rtmp://194.165.136.150:1935/live playpath=myStream swfUrl=http://oklivetv.com/xplay/swf/GrindPlayer.swf live=1 pageUrl=http://oklivetv.com/xplay/xplay.php?idds=4d545535
+#EXTINF:0,Lybia oula
+http://82.212.95.122:1935/live/Libya-One.stream_360p/playlist.m3u8?hghpl=1499330773
+#EXTINF:0,Lybia ALhorra
+rtmp://173.224.120.161:1935/live playpath=myStream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 live=1 pageUrl=http://www.3arablive.com/libya-tv-live
+#EXTINF:0,Lybia TV
+rtmp://173.224.120.161:1935/live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://freetv247.com/content/libya-tv-channel
+#EXTINF:0,PBC PALESTINE
+rtmp://vstream2.hadara.ps/pbc/pbc_1
+#EXTINF:-0,Al_Fath
+rtmp://livestreaming.itworkscdn.net/alfatehlive/ playpath=fatehtv swfUrl=http://www.itworks-me.net/alfatehtv/jwplayer.flash.swf live=1 pageUrl=http://www.itworks-me.net/alfatehtv/?wmode=transparent
+#EXTINF:-1,Shada
+rtmp://38.96.148.147:1935/live?gmswf=1499330773 playpath=livestream swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=shadaalhuria&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm
+
+
+
 
 #EXTINF:-1,*********[COLOR red]  قنوات وثائقية[/COLOR]**********
 http://jafaer-tv.com
@@ -524,7 +562,8 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
 http://s2.iptvapi.com:8081/DIJR/index.m3u8?token=B8JyzC5nbDgVNMgWv2NfRQ&e=1451450115&u=48394&channel=DIJR
 #EXTINF:-1, Boom Kids
 http://s2.iptvapi.com:8081/BOO/index.m3u8?token=O4SQPQ4rxkCmtH0y9U03JQ&e=1451451086&u=48394&channel=BOO
-
+#EXTINF:-1,Gem_Junior
+rtmp://63.237.48.23:1935/live playpath=GEM_JUNIOR swfUrl=http://oklivetv.com/xplay/swf/GrindPlayer.swf live=1 pageUrl=http://oklivetv.com/xplay/xplay.php?idds=4f545131
 
 #EXTINF:-1,Arabica اغاني
 rtmp://svs.itworkscdn.net/arabicatvlive playpath=arabicatv swfUrl=http://www.itworks-me.net/arabica/jwplayer.flash.swf live=1 pageUrl=http://www.itworks-me.net/arabica/
@@ -534,6 +573,8 @@ http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
 http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
 #EXTINF:-1,Aghanina
 http://streaming.i-sat.tv:1935/live/aghanina.stream_360p/chunklist_w378813722.m3u8
+#EXTINF:0,MARINA FM
+rtmp://38.96.175.16/live/MarinaFM2
 
 #EXTINF:-1,Z Cinema سينما هندي
 http://stream.zeefamily.tv/zeecinema/index.m3u8
