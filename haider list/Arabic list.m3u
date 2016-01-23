@@ -73,7 +73,8 @@ rtmp://alahadlive.nanocdn.com:1935/live/alahad256
 rtmp://alforatlive.nanocdn.com:1935/live playpath=alforat256 swfUrl=http://alforatnews.com/modules/live/js/jwplayer/player.swf pageUrl=http://alforatnews.com/modules/live/index.php?op=fph <objectEncoding>
 #EXTINF:-1 tvg-logo="https://goo.gl/q5ue8J",Al-hurra Iraq 
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-
+#EXTINF:-1,anb العراقية
+http://82.212.95.122:1935/live/anb.stream_360p/chunklist_w640443579.m3u8?v=411569703
 #EXTINF:-1 tvg-logo="http://www.imn.iq/data/Al_Iraqiya_logo(1).gif",Iraqiya
 http://www.ustream.tv/channel/21791994
 
@@ -128,6 +129,8 @@ rtmp://162.244.80.108:1935/liveedge/ playpath=livestream_360p swfUrl=http://www.
 rtsp://livestreaming3.itworkscdn.net:554/mayadeenlive/mayadsat_240p
 #EXTINF:-1,El masira المسيرة
 http://livestreaming4.itworkscdn.com/masira/livetv1/chunklist_w860649189.m3u8
+#EXTINF:-1,Nabaa
+rtmp://31.14.40.238:1935/live/Nabaa
 #EXTINF:-1,Sama Syria 
 http://sama-tv.net:1935/live/samatv/playlist.m3u8
 #EXTINF:-1,Syria drama
@@ -343,7 +346,7 @@ http://rt-lh.akamaihd.net/i/ch_03@325607/index_720p_av-p.m3u8?sd=10&rebase=on
 http://188.247.93.26:1935/live/anb.stream_360p/playlist.m3u8
 #EXTINF:-1,ANN News
 rtmp://ns8.indexforce.com/ann/ann
-#EXTINF:-1 group-title=”ARABIC”,AL HADATHالحدث 
+#EXTINF:-1 group-title=”ARABIC”,AL HADATH الحدث 
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1 group-title=”ARABIC”,AL HURRA قناة الحرة
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
@@ -352,17 +355,6 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_264.m3
 
 #EXTINF:-1 group-title=”ARABIC”,ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?
-#EXTINF:-1,Sky news arabia
-http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
-#EXTINF:-1,Al alhadath
-http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
-
-#EXTINF:-1 group-title=”ARABIC”,AL JAZEERA INT
-http://origin.live.web.tv.streamprovider.net/streams/8cbc1bc6c935f62ac2e44c5b2854f3ca_live_0_0/index.m3u8
-#EXTINF:-1, المستقلة
-http://38.99.146.36:7777/AlMustakila_HD/AlMustakila_HD.m3u8?user=&session=&hlsid=HTTP_ID_340998&group_id=-1&starttime=20151215T181615.227434
-#EXTINF:-1, Al Yawm  اليوم
-http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 #EXTINF:-1,France 24 AR
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 
@@ -375,11 +367,6 @@ http://jafaer-tv.com
 http://46.245.160.224/medine/medine/gmswf.m3u8
 #EXTINF:-1,Mekke
 http://46.245.160.224/mekke/mekke/gmswf.m3u8
-
-#EXTINF:-1,Nabaa
-rtmp://31.14.40.238:1935/live/Nabaa
-#EXTINF:-1,Noor Dubai TV
-http://cdnedvrnoordubaitv.endavomedia.com/smil:dmilivenoordubaitvhls.smil/BratuMarian.m3u8
 
 #EXTINF:-1,Quran TV
 rtmp://208.75.224.165:1935/map-alquraan/map-alquraan.stream
@@ -418,10 +405,8 @@ http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv/gmswf.m3u8?v=105388699
 rtmp://stream.truth-voice.net/FadyLive//FadyLive
 #EXTINF:-1,Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
-#EXTINF:0,ALOULA
-http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
-#EXTINF:0,SAT
-http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+
+
 #EXTINF:0,DRAMA
 http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
 #EXTINF:0,SNEWS
@@ -434,14 +419,12 @@ http://82.137.248.21:1935/Nour/NourLive3/playlist.m3u8
 http://82.137.248.21:1935/Ugarit/UgaritLive/playlist.m3u8
 #EXTINF:0,SEDU
 http://82.137.248.20:1935/SEdu/SEduLive3/playlist.m3u8
-#EXTINF:-1,anb العربية
-http://82.212.95.122:1935/live/anb.stream_360p/chunklist_w640443579.m3u8?v=411569703
+
 #EXTINF:-1,قناة بلقيس الفضائية
 plugin://plugin.video.youtube/?action=play_video&videoid=dfO8X01YCjY
 
 
-#EXTINF:-1,Hawacom
-http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
+
 #EXTINF:-1,Echorouk Tv
 http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
 
