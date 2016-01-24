@@ -46,12 +46,19 @@ http://169.45.89.106:1935/app/skysports1lsh/playlist.m3u8?wowzasessionid=4922801
 #EXTINF:-1, Sky sport 1
 http://80.243.189.26:8081/sportshd/sky1/index.m3u8
 #EXTINF:-1,Sky sport 2
+http://169.45.89.106:1935/app/skysports2lsh/playlist.m3u8
+#EXTINF:-1,Sky sport 2
 http://80.243.189.26:8081/sportshd/sky2/index.m3u8
+#EXTINF:-1,Sky sport 3
+http://169.45.89.106:1935/app/skysports3lsh/playlist.m3u8
 #EXTINF:-1,Sky sport 3
 http://80.243.189.26:8081/sportshd/sky3/index.m3u8
 #EXTINF:-1,Sky sport 4
 http://80.243.189.26:8081/sportshd/sky2/index.m3u8
-
+#EXTINF:-1,Sky sport 4
+http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8
+#EXTINF:-1,sky sport test
+http://144.76.3.83/sky_sports4gb.m3u8
 #EXTINF:-1,sky sport 5
 http://144.76.3.83/sky_sports5gb.m3u8
 #EXTINF:-1,Real Madrid Tv
