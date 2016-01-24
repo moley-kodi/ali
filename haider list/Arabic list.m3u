@@ -9,12 +9,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 
+#EXTINF:-1,MBC Masser
+http://192.168.1.3:1111/mbcmasr
 
-
-#EXTINF:-1,MBC مصر
-rtmp://web3.iptv-planet.com:1937/live2 playpath=mbcmasr?cle=083117110032074097110032050052032049049032052053 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=mbcmasr <objectEncoding>
-#EXTINF:-1,MBC
-rtmp://web3.iptv-planet.com:1937/live2 playpath=Hi_mbc1?cle=083117110032074097110032050052032049049032052057 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbc1 <objectEncoding>
 
 #EXTINF:-1 tvg-logo="https://goo.gl/nYSeKu",MBC 2 
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
