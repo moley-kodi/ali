@@ -42,6 +42,8 @@ http://176.10.104.216/ss1sd/index.m3u8
 #EXTINF:-1,Fox Sports HD1
 http://streamup.global.ssl.fastly.net/app/zonasports2hds-stream/playlist.m3u8
 #EXTINF:-1, Sky sport 1
+http://169.45.89.106:1935/app/skysports1lsh/playlist.m3u8?wowzasessionid=492280161
+#EXTINF:-1, Sky sport 1
 http://80.243.189.26:8081/sportshd/sky1/index.m3u8
 #EXTINF:-1,Sky sport 2
 http://80.243.189.26:8081/sportshd/sky2/index.m3u8
