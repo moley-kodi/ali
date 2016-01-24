@@ -22,6 +22,50 @@ http://137.135.64.32:1935/kas/kas/gmswf.m3u8
 #EXTINF:-16,NILE Sport
 rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport
 
+
+#EXTINF:-1, ALkass 1 HD
+http://alkass-i.akamaihd.net/hls/live/205534/1/live_15s20.m3u8
+
+#EXTINF:-1, ALkass 2 HD
+http://alkass-i.akamaihd.net/hls/live/205534/2/live_15s.m3u8
+
+
+
+
+#EXTINF:-1, Bein 1
+rtmp://37.252.125.75:1935/bein1<playpath>bein1?token=WHXrfMAsu6BoxS5q4gWbyQ&e=1453671139 <swfUrl>http://ssl.p.jwpcdn.com/player/v/7.2.4/jwplayer.flash.swf <pageUrl>http://mangaplustv.com/ <objectEncoding>
+#EXTINF:-1, Bein 2
+rtmp://185.24.221.74:1935/bein2<playpath>bein2?token=qZCF4AAbmtICO9oZA5UA7A&e=1453671259 <swfUrl>http://ssl.p.jwpcdn.com/player/v/7.2.4/jwplayer.flash.swf <pageUrl>http://mangaplustv.com/ <objectEncoding>
+
+#EXTINF:-1, Bein 3
+rtmp://185.24.221.74:1935/bein3<playpath>bein3?token=wZ6sLH4rC27doZIW3ra-Nw&e=1453671340 <swfUrl>http://ssl.p.jwpcdn.com/player/v/7.2.4/jwplayer.flash.swf <pageUrl>http://mangaplustv.com/ <objectEncoding>
+
+#EXTINF:-1, Bein 4 
+rtmp://185.24.221.74:1935/bein4<playpath>bein4?token=R33dpcYb3Vo2JcOwApHAZg&e=1453671399 <swfUrl>http://ssl.p.jwpcdn.com/player/v/7.2.4/jwplayer.flash.swf <pageUrl>http://mangaplustv.com/ <objectEncoding>
+
+#EXTINF:-1, Bein 5 
+rtmp://185.24.221.74:1935/bein5<playpath>bein5?token=iEOi0qq2wzofg7grY2M0jQ&e=1453671434 <swfUrl>http://ssl.p.jwpcdn.com/player/v/7.2.4/jwplayer.flash.swf <pageUrl>http://mangaplustv.com/ <objectEncoding>
+
+#EXTINF:-1, Bein 6 
+rtmp://84.22.107.197:1935/bein6<playpath>bein6?token=Nc9vYDam6XFmBEoYvB5goA&e=1453671493 <swfUrl>http://ssl.p.jwpcdn.com/player/v/7.2.4/jwplayer.flash.swf <pageUrl>http://mangaplustv.com/ <objectEncoding>
+
+#EXTINF:-1, Bein 7 
+rtmp://37.252.125.75:1935/bein7<playpath>bein7?token=wCEZ-V0jbUFygGgIknDhyg&e=1453671545 <swfUrl>http://ssl.p.jwpcdn.com/player/v/7.2.4/jwplayer.flash.swf <pageUrl>http://mangaplustv.com/ <objectEncoding>
+#EXTINF:-1, Bein 8 
+rtmp://185.24.221.74:1935/bein8<playpath>bein8?token=-wp8BEe-b2sc7-2kOWU23g&e=1453671597 <swfUrl>http://ssl.p.jwpcdn.com/player/v/7.2.4/jwplayer.flash.swf <pageUrl>http://mangaplustv.com/ <objectEncoding>
+
+#EXTINF:-1, Bein 9 
+rtmp://37.252.125.75:1935/bein9<playpath>bein9?token=JRRFiWRqWF8qyjOMRNhrfw&e=1453671617 <swfUrl>http://ssl.p.jwpcdn.com/player/v/7.2.4/jwplayer.flash.swf <pageUrl>http://mangaplustv.com/ <objectEncoding>
+
+#EXTINF:-1, Bein 10 
+rtmp://www1.iguide.to/iguide<playpath>m5t9xefksn1l08f <swfUrl>http://www.iguide.to/player/secure_player_iguide_embed_token.swf <pageUrl>http://www.iguide.to/ <objectEncoding>
+
+#EXTINF:-1, Bein 11
+rtmp://www1.iguide.to/iguide<playpath>f0qk29r5dpc5hax <swfUrl>http://www.iguide.to/player/secure_player_iguide_embed_token.swf <pageUrl>http://www.iguide.to/ <objectEncoding>
+
+#EXTINF:-1, Bein 12 
+rtmp://www1.iguide.to/iguide<playpath>gsh6ooyr2b1ey9d <swfUrl>http://www.iguide.to/player/secure_player_iguide_embed_token.swf <pageUrl>http://www.iguide.to/ <objectEncoding>
+
 #EXTINF:-1,ENCORE Sport
 http://xrxs.net/video/live-p12moun-4728.m3u8
 #EXTINF:-1,ESPN 2
@@ -74,7 +118,14 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_10
 
 #EXTINF:-1,SPORT TIME TV 1HD
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
- 
+#EXTINF:-1,Arena 1
+http://cdn.sportlive.ws/hls/miEXh8_KxkdComEbjiWvtw/1453673993/arena1.m3u8
+
+#EXTINF:-1,Arena 2
+http://cdn.sportlive.ws/hls/orbiQX2zXvxgNkbBsQpgKA/1453674065/arena2.m3u8
+
+#EXTINF:-1,Max 2
+http://cdn225.xyz/tv2/509926.m3u8?sf=NTY5NjNmMWU1NGIzNg==&token=klOHn5dbGF1jCB9oaPNt2w 
 
 
 #EXTINF:-1,Sport Max
