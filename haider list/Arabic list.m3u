@@ -9,9 +9,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 
-#EXTINF:-1,MBC Masser
-http://192.168.1.3:1111/mbcmasr
-
 
 #EXTINF:-1 tvg-logo="https://goo.gl/nYSeKu",MBC 2 
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
@@ -180,7 +177,9 @@ rtmp://sama-tv.net/live/?gmswf=1499330773 playpath=samatv swfUrl=http://www.elah
 #EXTINF:-1,LBC
 rtmp://web2.iptv-planet.com:1937/live2<playpath>lbc?cle=083117110032074097110032050052032049049032052048 <swfUrl>http://embed.iptv-planet.com/swfs/player.swf <pageUrl>http://embed.iptv-planet.com/embed.php?id=lbc <objectEncoding>
 #EXTINF:-1,MTV
-rtmp://web3.iptv-planet.com:1937/live2<playpath>mtv?cle=083117110032074097110032050052032049049032052049 <swfUrl>http://embed.iptv-planet.com/swfs/player.swf <pageUrl>http://embed.iptv-planet.com/embed.php?id=mtv <objectEncoding>
+rtmp://web3.iptv-planet.com:1937/live2/mtv
+#EXTINF:-1,future tv
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_w657087134_b650000.m3u8
 
 #EXTINF:-1,*********[COLOR red] قنوات خليجية[/COLOR]**********
 http://jafaer-tv.com
