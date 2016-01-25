@@ -332,9 +332,8 @@ rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily/livestream
 rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport
 #EXTINF:-1, Nile Family
 rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily<playpath>livestream <swfUrl>http://niletc.tv/player/player.swf <pageUrl>http://niletc.tv/stream.php?ch=family <objectEncoding>
-
 #EXTINF:-1, Nile Life
-rtmp://livestreaming5.onlinehorizons.net:0/NTNNileLife<playpath>livestream <swfUrl>http://niletc.tv/player/player.swf <pageUrl>http://niletc.tv/stream.php?ch=life <objectEncoding>
+rtmp://livestreaming5.onlinehorizons.net:0/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf  pageUrl=http://niletc.tv/stream.php?ch=life 
 #EXTINF:-1, Nile Comedy
 rtmp://livestreaming5.onlinehorizons.net/NTNNileComedy<playpath>livestream <swfUrl>http://niletc.tv/player/player.swf <pageUrl>http://niletc.tv/stream.php?ch=comedy <objectEncoding>
 #EXTINF:-1, المصرية
