@@ -8,17 +8,21 @@
 	</item>
 </streaminginfo> 
 <streaminginfo>
+	<item>
 	<title>SM SM KIDS</title>
 	<link>http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8</link>
-	</streaminginfo> 
+	<item>
+</streaminginfo> 
 	
 <streaminginfo>	<cname>DMM</cname>	<item>	<title>DMM</title>	<link>http://streaming.i-sat.tv:1935/live/dmm/playlist.m3u8</link>	</item>
 </streaminginfo> 
 
 
 <streaminginfo>
+	<item>
 	<title>SBC Livestream</title>
 	<link>http://cdn01.iqbroadcast.tv:8081/g1/sbscvt1206/playlist.m3u8</link>
+	<item>
 </streaminginfo>
 
 
@@ -3761,3 +3765,17 @@
 
 
 </streamingInfos>
+
+
+###########
+
+<streamingInfos>
+<streaminginfo>
+	<cname></cname>
+	<item>
+	<title></title>
+ 	<link></link>
+	</item>
+</streaminginfo>
+</streamingInfos>
+##################
