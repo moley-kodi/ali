@@ -100,3 +100,19 @@
    
 </channel>
   </channels>
+
+
+
+
+
+<channels>
+
+<channel>
+      <name>[COLOR lime]Arabic 3 Test List [/COLOR]</name>
+  <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
+<fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/ara3.xml</externallink> ##change haider
+   
+</channel>
+  </channels>
