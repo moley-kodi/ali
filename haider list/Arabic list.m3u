@@ -594,5 +594,5 @@ http://alkass-i.akamaihd.net/hls/live/205534/1/live_15s20.m3u8
 
 #EXTINF:-1, ALkass 2 HD
 http://alkass-i.akamaihd.net/hls/live/205534/2/live_15s.m3u8
-#EXTINF:-1,test 2
-http://embed.iptv-planet.com/embed.php?id=Hi_AlAoulainter&amp;width=600&amp;height=400
+#EXTINF:-1,test 3
+http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_AlAoulainter&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20
