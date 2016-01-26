@@ -45,7 +45,8 @@ http://streamer1.hamuraabi.com:1935/salam/live/chunklist_w473936807.m3u8
 
 #EXTINF:-1,اهل البيت
 rtmp://ahlulbaytlive.nanocdn.com/live/ahlulbayt256
-
+#EXTINF:-1,Anwartv 2
+http://ngx.cr1.streamzilla.xlcdn.com/session/54e8112b8f8f7a1ead3bf93c9db9de49/sz/anwartv2/wowza4/live/jazem/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://goo.gl/6DFzwR",قناة الامام الحسين ع
@@ -243,6 +244,13 @@ http://stream03.fasttelco.net:1935/live/_definst_/ktv8_480.stream/playlist.m3u8
 http://stream03.fasttelco.net:1935/live/_definst_/ktv6_480.stream/playlist.m3u8
 #EXTINF:-1,koweit_almajlis
 http://stream03.fasttelco.net:1935/live/_definst_/ktv7_480.stream/playlist.m3u8
+
+#EXTINF:-1,Yemen Alyawm
+http://api.new.livestream.com/accounts/13816375/events/4102747/broadcasts/110473494.m3u8?dw=100&hdnea=st=1453777084~exp=1453778884~acl=/i/13816375_4102747_4d193120_1@362834/*~hmac=c2e7fd28d3d52bbebbfdfc75e3468adeb6d11f48c162a86abade83b0fd060115
+
+#EXTINF:-1,قطر اليوم 
+http://82.212.95.122:1935/live/qatar/gmswf.m3u8
+
 #EXTINF:-1,koweit_sport HD
 http://stream03.fasttelco.net:1935/live/_definst_/ktv3_480.stream/playlist.m3u8
 #EXTINF:-1,koweit_sport plus
@@ -336,6 +344,10 @@ rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily<playpath>livestream <swfU
 rtmp://livestreaming5.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf  pageUrl=http://niletc.tv/stream.php?ch=life 
 #EXTINF:-1, المصرية
 rtmp://livestreaming4.onlinehorizons.net:0/ERTUCH1<playpath>livestream <swfUrl>http://onlinehorizons.net/livestreaming/ertu/player.swf <pageUrl>http://onlinehorizons.net/livestreaming/ertu/indexch1.html <objectEncoding>
+#EXTINF:-1, القناة
+http://win15.yayin.com.tr/Alqanat/smil:Alqanat.smil/chunklist_w1370415133_b665536_t64U0Q=.m3u8
+#EXTINF:-1,218 TV
+http://lb218.cdn.mangomolo.com/218/smil:218.smil/chunklist_w1981601760_b450000_t64MTYwcA==.m3u8
 
 #EXTINF:-1,النهار دراما
 http://stream250.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/chunklist_w934305784.m3u8
@@ -422,6 +434,12 @@ http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv/gmswf.m3u8?v=105388699
 rtmp://stream.truth-voice.net/FadyLive//FadyLive
 #EXTINF:-1,Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
+#EXTINF:-1, صنعاء
+http://82.212.95.122:1935/live/sanaa1/chunklist_w1798491550.m3u8
+#EXTINF:-1, ليبيا الرسمية
+http://streaming.i-sat.tv:1935/live/libyaalrasmya.stream_360p/playlist.m3u8
+#EXTINF:-1, Aljaleya الجالية الكندية
+http://70.25.55.38:1935/live/aljaleyatv/playlist.m3u8
 
 
 #EXTINF:0,DRAMA
