@@ -68,6 +68,7 @@ http://162.244.81.186:1935/aletejahtv/aletejahtv3/playlist.m3u8
 #EXTINF:-1,العهد
 rtmp://alahadlive.nanocdn.com:1935/live/alahad256
 #EXTINF:-1 tvg-logo="https://goo.gl/Y9g6gK",الفرات
+
 rtmp://alforatlive.nanocdn.com:1935/live playpath=alforat256 swfUrl=http://alforatnews.com/modules/live/js/jwplayer/player.swf pageUrl=http://alforatnews.com/modules/live/index.php?op=fph <objectEncoding>
 #EXTINF:-1 tvg-logo="https://goo.gl/q5ue8J",Al-hurra Iraq 
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
@@ -578,6 +579,8 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8?b
 
 #EXTINF:-1, براعم 
 http://78.100.40.195:1935/brm/brm/chunklist.m3u8?wowzasessionid=2061182377
+#EXTINF:-1,Baraem
+rtmp://AgendaStreamer2.qna.org.qa/brm/brm
 #EXTINF:-1,Karameesh Kids
 http://38.99.146.36:7777/Karameesh_HD.m3u8
 #EXTINF:-1, كارتون نت ورك TV
