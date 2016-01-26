@@ -148,11 +148,6 @@
 </item>
 </streaminginfo>
 
-
-
-
-
-
 <streaminginfo>
     <cname>DW Arabic</cname>
 <item>
@@ -174,65 +169,18 @@
 
 
 
-<streaminginfo>
-	<cname>Cairo Cinema</cname>
-	<item><title>Cairo Cinema</title><link>rtmp://108.178.40.250/live?~achams.com:1935@192.185.11.131/10126.stream pageUrl=http://achams.com/stream/cairocinema.php timeout=20</link></item>
-</streaminginfo>
-
-<streaminginfo>
-	<cname>Libya</cname>
-	<item>
-	<title>livestation_High</title>
-	<link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_828.m3u8</link>
-	</item>
-</streaminginfo>
-
-
-
-
-
-
 <streaminginfo><cname>Nilat</cname><item><title>Nilat</title><link>http://82.212.95.122:1935/live/nilat.stream_360p/hassuni.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>ANB</cname><item><title>ANB</title><link>http://82.212.95.122:1935/live/anb.stream_360p/hassuni.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>Kaifa</cname><item><title>Kaifa</title><link>http://82.212.95.122:1935/live/kifa.stream_360p/hassuni.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Aghanina</cname><item><title>arabch.tv</title><link>http://82.212.95.122:1935/live/aghanina.stream_360p/playlist.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Libya Toumast</cname><item><title>Libya Toumast</title><link>http://82.212.95.122:1935/live/LibyaToumast.stream_360p/playlist.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Aghanina</cname><item><title>Aghanina</title><link>http://82.212.95.122:1935/live/aghanina.stream_360p/playlist.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>Libya Alrasmiya</cname><item><title>Libya Alrasmiya</title><link>http://82.212.95.122:1935/live/libyaalrasmya.stream_360p/playlist.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Al Fursan</cname><item><title>Al Fursan</title><link>http://82.212.95.122:1935/live/fursan.stream_360p/playlist.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>Burhan</cname><item><title>Burhan</title><link>http://82.212.95.122:1935/live/burhan.stream_360p/playlist.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>Libya One</cname><item><title>Libya One</title><link>http://82.212.95.122:1935/live/Libya-One.stream_360p/playlist.m3u8</link></item></streaminginfo>
 
 
 
 
-<streaminginfo>
-     	<cname>Al Mutawasit</cname>
-	<item>
-	<title>Al Mutawasit</title>
-	<link>rtmp://95.211.169.38/zenex playPath=mutawa004?id=5855 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/fplayer.swf pageUrl=http://zenex.tv/mutawa004 live=1 timeout=10</link>
-	</item>
-</streaminginfo>
 
-<streaminginfo>
-     <cname>Al Hiwar Ettounsi</cname>
-	<item>
-	<title>Al Hiwar Ettounsi</title>
-	<link>rtmp://95.211.169.38/zenex playPath=ettounsiya11?id=9998 conn=S:OK swfUrl=http://www.zenex.tv/data/scripts/fplayer.swf pageUrl=http://zenex.tv/mutawa004 live=1 timeout=10</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-<cname>Zaitouna</cname>
-<item>
-<title>Zaitouna</title>
-<link>$doregex[get-link]</link>
-<regex>
-<name>get-link</name>
-<expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/18648453/streams/live/playlist.m3u8')</expres>
-<page></page>
-</regex>
-</item>
-</streaminginfo>
 
 
 
@@ -265,22 +213,6 @@
 </item>
 </streaminginfo>
 
-
-
-
-
-
-<streaminginfo>
-     <cname>Remas</cname>
-	<item>
-	<title>Remas</title>
-	<link>http://livestreaming.itworkscdn.net/alremaslive/remastv/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-
-
-
 <streaminginfo>
         <cname>Aljazeera Doc</cname>
 	<item>
@@ -289,56 +221,6 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-        <cname>Aljazeera Mubasher</cname>
-		<item>
-		<title>Aljazeera Mubasher</title>
-		<link>rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live playpath=aljazeera_mubasher2_high swfUrl=http://www.arabztv.net/player.swf live=1 pageUrl=http://www.arabztv.com/ live=true swfVfy=true</link>
-		</item>
-</streaminginfo>
-
-<streaminginfo>
-    <cname>Aljazeera Mubasher Masr</cname>
-	<item>
-	<title>Aljazeera Mubasher Masr</title>
-	<link>http://hd1.lsops.net/live/smil:aljamisr_ar_hls.smil/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-    <cname>CCTV Arabic</cname>
-	<item>
-	<title>CCTV Arabic</title>
-	<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/cctv_828.m3u8</link>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-    <cname>Nabaa</cname>
-	<item>
-	<title>Nabaa</title>
-	<link>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/nabaa_tv/ls_satlink/b_828.m3u8</link>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-        <cname>Aljazeera En</cname>
-		<item>
-		<title>Aljazeera En</title>
-		<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_828.m3u8</link>
-		</item>
-</streaminginfo>
-
-
- <streaminginfo>
-        <cname>Aljazeera US</cname>
-	<item>
-	<title>Aljazeera US</title>
-	<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/ajam_828.m3u8</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
         <cname>Mekamleen</cname>
@@ -348,46 +230,7 @@
 	</item>
 </streaminginfo>
 
-<streaminginfo>
-        <cname>Alasr</cname>
-	<item>
-	<title>Alasr</title>
-	<link>http://xtvalasrx.api.channel.livestream.com/3.0/playlist.m3u8</link>
-	</item>
-</streaminginfo>
 
-<streaminginfo>
-        <cname>Sudan TV</cname>
-	<item>
-	<title>Sudan TV</title>
-	<link>http://ukk.live.net.sa:1935/live/africatv3/playlist.m3u8</link>
-	</item>
-</streaminginfo>
-
-
-<streaminginfo>
-        <cname>Fatafeat</cname>
-	<item>
-	<title>Fatafeat</title>
-	<link>http://www.vlc.eu.pn@live-f01.vustream.net/live/livestream3/marocforum.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-        <cname>Fatafeat</cname>
-	<item>
-	<title>Fatafeat</title>
-	<link>http://212.179.77.42/live/livestream3/gmswf.m3u8</link>
-	</item>
-</streaminginfo>
-
-<streaminginfo>
-        <cname>Bahrain</cname>
-	<item>
-	<title>Bahrain</title>
-	<link>http://155.obj.netromedia.net/alayam/alayam/playlist.m3u8</link>
-	</item>
-</streaminginfo>
 
 <streaminginfo>
         <cname>Quran TV ksa</cname>
