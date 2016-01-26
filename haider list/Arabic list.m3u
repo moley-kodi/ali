@@ -128,6 +128,7 @@ rtmp://162.244.80.108:1935/liveedge/ playpath=livestream_360p swfUrl=http://www.
 #EXTINF:-1,الميادين 
 rtsp://livestreaming3.itworkscdn.net:554/mayadeenlive/mayadsat_240p
 #EXTINF:-1,El masira المسيرة
+http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 http://livestreaming4.itworkscdn.com/masira/livetv1/chunklist_w860649189.m3u8
 #EXTINF:-1,Nabaa
 rtmp://31.14.40.238:1935/live/Nabaa
@@ -253,7 +254,13 @@ http://api.new.livestream.com/accounts/13816375/events/4102747/broadcasts/110473
 
 #EXTINF:-1,قطر اليوم 
 http://82.212.95.122:1935/live/qatar/gmswf.m3u8
+#EXTINF:-1,Sharjah Kabla
+http://livestreaming.itworkscdn.net/kablatvlive/kabtv_360p/playlist.m3u8
+#EXTINF:-1,الشارقة
+rtmp://livestreaming.itworkscdn.net/smc1live/ playpath=smc1tv_360p swfUrl=http://www.smc.ae/smcplayer/smcplayer/jwplayer.flash.swf pageUrl=http://www.smc.ae/stream.html swfVfy=true live=true 
 
+#EXTINF:-1,الريان
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8
 #EXTINF:-1,koweit_sport HD
 http://stream03.fasttelco.net:1935/live/_definst_/ktv3_480.stream/playlist.m3u8
 #EXTINF:-1,koweit_sport plus
@@ -270,8 +277,9 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b12000
 http://137.135.64.32:1935/kas/kas/gmswf.m3u8
 #EXTINF:-1,oman sport 
 http://38.96.148.30:1935/live/omantv2/gmswf.m3u8?v=1053886998
-#EXTINF:-1,alsharja sport
-http://livestreaming.itworkscdn.net:1935/smc4sportslive/smc4tv_360p/gmswf.m3u8?v=1053886998
+
+#EXTINF:-1, Sharjah Sport
+http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p/playlist.m3u8
 #EXTINF:-1,sudia sport
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel04/_definst_/live/stream2.m3u8
 #EXTINF:-1,KUWAIT 3_SPORT
