@@ -109,93 +109,72 @@
 
 
 <streaminginfo>
-    <cname>Palestine</cname>
-	<item>
-	<title>Low</title>
-	<link>http://217.21.0.14:1935/pbc/pbc_1/gmswf.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-    <cname>Alquds Educ</cname>
-	<item>
-	<title>Low</title>
-	<link>http://178.214.64.157/aqtv/imm/gmswf.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
     <cname>Aljazeera Children</cname>
 	<item>
-	<title>Low</title>
+	<title>Aljazeera Children</title>
 	<link>http://78.100.40.195:1935/jsc/jsc/gmswf.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
     <cname>Baraem</cname>
 	<item>
-	<title>Low</title>
+	<title>Baraem</title>
 	<link>http://78.100.40.195:1935/brm/brm/gmswf.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
     <cname>Libya 2</cname>
 	<item>
-	<title>Low</title>
+	<title>Libya 2</title>
 	<link>http://173.224.120.161:1935/live/myStream/gmswf.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
     <cname>Qatar</cname>
 	<item>
-	<title>Low</title>
+	<title>Qatar</title>
 	<link>http://78.100.40.195:1935/qtv/qtv/gmswf.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
     <cname>alrayan</cname>
 	<item>
-	<title>Low</title>
+	<title>alrayan</title>
 	<link>http://78.100.40.195:1935/ryn/ryn/gmswf.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
     <cname>SkyNewsArabia</cname>
 	<item>
-	<title>Low</title>
+	<title>SkyNewsArabia</title>
 	<link>http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl.m3u8</link>
 	</item>
 </streaminginfo>
 
-<streaminginfo><cname>MBC 1</cname><item><title>Sami</title><link>http://streamup.global.ssl.fastly.net/app/sami2015s-channel/chunklist.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>MBC Drama</cname><item><title>Sami</title><link>http://streamup.global.ssl.fastly.net/app/sami2016s-channel/chunklist.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Zaitouna</cname><item><title>wowzacontrol.com</title><link>http://wowzacontrol.com:1935/8088/8088/gmswf.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>MBC 1</cname><item><title>MBC 1</title><link>http://streamup.global.ssl.fastly.net/app/sami2015s-channel/chunklist.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>MBC Drama</cname><item><title>MBC Drama</title><link>http://streamup.global.ssl.fastly.net/app/sami2016s-channel/chunklist.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Zaitouna</cname><item><title>Zaitouna</title><link>http://wowzacontrol.com:1935/8088/8088/gmswf.m3u8</link></item></streaminginfo>
 
 
 <streaminginfo>
 	<cname>Alfaraeena</cname>
 	<item>
-	<title>uvlog</title>
+	<title>Alfaraeena</title>
 	<link>rtmp://video.uvlog.com/uvlog_video/6568 app=uvlog_video/6568 conn=S:6568 conn=S:N/A conn=S:Anonymous_422 conn=S:viewer conn=S: conn=S:99999 conn=S:true conn=S:14236528633400554db37ffb5395699971859 playpath=stream flashver=WIN\2013,0,0,214 swfUrl=http://uvlog.com/broadView.swf?rand=1236 pageUrl=http://uvlog.com live=1 timeout=15</link>
 	</item>
 </streaminginfo>
 
 <streaminginfo>
-    <cname>6Ter</cname>
-	<item>
-	<title>stream4free m3u8</title>
-	<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
     <cname>W9</cname>
 	<item>
-	<title>stream4free m3u8</title>
+	<title>W9</title>
 	<link>https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
     <cname>M6 Music</cname>
 	<item>
-	<title>stream4free m3u8</title>
+	<title>M6 Music</title>
 	<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8</link>
 	</item>
 </streaminginfo>
@@ -211,14 +190,14 @@
 <streaminginfo>
 	<cname>Persian Music</cname>
 	<item>
-	<title>Roku ios SVR1</title>
+	<title>Persian Music</title>
 	<link>http://63.237.48.3/ios/PERSIAN_MUSIC/PERSIAN_MUSIC.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Persian Music</cname>
 	<item>
-	<title>Roku ios SVR2</title>
+	<title>Persian Music</title>
 	<link>http://63.237.48.23/ios/PERSIAN_MUSIC/PERSIAN_MUSIC.m3u8</link>
 	</item>
 </streaminginfo>
@@ -226,73 +205,26 @@
 <streaminginfo>
 <cname>MBC Bollywood</cname>
 <item>
-<title>Roku ios SVR2</title>
+<title>MBC Bollywood</title>
 <link>http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8</link>
 </item>
 </streaminginfo>
 <streaminginfo>
 <cname>MBC Bollywood</cname>
 <item>
-<title>Roku ios SVR1</title>
+<title>MBC Bollywood</title>
 <link>http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8</link>
 </item>
 </streaminginfo>
-<streaminginfo>
-<cname>Kurdistan</cname>
-<item>
-<title>Roku ios SVR2</title>
-<link>http://63.237.48.23/ios/KURDISTAN_TV/KURDISTAN_TV.m3u8</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>Kurdistan</cname>
-<item>
-<title>Roku ios SVR1</title>
-<link>http://63.237.48.3/ios/KURDISTAN_TV/KURDISTAN_TV.m3u8</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>Almas</cname>
-<item>
-<title>Roku ios SVR2</title>
-<link>http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>Almas</cname>
-<item>
-<title>Roku ios SVR1</title>
-<link>http://63.237.48.3/ios/ALMAS_TV/ALMAS_TV.m3u8</link>
-</item>
-</streaminginfo>
+
 <streaminginfo>
 <cname>AAAMusic</cname>
 <item>
-<title>AAA FAMILY Roku ios SVR1</title>
+<title>AAAMusic</title>
 <link>http://63.237.48.3/ios/AAA_FAMILY/AAA_FAMILY.m3u8</link>
 </item>
 </streaminginfo>
-<streaminginfo>
-<cname>AAAMusic</cname>
-<item>
-<title>AAA FAMILY Roku ios SVR2</title>
-<link>http://63.237.48.23/ios/AAA_FAMILY/AAA_FAMILY.m3u8</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>AAAMusic</cname>
-<item>
-<title>Roku ios SVR1</title>
-<link>http://63.237.48.3/ios/AAA_MUSIC/AAA_MUSIC.m3u8</link>
-</item>
-</streaminginfo>
-<streaminginfo>
-<cname>AAAMusic</cname>
-<item>
-<title>Roku ios SVR2</title>
-<link>http://63.237.48.23/ios/AAA_MUSIC/AAA_MUSIC.m3u8</link>
-</item>
-</streaminginfo>
+
 <streaminginfo>
 <cname>MBC 2</cname>
 <item>
@@ -303,35 +235,29 @@
 <streaminginfo>
 <cname>MBC 2</cname>
 <item>
-<title>Roku ios SVR2</title>
+<title>MBC 2</title>
 <link>http://63.237.48.3/ios/MBC2/MBC2.m3u8</link>
 </item>
 </streaminginfo>
 <streaminginfo>
 <cname>MBC Action</cname>
 <item>
-<title>Roku ios SVR1</title>
+<title>MBC Action</title>
 <link>http://63.237.48.3/ios/MBC_ACTION/MBC_ACTION.m3u8</link>
 </item>
 </streaminginfo>
-<streaminginfo>
-<cname>MBC Action</cname>
-<item>
-<title>Roku ios SVR2</title>
-<link>http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8</link>
-</item>
-</streaminginfo>
+
 <streaminginfo>
 <cname>MBC 4</cname>
 <item>
-<title>Roku ios SVR1</title>
+<title>MBC 4</title>
 <link>http://63.237.48.3/ios/MBC_4/MBC_4.m3u8</link>
 </item>
 </streaminginfo>
 <streaminginfo>
 <cname>MBC 4</cname>
 <item>
-<title>Roku ios SRV2</title>
+<title>MBC 4</title>
 <link>http://63.237.48.23/ios/MBC_4/MBC_4.m3u8</link>
 </item>
 </streaminginfo>
@@ -339,42 +265,42 @@
 <streaminginfo>
 <cname>MBC Max</cname>
 <item>
-<title>Roku ios SRV2</title>
+<title>MBC Max</title>
 <link>http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8</link>
 </item>
 </streaminginfo>
 <streaminginfo>
 <cname>MBC Max</cname>
 <item>
-<title>Roku ios SRV1</title>
+<title>MBC Max</title>
 <link>http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8</link>
 </item>
 </streaminginfo>
 <streaminginfo>
 	<cname>alkass</cname>
 	<item>
-	<title>Low</title>
+	<title>alkass</title>
 	<link>http://137.135.64.32:1935/kas/kas/playlist.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 		<cname>TV5 MONDE</cname>
 		<item>
-		<title>web.tv</title>		
+		<title>TV5 MONDE</title>		
 		<link>http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
 		<cname>2M</cname>
 		<item>
-		<title>web.tv</title>		
+		<title>2M</title>		
 		<link>http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
 		<cname>Aljazeera</cname>
 		<item>
-		<title>web.tv</title>		
+		<title>Aljazeera</title>		
 		<link>http://origin.live.web.tv.streamprovider.net/streams/0781744a5665d14230929df58f07b227_live_0_0/index.m3u8</link>
 		</item>
 </streaminginfo>
@@ -382,28 +308,28 @@
 <streaminginfo>
 		<cname>Dubai Sport 3</cname>
 		<item>
-		<title>web.tv</title>		
+		<title>Dubai Sport 3</title>		
 		<link>http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
 		<cname>Abu Dhabi Sports 1</cname>
 		<item>
-		<title>web.tv</title>		
+		<title>Abu Dhabi Sports 1</title>		
 		<link>http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
 		<cname>Abu Dhabi Sports 3</cname>
 		<item>
-		<title>web.tv</title>		
+		<title>Abu Dhabi Sports 3</title>		
 		<link>http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
 		<cname>Aljazeera En</cname>
 		<item>
-		<title>web.tv</title>		
+		<title>Aljazeera En</title>		
 		<link>http://origin.live.web.tv.streamprovider.net/streams/8cbc1bc6c935f62ac2e44c5b2854f3ca_live_0_0/index.m3u8</link>
 		</item>
 </streaminginfo>
@@ -411,74 +337,35 @@
 <streaminginfo>
 	<cname>Abu Dhabi Sports 1</cname>
 	<item>
-	<title>Low</title>
+	<title>Abu Dhabi Sports 1</title>
 	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsport1hd/chunklist_b440000.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi Sports 1</cname>
-	<item>
-	<title>Med</title>
-	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsport1hd/chunklist_b528000.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi Sports 1</cname>
-	<item>
-	<title>High</title>
-	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8</link>
-	</item>
-</streaminginfo>
+
 
 
 <streaminginfo>
 	<cname>Abu Dhabi Sports 2</cname>
 	<item>
-	<title>Low</title>
+	<title>Abu Dhabi Sports 2</title>
 	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsport2hd/chunklist_b440000.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi Sports 2</cname>
-	<item>
-	<title>Med</title>
-	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsport2hd/chunklist_b528000.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi Sports 2</cname>
-	<item>
-	<title>High</title>
-	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8</link>
-	</item>
-</streaminginfo>
+
 
 <streaminginfo>
 	<cname>Abu Dhabi Extra HD</cname>
 	<item>
-	<title>Low</title>
+	<title>Abu Dhabi Extra HD</title>
 	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsportextrahd/chunklist_b440000.m3u8</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi Extra HD</cname>
-	<item>
-	<title>Med</title>
-	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsportextrahd/chunklist_b528000.m3u8</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-	<cname>Abu Dhabi Extra HD</cname>
-	<item>
-	<title>High</title>
-	<link>http://205.185.216.10/h5f3k7p8/cds/smil:adsportextrahd/chunklist_b880000.m3u8</link>
-	</item>
-</streaminginfo>
+
 
 <streaminginfo>
 	<cname>Mehwar</cname>
 	<item>
-	<title>onlinehorizons</title>
+	<title>Mehwar</title>
  	<link>rtmp://livestreaming4.onlinehorizons.net/MehwarTV playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf pageUrl=http://onlinehorizons.net/livestreaming/MehwarTV/ live=1 timeout=20</link>
 	</item>
 </streaminginfo>
@@ -486,7 +373,7 @@
 <streaminginfo>
 	<cname>Mehwar Drama</cname>
 	<item>
-	<title>onlinehorizons</title>
+	<title>Mehwar Drama</title>
 	<link>rtmp://livestreaming4.onlinehorizons.net/MehwarTVDrama playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTVDrama/player.swf pageUrl=http://onlinehorizons.net/livestreaming/MehwarTVDrama/ live=1 timeout=20</link>
 	</item>
 </streaminginfo>
@@ -494,14 +381,14 @@
 <streaminginfo>
 	<cname>Mehwar 2</cname>
 	<item>
-	<title>onlinehorizons</title>
+	<title>Mehwar 2</title>
 	<link>rtmp://livestreaming4.onlinehorizons.net/MehwarTV2 playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV2/player.swf pageUrl=http://onlinehorizons.net/livestreaming/MehwarTV2/ live=1 timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Maghreb24</cname>
 	<item>
-	<title>Ustream</title>
+	<title>Maghreb24</title>
 	<link>$doregex[get-link]</link>
 	<regex>
 	<name>get-link</name>
@@ -514,129 +401,17 @@
 <streaminginfo>
      <cname>Radio Tunisia</cname>
 	<item>
-	<title>Radio Kef</title>
+	<title>Radio Tunisia</title>
 	<link>http://stream8.tanitweb.com/kef</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-     <cname>Radio Tunisia</cname>
-	<item>
-	<title>RTCI</title>
-	<link>http://stream8.tanitweb.com/rtci</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-     <cname>Radio Tunisia</cname>
-	<item>
-	<title>Oxygene FM Bizerte</title>
-	<link>http://radiooxygenefm.ice.infomaniak.ch/radiooxygenefm-64.mp3</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-     <cname>Radio Tunisia</cname>
-	<item>
-	<title>Radio Monastir</title>
-	<link>http://stream8.tanitweb.com/monastir</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-     <cname>Radio Tunisia</cname>
-	<item>
-	<title>Oasis FM Gabe</title>
-	<link>http://stream6.tanitweb.com/oasis</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-     <cname>Radio Tunisia</cname>
-	<item>
-	<title>Mosaique FM Tarab</title>
-	<link>http://webradio.mosaiquefm.net:8000/mosatarab</link>
-	</item>
-</streaminginfo>
 
-<streaminginfo>
-     <cname>Radio Tunisia</cname>
-	<item>
-	<title>Mosaique FM Tounsi</title>
-	<link>http://webradio.mosaiquefm.net:8000/mosatounsi</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-     <cname>Radio Tunisia</cname>
-	<item>
-	<title>Radio Sfax</title>
-	<link>http://stream8.tanitweb.com/sfax</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-     <cname>Radio Tunisia</cname>
-	<item>
-	<title>Cap FM</title>
-	<link>http://stream6.tanitweb.com/capfm</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-     <cname>Radio Tunisia</cname>
-	<item>
-	<title>Zitouna FM</title>
-	<link> http://87.98.172.205:8000/;stream.mp3</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-     <cname>Radio Tunisia</cname>
-	<item>
-	<title>Radio Jeunes Tunisie</title>
-	<link>http://stream8.tanitweb.com/jeunes</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-     <cname>Radio Tunisia</cname>
-	<item>
-	<title>Shems FM</title>
-	<link>http://stream6.tanitweb.com/shems</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-     <cname>Radio Tunisia</cname>
-	<item>
-	<title>Express FM</title>
-	<link>http://stream6.tanitweb.com/expressfm</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-     <cname>Radio Tunisia</cname>
-	<item>
-	<title>Tunis Nationale</title>
-	<link>http://stream8.tanitweb.com/nationale</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-     <cname>Radio Tunisia</cname>
-	<item>
-	<title>IFM</title>
-	<link>http://stream6.tanitweb.com/expressfm</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-     <cname>Radio Tunisia</cname>
-	<item>
-	<title>Jawhara FM</title>
-	<link>http://streaming2.toutech.net:8000/jawharafm</link>
-	</item>
-</streaminginfo>
-<streaminginfo>
-     <cname>Radio Tunisia</cname>
-	<item>
-	<title>Mosaique FM</title>
-	<link>http://radio.mosaiquefm.net:8000/mosalive</link>
-	</item>
-</streaminginfo>
 
 
 <streaminginfo>
 	<cname>AL sahat</cname>
 	<item>
-	<title>Ustream</title>
+	<title>AL sahat</title>
 	<link>$doregex[get-link]</link>
 	<regex>
 	<name>get-link</name>
@@ -647,22 +422,15 @@
 </streaminginfo>
 
 
-<streaminginfo><cname>Assadissa</cname><item><title>Elahmed</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamAssadissa/livestreamAssadissa.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Medi 1 Sat</cname><item><title>Elahmed</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamMedi1TV/livestreamMedi1TV.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Al oula Maroc</cname><item><title>Elahmed</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamAlAoulaInter/livestreamAlAoulaInter.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Alriadia Sport</cname><item><title>Elahmed</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamArriadia/livestreamArriadia.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>AlGeria</cname><item><title>Elahmed</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamCanalAlgerie/livestreamCanalAlgerie.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Tamazigh Maroc</cname><item><title>Elahmed</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamTamazight/livestreamTamazight.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Assadissa</cname><item><title>Assadissa</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamAssadissa/livestreamAssadissa.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Medi 1 Sat</cname><item><title>Medi 1 Sat</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamMedi1TV/livestreamMedi1TV.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Al oula Maroc</cname><item><title>Al oula Maroc</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamAlAoulaInter/livestreamAlAoulaInter.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Alriadia Sport</cname><item><title>Alriadia Sport</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamArriadia/livestreamArriadia.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>AlGeria</cname><item><title>AlGeria</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamCanalAlgerie/livestreamCanalAlgerie.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Tamazigh Maroc</cname><item><title>Tamazigh Maroc</title><link>http://50.7.173.138:8134/hls-livetv/livepkgr/_definst_/livestreamTamazight/livestreamTamazight.m3u8</link></item></streaminginfo>
 
-<streaminginfo><cname>Abu Dhabi Drama</cname><item><title>Elahmed Low</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:addramasd/chunklist_b440000.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Abu Dhabi Drama</cname><item><title>Elahmed Med</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:addramasd/chunklist_b528000.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Abu Dhabi Drama</cname><item><title>Elahmed High</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:addramasd/chunklist_b880000.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Abu Dhabi</cname><item><title>Elahmed Low</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:adaloulahd/chunklist_b440000.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Abu Dhabi</cname><item><title>Elahmed Med</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:adaloulahd/chunklist_b528000.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Abu Dhabi</cname><item><title>Elahmed High</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:adaloulahd/chunklist_b880000.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Abu Dhabi Emirates</cname><item><title>Elahmed Low</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:adalemarathd/chunklist_b440000.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Abu Dhabi Emirates</cname><item><title>Elahmed Med</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:adalemarathd/chunklist_b528000.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Abu Dhabi Emirates</cname><item><title>Elahmed High</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:adalemarathd/chunklist_b880000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Abu Dhabi Drama</cname><item><title>Abu Dhabi Drama</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:addramasd/chunklist_b880000.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Abu Dhabi Emirates</cname><item><title>Abu Dhabi Emirates</title><link>http://205.185.216.10/h5f3k7p8/cds/smil:adalemarathd/chunklist_b880000.m3u8</link></item></streaminginfo>
 
 
 <streaminginfo>
@@ -682,22 +450,16 @@
 <streaminginfo>
 	<cname>RTL 9</cname>
 	<item>
-	<title>akamaihd</title>
+	<title>RTL 9</title>
 	<link>http://pebbles102-lh.akamaihd.net/i/rtl9_1@97354/index_900_av-p.m3u8|X-Forwarded-For=146.159.95.38</link>
 	</item>
 </streaminginfo>
-<streaminginfo>
-	<cname>RTL 9</cname>
-	<item>
-	<title>NTV</title>
-	<link>http://se-1.se.rtl9-hls.live.numericable.tv/live/hls/rtl9/ipadstream800rtl9.m3u8</link>
-	</item>
-</streaminginfo>
+
 
 <streaminginfo>
 		<cname>Al Baghdadia</cname>
 		<item>
-		<title>Low</title>
+		<title>Al Baghdadia</title>
 		<link>http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8</link>
 		</item>
 </streaminginfo>
@@ -705,7 +467,7 @@
 <streaminginfo>
 		<cname>Quran TV ksa</cname>
 		<item>
-		<title>islambox</title>
+		<title>Quran TV ksa</title>
 		<link>rtmp://ib12.islambox.tv/live/scqur?key=A684B24820F55A44990C5EABE95CF88F7C1EFAA45C6BBF54D19568A9C9A449F3 timeout=20</link>
 		</item>
 </streaminginfo>
@@ -715,21 +477,21 @@
 <streaminginfo>
 		<cname>Ajyal</cname>
 		<item>
-		<title>islambox</title>
+		<title>Ajyal</title>
 		<link>rtmp://ib12.islambox.tv/live/?v=hghpl]=a2V5bGl2ZTIxNy0yMzAtMjIzLTIwMjIwMTQtMDUtMjQtMTEtNTAtNDY=/vb008_ajial.stream? timeout=20</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
 		<cname>Aljazeera En</cname>
 		<item>
-		<title>islambox</title>
+		<title>Aljazeera En</title>
 		<link>rtmp://ib12.islambox.tv/live/ajeqi500k?key=06C8A0C9B929025BCD7F2D2E6EFD9967C7AD97E42DAA4DB4C0FD0314A89BABEE timeout=20</link>
 		</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Al-hurra Iraq</cname>
 	<item>
-	<title>mbnhls</title>
+	<title>Al-hurra Iraq</title>
 	<link>http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8</link>
 	</item>
 </streaminginfo>
@@ -737,7 +499,7 @@
 <streaminginfo>
 	<cname>Alrai</cname>
 	<item>
-	<title>mms</title>
+	<title>Alrai</title>
 	<link> mms://62.215.216.130/wmtencoder/alrai350.wmv</link>
 	</item>
 </streaminginfo>
@@ -745,7 +507,7 @@
 <streaminginfo>
         <cname>MBC 2</cname>
 	<item>
-	<title>Low vustream</title>
+	<title>MBC 2</title>
 	<link>rtmp://live-f01.vustream.net/live/livestream timeout=20</link>
 	</item>
 </streaminginfo>
@@ -753,21 +515,21 @@
 <streaminginfo>
 	<cname>Al Nahar 2</cname>
 	<item>
-	<title>unknow</title>
+	<title>Al Nahar 2</title>
 	<link>rtmp://188.247.93.26/live/alnhar2.stream_360p timeout=20</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Mecca</cname>
 	<item>
-	<title>unknow</title>
+	<title>Mecca</title>
 	<link>http://94.127.209.149:8080/mecca/index.m3u8</link>
 	</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>AlQahera W Elnas 2</cname>
 	<item>
-	<title>unknow</title>
+	<title>AlQahera W Elnas 2</title>
 	<link>rtmp://188.247.93.26/live/alkahra.stream_360p timeout=20</link>
 	</item>
 </streaminginfo>
