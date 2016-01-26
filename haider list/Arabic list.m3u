@@ -248,7 +248,7 @@ rtmp://alayam.netromedia.net/btv2 playpath=btv2 swfUrl=http://player.netromedia.
 #EXTINF:-1,AL SHARJAH
 rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
 
-#EXTINF:-1, oman tv 1
+#EXTINF:-1 <thumbnail>http://giniko.com/logos/190x110/184.jpg</thumbnail>, oman tv 1
 http://38.96.148.30:1935/live/omantv1/playlist.m3u8
 
 #EXTINF:-1, روتانا خليجية
@@ -487,9 +487,6 @@ http://82.137.248.21:1935/Ugarit/UgaritLive/playlist.m3u8
 #EXTINF:0,SEDU
 http://82.137.248.20:1935/SEdu/SEduLive3/playlist.m3u8
 
-#EXTINF:-1,قناة بلقيس الفضائية
-plugin://plugin.video.youtube/?action=play_video&videoid=dfO8X01YCjY
-
 #EXTINF:-1,Star2000
 http://iphone-streaming.ustream.tv/ustreamVideo/10538511/streams/live/playlist.m3u8
 #EXTINF:-1, citruss tv
@@ -548,8 +545,7 @@ http://173.192.180.122/hls-live/livepkgr/_definst_/liveevent/live_ios.m3u8
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel09/_definst_/live/stream1.m3u8
 #EXTINF:-1, الثقافية
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel08/_definst_/live/stream2.m3u8
-#EXTINF:-1, KSA 1
-http://204.107.27.196/live/1775.low.stream/1451181370770.ts
+
 #EXTINF:-1 group-title=”ARABIC”,AL MAGHRIBYA
 http://almaghribya-tv.scdn.arkena.com/almaghribya.isml/almaghribya-audio101_fra=64000-video=350000.m3u8
 #EXTINF:-1,salamtv
