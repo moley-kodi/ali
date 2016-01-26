@@ -1,4 +1,4 @@
-
+<streamingInfos>
 #EXTM3U
 
 #EXTINF:-1, [COLOR red] --وبعد ذالك على اخر اصدار 5.0.3\  Jafaer-tv يرجى تحديث البرنامج وذالك في الضغط على --[/COLOR]
@@ -654,18 +654,7 @@ http://alkass-i.akamaihd.net/hls/live/205534/1/live_15s20.m3u8
 #EXTINF:-1, ALkass 2 HD
 http://alkass-i.akamaihd.net/hls/live/205534/2/live_15s.m3u8
 
-<streamingInfos>
-	
-<streaminginfo>
-	<cname>DW Arabic</cname>
-	<url>2693</url>
-</streaminginfo>
 
-
-<streaminginfo>
-	<cname>Aljazeera Children</cname>
-	<url>1814</url>
-</streaminginfo>
 
 
 </streamingInfos>
