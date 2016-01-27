@@ -9,10 +9,12 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 
-
+#EXTINF:-1,mbc 1
+#EXTINF:0,http://europe-iptv.no-ip.org:16000/live/abdelilah/444444/661.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/nYSeKu",MBC 2 
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
-
+#EXTINF:-1,mbc 3
+#EXTINF:0,http://europe-iptv.no-ip.org:16000/live/abdelilah/444444/665.ts
 #EXTINF:-1 tvg-logo="http://s.alriyadh.com/2011/11/10/img/044923346065.jpg",MBC MAX 
 http://148.251.73.76:8000/live/cristo/start1/300.ts
 #EXTINF:-1 tvg-logo="http://vector.me/files/images/7/8/788941/mbc_action.png",MBC Action HD 
