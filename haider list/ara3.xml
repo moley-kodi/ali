@@ -587,7 +587,18 @@
 
 
 <streaminginfo><cname>Alarabiya Ahdas</cname><item><title>Alarabiya Ahdas</title><link>http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8</link></item></streaminginfo>
-
+<streaminginfo>
+		<cname>Bein 2 FR</cname>
+		<item>
+			<title>4free</title>
+			<link>$doregex[get-link]|User-Agent=chrome</link>
+			<regex>
+			<name>get-link</name>
+			<expres>source src="(.*?)"</expres>
+				<page>http://www.stream4free.eu/bein-france-2</page>
+				</regex>
+		</item>
+	</streaminginfo>
 </streamingInfos>
 
 ###########
