@@ -116,3 +116,16 @@
    
 </channel>
   </channels>
+
+
+<channels>
+
+<channel>
+      <name>[COLOR lime]tel 2 List [/COLOR]</name>
+  <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
+<fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/allouch89/ShaniXBMCdatabase/0478e762e97455bb5b6e63f1ec9ba6c63f134f92/teledunetUrls.xml</externallink> ##change haider
+   
+</channel>
+  </channels>
