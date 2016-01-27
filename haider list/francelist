@@ -21,7 +21,14 @@ http://stream4.latvdefrance.com/demo/6ter.m3u8
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/fr_vidan750_rtp.sdp
 #EXTINF:-1,EURONEWS ENG,
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
-
+#EXTINF:-1,Notele
+rtmp://streaming06.axeweb.be:1935/live/direct.stream
+#EXTINF:-1,m6
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8
+#EXTINF:-1, W9
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
+#EXTINF:-1,Rouget tv
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
 
 
 #EXTINF:-1,BFM BUSINESS,
