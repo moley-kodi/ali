@@ -102,6 +102,13 @@
 	</item>
 </streaminginfo> 
 <streaminginfo>
+	<cname>Alqseem</cname>
+	<item>
+	<title>Med</title>
+	<link>http://streaming.i-sat.tv:1935/live/alqseem.stream_360p/playlist.m3u8</link>
+	</item>
+</streaminginfo>
+<streaminginfo>
 	<cname>Rushd</cname>
 	<item>
 	<title>Rushd</title>
