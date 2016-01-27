@@ -565,6 +565,15 @@ rtmp://livestreaming.itworkscdn.net/alfatehlive/ playpath=fatehtv swfUrl=http://
 #EXTINF:-1,Shada
 rtmp://38.96.148.147:1935/live?gmswf=1499330773 playpath=livestream swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=shadaalhuria&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm
 
+#EXTINF:-1,مورتانيا
+http://m.live.net.sa:1935/m/chm7/chunklist.m3u8
+#EXTINF:-1,Zaitouna
+http://wowzacontrol.com:1935/8088/8088/gmswf.m3u8
+#EXTINF:-1,تيلات
+ttp://82.212.95.122:1935/live/nilat.stream_360p/hassuni.m3u8
+#EXTINF:-1, كيف KIF TV
+http://82.212.95.122:1935/live/kifa.stream_360p/hassuni.m3u8
+
 
 
 
@@ -592,7 +601,8 @@ http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
 #EXTINF:-1, Al Jazeera Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8?b?b*t$
-
+#EXTINF:-1,semsem
+http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
 #EXTINF:-1, براعم 
 http://78.100.40.195:1935/brm/brm/chunklist.m3u8?wowzasessionid=2061182377
 #EXTINF:-1,Baraem
