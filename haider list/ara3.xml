@@ -23,6 +23,28 @@
 </regex>
 </item>
 </streaminginfo>	
+
+
+
+
+<streaminginfo>
+	<cname>BBC Arabic</cname>
+	<item>
+	<title>BBC Arabic</title> 
+	<link>$doregex[clean-url]</link> 
+<regex>
+	<name>clean-url</name>
+	<expres>$pyFunction: '$doregex[get-url]'.replace('\\/','/')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>get-url</name>
+	<expres>"mediaUrl":"(.*?)"</expres>
+	<page>http://tvpc.us/Channel.php?ChannelID=1348/</page>
+</regex>
+</item>
+</streaminginfo>
+
 	
 <streaminginfo>
 	<cname>Al Anwar 2</cname>	
