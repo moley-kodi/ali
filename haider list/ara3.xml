@@ -4,7 +4,7 @@
 	
 	
  <item>
- <title>[COLOR red]CNBC Arabya[/COLOR]</title>
+ <title>[COLOR red]test[/COLOR]</title>
  <link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
  <regex>
  <name>get-m3u8final</name>
@@ -21,7 +21,7 @@
  <regex>
  <name>get-json</name>
  <expres>config = ({.*})</expres>
- <page>http://livestream.com/accounts/3102016/events/1914609</page>
+ <page>https://www.karbala-tv.net/live.php</page>
   <agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
  <cookieJar></cookieJar>
  </regex>
