@@ -1,3 +1,5 @@
+<streaminginfos>
+
 #EXTM3U
 #EXTINF:-1, [COLOR red] Adds New channels 01/19 [/COLOR]
 http://s2.iptvapi.com
@@ -27,7 +29,18 @@ http://xrxs.net/video/live-p12moun-4728.m3u8
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?=/.ts
 #EXTINF:-1,Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
-
+<streaminginfo>
+     <cname>Rai sport 2</cname>
+	 <item>
+<title>Rai sport 2</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://raisport2.web.tv/</page>
+</regex>
+</item>
+</streaminginfo>
 
 #EXTINF:-1,Eurosport
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
@@ -215,4 +228,4 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:-1 group-title="SPORTS",PAC-12 Net. (Washington) 1920*1080
 http://xrxs.net/video/live-p12wash-4728.m3u8
 
-
+</streaminginfos>
