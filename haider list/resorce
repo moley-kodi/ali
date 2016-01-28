@@ -1,0 +1,29 @@
+
+
+###### from web.tv#######
+<streaminginfo>
+	<cname>Rai sport 2</cname>
+	<item>
+	<title>Rai sport 2</title> 
+	<link>$doregex[clean-url]</link> 
+<regex>
+	<name>clean-url</name>
+	<expres>$pyFunction: '$doregex[get-url]'.replace('\\/','/')</expres>
+	<page></page>
+</regex>
+<regex>
+	<name>get-url</name>
+	<expres>"mediaUrl":"(.*?)"</expres>
+	<page>http://raisport2.web.tv/</page>
+</regex>
+</item>
+</streaminginfo>
+#########################
+
+
+
+
+
+
+
+
