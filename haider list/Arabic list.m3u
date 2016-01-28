@@ -9,10 +9,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 #EXTINF:-1, [COLOR red]لمشاهدة قنوات ال MBC يرجى الذهاب الى \other Arabic  and go down to Arabic channles  [/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
+#EXTINF:-1,test
+rtmp://yoolive.com:1935/live//mbc_drama?user=brahim69400&ip=89.93.248.213&code=dbf1cebc19a83e372f3758cd219d96ec56792034be225cd8ac8d5da5a80cda91 
 
-
-#EXTINF:-1,mbc 1
-#EXTINF:0,http://europe-iptv.no-ip.org:16000/live/abdelilah/444444/661.ts
 #EXTINF:-1 tvg-logo="https://goo.gl/nYSeKu",MBC 2 
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
 #EXTINF:-1,mbc 3
@@ -51,29 +50,6 @@ http://streamer1.hamuraabi.com:1935/salam/live/chunklist_w473936807.m3u8
 
 #EXTINF:-1,اهل البيت
 rtmp://ahlulbaytlive.nanocdn.com/live/ahlulbayt256
-
-<streaminginfo>
-	<cname>Al Anwar 2</cname>	
-	<item>
-	<title>Al Anwar 2</title>
-	<link>$doregex[get-finalURL]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36</link>
-	<regex>
-	<name>get-url</name>
-	<expres>(http.*?)"</expres>
-	<page>http://rrr.sz.xlcdn.com/?account=anwartv2&amp;file=jazem&amp;type=live&amp;service=wowza&amp;protocol=http&amp;output=playlist.m3u8&amp;format=jsonp&amp;callback=jQuery21003127479157410562_1425573090144&amp;_=1425573090145</page>
-	<referer>http://rrr.sz.xlcdn.com/?account=anwartv2&amp;file=jazem&amp;type=live&amp;service=wowza&amp;output=player</referer>
-	<cookieJar></cookieJar>
-	<agent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36</agent>
-	</regex>
-	<regex>
-	<name>get-finalURL</name>
-	<expres>$pyFunction:'$doregex[get-url]'.replace('\\/','/')</expres>
-	<page></page>
-	</regex>
-	</item>
-</streaminginfo>
-
-
 
 #EXTINF:-1 tvg-logo="http://goo.gl/6DFzwR",قناة الامام الحسين ع
 rtsp://ca.live.imamhussein.tv:1935/live/mp4:ih203
@@ -323,22 +299,13 @@ http://jafaer-tv.com
 
 #EXTINF:-1,rotana cinema
 http://vai.la/jN2b
-
-#EXTINF:-1,Arabic:Rotana Clip
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2218.ts
-
-#EXTINF:-1, Nile Life 
-rtmp://livestreaming5.onlinehorizons.net/NTNNileCinema/livestream 
 #EXTINF:-1,Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/HasBahCa.m3u8
-#EXTINF:-1,TEN TV مصرية
-plugin://plugin.video.youtube/?action=play_video&videoid=-XUIDPRyJBA
-#EXTINF:-1, 1 القاهرة و الناس
-plugin://plugin.video.youtube/?action=play_video&videoid=EG3ORF_KtDc
+
+
 #EXTINF:-1,القاهرة و الناس 2
 plugin://plugin.video.youtube/?action=play_video&videoid=N4Trs03VKT4
-#EXTINF:-1,قناة البلد دراما
-plugin://plugin.video.youtube/?action=play_video&videoid=7NgyiRV8Fas
+
 #EXTINF:-1, CBC Extra
 plugin://plugin.video.youtube/?action=play_video&videoid=r7ammFV2blg
 #EXTINF:-1,CBC sofra سي بي سي سفرة
@@ -353,7 +320,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=8ITFSKZAXD4
 plugin://plugin.video.youtube/?action=play_video&videoid=y7B3BqUJbtk
 #EXTINF:-1,قناة الندى الفضائية
 plugin://plugin.video.youtube/?action=play_video&videoid=0G6qeODyRbc
-#EXTINF:-1, Dream 2
+#EXTINF:-0, Dream 2
 rtmp://livestreaming5.onlinehorizons.net:1935/Dream2CH/livestream 
 #EXTINF:-1,الفضائية المصرية
 rtmp://46.165.220.232/live playpath=aloula42?id=241532&pk=a3a4bfb4a00927e58891bbe69ce0d151012854933a7dd665f6cebdeb7748ec93 swfUrl http://www.mipsplayer.com/content/scripts/fplayer.swf pageUrl=http://www.mipsplayer.com/embedplayer/aloula42/1/550/450 <objectEncoding>
