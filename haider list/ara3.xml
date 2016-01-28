@@ -2,7 +2,18 @@
 
 <streamingInfos>
 	
- 	
+ <streaminginfo>
+     <cname>TEst</cname>
+	 <item>
+<title>Test</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://tvpc.us/Channel.php?ChannelID=1348</page>
+</regex>
+</item>
+</streaminginfo>	
 
  <item>
  <title>[COLOR red]BBC Arabic[/COLOR]</title>
