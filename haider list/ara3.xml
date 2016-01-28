@@ -1,25 +1,20 @@
 
 
 <streamingInfos>
-	
-	
- <streaminginfo>
-	<cname>Aljazeera</cname>
-	<item>
-	<title>web.tv</title> 
-	<link>$doregex[clean-url]</link> 
+<streaminginfo>
+     <cname>Syria</cname>
+	 <item>
+<title>Syria</title>
+<link>$doregex[url]</link>
 <regex>
-	<name>clean-url</name>
-	<expres>$pyFunction: '$doregex[get-url]'.replace('\\/','/')</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>get-url</name>
-	<expres>"mediaUrl":"(.*?)"</expres>
-	<page>http://www.elahmad.com/tv/mbc.php/</page>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.elahmad.com/tv/mbc.php</page>
 </regex>
 </item>
 </streaminginfo>	
+	
+ 	
 	
 <streaminginfo>
 	<cname>Al Anwar 2</cname>	
