@@ -4,9 +4,9 @@
 #EXTINF:-1, [COLOR red] Adds New channels 01/28 [/COLOR]
 http://s2.iptvapi.com
 
-
+<streaminginfos>
 <streaminginfo>
-	<cname>Rai sport 2</cname>
+	<cname>Rai sport 2 test</cname>
 	<item>
 	<title>Rai sport 2</title> 
 	<link>$doregex[clean-url]</link> 
@@ -22,7 +22,7 @@ http://s2.iptvapi.com
 </regex>
 </item>
 </streaminginfo>
-
+</streaminginfos>
 #EXTINF:-1,KUWAIT 3_SPORT
 http://63.237.48.23/ios/KUWAIT_3_SPORT/KUWAIT_3_SPORT.m3u8
 
