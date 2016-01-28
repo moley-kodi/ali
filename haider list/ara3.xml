@@ -5,12 +5,12 @@
 <streaminginfo>
      <cname>MBC 1</cname>
 	 <item>
-<title>MBC 1</title>
+<title>test</title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
 <expres>file: "([^"]*)</expres>
-<page>http://www.giniko.com/watch.php?id=393</page>
+<page>http://www.lebanon-sports.com/index.php/live-streaming/142-sports-tv-channel/2591-sky-sports-1-hd</page>
 </regex>
 </item>
 </streaminginfo>	
