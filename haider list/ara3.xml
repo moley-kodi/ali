@@ -16,7 +16,20 @@
 </streaminginfo>	
 	
 	
+<streamingInfos>
 	
+<streaminginfo>
+     <cname>Alalam</cname>
+	 <item>
+<title>Alalam</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://watchfomny.tv/Video/Arabic/Alalam-News-Iran/Alalam-Tv.htm</page>
+</regex>
+</item>
+</streaminginfo>	
 	
 <streaminginfo>
 	<cname>Al Anwar 2</cname>	
