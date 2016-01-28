@@ -2,14 +2,14 @@
 
 <streamingInfos>
 <streaminginfo>
-     <cname>Syria</cname>
+     <cname>Rai sport 2</cname>
 	 <item>
-<title>Syria</title>
+<title>Rai sport 2</title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
 <expres>file: "([^"]*)</expres>
-<page>http://www.elahmad.com/tv/mbc.php</page>
+<page>http://raisport2.web.tv/</page>
 </regex>
 </item>
 </streaminginfo>	
