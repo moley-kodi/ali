@@ -1,6 +1,23 @@
 
 
 <streamingInfos>
+	
+<streaminginfo>
+     <cname>MBC 1</cname>
+	 <item>
+<title>MBC 1</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=393</page>
+</regex>
+</item>
+</streaminginfo>	
+	
+	
+	
+	
 <streaminginfo>
 	<cname>Al Anwar 2</cname>	
 	<item>
@@ -72,6 +89,46 @@
 	<cookieJar></cookieJar>
 	</regex>
 	</item>
+</streaminginfo>
+<streaminginfo>
+     <cname>Syria</cname>
+	 <item>
+<title>Syria</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=145</page>
+</regex>
+</item>
+</streaminginfo>
+
+<streaminginfo>
+     <cname>العراقية</cname>
+	 <item>
+<title>العراقية</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=182</page>
+</regex>
+</item>
+</streaminginfo>
+
+
+
+<streaminginfo>
+     <cname>Qatar</cname>
+	 <item>
+<title>Qatar</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=11</page>
+</regex>
+</item>
 </streaminginfo>
 <streaminginfo>
 	<cname>Alqanat</cname>
