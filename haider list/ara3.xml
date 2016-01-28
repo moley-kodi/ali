@@ -32,12 +32,12 @@
 <streaminginfo>
      <cname>Alalam</cname>
 	 <item>
-<title>Alalam</title>
+<title>test</title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
 <expres>file: "([^"]*)</expres>
-<page>http://watchfomny.tv/Video/Arabic/Alalam-News-Iran/Alalam-Tv.htm</page>
+<page>https://www.karbala-tv.net/live.php</page>
 </regex>
 </item>
 </streaminginfo>	
