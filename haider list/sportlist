@@ -1,24 +1,5 @@
 <streaminginfos>
 
-<streaminginfos>
-<streaminginfo>
-	<cname>Rai sport 2 test</cname>
-	<item>
-	<title>Rai sport 2</title> 
-	<link>$doregex[clean-url]</link> 
-<regex>
-	<name>clean-url</name>
-	<expres>$pyFunction: '$doregex[get-url]'.replace('\\/','/')</expres>
-	<page></page>
-</regex>
-<regex>
-	<name>get-url</name>
-	<expres>"mediaUrl":"(.*?)"</expres>
-	<page>http://raisport2.web.tv/</page>
-</regex>
-</item>
-</streaminginfo>
-</streaminginfos>
 
 
 #EXTM3U
@@ -44,24 +25,211 @@ http://80.243.189.26:8181/bein/sports2gg/index.m3u8
 
 #EXTINF:-1, Bein Sport 1 FR
 http://80.243.189.26:8181/pakindiatv/beinmas1/index.m3u8
+
+
+EXTINF:-1,beIN SPORT1
+
+http://bit.do/iptvsportt1
+
+EXTINF:-1,beIN SPORT2
+
+http://bit.do/iptvsportt2
+
+EXTINF:-1,beIN SPORT3
+
+http://bit.do/iptvsportt3
+
+EXTINF:-1,beIN SPORT4
+
+http://bit.do/iptvsportt4
+
+EXTINF:-1,beIN SPORT5
+
+http://bit.do/iptvsportt5
+
+EXTINF:-1,beIN SPORT6
+
+http://bit.do/iptvsportt6
+
+EXTINF:-1,beIN SPORT7
+
+http://bit.do/iptvsportt7
+
+EXTINF:-1,beIN SPORT8
+
+http://bit.do/iptvsportt8
+
+EXTINF:-1,beIN SPORT9
+
+http://bit.do/iptvsportt9
+
+EXTINF:-1,beIN SPORT10
+
+http://bit.do/iptvsportt10
+
+EXTINF:-1,SKY BUNDESLIGA
+
+http://bit.ly/1SaZeLS
+
+EXTINF:-1,SKY SPORT de1
+
+http://bit.ly/1K2WC1j
+
+EXTINF:-1,SKY SPORT de2
+
+http://bit.ly/1PpF3uM
+
+EXTINF:-1,Super Sport1
+
+http://bit.ly/1NrukZe
+
+EXTINF:-1,Super Sport2
+
+http://bit.ly/1RF5FYX
+
+EXTINF:-1,Super Sport3
+
+http://bit.ly/1WDULlH
+
+EXTINF:-1,Super Sport4
+
+http://bit.ly/1Qr4bQN
+
+EXTINF:-1,SKY SPORT3
+
+http://bit.do/iptvsportt-SP3
+
+EXTINF:-1,SUPER CALCIO
+
+http://bit.do/iptvsportt-SPR
+
+EXTINF:-1,SKY SPORT it F1
+
+http://bit.do/iptvsportt-F1
+
+EXTINF:-1,SKY SPORT it24
+
+http://bit.do/iptvsportt-24
+
+EXTINF:-1,SKY SPORT it1
+
+http://bit.do/iptvsportt-SP1
+
+EXTINF:-1,Canal futbol
+
+http://bit.do/iptvsportt-FOOT
+
+EXTINF:-1,canal liga
+
+http://bit.do/iptvsportt-LIGA
+
+EXTINF:-1,barca tv
+
+http://bit.do/iptvsportt-BARCA
+
+EXTINF:-1,Digi Sport 1
+
+http://bit.do/iptvsportt-digi1
+
+EXTINF:-1,Digi Sport 2
+
+http://bit.do/iptvsportt-digi2
+
+EXTINF:-1,Digi Sport 3
+
+http://bit.do/iptvsportt-digi3
+
+EXTINF:-1,Sport Tv5
+
+http://bit.do/iptvsportt-por5
+
+EXTINF:-1,Sport Tv4
+
+http://bit.do/iptvsportt-por4
+
+EXTINF:-1,Sport Tv3
+
+http://bit.do/iptvsportt-por3
+
+EXTINF:-1,Sport Tv2
+
+http://bit.do/iptvsportt-por2
+
+EXTINF:-1,Sport Tv1
+
+http://bit.do/iptvsportt-por1
+
+EXTINF:-1,Fox SportS1
+
+http://bit.do/iptvsportt-fox1
+
+EXTINF:-1,Fox SportS2
+
+http://bit.do/iptvsportt-fox2
+
+EXTINF:-1,Fox SportS3
+
+http://bit.do/iptvsportt-fox3
+
+EXTINF:-1,Fox SportS4
+
+http://bit.do/iptvsportt-fox4
+
+EXTINF:-1,Fox SportS5
+
+http://bit.do/iptvsportt-fox5
+
+EXTINF:-1,Sky Sport5
+
+http://bit.do/iptvsportt-Sky1
+
+EXTINF:-1,Sky Sport4
+
+http://bit.do/iptvsportt-Sky2
+
+EXTINF:-1,Sky Sport3
+
+http://bit.do/iptvsportt-Sky3
+
+EXTINF:-1,Sky Sport2
+
+http://bit.do/iptvsportt-Sky4
+
+EXTINF:-1,Sky Sport1
+
+http://bit.do/iptvsportt-Sky5
+
+EXTINF:-1,Bt Sport1
+
+http://bit.do/iptvsportt-BT1
+
+EXTINF:-1,Bt Sport2
+
+http://bit.do/iptvsportt-BT2
+
+EXTINF:-1,Stenta Sport
+
+http://bit.do/iptvsportt-ST
+
+EXTINF:-1,Eurosport
+
+http://bit.do/iptvsportt-EU
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,ENCORE Sport
 http://xrxs.net/video/live-p12moun-4728.m3u8
 #EXTINF:-1,ESPN 2
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?=/.ts
 #EXTINF:-1,Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
-<streaminginfo>
-     <cname>Rai sport 2</cname>
-	 <item>
-<title>Rai sport 2</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://raisport2.web.tv/</page>
-</regex>
-</item>
-</streaminginfo>
+
 
 #EXTINF:-1,Eurosport
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
