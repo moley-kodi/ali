@@ -9,7 +9,64 @@ URL=https://hec.su/csZi
 player=default
 rating=-1.00
 
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<channel>
+<name>Iraqian TV Channels</name>
+<thumbnail></thumbnail>
+
+
+<item>
+<title>Iraqi Media Network</title>
+<link>mms://212.7.196.74/iraqia</link>
+<thumbnail>http://images-mediawiki-sites.thefullwiki.org/08/4/2/3/4905202658349467.png</thumbnail>
+</item>
+
+<item>
+<title>Iraqi Sports Channel</title>
+<link>http://212.7.196.74/sport</link>
+<thumbnail>http://www.goalzz.com/images/canal/64cd614655vg2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Al Baghdadia 2</title>
+<link>rtmp://cp44832.live.edgefcs.net/live/ playpath=albag1_500@90981 swfUrl=http://www.albaghdadia.com/albag_players/flowplayer/_player/flowplayer.commercial-3.2.6.swf live=true timeout=15 pageUrl=http://www.albaghdadia.com/live/livehigh</link>
+<thumbnail>http://a1.mzstatic.com/us/r1000/107/Purple/cf/aa/5c/mzl.bjffmkul.jpg</thumbnail>
+</item>
+
+<item>
+<title>Aliraqya</title>
+<link>http://212.7.196.74/iraqia</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_iraqya.jpg</thumbnail>
+</item>
+
+<item>
+<title>AL SHARQIYA TV</title>
+<link>rtmp://ns8.indexforce.com/home playpath=mystream swfUrl=http://www.alsharqiyatv.com//mediaplayer-5.5/player.swf live=true timeout=15 pageUrl=http://www.alsharqiyatv.com/tv.htm</link>
+<thumbnail>http://3.bp.blogspot.com/-jEDl95RzuzA/UYbcGrweFGI/AAAAAAAADHo/DdOQPTbPtrk/s320/%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A%D8%A9+Alsharqiya+%D8%A8%D8%AB+%D9%85%D8%A8%D8%A7%D8%B4%D8%B1.jpeg</thumbnail>
+</item>
+
+<item>
+<title>AL SHARQIYA NEWS</title>
+<link>rtmp://ns9.indexforce.com/home playpath=mystream swfUrl=http://www.alsharqiyatv.com/player.swf live=true timeout=15</link>
+<thumbnail>http://www.alwaleedonline.com/News1/560019al-sharqiya_tv_logo11.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>BAGHDAD SAT</title>
+<link>rtmp://212.7.196.88/live playpath=baghdad swfUrl=http://www.primcast.com/jwplayer5/player.swf live=true timeout=15</link>
+<thumbnail>http://playbolo.tv/pics/BagdadChannel-big.jpg</thumbnail>
+</item>
+
+<item>
+<title>AL FORAT</title>
+<link>rtmp://alforatlive.nanocdn.com:1935/live playpath=alforat256</link>
+<thumbnail>http://www.ashura.tv/live-tv/al-forat-tv/logo.jpg</thumbnail>
+</item>
+
+
+</channel>
 
 
 
