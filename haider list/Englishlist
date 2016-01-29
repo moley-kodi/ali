@@ -22,8 +22,7 @@ http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?supertvlat=/.ts
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 #EXTINF:-1,Fox Classics
 http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?supertvlat=/.ts
-#EXTINF:-1, Fox crime HD
-http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
+
 #EXTINF:-1,Fox Action HD
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?supertvlat=/.ts
 #EXTINF:0, Fox Comedy
@@ -39,15 +38,10 @@ http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?supertvlat=/.ts
 http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 #EXTINF:-1,AMC
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=/.ts
-#EXTINF:-1, HBO
-http://173.199.120.51/hls/hbo.m3u8
 
-#EXTINF:12.2,HBO 2
-http://123.29.68.180/pkg3/channels/vstv036/medium/34/88/54/medium-1434885418.ts?c=vstv036&q=medium&type=tvlive-seg&pkg=pkg3&zn=net&userId=3517&deviceId=5212&location=&p=0&pnode=&rkey=t1mIwNVkVFVgmyvM
 #EXTINF:-1,Sky comedy
 http://top-iptv.zapto.org:8000/live/walid/walid/544.m3u8
-#EXTINF:-1,ABC east
-rtmp://watch4.streamlive.to:1935/edge/?xs=_we_Mzcxamx1aXJsamNzamVufDE0NTM0NTE4NTF8NzQuMTMxLjEzMy4xMjd8NTZhMTQxOGJhYzk2Y3xmM2M2N2Q2NjA3ZDYyMGFiZTY3NWFkODM1Njk5NjhhYjQ4ZWZlZmU2 playpath=371jluirljcsjen swfUrl=http://www.streamlive.to/ads/streamlive.swf pageUrl=http://www.streamlive.to/view/68969 <objectEncoding>
+
 #EXTINF:-1,Dubai One
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
 
@@ -71,11 +65,7 @@ http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3
 http://162.212.176.83:8080/mystream1.m3u8
 #EXTINF:-1,Discovery USA
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?supertvlat=/.ts
-#EXTINF:-1,Comedy  Centeral
-http://167.114.102.27/live/suhFBQE9uw2sJs7KS1WcOw/1453253326/fa894851552e99b1cc146264a8ffaf4b.m3u8
 
-#EXTINF:-1, A&E
-http://167.114.102.27/live/3VqgWclBOofPnEyTAW6I8A/1453253045/bb38d9048b7b91706264169a031f32a4.m3u8
 #EXTINF:-1,Golf channel
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
 #EXTINF:-1,dream tv
@@ -133,47 +123,7 @@ http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332/ParaKodi.ts
 http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332/ParaKodi.ts
 #EXTINF:-1,Smile Of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
-#EXTINF:-1,Abc
-http://128.104.128.176:8080/udp/239.1.1.86:3086?live786
-#EXTINF:-1,CNN
-http://128.104.128.176:8080/udp/239.1.1.78:3078?live786
-#EXTINF:-1,CBS
-http://128.104.128.176:8080/udp/239.1.1.84:3084?live786
-#EXTINF:-1,Fox 47
-http://128.104.128.176:8080/udp/239.1.1.88:3088?live786
-#EXTINF:-1,NBC
-http://128.104.128.176:8080/udp/239.1.1.90:3090?live786
-#EXTINF:-1,The Weather Channel
-http://128.104.128.176:8080/udp/239.1.1.82:3082?live786
-#EXTINF:-1,BET
-http://128.104.128.176:8080/udp/239.1.1.96:3096?live786
-#EXTINF:-1,Pbs Kids
-http://128.104.128.176:8080/udp/239.1.1.92:3092?live786
-#EXTINF:-1,Arirang
-http://128.104.128.176:8080/udp/239.1.1.211:2000?live786
-#EXTINF:-1,HLN
-http://128.104.128.176:8080/udp/239.1.1.80:3080?live786
 
-#EXTINF:-1,CCTV News
-http://128.104.128.176:8080/udp/239.1.1.204:2000?live786
-#EXTINF:-1,WIS
-http://128.104.128.176:8080/udp/239.1.1.98:3098?live786
-#EXTINF:-1,C-SPAN
-http://128.104.128.176:8080/udp/239.1.1.94:3094?live786
-#EXTINF:-1,TV ASIA
-http://128.104.128.176:8080/udp/239.1.1.210:2000?live786
-#EXTINF:-1,RTN 9
-http://128.104.128.176:8080/udp/239.1.1.208:2000?live786
-#EXTINF:-1,Channel One Russia
-http://128.104.128.176:8080/udp/239.1.1.209:2000?live786
-#EXTINF:-1,CCTV 4
-http://128.104.128.176:8080/udp/239.1.1.212:2000?live786
-#EXTINF:-1,tvw
-http://128.104.128.176:8080/udp/239.1.1.25:3025?live786
-#EXTINF:-1,WIS EYE
-http://128.104.128.176:8080/udp/239.1.1.100:3100?live786
-#EXTINF:-1,Tivi 5
-http://128.104.128.176:8080/udp/239.1.1.214:2000?live786
 
 #EXTINF:-1,SYFY
 http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8
