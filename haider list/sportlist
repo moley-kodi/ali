@@ -26,6 +26,12 @@ http://80.243.189.26:8181/bein/sports2gg/index.m3u8
 rtmp://85.132.67.123/live/bein-live
 #EXTINF:-1, Bein Sport 1 FR
 http://80.243.189.26:8181/pakindiatv/beinmas1/index.m3u8
+#EXTINF:-1,beINSPORT04
+http://iphone-streaming.ustream.tv/ustreamVideo/21209072/streams/live/playlist.m3u8?v=1279345274
+
+#EXTINF:-1,beINSPORT06
+http://62.210.82.241:1935/liverepeat/7fd87a7be8b2b2426fc252653a5c34f8/playlist.m3u8?v=1279345274
+
 
 
 
