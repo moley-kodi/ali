@@ -198,26 +198,4 @@ http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1,news 12 Newjersey
 rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000 playpath=fs-b9e3010000000000 swfUrl=http://newjersey.news12.com/js/libs/jwplayer/6.9/jwplayer.flash.swf app=vxedge/fs-b9e3010000000000 pageUrl=http://newjersey.news12.com/news/news-12-new-jersey-live-stream-1.3925819?qr=1 live=true swfVfy=true timeout=10 live=true swfVfy=true timeout=10
 
-#EXTINF:-1,FOX Movies
-http://abakus.iinet.rs/stream/ch29/play.m3u8
-#EXTINF:-1,Fox Life
-http://abakus.iinet.rs/stream/ch34/play.m3u8
-#EXTINF:-1,24Kitchen
-http://abakus.iinet.rs/stream/ch28/play.m3u8
-#EXTINF:-1,Crime Investigation
-http://abakus.iinet.rs/stream/ch32/play.m3u8
-#EXTINF:-1,History Channel
-http://abakus.iinet.rs/stream/ch30/play.m3u8
-#EXTINF:-1,Nat Geographic
-http://abakus.iinet.rs/stream/ch35/play.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://abakus.iinet.rs/stream/ch31/play.m3u8
-#EXTINF:-1,HBO
-http://abakus.iinet.rs/stream/ch24/play.m3u8
-#EXTINF:-1,HBO Comedy
-http://abakus.iinet.rs/stream/ch23/play.m3u8
-
-
-
-
 
