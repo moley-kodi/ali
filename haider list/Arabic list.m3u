@@ -700,18 +700,23 @@ http://stream.zeefamily.tv/zeecinema/index.m3u8
 http://stream.zeefamily.tv/zeeclassic/index.m3u8
 
 ##############################################33
-#EXTINF:-1, ثفثفففففففف
-http://www.giniko.com/watch.php?id=368
+#EXTINF:0,bbc arabic
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba_backup
 
-#EXTM3U 
-#EXTINF:0,هذه القنوات غير مستقرة
-rtmp://aymeniptv.xcamd.com/live/ch1?code=0421a7ebf644e4e
-#EXTINF:-1, ALkass 1 HD
-http://alkass-i.akamaihd.net/hls/live/205534/1/live_15s20.m3u8
+#EXTINF:0,Alaan fm
+http://audiostreaming.itworkscdn.com:9078/;*.nsv
 
-#EXTINF:-1, ALkass 2 HD
-http://alkass-i.akamaihd.net/hls/live/205534/2/live_15s.m3u8
+#EXTINF:0,Rotana amman
+http://188.247.86.67:8002/2
 
+#EXTINF:0,Sawa iraq
+http://mbn-channel-05.akacast.akamaistream.net/7/25/233454/v1/ibb.akacast.akamaistream.net/mbn_channel_05
+
+#EXTINF:0,Sawa lebanon
+http://mbn-channel-07.akacast.akamaistream.net/7/27/233456/v1/ibb.akacast.akamaistream.net/mbn_channel_07
+
+#EXTINF:0,Sawa egypt
+http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03
 
 
 
