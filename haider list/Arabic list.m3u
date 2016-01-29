@@ -181,13 +181,19 @@ plugin://plugin.video.youtube/?action=play_video&videoid=rhwLx44zwr4
 rtmp://livestreaming.itworkscdn.net/otvlive playpath=otvlive_1 swfUrl=http://player.l1vetv.com/otvent/jwplayer.flash.swf live=1 pageUrl=http://player.l1vetv.com/otvent/live2.php
 #EXTINF:-1,Al_Donia tv
 rtmp://sama-tv.net/live/?gmswf=1499330773 playpath=samatv swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=addounia&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/addouniatv.htm
+
+
 #EXTINF:-1,LBC
 rtmp://web2.iptv-planet.com:1937/live2<playpath>lbc?cle=083117110032074097110032050052032049049032052048 <swfUrl>http://embed.iptv-planet.com/swfs/player.swf <pageUrl>http://embed.iptv-planet.com/embed.php?id=lbc <objectEncoding>
 #EXTINF:-1,MTV
 rtmp://web3.iptv-planet.com:1937/live2/mtv
 #EXTINF:-1,future tv
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_w657087134_b650000.m3u8
-
+#EXTINF:0,LBC
+http://2.109.65.142/masa/14211.m3u8?v=1279345274
+ 
+#EXTINF:0,Future Lebanon
+http://2.109.65.142/masa/14232.m3u8?v=1279345274
 #EXTINF:-1,*********[COLOR red] قنوات خليجية[/COLOR]**********
 http://jafaer-tv.com
 
@@ -362,6 +368,33 @@ http://stream250.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/playlist.m3u
 http://stream250.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/playlist.m3u8
 #EXTINF:-1,بنوراما دراما2
 rtmp://web3.iptv-planet.com:1937/live2<playpath>pd2?cle=083117110032074097110032050052032049049032052051 <swfUrl>http://embed.iptv-planet.com/swfs/player.swf <pageUrl>http://embed.iptv-planet.com/embed.php?id=pd2 <objectEncoding
+#EXTINF:0,Tok Tok Aflam
+http://2.109.65.142/masa/14206.m3u8?v=1279345274
+ 
+#EXTINF:0,Darbaka Aflam
+http://2.109.65.247/masa/24708.m3u8?v=1279345274
+ 
+#EXTINF:0,LCD movies
+http://2.109.65.247/masa/24710.m3u8?v=1279345274
+ 
+#EXTINF:0,Bolika TV
+http://2.109.65.247/masa/24711.m3u8?v=1279345274
+ 
+#EXTINF:0,AlMasrawiya
+http://2.109.65.247/masa/24713.m3u8?v=1279345274
+ 
+#EXTINF:0,Mazzica
+http://2.109.65.247/masa/24715.m3u8?v=1279345274
+ 
+#EXTINF:0,Cairo drama
+http://2.109.65.142/masa/14207.m3u8?v=1279345274
+ 
+#EXTINF:0,Zee alwan
+http://2.109.65.142/masa/14209.m3u8?v=1279345274
+ 
+#EXTINF:0,Zee Aflam
+http://2.109.65.142/masa/14210.m3u8?v=1279345274
+ 
 
 
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
