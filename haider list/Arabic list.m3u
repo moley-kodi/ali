@@ -687,7 +687,12 @@ http://s2.iptvapi.com:8081/DIJR/index.m3u8?token=B8JyzC5nbDgVNMgWv2NfRQ&e=145145
 http://s2.iptvapi.com:8081/BOO/index.m3u8?token=O4SQPQ4rxkCmtH0y9U03JQ&e=1451451086&u=48394&channel=BOO
 #EXTINF:-1,Gem_Junior
 rtmp://63.237.48.23:1935/live playpath=GEM_JUNIOR swfUrl=http://oklivetv.com/xplay/swf/GrindPlayer.swf live=1 pageUrl=http://oklivetv.com/xplay/xplay.php?idds=4f545131
-
+#EXTINF:-1 tvg-logo="http://s4.postimg.org/i2zseoec9/popeye.png",popeye كارتون باباي
+http://72.13.93.186/POPEYE?MSWMExt=.asf
+#EXTINF:-1,Toons Television Network
+http://72.13.93.186/TOONS?MSWMExt=.asf/
+#EXTINF:-1 tvg-logo= "http://www.stream2watch.com/images/thumbs/Simpsons%20live%20stream.jpg", 24/7 Simpsons
+http://veetle.com/index.php/hls/streamMbrfast/52dada61bdf13_/stream.m3u8
 #EXTINF:-1,Arabica اغاني
 rtmp://svs.itworkscdn.net/arabicatvlive playpath=arabicatv swfUrl=http://www.itworks-me.net/arabica/jwplayer.flash.swf live=1 pageUrl=http://www.itworks-me.net/arabica/
 #EXTINF:-1,AGHANI Tv
