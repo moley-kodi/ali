@@ -32,6 +32,8 @@ rtmp://89.248.174.38/live playpath=beinfr22 swfUrl=http://www.yocast.tv/myplayer
 http://iphone-streaming.ustream.tv/ustreamVideo/21209072/streams/live/playlist.m3u8?v=1279345274
 #EXTINF:-1,beINSPORT06
 http://62.210.82.241:1935/liverepeat/7fd87a7be8b2b2426fc252653a5c34f8/playlist.m3u8?v=1279345274
+#EXTINF:-1,Bein Sports 11
+http://167.114.41.215:8080/bein11_j/bein11_j/index.m3u8
 #EXTINF:-1,bien sport Ar 12
 plugin://plugin.video.youtube/?action=play_video&videoid=8WhCIe-2yz4
 
@@ -84,6 +86,26 @@ http://4.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
 http://176.10.104.216/ss1sd/index.m3u8
 #EXTINF:-1,Fox Sports HD1
 http://streamup.global.ssl.fastly.net/app/zonasports2hds-stream/playlist.m3u8
+#EXTINF:-1,Sky Sports News
+http://167.114.41.215:8080/sksportsnews_raf/sksportsnews_raf/index.m3u8
+#EXTINF:-1,Sky Sports 1
+http://167.114.41.215:8080/sk1_raf/sk1_raf/index.m3u8
+#EXTINF:-1,Sky Sports 1
+http://80.243.189.26:8182:8182/sportshd/sky1/index.m3u8
+#EXTINF:-1,Sky Sports 2
+http://169.45.89.106:1935:1935/app/skysports2lsh/playlist.m3u8?wowzasessionid=1444918112
+#EXTINF:-1,Sky Sports 2
+http://167.114.41.215:8080/sk2_j/sk2_j/index.m3u8
+#EXTINF:-1,Sky Sports 3
+http://167.114.41.215:8080/sk3_raf/sk3_raf/index.m3u8
+#EXTINF:-1,Sky Sports 4
+http://167.114.41.215:8080/sk4_raf/sk4_raf/index.m3u8
+#EXTINF:-1,Sky Sports 5
+http://167.114.41.215:8080/sk5_raf/sk5_raf/index.m3u8
+#EXTINF:-1,Bt Sports 1
+http://167.114.41.215:8080/btSp1_j/btSp1_j/index.m3u8
+#EXTINF:-1,Bt Sports 2
+http://167.114.41.215:8080/btsp2_raf/btsp2_raf/index.m3u8
 #EXTINF:-1, Sky sport 1
 http://169.45.89.106:1935/app/skysports1lsh/playlist.m3u8?wowzasessionid=492280161
 #EXTINF:-1, Sky sport 1
