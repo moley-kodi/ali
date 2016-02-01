@@ -1,4 +1,4 @@
-
+<items>
 #EXTM3U
 
 #EXTINF:-1, [COLOR red] --  please update you device by click Jafaer-tv and click the newest one 0.5.3  --[/COLOR]
@@ -290,3 +290,7 @@ rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000 playpath=fs-
 <item><title>Bones  [COLOR blue][/COLOR]</title><link>http://iptvnation.com/bones.mp4</link><thumbnail>http://igno.rame</thumbnail></item>
 <item><title>Criminal Minds  [COLOR blue][/COLOR]</title><link>http://iptvnation.com/criminal.mp4</link><thumbnail>http://igno.rame</thumbnail></item>
 <item><title>CSI: Miami  [COLOR blue][/COLOR]</title><link>http://iptvnation.com/csimiami.mp4</link><thumbnail>http://igno.rame</thumbnail></item>
+
+
+
+</items>
