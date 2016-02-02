@@ -90,19 +90,6 @@
 ######
 
 
-<channels>
-
-<channel>
-      <name>[COLOR lime]test List [/COLOR]</name>
-  <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
-<fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
-<link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/allouch89/ShaniXBMCdatabase/0478e762e97455bb5b6e63f1ec9ba6c63f134f92/OfficialUrls.xml</externallink> ##change haider
-   
-</channel>
-  </channels>
-
-
 
 
 
@@ -141,7 +128,7 @@
   <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
 <fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/skype007/ShaniXBMCdatabase/master/IPTVPlanetUrls.xml</externallink> ##change haider
+   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/arabiccartoons</externallink> ##change haider
    
 </channel>
   </channels>
