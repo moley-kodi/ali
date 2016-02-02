@@ -13,9 +13,16 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 http://2.109.65.247/masa/24742.m3u8?v=2955693415
 #EXTINF:0,MBC Drama
 http://2.109.65.247/masa/24744.m3u8?v=1279345274
-#EXTINF:0,MBC3
-http://2.109.65.247/masa/24746.m3u8
-
+#EXTINF:-1,MBC Maser
+http://srvs.topiptv.org:8000/live/Turki/Turki/21.m3u8
+#EXTINF:-1,MBC Maser 2
+http://srvs.topiptv.org:8000/live/Turki/Turki/27.m3u8
+#EXTINF:-1,MBC 1
+http://srvs.topiptv.org:8000/live/Turki/Turki/22.m3u8
+#EXTINF:-1,MBC Drama
+http://srvs.topiptv.org:8000/live/Turki/Turki/72.m3u8
+#EXTINF:-1,MBC Max
+http://srvs.topiptv.org:8000/live/Turki/Turki/25.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/nYSeKu",MBC 2 
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
 
@@ -443,7 +450,19 @@ http://stream250.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/gmswf.m3u8?v
 http://stream250.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?v=1279345274 
 #EXTINF:-1,masriya 2
 http://185.5.222.231:4242/bysid/5101
+#EXTINF:-1,Al thawra TV
+http://151.80.93.121:8081/althawratv_main/main/althawratv_main/live_720p/chunks.m3u8
 
+#EXTINF:-1,AL masriya
+http://srvs.topiptv.org:8000/live/Turki/Turki/329.m3u8
+
+#EXTINF:-1,AL masriya 2
+http://srvs.topiptv.org:8000/live/Turki/Turki/342.m3u8
+#EXTINF:-1,Faraeen
+http://srvs.topiptv.org:8000/live/Turki/Turki/309.m3u8
+
+#EXTINF:-1,Cima
+http://srvs.topiptv.org:8000/live/Turki/Turki/319.m3u8
 
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
 http://jafaer-tv.com
@@ -557,8 +576,9 @@ http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
 
 #EXTINF:-1,Talaqie
 rtmp://82.137.248.20/Talaqie/TalaqieLive2
-#EXTINF:-1,FATAFIT
-http://212.179.77.42/live/livestream3/gmswf.m3u8
+
+#EXTINF:-1,FataFeat
+http://srvs.topiptv.org:8000/live/Turki/Turki/43.m3u8
 #EXTINF:-1,Jordan
 rtmp://64.251.14.168/jorlive/jrtv
 #EXTINF:-1,Maannews
@@ -692,12 +712,28 @@ http://s2.iptvapi.com:8081/DIJR/index.m3u8?token=B8JyzC5nbDgVNMgWv2NfRQ&e=145145
 http://s2.iptvapi.com:8081/BOO/index.m3u8?token=O4SQPQ4rxkCmtH0y9U03JQ&e=1451451086&u=48394&channel=BOO
 #EXTINF:-1,Gem_Junior
 rtmp://63.237.48.23:1935/live playpath=GEM_JUNIOR swfUrl=http://oklivetv.com/xplay/swf/GrindPlayer.swf live=1 pageUrl=http://oklivetv.com/xplay/xplay.php?idds=4f545131
-#EXTINF:-1 tvg-logo="http://s4.postimg.org/i2zseoec9/popeye.png",popeye كارتون باباي
-http://72.13.93.186/POPEYE?MSWMExt=.asf
-#EXTINF:-1,Toons Television Network
-http://72.13.93.186/TOONS?MSWMExt=.asf/
-#EXTINF:-1 tvg-logo= "http://www.stream2watch.com/images/thumbs/Simpsons%20live%20stream.jpg", 24/7 Simpsons
-http://veetle.com/index.php/hls/streamMbrfast/52dada61bdf13_/stream.m3u8
+#####
+
+#EXTINF:-1,SPACETOON ARABIC
+http://srvs.topiptv.org:8000/live/Turki/Turki/407.m3u8
+#EXTINF:-1,Ajial Kids
+http://srvs.topiptv.org:8000/live/Turki/Turki/41.m3u8
+#EXTINF:-1,Braem Kids
+http://srvs.topiptv.org:8000/live/Turki/Turki/103.m3u8
+#EXTINF:-1,Toyor Al Janah
+http://srvs.topiptv.org:8000/live/Turki/Turki/106.m3u8
+#EXTINF:-1,Cartoon Network ARABIA
+http://srvs.topiptv.org:8000/live/Turki/Turki/248.m3u8
+#EXTINF:-1,KOKY TV
+http://srvs.topiptv.org:8000/live/Turki/Turki/372.m3u8
+#EXTINF:-1,Micky Kids
+http://srvs.topiptv.org:8000/live/Turki/Turki/367.m3u8
+#EXTINF:-1,CANARY TV
+http://srvs.topiptv.org:8000/live/Turki/Turki/356.m3u8
+######
+
+
+
 #EXTINF:-1,Arabica اغاني
 rtmp://svs.itworkscdn.net/arabicatvlive playpath=arabicatv swfUrl=http://www.itworks-me.net/arabica/jwplayer.flash.swf live=1 pageUrl=http://www.itworks-me.net/arabica/
 #EXTINF:-1,AGHANI Tv
