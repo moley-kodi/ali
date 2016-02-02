@@ -148,6 +148,13 @@ http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1,news 12 Newjersey
 rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000 playpath=fs-b9e3010000000000 swfUrl=http://newjersey.news12.com/js/libs/jwplayer/6.9/jwplayer.flash.swf app=vxedge/fs-b9e3010000000000 pageUrl=http://newjersey.news12.com/news/news-12-new-jersey-live-stream-1.3925819?qr=1 live=true swfVfy=true timeout=10 live=true swfVfy=true timeout=10
 
+########
+<item>
+<title>Filmon</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs/filmon.com.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://multihop.tv/wp-content/uploads/2014/10/filmon-logo.png</thumbnail>
+</item>
 
 <item>
 <title>BBC 1 Scotland</title>
@@ -412,3 +419,4 @@ rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000 playpath=fs-
 <thumbnail>http://www.highreshdwallpapers.com/wp-content/uploads/2014/06/HD-Family-Guy-Wallpaper.png</thumbnail>
 <fanart>http://www.drawnheroes.com/family-guy-pictures/family-guy-wallpapers/family-guy-griffin-family-watching-tv-wallpaper-1920x1080.jpg</fanart>
 
+</items>
