@@ -148,6 +148,145 @@ http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1,news 12 Newjersey
 rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000 playpath=fs-b9e3010000000000 swfUrl=http://newjersey.news12.com/js/libs/jwplayer/6.9/jwplayer.flash.swf app=vxedge/fs-b9e3010000000000 pageUrl=http://newjersey.news12.com/news/news-12-new-jersey-live-stream-1.3925819?qr=1 live=true swfVfy=true timeout=10 live=true swfVfy=true timeout=10
 
+
+<item>
+<title>BBC 1 Scotland</title>
+<ftv>3166</ftv>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20130320093820/logopedia/images/d/d6/BBC_Scotland_logo.png</thumbnail>
+</item>
+
+<item>
+<title>BBC 2</title>
+<ftv>25</ftv>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/BBC_Two_HD.svg/1280px-BBC_Two_HD.svg.png</thumbnail>
+</item>
+
+<item>
+<title>ITV</title>
+<ftv>11</ftv>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/44/ITV_HD_logo.svg/1280px-ITV_HD_logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>ITV+1</title>
+<ftv>1817</ftv>
+<thumbnail>http://1.bp.blogspot.com/-Il_K6df--7U/VhL0AkC0HBI/AAAAAAAAAvQ/267Eha9nc5Q/s640/itv1_plus1.png</thumbnail>
+</item>
+
+<item>
+<title>ITV2</title>
+<ftv>67</ftv>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/ITV2_HD.svg/278px-ITV2_HD.svg.png</thumbnail>
+</item>
+
+<item>
+<title>ITV2+1</title>
+<ftv>1820</ftv>
+<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2011/08/itv2+1-logo-300x97.png</thumbnail>
+</item>
+
+<item>
+<title>ITV3</title>
+<ftv>26</ftv>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ITV3_HD.svg/1280px-ITV3_HD.svg.png</thumbnail>
+</item>
+
+<item>
+<title>ITV3+1</title>
+<ftv>1823</ftv>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ITV3_HD.svg/1280px-ITV3_HD.svg.png</thumbnail>
+</item>
+
+<item>
+<title>ITV4</title>
+<ftv>101</ftv>
+<thumbnail>http://theident.gallery/itv4/xmas2013/ITV4-2013-XMAS-PROMO-1-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>ITV4+1</title>
+<ftv>1826</ftv>
+<thumbnail>http://www.satellitetveurope.co.uk/IMAGES/astra2/itv4_plus1.jpg</thumbnail>
+</item>
+<item>
+<title>QUEST</title>
+<ftv>2707</ftv>
+<thumbnail>http://212.83.144.179/mytvuknew/img/logos/quest.png</thumbnail>
+</item>
+
+<item>
+<title>ITVBE</title>
+<ftv>3211</ftv>
+<thumbnail>http://cdn.itv.com/uploads/editor/fueVEODDx1AknYpGeZDK0h4C8N_Nu8IAs0T6KSZkTnM.jpg</thumbnail>
+</item>
+
+<item>
+<title>BBC 3</title>
+<ftv>113</ftv>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/53/BBC_Three_HD.svg/1000px-BBC_Three_HD.svg.png</thumbnail>
+</item>
+<item>
+<title>BBC 4</title>
+<ftv>103</ftv>
+<thumbnail>https://upload.wikimedia.org/wikipedia/el/f/f8/BBC_Four_HD.png</thumbnail>
+</item>
+ <item>
+<title>CHANNEL 4</title>
+<ftv>2</ftv>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Channel_4HD_Logo.svg/1280px-Channel_4HD_Logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>CHANNEL 5</title>
+<ftv>22</ftv>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/archive/5/5d/20140117201447!5HD_Logo.png</thumbnail>
+</item>
+<item>
+<title>MORE4</title>
+<ftv>97</ftv>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/79/More4_logo.svg/932px-More4_logo.svg.png</thumbnail>
+</item>
+<item>
+<title>DAVE</title>
+<ftv>370</ftv>
+<thumbnail>http://www.astrasat.tv/demo/wp-content/uploads/2013/10/dave_hd.png_1613935029.png</thumbnail>
+</item>
+<item>
+<title>E4</title>
+<ftv>65</ftv>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/6/65/E4_uk_hd.png/revision/latest?cb=20110828140109</thumbnail>
+</item>
+
+<item>
+<title>QVC UK HD</title>
+<link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/48/QVC.svg/948px-QVC.svg.png</thumbnail>
+</item>
+<item>
+<title>QVC PLUS HD</title>
+<link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/61KfxmW7caL.png</thumbnail>
+</item>
+<item>
+<title>QVC STYLE HD</title>
+<link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8</link>
+<thumbnail>https://assets.tvplayer.com/common/logos/256/Inverted/249.png</thumbnail>
+</item>
+<item>
+<title>QVC BEAUTY HD</title>
+<link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/23/QVC_Beauty_Style.png</thumbnail>
+</item>
+
+
+</stream>
+
+
+
+
+
+
+
 <item>
 <title>[COLOR white]- tubtub streams poor quailty - -note stream have ads[/COLOR]</title>
 <link>http://xxx</link>
@@ -272,25 +411,4 @@ rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000 playpath=fs-
 <link>http://iptvnation.com/familyguy.mp4</link>
 <thumbnail>http://www.highreshdwallpapers.com/wp-content/uploads/2014/06/HD-Family-Guy-Wallpaper.png</thumbnail>
 <fanart>http://www.drawnheroes.com/family-guy-pictures/family-guy-wallpapers/family-guy-griffin-family-watching-tv-wallpaper-1920x1080.jpg</fanart>
-</item>
 
-
-
-
-<item><title>The Simpsons  [COLOR blue][/COLOR]</title><link>http://iptvnation.com/simpsons.mp4</link><thumbnail>http://igno.rame</thumbnail></item>
-<item><title>South Park  [COLOR blue][/COLOR]</title><link>http://iptvnation.com/southpark.mp4</link><thumbnail>http://igno.rame</thumbnail></item>
-<item><title>Family Guy  [COLOR blue][/COLOR]</title><link>http://iptvnation.com/familyguy.mp4</link><thumbnail>http://igno.rame</thumbnail></item>
-<item><title>Bobs Burgers  [COLOR blue][/COLOR]</title><link>http://iptvnation.com/bobs.mp4</link><thumbnail>http://igno.rame</thumbnail></item>
-<item><title>Two and a Half Men  [COLOR blue][/COLOR]</title><link>http://iptvnation.com/two.mp4</link><thumbnail>http://igno.rame</thumbnail></item>
-<item><title>How I met your mother  [COLOR blue][/COLOR]</title><link>http://iptvnation.com/how.mp4</link><thumbnail>http://igno.rame</thumbnail></item>
-<item><title>The Big Bang Theory  [COLOR blue][/COLOR]</title><link>http://iptvnation.com/big.mp4</link><thumbnail>http://igno.rame</thumbnail></item>
-<item><title>The Mentalist  [COLOR blue][/COLOR]</title><link>http://iptvnation.com/mentalist.mp4</link><thumbnail>http://igno.rame</thumbnail></item>
-<item><title>Arrow  [COLOR blue][/COLOR]</title><link>http://iptvnation.com/arrow.mp4</link><thumbnail>http://igno.rame</thumbnail></item>
-<item><title>The Grimm  [COLOR blue][/COLOR]</title><link>http://iptvnation.com/grimm.mp4</link><thumbnail>http://igno.rame</thumbnail></item>
-<item><title>Bones  [COLOR blue][/COLOR]</title><link>http://iptvnation.com/bones.mp4</link><thumbnail>http://igno.rame</thumbnail></item>
-<item><title>Criminal Minds  [COLOR blue][/COLOR]</title><link>http://iptvnation.com/criminal.mp4</link><thumbnail>http://igno.rame</thumbnail></item>
-<item><title>CSI: Miami  [COLOR blue][/COLOR]</title><link>http://iptvnation.com/csimiami.mp4</link><thumbnail>http://igno.rame</thumbnail></item>
-
-
-
-</items>
