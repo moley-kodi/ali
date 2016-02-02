@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-
+<item>
+<title>Birmingham - Derby County (20:30)</title>
+<link>
+sublink:LISTNAME:[COLOR yellow]Sport 1 Voetbal[/COLOR] - [COLOR blue]720p[/COLOR] ::LISTSOURCE:http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8 ::--#
+sublink:LISTNAME:[COLOR yellow]Sport 1 Voetbal[/COLOR] - [COLOR blue]SD[/COLOR] ::LISTSOURCE:http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8 ::--#
+sublink:LISTNAME:[COLOR yellow]BVLS 2013 - Stream 2[/COLOR] - [COLOR blue]SD[/COLOR] ::LISTSOURCE:plugin://plugin.video.veetle/?channel=55bbe433277f3 ::--#
+sublink:LISTNAME:[COLOR yellow]Gazzetta TV[/COLOR] - [COLOR blue]SD[/COLOR] ::LISTSOURCE:http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8 ::--#
+sublink:LISTNAME:[COLOR yellow]Gazzetta TV[/COLOR] - [COLOR blue]SD[/COLOR] ::LISTSOURCE:http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on ::--#
+sublink:LISTNAME:[COLOR yellow]Sky Sports 5[/COLOR] - [COLOR blue]SD[/COLOR] ::LISTSOURCE:rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH ::--#
+sublink:LISTNAME:[COLOR yellow]Sky Sports 5[/COLOR] - [COLOR blue]SD[/COLOR] ::LISTSOURCE:rtmp://109.200.1.82:1935/tes/skysp5.stream?e607b5b743e1842ee50e1556bbf3ae42 ::--#
+sublink:LISTNAME:[COLOR yellow]Sky Sports 5[/COLOR] - [COLOR blue]SD[/COLOR] ::LISTSOURCE:rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH ::--#
+sublink:LISTNAME:[COLOR yellow]Sky Sports 5[/COLOR] - [COLOR blue]SD[/COLOR] ::LISTSOURCE:rtmp://80.82.78.85:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH ::--#
+sublink:LISTNAME:[COLOR yellow]Sky Sports 5[/COLOR] - [COLOR blue]SD[/COLOR] ::LISTSOURCE:rtmpe://134.19.185.206:1935/livedge playpath=sskys5  swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive4.php?u=sskysn&vw=640&vh=400&domain=www.streamhd.eu token=Fo5_n0w?U.rA6l3-70w47ch ::--#
+sublink:LISTNAME:[COLOR yellow]Sky Sports 5[/COLOR] - [COLOR blue]SD[/COLOR] ::LISTSOURCE:rtmpe://134.19.185.206:1935/livedge playpath=mamahdsky5 swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdsky5&vw=680&vh=490&domain=mamahd.com token=Fo5_n0w?U.rA6l3-70w47ch ::--#
+sublink:LISTNAME:[COLOR yellow]Sky Sports 5[/COLOR] - [COLOR blue]SD[/COLOR] ::LISTSOURCE:http://195.154.227.38:1935/ive/skysports5lsh/playlist.m3u8 ::--#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 <streaminginfo>
 	<cname>Almayadeen</cname>
 	<item>
