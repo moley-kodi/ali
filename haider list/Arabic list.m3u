@@ -13,14 +13,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 http://2.109.65.247/masa/24742.m3u8?v=2955693415
 #EXTINF:0,MBC Drama
 http://2.109.65.247/masa/24744.m3u8?v=1279345274
-#EXTINF:-1,MBC Maser
-http://srvs.topiptv.org:8000/live/Turki/Turki/21.m3u8
-#EXTINF:-1,MBC Maser 2
-http://srvs.topiptv.org:8000/live/Turki/Turki/27.m3u8
-#EXTINF:-1,MBC 1
-http://srvs.topiptv.org:8000/live/Turki/Turki/22.m3u8
-#EXTINF:-1,MBC Drama
-http://srvs.topiptv.org:8000/live/Turki/Turki/72.m3u8
+
 #EXTINF:-1,MBC Max
 http://srvs.topiptv.org:8000/live/Turki/Turki/25.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/nYSeKu",MBC 2 
