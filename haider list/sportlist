@@ -28,6 +28,8 @@ rtmp://85.132.67.123/live/bein-live
 http://80.243.189.26:8181/pakindiatv/beinmas1/index.m3u8
 #EXTINF:-1, Bien sport 2 FR
 rtmp://89.248.174.38/live playpath=beinfr22 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf pageUrl=http://www.yocast.tv/embed.php?live=beinfr22&vw=600&vh=450 <objectEncoding>
+#EXTINF:0,bine sport Fr 2
+http://169.45.89.106:1935/app/bein2frlsh/playlist.m3u8
 #EXTINF:-1,beINSPORT04
 http://iphone-streaming.ustream.tv/ustreamVideo/21209072/streams/live/playlist.m3u8?v=1279345274
 #EXTINF:-1,beINSPORT06
@@ -308,20 +310,7 @@ http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/522/index.m3u8
 http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/107/index.m3u8
 #EXTINF:-1,NTV  Sport
 http://fr.cdn.edem.tv/iptv/CVND7GEMW26WBW/123/index.m3u8
-#EXTINF:-1,EUROSPORT
-http://ooyalahd2-f.akamaihd.net/i/esarn011_delivery@37350/master.m3u8
-#EXTINF:-1,EUROSPORT
-http://ooyalahd2-f.akamaihd.net/i/esarn012_delivery@75190/master.m3u8
-#EXTINF:-1,EUROSPORT
-http://ooyalahd2-f.akamaihd.net/i/esarn013_delivery@75191/master.m3u8
-#EXTINF:-1,EUROSPORT
-http://ooyalahd2-f.akamaihd.net/i/esarn014_delivery@75192/master.m3u8
-#EXTINF:-1,EUROSPORT
-http://ooyalahd2-f.akamaihd.net/i/esarn016_delivery@90477/master.m3u8
-#EXTINF:-1,EUROSPORT
-http://ooyalahd2-f.akamaihd.net/i/esarn017_delivery@47402/master.m3u8
-#EXTINF:-1,EUROSPORT
-http://ooyalahd2-f.akamaihd.net/i/esarn018_delivery@76469/master.m3u8
+
 #EXTINF:0,Arena Sport 1
 http://169.45.89.106:1935/app/arhd1lsh58/playlist.m3u8
 #EXTINF:0,Arena Sport 2
@@ -355,5 +344,4 @@ http://169.45.89.106:1935/app/skysports3lsh/playlist.m3u8
 #EXTINF:0,Sky Sports 4
 http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8
 http://169.45.89.106:1935/app/skysports5lsh/playlist.m3u8
-#EXTINF:0,bine sport Fr 2
-http://169.45.89.106:1935/app/bein2frlsh/playlist.m3u8
+
