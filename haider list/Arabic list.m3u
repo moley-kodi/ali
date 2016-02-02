@@ -115,10 +115,10 @@ rtmp://mtv.fms-01.visionip.tv/live/ playpath=mtv-ifilm-ifilm-live-16x9-SDh swfUr
 http://198.179.31.201/live/908.low.stream/playlist.m3u8?
 #EXTINF:-1,*********[COLOR red] قنوات الشام[/COLOR]**********
 http://jafaer-tv.com
-#EXTINF:-1,almayadeen tv
-http://63.237.48.8/ios/ALMAYADEEN/ALMAYADEEN.m3u8?v=1053886998
-#EXTINF:-1,الميادين
-http://livestreaming.itworkscdn.net/mayadeenlive/smil:mayadeenmob.smil/playlist.m3u8
+
+#EXTINF:-1,الميادين (تعمل)  1
+plugin://plugin.video.youtube/?action=play_video&videoid=04uzP251PoY
+
 #EXTINF:-1,العالم
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_alam/ls_satlink/b_828.m3u8?token=20151214xjEfuGen5pHAwecru
 #EXTINF:-1,Alalam 
@@ -441,6 +441,8 @@ http://stream250.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/gmswf.m3u8?v
  
 #EXTINF:0,AlNahar Drama
 http://stream250.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?v=1279345274 
+#EXTINF:-1,masriya 2
+http://185.5.222.231:4242/bysid/5101
 
 
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
@@ -546,6 +548,9 @@ http://live.citrusstv.com/live/watch/playlist.m3u8
 http://kurd-live.com:1935/live/speda/playlist.m3u8
 #EXTINF:-1,الجميلة
 http://de.live.net.sa:1935/live/alj/playlist.m3u8
+#EXTINF:-1, النهار الجزائرية
+http://live.ennahartv.net/endz/EnnaharTV/playlist.m3u8
+
 
 #EXTINF:-1,Echorouk Tv
 http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
