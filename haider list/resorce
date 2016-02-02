@@ -44,4 +44,16 @@
 
 ########################
 
+<item>
+<title>Birmingham - Derby County (20:30)</title>
+<link>
+sublink:LISTNAME:[COLOR yellow]Sport 1 Voetbal[/COLOR] - [COLOR blue]720p[/COLOR] ::LISTSOURCE:http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8 ::--#
+sublink:LISTNAME:[COLOR yellow]Sport 1 Voetbal[/COLOR] - [COLOR blue]SD[/COLOR] ::LISTSOURCE:http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8 ::--#
+sublink:LISTNAME:[COLOR yellow]Sky Sports 5[/COLOR] - [COLOR blue]SD[/COLOR] ::LISTSOURCE:http://195.154.227.38:1935/ive/skysports5lsh/playlist.m3u8 ::--#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+3333333333333
 
