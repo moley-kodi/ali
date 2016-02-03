@@ -17,19 +17,7 @@
 
 
 
-<streaminginfo>
-	<cname>Hannibal-TV</cname>
-	<item>
-	<title>Hannibal-TV</title>
-	<link>$doregex[geturl]</link>
-	<regex>
-    <name>geturl</name>
-    <expres>flashvars.src='(.*?)'</expres>
-    <page>https://www.streaminghd.tn/live/Hannibal-TV</page>
-    <cookieJar></cookieJar>
-	</regex>
-	</item>
-</streaminginfo>
+
 
 
 	
@@ -118,18 +106,7 @@
 </item>
 </streaminginfo>
 
-<streaminginfo>
-     <cname>العراقية</cname>
-	 <item>
-<title>العراقية</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://www.giniko.com/watch.php?id=182</page>
-</regex>
-</item>
-</streaminginfo>
+<streaminginfo><cname>Alahad</cname><item><title>العهد</title><link>plugin://plugin.video.youtube/play/?video_id=PcMS1FgQK90</link></item></streaminginfo>
 
 
 
@@ -290,6 +267,7 @@
 	</item>
 </streaminginfo>
 
+<streaminginfo><cname>Al sahraa</cname><item><title>Al sahraa</title><link>plugin://plugin.video.youtube/play/?video_id=L9PPdNsCm-w</link></item></streaminginfo>
 
 
 <streaminginfo>
