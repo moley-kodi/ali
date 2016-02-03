@@ -116,7 +116,7 @@ http://jafaer-tv.com
 #EXTINF:-1,الميادين (تعمل)  1
 plugin://plugin.video.youtube/?action=play_video&videoid=04uzP251PoY
 #EXTINF:-1,العالم
-rtmp://fml.BE1E.edgecastcdn.net/20BE1E/HLS playpath=AlalamHLS  swfUrl=http://www.alalam.ir/files/flowplayer.commercial-3.2.16.swf  pageUrl=http://www.alalam.ir/live <objectEncoding>
+rtmp://fml.BE1E.edgecastcdn.net/20BE1E/HLS playpath=AlalamHLS swfUrl=http://www.alalam.ir/files/flowplayer.commercial-3.2.16.swf pageUrl=http://www.alalam.ir/live <objectEncoding>
 
 
 #EXTINF:-1,Almanar Channel البث جديد
