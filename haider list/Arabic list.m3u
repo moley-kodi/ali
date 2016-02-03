@@ -115,11 +115,10 @@ http://jafaer-tv.com
 
 #EXTINF:-1,الميادين (تعمل)  1
 plugin://plugin.video.youtube/?action=play_video&videoid=04uzP251PoY
-
 #EXTINF:-1,العالم
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_alam/ls_satlink/b_828.m3u8?token=20151214xjEfuGen5pHAwecru
-#EXTINF:-1,Alalam 
-http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=alalam
+rtmp://fml.BE1E.edgecastcdn.net/20BE1E/HLS playpath=AlalamHLS  swfUrl=http://www.alalam.ir/files/flowplayer.commercial-3.2.16.swf  pageUrl=http://www.alalam.ir/live <objectEncoding>
+
+
 #EXTINF:-1,Almanar Channel البث جديد
 plugin://plugin.video.youtube/?action=play_video&videoid=fbe_4BJrkgE
 #EXTINF:-1,al manar tv 2
@@ -534,6 +533,8 @@ http://82.212.95.122:1935/live/sanaa1/chunklist_w1798491550.m3u8
 http://streaming.i-sat.tv:1935/live/libyaalrasmya.stream_360p/playlist.m3u8
 #EXTINF:-1, Aljaleya الجالية الكندية
 http://70.25.55.38:1935/live/aljaleyatv/playlist.m3u8
+#EXTINF:-1,النباء
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_828.m3u8?token=20151214xjEfuGen5pHAwecru
 
 
 #EXTINF:0,DRAMA
