@@ -684,19 +684,19 @@
 
 
 <item>
-<title>ex-Yu</title>
-
-
-<link>$doregex[makelist2]</link>
-
+<title>2015 Movies Trailer</title>
+<link>$doregex[makelist]</link>
 <regex>
-              <name>makelist2</name>
-                        <listrepeat><![CDATA[
-                        <title>[makelist2.param1]</title>
-                        <link>[makelist2.param2].m3u8</link>
-              ]]></listrepeat>
-              <expres>EXTINF:-1,ex-Yu: (.*).*\n.*(http.*).ts</expres>
-              <page>http://portal.rapidiptv.com:8080/get.php?username=7oxEnXqQd&amp;password=kTOFeHlnm&amp;type=m3u&amp;output=mpegts</page>
-              <cookieJar></cookieJar>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param2]</title>
+    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+    <thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PL63F0C78739B09958</page>
+<referer>https://www.youtube.com/user/movieclipsTRAILERS/playlists</referer>
+<cookieJar></cookieJar>
 </regex>
 </item>
+
