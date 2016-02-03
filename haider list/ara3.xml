@@ -664,39 +664,16 @@
 </streamingInfos>
 ##################
 
-
-<item>
-<title>كارتون ماشا و الدب</title>
-<link>$doregex[getmovies]</link>
-<regex>
-            <name>getmovies</name>
-            <listrepeat><![CDATA[
-                        <title>[getmovies]</title>
-                        <link>plugin://plugin.video.youtube/play/?playlist_id=MYbFnk9mEZo&list=PL73E786B499A54A18</link>
-                        <thumbnail>https://pbs.twimg.com/profile_images/552092989485355008/5iuVo5m9.png</thumbnail>
-            ]]></listrepeat>
-            <expres>\s?.href="\/playlist\?list=(.*?)"&gt;(.*?)&lt;\/</expres>
-            <page>https://www.youtube.com/user/getmovies/playlists</page>
-             <cookieJar></cookieJar>
-</regex>
-<thumbnail>https://pbs.twimg.com/profile_images/552092989485355008/5iuVo5m9.png</thumbnail>
-</item>
-
-
-<item>
-<title>2015 Movies Trailer</title>
-<link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-    <title>[makelist.param2]</title>
-    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-    <thumbnail>NA</thumbnail>
+<title>[COLOR blue]BES-IPTV: [/COLOR][makelist.param2]</title>
+<link>$doregex[makelist2]</link>
+<referer></referer>
+<thumbnail></thumbnail>
 ]]></listrepeat>
-<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
-<page>https://www.youtube.com/playlist?list=PL63F0C78739B09958</page>
-<referer>https://www.youtube.com/user/movieclipsTRAILERS/playlists</referer>
+<expres>href="\/playlist\?list=(.*?)"&gt;(.*?)&lt;</expres>
+<page>https://www.youtube.com/user/rtv21official/playlists</page>
 <cookieJar></cookieJar>
 </regex>
-</item>
 
