@@ -672,7 +672,7 @@
             <name>getmovies</name>
             <listrepeat><![CDATA[
                         <title>[getmovies]</title>
-                        <link>plugin://plugin.video.youtube/play/?playlist_id=PL73E786B499A54A18</link>
+                        <link>plugin://plugin.video.youtube/play/?playlist_id=MYbFnk9mEZo&list=PL73E786B499A54A18</link>
                         <thumbnail>https://pbs.twimg.com/profile_images/552092989485355008/5iuVo5m9.png</thumbnail>
             ]]></listrepeat>
             <expres>\s?.href="\/playlist\?list=(.*?)"&gt;(.*?)&lt;\/</expres>
