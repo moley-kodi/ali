@@ -667,11 +667,11 @@
 
 <item>
 <title>كارتون ماشا و الدب</title>
-<link>$doregex[makelist]</link>
+<link>$doregex[getmovies]</link>
 <regex>
-            <name>makelist</name>
+            <name>getmovies</name>
             <listrepeat><![CDATA[
-                        <title>[makelist.param2]</title>
+                        <title>[getmovies]</title>
                         <link>plugin://plugin.video.youtube/play/?playlist_id=PL73E786B499A54A18</link>
                         <thumbnail>https://pbs.twimg.com/profile_images/552092989485355008/5iuVo5m9.png</thumbnail>
             ]]></listrepeat>
