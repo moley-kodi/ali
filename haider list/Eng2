@@ -8,113 +8,6 @@
 <thumbnail>http://multihop.tv/wp-content/uploads/2014/10/filmon-logo.png</thumbnail>
 </item>
 
-<item>
-<title>BBC 1 Scotland</title>
-<ftv>3166</ftv>
-<thumbnail>http://img1.wikia.nocookie.net/__cb20130320093820/logopedia/images/d/d6/BBC_Scotland_logo.png</thumbnail>
-</item>
-
-<item>
-<title>BBC 2</title>
-<ftv>25</ftv>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/BBC_Two_HD.svg/1280px-BBC_Two_HD.svg.png</thumbnail>
-</item>
-
-<item>
-<title>ITV</title>
-<ftv>11</ftv>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/44/ITV_HD_logo.svg/1280px-ITV_HD_logo.svg.png</thumbnail>
-</item>
-
-<item>
-<title>ITV+1</title>
-<ftv>1817</ftv>
-<thumbnail>http://1.bp.blogspot.com/-Il_K6df--7U/VhL0AkC0HBI/AAAAAAAAAvQ/267Eha9nc5Q/s640/itv1_plus1.png</thumbnail>
-</item>
-
-<item>
-<title>ITV2</title>
-<ftv>67</ftv>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/ITV2_HD.svg/278px-ITV2_HD.svg.png</thumbnail>
-</item>
-
-<item>
-<title>ITV2+1</title>
-<ftv>1820</ftv>
-<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2011/08/itv2+1-logo-300x97.png</thumbnail>
-</item>
-
-<item>
-<title>ITV3</title>
-<ftv>26</ftv>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ITV3_HD.svg/1280px-ITV3_HD.svg.png</thumbnail>
-</item>
-
-<item>
-<title>ITV3+1</title>
-<ftv>1823</ftv>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ITV3_HD.svg/1280px-ITV3_HD.svg.png</thumbnail>
-</item>
-
-<item>
-<title>ITV4</title>
-<ftv>101</ftv>
-<thumbnail>http://theident.gallery/itv4/xmas2013/ITV4-2013-XMAS-PROMO-1-4.jpg</thumbnail>
-</item>
-
-<item>
-<title>ITV4+1</title>
-<ftv>1826</ftv>
-<thumbnail>http://www.satellitetveurope.co.uk/IMAGES/astra2/itv4_plus1.jpg</thumbnail>
-</item>
-<item>
-<title>QUEST</title>
-<ftv>2707</ftv>
-<thumbnail>http://212.83.144.179/mytvuknew/img/logos/quest.png</thumbnail>
-</item>
-
-<item>
-<title>ITVBE</title>
-<ftv>3211</ftv>
-<thumbnail>http://cdn.itv.com/uploads/editor/fueVEODDx1AknYpGeZDK0h4C8N_Nu8IAs0T6KSZkTnM.jpg</thumbnail>
-</item>
-
-<item>
-<title>BBC 3</title>
-<ftv>113</ftv>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/5/53/BBC_Three_HD.svg/1000px-BBC_Three_HD.svg.png</thumbnail>
-</item>
-<item>
-<title>BBC 4</title>
-<ftv>103</ftv>
-<thumbnail>https://upload.wikimedia.org/wikipedia/el/f/f8/BBC_Four_HD.png</thumbnail>
-</item>
- <item>
-<title>CHANNEL 4</title>
-<ftv>2</ftv>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Channel_4HD_Logo.svg/1280px-Channel_4HD_Logo.svg.png</thumbnail>
-</item>
-
-<item>
-<title>CHANNEL 5</title>
-<ftv>22</ftv>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/archive/5/5d/20140117201447!5HD_Logo.png</thumbnail>
-</item>
-<item>
-<title>MORE4</title>
-<ftv>97</ftv>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/7/79/More4_logo.svg/932px-More4_logo.svg.png</thumbnail>
-</item>
-<item>
-<title>DAVE</title>
-<ftv>370</ftv>
-<thumbnail>http://www.astrasat.tv/demo/wp-content/uploads/2013/10/dave_hd.png_1613935029.png</thumbnail>
-</item>
-<item>
-<title>E4</title>
-<ftv>65</ftv>
-<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/6/65/E4_uk_hd.png/revision/latest?cb=20110828140109</thumbnail>
-</item>
 
 <item>
 <title>QVC UK HD</title>
@@ -141,104 +34,16 @@
 </stream>
 
 
-
-
-
-
-
+<title>QVC STYLE HD</title>
+<link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8</link>
+<thumbnail>https://assets.tvplayer.com/common/logos/256/Inverted/249.png</thumbnail>
+</item>
 <item>
-<title>[COLOR white]- tubtub streams poor quailty - -note stream have ads[/COLOR]</title>
-<link>http://xxx</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>QVC BEAUTY HD</title>
+<link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/23/QVC_Beauty_Style.png</thumbnail>
 </item>
 
-
-<item>
-<title>[COLOR red]- Toons - [/COLOR]</title>
-<link>http://xxx</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Toons Television Network</title>
-<link>http://72.13.93.186/TOONS?MSWMExt=.asf/</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>Betty Boop</title>
-<link>http://72.13.93.186/BETTYBOOP?MSWMExt=.asf</link>
-<thumbnail>http://s17.postimg.org/ce4fn9v3f/betty_boop.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>popeye</title>
-<link>http://72.13.93.186/POPEYE?MSWMExt=.asf</link>
-<thumbnail>http://s4.postimg.org/i2zseoec9/popeye.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR red]- kids - [/COLOR]</title>
-<link>http://xxx</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>kids westerns network.</title>
-<link>http://72.13.93.186/BOOGERVISION?MSWMExt=.asf/</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>eastsidekids</title>
-<link>http://72.13.93.186/eastsidekids?MSWMExt=.asf</link>
-<thumbnail>http://s15.postimg.org/um6blgzh3/east.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>Beverly Hill Billies</title>
-<link>http://72.13.93.186/beverlyhillbillies?MSWMExt=.asf</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/4/4e/The_Beverly_Hillbillies.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR red]- Westerns - [/COLOR]</title>
-<link>http://xxx</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-   
-
-<item>
-<title>Bonanza</title>
-<link>http://72.13.93.186/BONANZA?MSWMExt=.asf</link>
-<thumbnail>http://stuffpoint.com/bonanza/image/161430-bonanza-bonaza.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-
-
-<item>
-<title>whitehats</title>
-<link>http://72.13.93.186/whitehats?MSWMExt=.asf</link>
-<thumbnail>http://s15.postimg.org/5ax0r81hz/Whitehat.png</thumbnail>
-<fanart></fanart>
-</item>
 
 
 <item>
@@ -249,12 +54,4 @@
 </item>
 
 
-
-<item>
-<title>Family guy  </title>
-<link>http://iptvnation.com/familyguy.mp4</link>
-<thumbnail>http://www.highreshdwallpapers.com/wp-content/uploads/2014/06/HD-Family-Guy-Wallpaper.png</thumbnail>
-<fanart>http://www.drawnheroes.com/family-guy-pictures/family-guy-wallpapers/family-guy-griffin-family-watching-tv-wallpaper-1920x1080.jpg</fanart>
-
-</items>
 </stream>
