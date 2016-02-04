@@ -37,7 +37,7 @@ http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
 http://alforatlive.nanocdn.com:1935/live/alforat256/HasBahCa.m3u8
  Mobile/8H7 Safari/6533.18.5
 
-#EXTINF:-1 tvg-logo="https://goo.gl/8mGe7t",Al Kawthar
+#EXTINF:-1 tvg-logo="https://goo.gl/8mGe7t",Al Kawthar لاتعمل حاليا
 http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/BratuMarian.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="http://goo.gl/SPb1Zg",Al Kout
@@ -180,11 +180,6 @@ rtmp://livestreaming.itworkscdn.net/otvlive playpath=otvlive_1 swfUrl=http://pla
 #EXTINF:-1,Al_Donia tv
 rtmp://sama-tv.net/live/?gmswf=1499330773 playpath=samatv swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=addounia&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/addouniatv.htm
 
-
-#EXTINF:-1,LBC
-rtmp://web2.iptv-planet.com:1937/live2<playpath>lbc?cle=083117110032074097110032050052032049049032052048 <swfUrl>http://embed.iptv-planet.com/swfs/player.swf <pageUrl>http://embed.iptv-planet.com/embed.php?id=lbc <objectEncoding>
-#EXTINF:-1,MTV
-rtmp://web3.iptv-planet.com:1937/live2/mtv
 #EXTINF:-1,future tv
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_w657087134_b650000.m3u8
 #EXTINF:0,LBC
@@ -325,10 +320,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=8ITFSKZAXD4
 plugin://plugin.video.youtube/?action=play_video&videoid=y7B3BqUJbtk
 #EXTINF:-1,قناة الندى الفضائية
 plugin://plugin.video.youtube/?action=play_video&videoid=0G6qeODyRbc
-#EXTINF:-0, Dream 2
-rtmp://livestreaming5.onlinehorizons.net:1935/Dream2CH/livestream 
-#EXTINF:-1,الفضائية المصرية
-rtmp://46.165.220.232/live playpath=aloula42?id=241532&pk=a3a4bfb4a00927e58891bbe69ce0d151012854933a7dd665f6cebdeb7748ec93 swfUrl http://www.mipsplayer.com/content/scripts/fplayer.swf pageUrl=http://www.mipsplayer.com/embedplayer/aloula42/1/550/450 <objectEncoding>
+
 #EXTINF:-0,Dream_1
 rtmp://livestreaming5.onlinehorizons.net:1935/Dream2CH playpath=livestream swfUrl=https://www.onlinehorizons.net/livestreaming/DreamTV/flowplayer-3.2.18.swf live=1 pageUrl=https://www.onlinehorizons.net/livestreaming/DreamTV/Channels/index1.html
 #EXTINF:-1,Almihwar_tv
@@ -341,17 +333,10 @@ rtmp://livestreaming5.onlinehorizons.net/NTNNileCinema playpath=livestream swfUr
 rtmp://livestreaming5.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=life
 #EXTINF:-1,NILE COMEDIE
 rtmp://livestreaming5.onlinehorizons.net/NTNNileComedy playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=comedy
-#EXTINF:-1,NILE FAMILLE
-rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily/livestream 
+
 
 #EXTINF:-16,NILE Sport
-rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport
-#EXTINF:-1, Nile Family
-rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily<playpath>livestream <swfUrl>http://niletc.tv/player/player.swf <pageUrl>http://niletc.tv/stream.php?ch=family <objectEncoding>
-#EXTINF:-1, Nile Life
-rtmp://livestreaming5.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf  pageUrl=http://niletc.tv/stream.php?ch=life 
-#EXTINF:-1, المصرية
-rtmp://livestreaming4.onlinehorizons.net:0/ERTUCH1<playpath>livestream <swfUrl>http://onlinehorizons.net/livestreaming/ertu/player.swf <pageUrl>http://onlinehorizons.net/livestreaming/ertu/indexch1.html <objectEncoding>
+
 #EXTINF:-1, القناة
 http://win15.yayin.com.tr/Alqanat/smil:Alqanat.smil/chunklist_w1370415133_b665536_t64U0Q=.m3u8
 #EXTINF:-1,218 TV
@@ -364,10 +349,7 @@ http://stream250.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/playlist.m3u
 
 #EXTINF:-1,النهار
 http://stream250.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/playlist.m3u8
-#EXTINF:-1,بنوراما دراما2
-rtmp://web3.iptv-planet.com:1937/live2<playpath>pd2?cle=083117110032074097110032050052032049049032052051 <swfUrl>http://embed.iptv-planet.com/swfs/player.swf <pageUrl>http://embed.iptv-planet.com/embed.php?id=pd2 <objectEncoding
-#EXTINF:0,Tok Tok Aflam
-http://2.109.65.142/masa/14206.m3u8?v=1279345274
+
  
 #EXTINF:0,Darbaka Aflam
 http://2.109.65.247/masa/24708.m3u8?v=1279345274
@@ -378,10 +360,10 @@ http://2.109.65.247/masa/24710.m3u8?v=1279345274
 #EXTINF:0,Bolika TV
 http://2.109.65.247/masa/24711.m3u8?v=1279345274
  
-#EXTINF:0,AlMasrawiya
+#EXTINF:0,AlMasrawiya لاتعمل حاليا
 http://2.109.65.247/masa/24713.m3u8?v=1279345274
  
-#EXTINF:0,Mazzica
+#EXTINF:0,Mazzica لاتعمل حاليا
 http://2.109.65.247/masa/24715.m3u8?v=1279345274
  
 #EXTINF:0,Cairo drama
@@ -397,7 +379,7 @@ http://2.109.65.142/masa/14210.m3u8?v=1279345274
 #EXTINF:0,Cinema PRO
 http://2.109.65.142/masa/14208.m3u8?v=117603230T
  
-#EXTINF:0,Tok Tok Aflam
+#EXTINF:0,Tok Tok Aflam لاتعمل حاليا
 http://2.109.65.142/masa/14205.m3u8?v=117603230T
 #EXTINF:0,Time cinema
 http://2.109.65.142/masa/14223.m3u8?v=1279345274
@@ -441,16 +423,6 @@ http://185.5.222.231:4242/bysid/5101
 #EXTINF:-1,Al thawra TV
 http://151.80.93.121:8081/althawratv_main/main/althawratv_main/live_720p/chunks.m3u8
 
-#EXTINF:-1,AL masriya
-http://srvs.topiptv.org:8000/live/Turki/Turki/329.m3u8
-
-#EXTINF:-1,AL masriya 2
-http://srvs.topiptv.org:8000/live/Turki/Turki/342.m3u8
-#EXTINF:-1,Faraeen
-http://srvs.topiptv.org:8000/live/Turki/Turki/309.m3u8
-
-#EXTINF:-1,Cima
-http://srvs.topiptv.org:8000/live/Turki/Turki/319.m3u8
 
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
 http://jafaer-tv.com
