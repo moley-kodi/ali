@@ -340,7 +340,7 @@ http://stream250.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/playlist.m3u8
 #EXTINF:0,Darbaka Aflam
 http://2.109.65.247/masa/24708.m3u8?v=1279345274
  
-#EXTINF:0,LCD movies
+#EXTINF:0,LCD movies لاتعمل حاليا
 http://2.109.65.247/masa/24710.m3u8?v=1279345274
  
 #EXTINF:0,Bolika TV
@@ -362,7 +362,7 @@ http://2.109.65.142/masa/14209.m3u8?v=1279345274
 http://2.109.65.142/masa/14210.m3u8?v=1279345274
 
 
-#EXTINF:0,Cinema PRO
+#EXTINF:0,Cinema PRO لاتعمل حاليا
 http://2.109.65.142/masa/14208.m3u8?v=117603230T
  
 #EXTINF:0,Tok Tok Aflam لاتعمل حاليا
@@ -373,7 +373,7 @@ http://2.109.65.142/masa/14223.m3u8?v=1279345274
 #EXTINF:0,Time Aflam
 http://2.109.65.142/masa/14230.m3u8?v=117603230T
  
-#EXTINF:0,Cinema
+#EXTINF:0,Cinema لاتعمل حاليا
 http://2.109.65.142/masa/14202.m3u8?v=117603230T
 #EXTINF:0,Melody aflam
 http://38.96.148.163/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1176032304
@@ -383,7 +383,7 @@ http://38.96.148.163//MelodyDrama/smil:drama.smil/chunklist_w659482942_b500000.m
 #EXTINF:-1,Melody Classic
 http://38.96.148.163/MelodyClassic/smil:classic.smil/chunklist_w63959344_b2400000.m3u8
 
-#EXTINF:0,Cima Ali baba Aflam
+#EXTINF:0,Cima Ali baba Aflam لاتعمل حاليا
 http://2.109.65.247/masa/24706.m3u8
 #EXTINF:0,Time comedy
 http://2.109.65.142/masa/14201.m3u8?v=117603230T
@@ -427,9 +427,8 @@ http://188.247.93.26:1935/live/anb.stream_360p/playlist.m3u8
 rtmp://ns8.indexforce.com/ann/ann
 #EXTINF:-1 group-title=”ARABIC”,AL HADATH الحدث 
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1 group-title=”ARABIC”,AL HURRA قناة الحرة
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1 , Aljazeera
+
+#EXTINF:-1 , Aljazeera لاتعمل حاليا
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_264.m3u8
 
 #EXTINF:-1 group-title=”ARABIC”,ABC NEWS
