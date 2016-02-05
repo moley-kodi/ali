@@ -48,6 +48,17 @@ http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=/.ts
 http://46.40.5.99:8000/mgm_720
 #EXTINF:-1,Sky comedy
 http://top-iptv.zapto.org:8000/live/walid/walid/544.m3u8
+#EXTINF:-1,Fox Europe
+http://46.40.5.99:8000/fox_720
+
+#EXTINF:-1,FoxLife Europe 
+http://46.40.5.99:8000/foxlife_720
+
+
+
+#EXTINF:-1,Comedy Central Extra Europe
+http://77.76.140.251:22637/udp/231.2.2.26:1234
+
 
 #EXTINF:-1,Dubai One
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
@@ -88,7 +99,8 @@ http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
 
 #EXTINF:-1, BNN
 http://realitatea.m247.ro/hls/live.m3u8
-
+#EXTINF:-1,AXN Black Europe
+http://77.76.140.251:22637/udp/231.2.3.37:1234
 
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/3807.jpg", NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
