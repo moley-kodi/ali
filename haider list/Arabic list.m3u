@@ -650,10 +650,13 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8?b
 http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
 #EXTINF:-1, براعم 
 http://78.100.40.195:1935/brm/brm/chunklist.m3u8?wowzasessionid=2061182377
-#EXTINF:-1,Baraem
-rtmp://AgendaStreamer2.qna.org.qa/brm/brm
-#EXTINF:-1,Karameesh Kids
-http://38.99.146.36:7777/Karameesh_HD.m3u8
+#EXTINF:,كناري 2
+http://player-api.new.livestream.com/accounts/13608789/events/4113534/broadcasts/111406795.smil
+
+#EXTINF:,كناري
+http://livestream-f.akamaihd.net/13608789_4113534_71ec50fd_1_446@362331?v=3.6.0&fp=WIN 20,0,0,286&r=NWBJI&g=WAGDSZSYOLCP
+
+
 #EXTINF:-1, كارتون نت ورك TV
 http://54.255.155.24:1935/Live/_definst_/sweetbcha1novD28_W_250.sdp/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://channelpear.com/images/media/7188.jpg", SpongeBob (24/7)
@@ -668,30 +671,11 @@ http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332/ParaKodi.ts
 http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332/ParaKodi.ts
 #EXTINF:-1,Smile Of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
-#EXTINF:-1,Disey Junior
-http://s2.iptvapi.com:8081/DIJR/index.m3u8?token=B8JyzC5nbDgVNMgWv2NfRQ&e=1451450115&u=48394&channel=DIJR
-#EXTINF:-1, Boom Kids
-http://s2.iptvapi.com:8081/BOO/index.m3u8?token=O4SQPQ4rxkCmtH0y9U03JQ&e=1451451086&u=48394&channel=BOO
+
 #EXTINF:-1,Gem_Junior
 rtmp://63.237.48.23:1935/live playpath=GEM_JUNIOR swfUrl=http://oklivetv.com/xplay/swf/GrindPlayer.swf live=1 pageUrl=http://oklivetv.com/xplay/xplay.php?idds=4f545131
 #####
 
-#EXTINF:-1,SPACETOON ARABIC
-http://srvs.topiptv.org:8000/live/Turki/Turki/407.m3u8
-#EXTINF:-1,Ajial Kids
-http://srvs.topiptv.org:8000/live/Turki/Turki/41.m3u8
-#EXTINF:-1,Braem Kids
-http://srvs.topiptv.org:8000/live/Turki/Turki/103.m3u8
-#EXTINF:-1,Toyor Al Janah
-http://srvs.topiptv.org:8000/live/Turki/Turki/106.m3u8
-#EXTINF:-1,Cartoon Network ARABIA
-http://srvs.topiptv.org:8000/live/Turki/Turki/248.m3u8
-#EXTINF:-1,KOKY TV
-http://srvs.topiptv.org:8000/live/Turki/Turki/372.m3u8
-#EXTINF:-1,Micky Kids
-http://srvs.topiptv.org:8000/live/Turki/Turki/367.m3u8
-#EXTINF:-1,CANARY TV
-http://srvs.topiptv.org:8000/live/Turki/Turki/356.m3u8
 ######
 
 
@@ -707,11 +691,7 @@ http://streaming.i-sat.tv:1935/live/aghanina.stream_360p/chunklist_w378813722.m3
 #EXTINF:0,MARINA FM
 rtmp://38.96.175.16/live/MarinaFM2
 
-#EXTINF:-1,Z Cinema سينما هندي
-http://stream.zeefamily.tv/zeecinema/index.m3u8
 
-#EXTINF:-1, Classic Cinema سينما هندي
-http://stream.zeefamily.tv/zeeclassic/index.m3u8
 
 ##############################################33
 #EXTINF:0,bbc arabic
