@@ -24,28 +24,28 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&
 http://rt.ashttp6.visionip.tv/live/RT_America-HD/chunklist.m3u8
 #EXTINF:-1,Fox 59
 http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
-#EXTINF:-1,FOx 1 HD
+#EXTINF:-1,FOx 1 HD (Not working)
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?supertvlat=/.ts
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
-#EXTINF:-1,Fox Classics
+#EXTINF:-1,Fox Classics (Not working)
 http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?supertvlat=/.ts
 
-#EXTINF:-1,Fox Action HD
+#EXTINF:-1,Fox Action HD (Not working)
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?supertvlat=/.ts
 #EXTINF:0, Fox Comedy
 http://31.220.41.107/LiveEdge/FOXComedyLASD/chunklist_w468984425_b1000000.m3u8?token=cb28c609b7912a2148b947adbed8bb59
-#EXTINF:-1,Warner TV HD
+#EXTINF:-1,Warner TV HD (Not working)
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?supertvlat=/.ts
 #EXTINF:-1,GINX
 http://204.107.26.252:1935/live/796.high.stream/chunklist_w1818870275.m3u8
-#EXTINF:-1,WBTV
+#EXTINF:-1,WBTV (Not working)
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?supertvlat=/.ts
 
-#EXTINF:-1,Fox 
+#EXTINF:-1,Fox (Not working)
 http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 #EXTINF:-1,AMC
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=/.ts
-
+http://46.40.5.99:8000/mgm_720
 #EXTINF:-1,Sky comedy
 http://top-iptv.zapto.org:8000/live/walid/walid/544.m3u8
 
