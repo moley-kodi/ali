@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
+
+
+ <streaminginfo>
+        <cname>Echorouk Tv</cname>
+        <item>
+             <title>ttt </title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=echourouk&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=echourouk&amp;width=600&amp;height=400</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=echourouk&amp;width=600&amp;height=400</page>
+            </regex>
+        </item>
+    </streaminginfo>
+
+
+
+
+
+
 <streaminginfo>
         <cname>Echorouk Tv</cname>
         <item>
