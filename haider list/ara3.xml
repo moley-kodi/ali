@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <streaminginfo>
-	<cname>Almayadeen</cname>
-	<item>
-	<title>Almayadeen</title>
-	<link>$doregex[geturl]</link>
-	<regex>
-    <name>geturl</name>
-    <expres>flashvars.src='(.*?)'</expres>
-    <page>http://www.almayadeen.net/live</page>
-    <cookieJar></cookieJar>
-	</regex>
-	</item>
+        <cname>Dzair tv</cname>
+        <item>
+            <title>mbc 1</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=600&amp;height=400</page>
+            </regex>
+            <regex>http://iptv-planet.com/dzair_tv.php
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/dzair_tv.php</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=600&amp;height=400</page>
+            </regex>
+        </item>
 </streaminginfo>
-
 
 
 
