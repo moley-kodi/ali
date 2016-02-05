@@ -216,28 +216,20 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp
 #EXTINF:-1,Kuwait Tv 2
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
-#EXTINF:-1,KAS
-http://137.135.64.32:1935/kas/kas/gmswf.m3u8
 
-#EXTINF:-1,sudia ekhbariya
-www.elahmad.com/tv/m3u8/sauditv.m3u8?id=ekhbariyatv
 
 #EXTINF:-1,Alwatan Plus
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8
-#EXTINF:-1,BAHRIN
-rtmp://alayam.netromedia.net/btv2 playpath=btv2 swfUrl=http://player.netromedia.com/flowplayer.commercial-3.2.18.swf pageUrl=http://player.netromedia.com/?ID=4d0292f1-e996-4dff-bdcd-01bf49aea468&iframe=true&autoPlay=true&scaling=scale
 #EXTINF:-1,AL SHARJAH
 rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
 
 #EXTINF:-1 <thumbnail>http://giniko.com/logos/190x110/184.jpg</thumbnail>, oman tv 1
 http://38.96.148.30:1935/live/omantv1/playlist.m3u8
 
-#EXTINF:-1, روتانا خليجية
-plugin://plugin.video.youtube/?action=play_video&videoid=d7PSti__6-E
+
 #EXTINF:-1,qatar tv
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=qatartv
-#EXTINF:-1,oman tv 
-http://38.96.148.30:1935/live/omantv1/gmswf.m3u8?v=1053886998
+
 #EXTINF:-1,koweit_1
 http://stream03.fasttelco.net:1935/live/_definst_/ktv1_480.stream/playlist.m3u8
 #EXTINF:-1,koweit_2
@@ -251,8 +243,6 @@ http://stream03.fasttelco.net:1935/live/_definst_/ktv6_480.stream/playlist.m3u8
 #EXTINF:-1,koweit_almajlis
 http://stream03.fasttelco.net:1935/live/_definst_/ktv7_480.stream/playlist.m3u8
 
-#EXTINF:-1,Yemen Alyawm
-http://api.new.livestream.com/accounts/13816375/events/4102747/broadcasts/110473494.m3u8?dw=100&hdnea=st=1453777084~exp=1453778884~acl=/i/13816375_4102747_4d193120_1@362834/*~hmac=c2e7fd28d3d52bbebbfdfc75e3468adeb6d11f48c162a86abade83b0fd060115
 
 #EXTINF:-1,قطر اليوم 
 http://82.212.95.122:1935/live/qatar/gmswf.m3u8
@@ -267,16 +257,11 @@ http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8
 http://stream03.fasttelco.net:1935/live/_definst_/ktv3_480.stream/playlist.m3u8
 #EXTINF:-1,koweit_sport plus
 http://stream03.fasttelco.net:1935/live/_definst_/ktv4_480.stream/playlist.m3u8
-#EXTINF:-1 group-title=”ARABIC”,MBC PROSPORT1
-http://intigral_live-lh.akamaihd.net/i/DPS3SPLITDXRAD150315_1@129126/index_512_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=”ARABIC”,MBC PROSPORT2
-http://intigral_live-lh.akamaihd.net/i/DPS3SPLFTHXTWN070315_1@129126/index_1200_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,Dubai Sport 3
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1,Al-Kass
-http://137.135.64.32:1935/kas/kas/gmswf.m3u8
+
 #EXTINF:-1,oman sport 
 http://38.96.148.30:1935/live/omantv2/gmswf.m3u8?v=1053886998
 
