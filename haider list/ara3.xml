@@ -3,14 +3,14 @@
 
 
 <streaminginfo>
-		<cname>العراقية</cname>
+		<cname>BBC Two</cname>
 		<item>
-			<title>giniko</title>
+			<title>العراقية</title>
 			<link>$doregex[url]</link>
 				<regex>
 				<name>url</name>
 				<expres>file: "([^"]*)</expres>
-				<page>http://giniko.com/watch.php?id=182</page>
+				<page>http://giniko.com/watch.php?id=27</page>
 				</regex>
 				</item>
 	</streaminginfo>
