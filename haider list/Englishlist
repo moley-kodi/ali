@@ -16,6 +16,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=y60wDzZt8yg
 http://edge1.everyon.tv/etv1sb/phd16/chunklist_w1519714347.m3u8
 #EXTINF:-1, CNN
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/chunklist.m3u8
+#EXTINF:0,BBC News
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1MzoxNCBQTSZoYXNoX3ZhbHVlPW05Zkc1bThtWUhkQVByMGhxMXFPaGc9PSZ2YWxpZG1pbnV0ZXM9MjA=/bbcnews.stream
+
 #EXTINF:-1,CNBC
 http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
 #EXTINF:-1,ABC News
@@ -32,6 +35,12 @@ rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxODozNiB
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNjoyNSBQTSZoYXNoX3ZhbHVlPVE1UEtxdVErTVUwT2tteE1EK3ZnZXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/amchd.stream
 #EXTINF:0,AMC
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNzo0NSBQTSZoYXNoX3ZhbHVlPThiV3VyRm9GOWxxRVVVUEFQOUtiZ2c9PSZ2YWxpZG1pbnV0ZXM9MjA=/amc9.stream
+#EXTINF:0,CBS Action
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjowMDowNSBQTSZoYXNoX3ZhbHVlPXZkTnpRM1Z1VGdXRFh6MGlRakI0M3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/cbsaction.stream
+#EXTINF:0,CBS Drama
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjowMzoyNSBQTSZoYXNoX3ZhbHVlPVZ4WkpOK3E4ZEtXWmRjaTU5QjdsRXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/cbsdrama.stream
+#EXTINF:0,CBS Reality
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjowNDo0OCBQTSZoYXNoX3ZhbHVlPXd6b0ZrMkcvbHVSemFDeUlkMCtlT1E9PSZ2YWxpZG1pbnV0ZXM9MjA=/cbsreality.stream
 
 
 #EXTINF:0,BBC 1
@@ -43,7 +52,8 @@ rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1NTowOCB
 #EXTINF:0,BBC 4
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1MjoyNCBQTSZoYXNoX3ZhbHVlPXhKWEFuZFpNc3Y4QVBjV3lVRE11VEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/bbc4.stream
 
-
+#EXTINF:0,FOX HD
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyODo1OCBQTSZoYXNoX3ZhbHVlPU4raGN6dHJ1VFN2RmtQT3F1bkNZRlE9PSZ2YWxpZG1pbnV0ZXM9MjA=/foxhd.stream
 #EXTINF:-1,FOx 1 HD (Not working)
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?supertvlat=/.ts
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -88,8 +98,21 @@ http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 #EXTINF:-1,RT DOcumentary
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
-#EXTINF:-1,NDTV news
-http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8
+#EXTINF:0,HISTORY
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozMzo1NSBQTSZoYXNoX3ZhbHVlPVl3S3BaMjdicDFDVDRweTd6WWpBRGc9PSZ2YWxpZG1pbnV0ZXM9MjA=/history.stream
+#EXTINF:0,HISTORY 2 (H2)
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozMjoyNyBQTSZoYXNoX3ZhbHVlPTdZU1E1KzNnWWZicjZFMUhzRkprVFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/h2.stream
+
+#EXTINF:0,Discovery
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxMjozNCBQTSZoYXNoX3ZhbHVlPWFRU2FTSUxRT2ErYkVMOE5IVUxMY3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/discovery.stream
+#EXTINF:0,Discovery History
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxOToyMSBQTSZoYXNoX3ZhbHVlPURISUJVS3VCR0xYTWMrNHRjQW5MeEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/discoveryh.stream
+#EXTINF:0,Science Discovery
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyMDowMiBQTSZoYXNoX3ZhbHVlPUI4dHYvWGpyQk1RUFIrdW05SUo1Y2c9PSZ2YWxpZG1pbnV0ZXM9MjA=/discoverys.stream
+#EXTINF:0,NAT GEO
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozNzo0NCBQTSZoYXNoX3ZhbHVlPWlPL2U3VGlhNlBnM0d6WE8vZTBKcXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/natgeo.stream
+#EXTINF:0,NAT GEO WILD
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozOTo0MCBQTSZoYXNoX3ZhbHVlPWZFOURJVW5aOE5udTBMVlVhd3dBMGc9PSZ2YWxpZG1pbnV0ZXM9MjA=/natgeow.stream
 
 #EXTINF:-1,OPTV world
 http://app.pakistanvision.tv:1935/live/8090/player.m3u8
@@ -119,6 +142,8 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:-1,miami tv +18
 http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
+#EXTINF:0,E
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyMjo0MiBQTSZoYXNoX3ZhbHVlPVpBbjJXMVREaXlUcDFyK1haQ3pOZ1E9PSZ2YWxpZG1pbnV0ZXM9MjA=/ee.stream
 
 #EXTINF:-1, BNN
 http://realitatea.m247.ro/hls/live.m3u8
@@ -165,6 +190,10 @@ http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332/ParaKodi.ts
 http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332/ParaKodi.ts
 #EXTINF:-1,Smile Of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
+#EXTINF:0,Disney
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyMTowMyBQTSZoYXNoX3ZhbHVlPTIwazVZL1ZnL2dKKzNwL2lnRC8zZFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/disney.stream
+#EXTINF:0,Disney Jr
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyMTo0NSBQTSZoYXNoX3ZhbHVlPXkrR2dic0hRRTZEb2poSTNFdjJJZGc9PSZ2YWxpZG1pbnV0ZXM9MjA=/disneyjrr.stream
 
 
 #EXTINF:-1,SYFY
