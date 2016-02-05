@@ -1,167 +1,5 @@
 
 
-
--------------------------------------
-<item>
-<title>LIVE TV,Sports,Movies,Shows</title>
-<link>$doregex[pagelist]</link>
-<thumbnail>http://images.clipartlogo.com/files/images/13/134575/ilive_p.png</thumbnail>
-<regex>
-      <name>pagelist</name>
-      <listrepeat><![CDATA[
-               <title>[COLOR blue]Page - [/COLOR][pagelist.param1]</title>
-               <link>$doregex[makelist]</link>
-               <thumbnail>http://images.clipartlogo.com/files/images/13/134575/ilive_p.png</thumbnail>
-      ]]></listrepeat>
-      <expres>q=.*?(\d.*?)<</expres>
-      <page>$doregex[num1]</page>
-</regex>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR blue]BES-IPTV - [/COLOR][makelist.param3]</title>
-<link>$doregex[loadcookie]$doregex[get-rtmp-code]$doregex[savecookie]</link>
-<thumbnail>http:[makelist.param2]</thumbnail>
-]]></listrepeat>
-<expres>view.(\d+).+\n.+src="(.*?jpg)".+alt="(.*?)".*\n.*\n.*?\t{17}<\/</expres>
-<page>http://www.streamlive.to/?p=[pagelist.param1]&amp;q=</page>
-</regex>
-<regex>
-<name>num</name>
-<expres>13px*?(.*?)span</expres>
-<page>http://www.streamlive.to/</page>
-</regex>
-<regex>
-<name>num1</name>
-<expres>$pyFunction:'$doregex[num]'.replace(' 1 ','q=xx1')</expres>
-<page></page>
-</regex>
- 
-<regex>
-<name>savecookie</name>
-<expres></expres>
-<page></page>
-<cookieJar>save[streamlive1.lwp]</cookieJar>
-</regex>
- 
-<regex>
-<name>get-rtmp-code</name>
- 
- 
-<expres><![CDATA[#$pyFunction
-import requests,xbmcgui,xbmc
-import re,os,time
-import xbmcaddon,xbmc,cookielib
- 
-def calculateauto(question):
-    try:
-        ans=str(eval(question.split(':')[-1].replace('=?','').strip()))
-        print 'q2'
-    except:
-        ans=question.split(':')[-1].strip()
-        print 'q3'
-       
-    return ans
- 
-def GetLSProData(page_data,Cookie_Jar,m,url='http://www.streamlive.to/view/[makelist.param1]/'):
- 
- headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
- page =url
- session = requests.Session()
- if Cookie_Jar==None:
-  Cookie_Jar=cookielib.LWPCookieJar()
- session.cookies = Cookie_Jar
- 
- source = session.get(page, headers=headers )
- 
- question = re.findall('(Question.*?)\<', source.text)
- if len(question)>0:
-  question=question[0]
-  print question
-  addon       = xbmcaddon.Addon()
- 
-  autodone=False
-  try:
-   
-   text=calculateauto(question)
-   data = {"captcha": text}
-   headers2 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Content-Type': 'application/x-www-form-urlencoded', 'Referer': page}
-   source2= session.post(page, headers = headers2, data= data)  
-   question = re.findall('(Question.*?)\<', source2.text)
-   if len(question)>0:
-    question=question[0]
-   else:
-    autodone=True
-  except: pass
- 
-  if not autodone:
-   text=takeInputFortext(question)
-   data = {"captcha": text}
-   headers2 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Content-Type': 'application/x-www-form-urlencoded', 'Referer': page}
-   source2= session.post(page, headers = headers2, data= data)
- else:
-  source2=source
- 
- tokpg = re.findall('getJSON\("(.*?)"', source2.text)[0]
- xs = re.findall('(\?xs=.*?)"', source2.text)[0]
- playpath = re.findall('file: "(.*).flv', source2.text)[0]
- 
- headers3 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': 'https://www.streamlive.to'}
- 
- source3 = session.get(tokpg, headers=headers3)
- token = re.findall('token":"(.*?)"', source3.text)[0]
- 
- 
- 
- return 'rtmp://watch4.streamlive.to:1935/edge app=edge/_definst_/' + xs + ' playpath=' + playpath + ' swfVfy=1 token=' + token + ' swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15'
- 
-def takeInputFortext(txt):
- addon = xbmcaddon.Addon('plugin.video.live.streamspro')
- addon_version = addon.getAddonInfo('version')
- profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
- 
- solver = InputWindow( txt=txt)
- solution = solver.get()
- return solution
- 
-class InputWindow(xbmcgui.WindowDialog):
-    def __init__(self, *args, **kwargs):
- 
-       
-        self.txt = kwargs.get('txt','')
- 
-        xbmcgui.WindowXMLDialog.__init__(self)
-        #self.addControl(self.txt)
-        path = xbmcaddon.Addon().getAddonInfo('path')
-        self.kbd = xbmc.Keyboard()
-        self.kbd.setHeading( self.txt)
- 
- 
- 
-    def get(self):
-        self.show()
-        time.sleep(2)
-        self.kbd.doModal()
-        if (self.kbd.isConfirmed()):
-            text = self.kbd.getText()
-            self.close()
-            return text
-        self.close()
-        return False
-       
-]]></expres>
-<page></page>
-</regex>
- 
-<regex>
-<name>loadcookie</name>
-<expres></expres>
-<page></page>
-<cookieJar>open[streamlive1.lwp]</cookieJar>
-</regex>
- 
-</item>
-
 ----------------------------------------------------------
 
 
@@ -177,91 +15,6 @@ class InputWindow(xbmcgui.WindowDialog):
 <thumbnail>http://i0.wp.com/teaser-trailer.com/wp-content/uploads/Mercury-Plains-Movie-Poster.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR white][B]BEIN 1HD [/B][/COLOR]</title>
-<sportsdevil>http://www.liveonlinetv247.info/beinsports1.php</sportsdevil>
-<referer>http://showsport-tv.com/</referer>
-<thumbnail>http://www.lyngsat-logo.com/hires/bb/be_in_sports_1.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR white][B] BEIN 2HD [/B][/COLOR]</title>
-<sportsdevil>http://www.liveonlinetv247.info/beinsports2.php</sportsdevil>
-<referer>http://www.ultracast.me/</referer>
-<thumbnail>http://www.lyngsat-logo.com/hires/bb/be_in_sports_2.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white][B]BEIN 3HD [/B][/COLOR]</title>
-<sportsdevil>http://www.liveonlinetv247.info/beinsports3.php</sportsdevil>
-<referer>http://showsport-tv.com/</referer>
-<thumbnail>http://www.lyngsat-logo.com/hires/bb/be_in_sports_3.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white][B]BEIN 4HD[/B][/COLOR]</title>
-<sportsdevil>http://www.liveonlinetv247.info/beinsports4.php</sportsdevil>
-<referer>http://showsport-tv.com/</referer>
-<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/c/c3/Bein_4.png/revision/latest?cb=20140122190100</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white][B]BEIN 5HD [/B][/COLOR]</title>
-<sportsdevil>http://www.liveonlinetv247.info/beinsports5.php</sportsdevil>
-<referer>http://showsport-tv.com/</referer>
-<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/c/c3/Bein_5.png/revision/latest?cb=20140122190100</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white][B]BEIN 6HD [/B][/COLOR]</title>
-<sportsdevil>http://www.liveonlinetv247.info/beinsports6.php</sportsdevil>
-<referer>http://showsport-tv.com/</referer>
-<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/c/c3/Bein_6.png/revision/latest?cb=20140122190100</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white][B]BEIN 7HD[/B][/COLOR]</title>
-<sportsdevil>http://www.liveonlinetv247.info/beinsports7.php</sportsdevil>
-<referer>http://www.ultracast.me/</referer>
-<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/c/c3/Bein_7.png/revision/latest?cb=20140122190100</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white][B]BEIN 8HD [/B][/COLOR]</title>
-<sportsdevil>http://www.liveonlinetv247.info/beinsports8.php</sportsdevil>
-<referer>http://www.ultracast.me/</referer>
-<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/c/c3/Bein_8.png/revision/latest?cb=20140122190100</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white][B]BEIN 9HD [/B][/COLOR]</title>
-<sportsdevil>http://www.liveonlinetv247.info/beinsports9.php</sportsdevil>
-<referer>http://www.ultracast.me/</referer>
-<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/c/c3/Bein_9.png/revision/latest?cb=20140122190100</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white][B]BEIN 10HD [/B][/COLOR]</title>
-<sportsdevil>http://www.liveonlinetv247.info/beinsports10.php</sportsdevil>
-<referer>http://www.ultracast.me/</referer>
-<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/c/c3/Bein_10.png/revision/latest?cb=20140122190100</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white][B]BEIN 11HD [/B][/COLOR]</title>
-<sportsdevil>http://www.liveonlinetv247.info/beinsports11.php</sportsdevil>
-<referer>http://www.ultracast.me/</referer>
-<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/c/c3/Bein_11.png/revision/latest?cb=20140122190100</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white][B]BEIN 12HD [/B][/COLOR]</title>
-<sportsdevil>http://www.liveonlinetv247.info/beinsports12.php</sportsdevil>
-<referer>http://www.ultracast.me/</referer>
-<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/c/c3/Bein_12.png/revision/latest?cb=20140122190100</thumbnail>
-</item>
 
 </items>
 </streaminginfos>
@@ -277,33 +30,17 @@ class InputWindow(xbmcgui.WindowDialog):
 <thumbnail>http://img1.wikia.nocookie.net/__cb20100323073441/logopedia/images/3/3a/Golf_Channel_2008.png</thumbnail>
 </item>
 
-item>
+<item>
 <title>BTN </title>
 <link>http://ooyalahd2-f.akamaihd.net/i/eschi002_delivery@198517/master.m3u8 </link>
 <thumbnail>http://www.nr4w.com/wp-content/uploads/2014/11/btn.jpg</thumbnail>
 </item>
 
 
-<item>
-<title>ESPN </title>
-<link>http://sawlive.tv/embed/vrljet1</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us_alternate.png </thumbnail>
-</item>
 
 
 
-<item>
-<title>ESPN </title>
-<link>http://www.sdw-net.co/channels/ESPN-US.html</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us_alternate.png </thumbnail>
-</item>
 
-
-<item>
-<title>ESPN </title>
-<link>rtmp://31.220.2.149:80/live playpath=espnusa swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=espnusa&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/espn_us_alternate.png </thumbnail>
-</item>
 
 
 
