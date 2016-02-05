@@ -3,17 +3,17 @@
 
 
 <streaminginfo>
-		<cname>BBC Two</cname>
-		<item>
-			<title>العراقية</title>
-			<link>$doregex[url]</link>
-				<regex>
-				<name>url</name>
-				<expres>file: "([^"]*)</expres>
-				<page>http://giniko.com/watch.php?id=27</page>
-				</regex>
-				</item>
-	</streaminginfo>
+<cname>العراقية</cname>
+<item>
+<title>العراقية</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://giniko.com/watch.php?id=80</page>
+</regex>
+</item>
+</streaminginfo>
 
 
 
