@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <streaminginfo>
-        <cname>/cname>
+        <cname>Echorouk Tv</cname>
         <item>
-            <title>art test</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <title>art </title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artcinema&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/artcinema.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=600&amp;height=400</page>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=artcinema&amp;width=600&amp;height=400</page>
             </regex>
-            <regex>http://iptv-planet.com/artcinema.php
+            <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/artcinema.php</referer>
-                <page>http://embed.iptv-planet.com/artcinema.php&amp;width=600&amp;height=400</page>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=artcinema&amp;width=600&amp;height=400</page>
             </regex>
         </item>
-</streaminginfo>
+    </streaminginfo>
 
 
 
