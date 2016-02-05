@@ -5,12 +5,12 @@
 <streaminginfo>
 <cname>العراقية</cname>
 <item>
-<title>العراقية</title>
+<title>test</title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
 <expres>file: "([^"]*)</expres>
-<page>http://giniko.com/watch.php?id=80</page>
+<page>http://giniko.com/watch.php?id=182</page>
 </regex>
 </item>
 </streaminginfo>
