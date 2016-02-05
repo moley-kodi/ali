@@ -57,3 +57,18 @@ sublink:LISTNAME:[COLOR yellow]Sky Sports 5[/COLOR] - [COLOR blue]SD[/COLOR] ::L
 
 3333333333333
 
+
+
+<streaminginfo>
+		<cname>BBC Two</cname>
+		<item>
+			<title>giniko</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>file: "([^"]*)</expres>
+				<page>http://giniko.com/watch.php?id=190</page> تاخذ من
+				</regex>
+				</item>
+	</streaminginfo>
+
