@@ -20,26 +20,7 @@ rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl
 
 #EXTINF:-1, Bein Sport AR
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
-#EXTINF:0,beIN SPORT1
-http://bit.do/iptvsportt1
-#EXTINF:0,beIN SPORT2
-http://bit.do/iptvsportt2
-#EXTINF:0,beIN SPORT3
-http://bit.do/iptvsportt3
-#EXTINF:0,beIN SPORT4
-http://bit.do/iptvsportt4
-#EXTINF:0,beIN SPORT5
-http://bit.do/iptvsportt5
-#EXTINF:0,beIN SPORT6
-http://bit.do/iptvsportt6
-#EXTINF:0,beIN SPORT7
-http://bit.do/iptvsportt7
-#EXTINF:0,beIN SPORT8
-http://bit.do/iptvsportt8
-#EXTINF:0,beIN SPORT9
-http://bit.do/iptvsportt9
-#EXTINF:0,beIN SPORT10
-http://bit.do/iptvsportt10
+
 
 
 #EXTINF:-1, Bein Sport 2 AR
@@ -52,14 +33,12 @@ http://80.243.189.26:8181/pakindiatv/beinmas1/index.m3u8
 rtmp://89.248.174.38/live playpath=beinfr22 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf pageUrl=http://www.yocast.tv/embed.php?live=beinfr22&vw=600&vh=450 <objectEncoding>
 #EXTINF:0,bine sport Fr 2
 http://169.45.89.106:1935/app/bein2frlsh/playlist.m3u8
-#EXTINF:-1,beINSPORT04
-http://iphone-streaming.ustream.tv/ustreamVideo/21209072/streams/live/playlist.m3u8?v=1279345274
+
 #EXTINF:-1,beINSPORT06
 http://62.210.82.241:1935/liverepeat/7fd87a7be8b2b2426fc252653a5c34f8/playlist.m3u8?v=1279345274
 #EXTINF:-1,Bein Sports 11
 http://167.114.41.215:8080/bein11_j/bein11_j/index.m3u8
-#EXTINF:-1,bien sport Ar 12
-plugin://plugin.video.youtube/?action=play_video&videoid=8WhCIe-2yz4
+
 
 
 
