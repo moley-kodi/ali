@@ -24,6 +24,26 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&
 http://rt.ashttp6.visionip.tv/live/RT_America-HD/chunklist.m3u8
 #EXTINF:-1,Fox 59
 http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+#EXTINF:0,ABC HD
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNTozNCBQTSZoYXNoX3ZhbHVlPUx1cFEyd0xWYkRoemRNRitFVU9qamc9PSZ2YWxpZG1pbnV0ZXM9MjA=/abchd.stream
+#EXTINF:0,ABC
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxODozNiBQTSZoYXNoX3ZhbHVlPXMrWlZqNFVkVTQ2MjlWOVYzaDBhOWc9PSZ2YWxpZG1pbnV0ZXM9MjA=/abc9.stream
+#EXTINF:0,AMC HD
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNjoyNSBQTSZoYXNoX3ZhbHVlPVE1UEtxdVErTVUwT2tteE1EK3ZnZXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/amchd.stream
+#EXTINF:0,AMC
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNzo0NSBQTSZoYXNoX3ZhbHVlPThiV3VyRm9GOWxxRVVVUEFQOUtiZ2c9PSZ2YWxpZG1pbnV0ZXM9MjA=/amc9.stream
+
+
+#EXTINF:0,BBC 1
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1NDowOCBQTSZoYXNoX3ZhbHVlPTNETnM0UXlEZjIvM05qa3IvZFpma3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/bbc1.stream
+#EXTINF:0,BBC 2
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1NTo1NyBQTSZoYXNoX3ZhbHVlPTR5Q3dtWlUrdkRMYk5md1BaVFpqbFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/bbc2.stream
+#EXTINF:0,BBC 3
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1NTowOCBQTSZoYXNoX3ZhbHVlPVRqWFludmQraGIyZzVjRXFwRkQ0UHc9PSZ2YWxpZG1pbnV0ZXM9MjA=/bbc3.stream
+#EXTINF:0,BBC 4
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1MjoyNCBQTSZoYXNoX3ZhbHVlPXhKWEFuZFpNc3Y4QVBjV3lVRE11VEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/bbc4.stream
+
+
 #EXTINF:-1,FOx 1 HD (Not working)
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?supertvlat=/.ts
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -79,6 +99,9 @@ http://kalsegsec-a.akamaihd.net/dc-0/m/pa-live-publish3/kLive/smil:1_oorxcge2_pu
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1,Animal Plant 
 http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Animal Planet
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1MDo1NiBQTSZoYXNoX3ZhbHVlPU0zS2QwVFRmOU1Ba3libnMxUm5rVFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/animal.stream
+
 #EXTINF:-1,Discoveries
 http://162.212.176.83:8080/mystream1.m3u8
 #EXTINF:-1,Discovery USA
