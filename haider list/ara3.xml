@@ -2,7 +2,18 @@
 
 
 
-
+<streaminginfo>
+		<cname>العراقية</cname>
+		<item>
+			<title>giniko</title>
+			<link>$doregex[url]</link>
+				<regex>
+				<name>url</name>
+				<expres>file: "([^"]*)</expres>
+				<page>http://giniko.com/watch.php?id=182</page>
+				</regex>
+				</item>
+	</streaminginfo>
 
 
 
