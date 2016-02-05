@@ -3,23 +3,22 @@
 <streaminginfo>
         <cname>Dzair tv</cname>
         <item>
-            <title>mbc 1</title>
+            <title>art cinema</title>
             <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <referer>http://iptv-planet.com/artcinema.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=600&amp;height=400</page>
             </regex>
-            <regex>http://iptv-planet.com/dzair_tv.php
+            <regex>http://iptv-planet.com/artcinema.php
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/dzair_tv.php</referer>
+                <referer>http://iptv-planet.com/artcinema.php</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=600&amp;height=400</page>
             </regex>
         </item>
 </streaminginfo>
-
 
 
 
