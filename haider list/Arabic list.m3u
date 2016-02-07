@@ -10,7 +10,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR red]لمشاهدة قنوات ال MBC يرجى الذهاب الى \other Arabic  and go down to Arabic channles  [/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1,MBC 1 
-http://2.109.65.247/masa/24742.m3u8?v=2955693415
+http://bit.ly/1oilB7p
 #EXTINF:0,MBC Drama  لاتعمل حاليا
 http://2.109.65.247/masa/24744.m3u8?v=1279345274
 
