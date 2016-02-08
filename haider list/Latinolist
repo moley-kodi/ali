@@ -1,24 +1,48 @@
 #EXTM3U
 
-#EXTINF:-1,Fox 1 HD
-http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
-#EXTINF:-1,Fox 
-http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
-#EXTINF:-1,AMC
-http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=/.ts
-#EXTINF:-1,Dubai One
-http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
-#EXTINF:-1,BBC one
-http://198.179.30.109/live/14.high.stream/1451236055961.ts
+#EXTINF:-1,[COLOR yellow]--- MEXICO ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="azteca-trece.png" group-title="Variedades - Latinos",El Trece México
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8#
+
+#EXTINF:-1,Azteca 7 Monterrey México
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+
+#EXTINF:-1,Canal 2 Los Mochis México
+http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8
+
+#EXTINF:-1,Capital 21 México
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+
+#EXTINF:-1 tvg-id="SkyMX_I217.294819232.microsoft.com" tvg-name="MFOXLA217_MFOXLA217mundo_fox_latin_americanCable" tvg-logo="mundofox.png" group-title="Español",Mundo Fox
+http://66.55.92.79:1935/app/ana69s-channel/.m3u8
+
+#EXTINF:-1, TV Mas
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+#EXTINF:-1,Telemar Campeche México
+http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
+#EXTINF:-1,Canal Once
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8?
+#EXTINF:-1 group-title="LATAM",MEXIQUENSE MEXICO
+http://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1/mexiquense.m3u8
+#EXTINF:-1 group-title="LATAM",TELEMAR CAMPECHE MEXICO
+http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
+#EXTINF:-1 group-title="NEWS",AZTECA NOTICIAS MEXICO LATAM
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+
+#EXTINF:-1 group-title="Noticias",Canal del Congreso
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
 
 
-#EXTINF:-1,RTP 1
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:-1,RTP 2
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
+
+
 
 #EXTINF:-1,Lasexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on
+
+
+
 #EXTINF:-1,RTV Andorra
 http://194.158.80.31:443/live/rtva/playlist.m3u8
 #EXTINF:-1,3Cat
@@ -31,15 +55,14 @@ http://gstudio_hls04-lh.akamaihd.net:80/i/hls04stream001_0@348222/index_700_av-b
 http://hd.worldkast.com:1935/8436/8436/live.m3u8
 #EXTINF:-1,SMO TV
 http://199.217.118.90:1935/smotv/stream/live.m3u8
-#EXTINF:-1,SOLIDARIA TV
-http://188.165.135.22:1935/remararg/livestream/live.m3u8
-#EXTINF:-1,SULAVISION
-http://162.212.176.68:1935/sulavision/sulavision/live.m3u8
 
-#EXTINF:-1,TA TE TI
-http://ionlive1-lh.akamaihd.net:80/i/tateti_1@126174/master.m3u8
 #EXTINF:-1,TDC
 http://painel.serveron.com.br:1935/8166/8166/live.m3u8
+
+
+
+
+
 
 #EXTINF:-1,TELE AMIGA
 http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
@@ -58,10 +81,6 @@ http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
 http://movilstream.digitalproserver.com:1935/tcsc/tcscvivo/tcsc.smil/chunklist_b1248000.m3u8
 #EXTINF:-1,TELECARIBE
 http://cdns840stu1010.multistream.net:80/telecaribelive/amlst:live/chunklist_b500000.m3u8
-
-#EXTINF:-1,TELECEIBA
-http://162.212.176.68:1935/teleceiba/teleceiba/live.m3u8
-
 #EXTINF:-1,TELEDUNAMIS
 http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/teledunamis/live.m3u8
 #EXTINF:-1,TELEMAX
@@ -73,24 +92,7 @@ http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
 #EXTINF:-1,TELE MÚSICA
 http://186.155.200.118:1935/live/telemusica/livestream.m3u8
 #EXTINF:-1,TELE PROGRESO
-http://162.212.176.68:1935/teleprogreso/teleprogreso/live.m3u8
-#EXTINF:-1,TELE PROGRESO
 http://162.212.176.83:8080/teleprogreso.m3u8
-#EXTINF:-1,TELE SISTEMA
-http://162.212.176.68:1935/telesistema/telesistema/live.m3u8
-#EXTINF:-1,TELE SISTEMA
-http://162.212.176.83:8080/telesistema.stream.m3u8
-#EXTINF:-1,TELE SISTEMA
-http://mek4.mekstream.com:1935/telesistema/live2/livestream.m3u8
-#EXTINF:-1,TELE SISTEMA
-http://mek4.mekstream.com:1935/telesistema/telesistema.smil/live.m3u8
-
-#EXTINF:-1,TELESUR
-http://cdn2.telesur.ultrabase.net:1935/livecf/telesurLive/livestream.m3u8
-#EXTINF:-1,TELESUR
-http://q.gs/9830047/telesurtodokodim3u8
-#EXTINF:-1,TELE UNIVERSO
-http://ss7.domint.net:1942/tu_str/universo/live.m3u8
 #EXTINF:-1,TELE UNO TV
 http://k3.usastreams.com:1935/tvuno1/tvuno1/live.m3u8
 #EXTINF:-1,TELE VID
@@ -101,42 +103,24 @@ http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
 http://evo.eltelon.com:443/live/televida/livestream.m3u8
 #EXTINF:-1,TELE VIDA HD
 http://evo.eltelon.com:1935/live/televida/livestream.m3u8
-#EXTINF:-1,TELEVISA
-http://tvsawpdvr-lh.akamaihd.net:80/i/stch02wp_1@119660/index_518_av-p.m3u8
-#EXTINF:-1,TELEVISA
-http://tvsawpdvr-lh.akamaihd.net:80/i/stch02wp_1@119660/index_648_av-p.m3u8
-#EXTINF:-1,TELEVISA HD
-http://tvsawpdvr-lh.akamaihd.net:80/i/stch02wp_1@119660/index_1048_av-b.m3u8
-#EXTINF:-1,TELEVISA HD
-http://tvsawpdvr-lh.akamaihd.net:80/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1,TELEVITROLA
 http://186.155.200.118:1935/live/Televitrola/livestream.m3u8
 #EXTINF:-1,TELPIN HD
 http://201.219.100.30:1935/telpintv/ngrp:ttv.stream_all/live.m3u8
-#EXTINF:-1,TELPIN TV
-http://201.219.100.30:1935/telpintv/ttv.stream_240p/live.m3u8
-#EXTINF:-1,TELPIN TV
-http://201.219.100.30:1935/telpintv/ttv.stream_360p/live.m3u8
-#EXTINF:-1,TELPIN TV HD
-http://201.219.100.30:1935/telpintv/ttv.stream_720p/live.m3u8
 #EXTINF:-1,TEVEO MIAMI
 http://q.gs/9830047/tveomiamitodokodim3u8
 #EXTINF:-1,TIGO MUSIC
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
 #EXTINF:-1,TIGO MUSIC
 http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
-#EXTINF:-1,TIVA
-http://live-h1.frontlayer.net:1935/fl729845/live/livestream.m3u8
-#EXTINF:-1,TODO NOTICIAS
-http://200.42.92.142:1935/live/tnhd2/livestream.m3u8
-#EXTINF:-1,TODO NOTICIAS
-http://200.42.92.142:1935/live/tnmovil2/livestream.m3u8
-#EXTINF:-1,TODO NOTICIAS HD
-http://200.42.92.142:1935/live/tnhd1/livestream.m3u8
-#EXTINF:-1,TODO NOTICIAS SD
-http://200.42.92.142:1935/live/tnhd3/livestream.m3u8
-#EXTINF:-1,TODO NOTICIAS SD
-http://200.42.92.142:1935/live/tnmovil1/livestream.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1,TRAVEL TV
 http://87.106.219.140:1935/live/myStream_2/livestream.m3u8
 #EXTINF:-1,TRENTY CHANNEL
@@ -146,28 +130,9 @@ http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 #EXTINF:-1 group-title="INTERNACIONALES" group-title="LATINO",TVN
 http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
  
-#EXTINF:-1,Jug TV (English Spoken Films)
-rtmp://84.20.77.50/live/livestream1
+
+
  
-#EXTINF:-1 tvg-id="X-Treme Sports" tvg-name="X-Treme_Sports" group-title="ספורט" tvg-logo="fd120330900443958a3d6800ef4e5c5a.png",X-Treme Sports
-http://localhost:65007/?url=326&mode=1
- 
-#EXTINF:-1 tvg-id="hollywood channel" tvg-name="hollywood_channel" group-title="סרטים" tvg-logo="8509484fa8163bfef41c2f7606fd4089.png",hollywood channel
- 
-#EXTINF:-1 tvg-id="CINESTAR PREMIERE 1" tvg-name="CINESTAR_PREMIERE_1" group-title="סרטים" tvg-logo="4fe1c854dc3410e60885a2b681c52ba8.png",CINESTAR PREMIERE 1
- 
-#EXTINF:-1 tvg-id="vox africa" tvg-name="vox_africa" group-title="בידור" tvg-logo="aabda4e4c6c289fb226027fc7c163d67.jpg",vox africa
- 
-#EXTINF:-1 tvg-id="CINESTAR PREMIERE 2" tvg-name="CINESTAR_PREMIERE_2" group-title="סרטים" tvg-logo="5a3401cd5c2b7c0ae7b4ecbf1fd82db5.png",CINESTAR PREMIERE 2
- 
-#EXTINF:-1 tvg-id="CineStar Action And Thriller" tvg-name="CineStar_Action_And_Thriller" group-title="סרטים" tvg-logo="f3136b4096575e14050eff9187168504.png",CineStar Action And Thriller
- 
- 
-#EXTINF:-1 tvg-id="Planet TV" tvg-name="Planet TV" tvg-logo="Live/planet_tv.png" group-title="INTERNATIONAL", Planet TV (Slovenia)
-rtsp://origin.biokoda.tv/live/mbit-planet?k=planettv-public
- 
-#EXTINF:-1 tvg-id="Hispan TV" tvg-name="Hispan_TV" group-title="ספרד" tvg-logo="7e07bb15883e7efa313c082a1caffd8c.png" group-title="LATINO",Hispan TV
-rtmp://mtv.fms-01.visionip.tv/live/mtv-m_tv-live-25f-4x3-SDh
 
 TIONAL", TV 1000 Action (R/E)
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_TV1000ACTION/variant.m3u8
@@ -252,16 +217,9 @@ mmsh://difusion.cantv.net/vhost-covetel_live
 
 
 
+تجيك 
 
 
-
-
-#EXTINF:-1,BR:Rede Tv
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3159.ts
-#EXTINF:-1,Br:Rede Mundial
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/3167.ts
-#EXTINF:-1,BR:Bola
-http://62.210.248.96:11000/live/mehhhdi/mehhhdi/2917.ts
 #EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP 1[/COLOR]
 http://www.iptvsaga.com/play/tv3/0029.m3u8
 #EXTINF:0070 tvg-id=”alexberlin.de” group-title=”Portuguese” tvg-logo=”00000000.png”, [COLOR gold]RTP 2[/COLOR]
