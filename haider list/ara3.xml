@@ -17,6 +17,20 @@
 
 
 
+<streaminginfo>
+	<cname>Almayadeen</cname>
+	<item>
+	<title>Bein sport</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>flashvars.src='(.*?)'</expres>
+    <page>http://www.liveonlinetv247.info/beinsports1.php</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
+
 
 
 	
