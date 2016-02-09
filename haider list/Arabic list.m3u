@@ -3,7 +3,7 @@
 <streamingInfos>
 #EXTM3U
 
-#EXTINF:-1, [COLOR red] --وبعد ذالك على اخر اصدار 5.0.3\  Jafaer-tv يرجى تحديث البرنامج وذالك في الضغط على --[/COLOR]
+#EXTINF:-1, [COLOR red] --  Jafaer-tv --[/COLOR]
 
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
@@ -686,6 +686,7 @@ http://mbn-channel-07.akacast.akamaistream.net/7/27/233456/v1/ibb.akacast.akamai
 #EXTINF:0,Sawa egypt
 http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03
 
-
+#EXTINF:, Arabic test
+plugin://plugin.video.i4atv/?tmp=0&genre_name=%5B%27All%27%5D&title=Arabic+9&cmd=ffrt2+http%3A%2F%2Falbaghdadiahls-
 
 </streamingInfos>
