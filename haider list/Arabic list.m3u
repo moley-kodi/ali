@@ -99,6 +99,9 @@ rtmp://ns8.indexforce.com/alsharqiyalive/mystream
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://goo.gl/8Gtauc",ALSharqia News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1, قناة الموصل
+rtmp://ns1.indexforce.com/mosultv playpath=mystream swfUrlhttp://www.mosultv.tv/wp-content/plugins/yendif-player/public/assets/libraries/player.swf?1455053932900 pageUrl=http://www.mosultv.tv/%d8%a7%d9%84%d8%a8%d8%ab-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1/ <objectEncoding>
+
 #EXTINF:-1 tvg-logo="http://goo.gl/x0wqm7",التغير
 http://stream.joinvisions.net:1935/taglive/taghier/chunklist.m3u8?wowzasessionid=634223339&v=1250133442
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
