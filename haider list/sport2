@@ -5,22 +5,7 @@
 
 
 
-<item>
-<title> histor</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-	<title>[makelist.param2]</title>
-	<link>[makelist.param1]</link>
-	<thumbnail>NA</thumbnail>
-]]></listrepeat>
-<expres>a target.*?(http.*?)".*? (.*?) -</expres>
-<page>hhttp://www.liveonlinetv247.info/history.php</page>
-<referer>http://www.liveonlinetv247.info/history.php/</referer>
-<agent></agent>
-</regex>
-</item>
+
 
 
 
