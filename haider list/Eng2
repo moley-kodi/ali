@@ -71,12 +71,7 @@
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/d/df/SkyMoviesSelect.png/revision/latest?cb=20130628181333</thumbnail>
 </item>
 <stream>
-<item>
-<title>Filmon</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs/filmon.com.cfg&amp;mode=1</jsonrpc>
-<thumbnail>http://multihop.tv/wp-content/uploads/2014/10/filmon-logo.png</thumbnail>
-</item>
+
 
 
 <item>
@@ -89,30 +84,8 @@
 <link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8</link>
 <thumbnail>http://ecx.images-amazon.com/images/I/61KfxmW7caL.png</thumbnail>
 </item>
-<item>
-<title>QVC STYLE HD</title>
-<link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8</link>
-<thumbnail>https://assets.tvplayer.com/common/logos/256/Inverted/249.png</thumbnail>
-</item>
-<item>
-<title>QVC BEAUTY HD</title>
-<link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/23/QVC_Beauty_Style.png</thumbnail>
-</item>
 
 
-</stream>
-
-
-<title>QVC STYLE HD</title>
-<link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8</link>
-<thumbnail>https://assets.tvplayer.com/common/logos/256/Inverted/249.png</thumbnail>
-</item>
-<item>
-<title>QVC BEAUTY HD</title>
-<link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/23/QVC_Beauty_Style.png</thumbnail>
-</item>
 
 
 
