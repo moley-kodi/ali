@@ -643,33 +643,23 @@
 
 
 	
-<item>
-<title>Channels</title>
+ <item>
+<title>Popeye el marino</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
-<listrepeat>
-<![CDATA[
+<listrepeat><![CDATA[
 <title>[makelist.param2]</title>
- <link>$doregex[m3u8]</link>
- <thumbnail>[makelist.param1]</thumbnail>
-]]>
-</listrepeat>
-<expres>
-<td>\s*<img\s+src="(.*?)".*?EXTINF:-1,(.*?)\s+<br.*?(http.*?)&.*?(\d+)
-</expres>
-<page>http://www.tuiptv.biz/</page>
-<cookieJar/>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PL5vaJOIRV6i11IICd6d8VqYV1ORm4DqsJ</page>
+<cookieJar></cookieJar>
 </regex>
-<regex>
-<name>m3u8</name>
-<expres>location:(\S+)</expres>
-<page>[makelist.param3]&channel=[makelist.param4]</page>
-<noredirect>true</noredirect>
-<includeheaders/>
-<cookieJar/>
-</regex>
-</item>	
+<thumbnail>http://static.comicvine.com/uploads/original/7/74477/2940869-popeye.jpg</thumbnail>
+    <fanart>http://images.orkut.com/orkut/albums3/ATgAAADB9BIJoUQLOo0XuCL4NqChQC13u6vSJzYVGOg3uoZD-jQ6Qte2OMWsLrqPYd0k6k2DBX3zYIU59Fv6hrm0ulDSAJtU9VDi6iKxjXFExlXrMIkjwSyIBsGqfg.jpg</fanart>
+</item>
 
 	
 	
