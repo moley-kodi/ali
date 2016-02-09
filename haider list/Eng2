@@ -130,24 +130,37 @@
 <title>ontv</title>
 <link>$doregex[makelist]</link>
 <regex>
-	<name>makelist</name>
-	<listrepeat><![CDATA[
-		<title>[makelist.param2]</title>
-		<link>$doregex[m3u]</link>
-		<thumbnail>[makelist.param3]</thumbnail>
-	]]></listrepeat>
-	<expres>live\/(.*?)_.*">\s(.*?)<.*\n.*src="(.*?)"</expres>
-	<page>http://ontv.al/</page>
-	<cookieJar></cookieJar>
-	</regex>
-	<regex>
-	<name>m3u</name>
-	<expres>file:'(http.*?)'</expres>
-	<page>http://ontv.al/embed/[makelist.param1]</page>
-	<cookiejar></cookiejar>
-	<referer>http://ontv.al/live/</referer>
-	</regex>
-	</item>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>$doregex[m3u]</link>
+<thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>live\/(.*?)_.*">\s(.*?)<.*\n.*src="(.*?)"</expres>
+<page>http://ontv.al/</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>m3u</name>
+<expres>file:'(http.*?)'</expres>
+<page>http://ontv.al/embed/[makelist.param1]</page>
+<cookiejar></cookiejar>
+<referer>http://ontv.al/live/</referer>
+</regex>
+</item>
+
+<streaminginfo>
+<cname>CCTV9 documentray</cname>
+<item>
+<title>CCTV9 documentray</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=161</page>
+</regex>
+</item>
+</streaminginfo>
 	
 	
 	
