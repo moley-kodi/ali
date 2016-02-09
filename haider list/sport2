@@ -335,3 +335,483 @@ http://178.18.31.65:8081/liverepeater/227630/playlist.m3u8?wmsAuthSign=$doregex[
 
 
 
+
+ويد 
+
+###################################
+
+
+
+<item>
+<title>Cinestrenos.TV - Todos Los Canales | Espanol</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>Kannal: - [makelist.param2]</title>
+<sportsdevil>http://cinestrenostv.tv[makelist.param1]</sportsdevil>
+<referer></referer>
+<thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>a href="(.*)".*title="(.*?)".*?src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>Sports | StreamKing.cc |</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>StreamKing.cc | [makelist.param3]</title>
+<link>$doregex[file]|Referer=$doregex[ref]&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>source: '(.*?)'</expres>
+<page>$doregex[page]</page>
+<referer>http://streamking.cc/</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>iframe src="(.*?)"</expres>
+<page>http://streamking.cc/[makelist.param1]</page>
+</regex>
+<regex>
+<name>ref</name>
+<expres>iframe src="(.*?)&amp;</expres>
+<page>http://streamking.cc/[makelist.param1]</page>
+</regex>
+
+
+<thumbnail>http://streamking.cc/[makelist.param2]</thumbnail>
+<fanart>http://streamking.cc/[makelist.param2]</fanart>
+]]></listrepeat>
+<expres>a href="(.*)".*?img class.*? src="(.*)" width=.*?title="(.*)"</expres>
+
+<page>http://streamking.cc/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>Live-Stream.TV</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param2]</title>
+    <link>$doregex[update]$doregex[url]</link>
+	<thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>class="fp_item"&gt;\n.*\n.*href="(.*?)".*title="(.*?) Online.*?&gt;\n.*?src="(.*?)"</expres>
+<page>http://www.live-stream.tv/</page>
+</regex>
+<regex>
+<name>url</name>
+<expres>{ file:'(.*?)'</expres>
+<page>http://www.live-stream.tv[makelist.param1]</page>
+</regex>
+<regex>
+<name>update</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests
+ from threading import Timer,Thread,Event
+ import re
+ upd = re.search(r'Statistics .\'(.*?)\'.\'(.*?)\'..\'(.*?)\'', page_data)
+ url = 'http://' + upd.group(3) + '.ucount.in/stats/update/custom/lstv/' + upd.group(1) + '/' + upd.group(2) + '&_=&callback=\?'
+ referer = 'http://www.live-stream.tv/'
+ headers1 = {'User-Agent': 'iPhone', 'Referer': referer}
+ requests.get(url, headers=headers1)
+ class perpetualTimer():
+    def __init__(self,t,hFunction):
+       self.t=t
+       self.hFunction = hFunction
+       self.thread = Timer(self.t,self.handle_function)
+    def handle_function(self):
+      self.hFunction()
+      self.thread = Timer(self.t,self.handle_function)
+      import xbmc
+      player=xbmc.Player()
+      if player.isPlayingVideo():
+         self.thread.start()
+    def start(self):
+       self.thread.start()
+    def cancel(self):
+       self.thread.cancel()
+ def printer():
+     requests.get(url, headers=headers1)
+ t = perpetualTimer(30,printer)
+ t.start()
+ return ''
+]]></expres>
+<page>http://www.live-stream.tv[makelist.param1]</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart>http://www.live-stream.tv/images/lstv-logo.png</fanart>
+</item>
+
+<item>
+<title>Sky Sports liveonlinetv247.info</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[makelist.param2]</title>
+	<link>[makelist.param1]</link>
+	<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>a target.*?(http.*?)".*? (.*?) -</expres>
+<page>http://m.liveonlinetv247.info/skysports.php</page>
+<referer>http://m.liveonlinetv247.info/</referer>
+<agent>iPhone</agent>
+</regex>
+</item>
+
+
+
+<item>
+<title>Sports | StreamKing.cc</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[COLOR white]StreamKing.cc | [/COLOR]- [makelist.param3]</title>
+<link>$doregex[file]|Referer=$doregex[ref]&amp;User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>source: '(.*?)'</expres>
+<page>$doregex[page]</page>
+<referer>http://streamking.cc/</referer>
+</regex>
+<regex>
+<name>page</name>
+<expres>iframe src="(.*?)"</expres>
+<page>http://streamking.cc/[makelist.param1]</page>
+</regex>
+<regex>
+<name>ref</name>
+<expres>iframe src="(.*?)&amp;</expres>
+<page>http://streamking.cc/[makelist.param1]</page>
+</regex>
+<thumbnail>http://streamking.cc/[makelist.param2]</thumbnail>
+<fanart>http://streamking.cc/[makelist.param2]</fanart>
+]]></listrepeat>
+<expres>a href="(.*)".*?img class.*? src="(.*)" width=.*?title="(.*)"</expres>
+
+<page>http://streamking.cc/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue][B]Cricfree.sx/[/B] [/COLOR][COLOR skyblue]Channels[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[COLOR white]Channel: [/COLOR][COLOR lime][makelist.param2][/COLOR]</title>
+<sportsdevil>http://cricfree.sx/[makelist.param1]</sportsdevil>
+<referer>http://cricfree.sx/</referer>
+</item>
+]]></listrepeat>
+<expres>href="http://cricfree.sx/(.*?)"[\w\W\s]{0,40}channels-icon (.*?)"</expres>
+<page>http://cricfree.sx/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR green]Live Sports[/COLOR][COLOR red] All Sports Shown[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</jsonrpc>
+ <thumbnail>http://gvt.net/sites/default/files/HD-Sports-2.0-Logo-450.png</thumbnail>
+</item>
+
+item>
+<title>[COLOR gold][B]LIVE Sports HD/SD UPDATE EVERDAY[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.eu.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://ww1.prweb.com/prfiles/2013/06/09/11806053/gI_127433_OWS_logo_white_green_beyond_boundaries.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR gold][B]MamaHD TV[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=tv/mamahd.com.cfg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR deepskyblue][B]BeiN Sports[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=tv/bein.cfg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR gold]LsHunter.TV - Live Sports[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/lshunter.tv.cfg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]RojaDirecta.me Live Sports[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]VipBox.TV Live Sports[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/vipbox.tv.cfg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR blue]Bundesliga-Streams.net Live Streams[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/bundesliga-streams.net.cfg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue]Dimsports.eu Live Sports[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sky Sports Channels</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title>[makelist.param2]</title>
+	<link>[makelist.param1]</link>
+	<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>a target.*?(http.*?)".*? (.*?) -</expres>
+<page>http://m.liveonlinetv247.info/skysports.php</page>
+<referer>http://m.liveonlinetv247.info/</referer>
+<agent>iPhone</agent>
+</regex>
+</item>
+
+
+
+<item>
+<title>LIVE TV,Sports,Movies,Shows</title>
+<link>$doregex[pagelist]</link>
+<thumbnail>http://images.clipartlogo.com/files/images/13/134575/ilive_p.png</thumbnail>
+<regex>
+      <name>pagelist</name>
+      <listrepeat><![CDATA[
+               <title>[COLOR blue]Page - [/COLOR][pagelist.param1]</title>
+               <link>$doregex[makelist]</link>
+               <thumbnail>http://images.clipartlogo.com/files/images/13/134575/ilive_p.png</thumbnail>
+      ]]></listrepeat>
+      <expres>q=.*?(\d.*?)<</expres>
+      <page>$doregex[num1]</page>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR blue]BES-IPTV - [/COLOR][makelist.param3]</title>
+<link>$doregex[loadcookie]$doregex[get-rtmp-code]$doregex[savecookie]</link>
+<thumbnail>http:[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres>view.(\d+).+\n.+src="(.*?jpg)".+alt="(.*?)".*\n.*\n.*?\t{17}<\/</expres>
+<page>http://www.streamlive.to/?p=[pagelist.param1]&q=</page>
+</regex>
+<regex>
+<name>num</name>
+<expres>13px*?(.*?)span</expres>
+<page>http://www.streamlive.to/</page>
+</regex>
+<regex>
+<name>num1</name>
+<expres>$pyFunction:'$doregex[num]'.replace(' 1 ','q=xx1')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>savecookie</name>
+<expres></expres>
+<page></page>
+<cookieJar>save[streamlive1.lwp]</cookieJar>
+</regex>
+
+<regex>
+<name>get-rtmp-code</name>
+
+
+<expres><![CDATA[#$pyFunction
+import requests,xbmcgui,xbmc
+import re,os,time
+import xbmcaddon,xbmc,cookielib
+
+def calculateauto(question):
+    try:
+        ans=str(eval(question.split(':')[-1].replace('=?','').strip()))
+        print 'q2'
+    except: 
+        ans=question.split(':')[-1].strip()
+        print 'q3'
+        
+    return ans
+
+def GetLSProData(page_data,Cookie_Jar,m,url='http://www.streamlive.to/view/[makelist.param1]/'):
+
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
+ page =url
+ session = requests.Session()
+ if Cookie_Jar==None:
+  Cookie_Jar=cookielib.LWPCookieJar()
+ session.cookies = Cookie_Jar
+
+ source = session.get(page, headers=headers )
+
+ question = re.findall('(Question.*?)\<', source.text)
+ if len(question)>0:
+  question=question[0]
+  print question
+  addon       = xbmcaddon.Addon()
+
+  autodone=False
+  try:
+   
+   text=calculateauto(question)
+   data = {"captcha": text}
+   headers2 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Content-Type': 'application/x-www-form-urlencoded', 'Referer': page}
+   source2= session.post(page, headers = headers2, data= data)   
+   question = re.findall('(Question.*?)\<', source2.text)
+   if len(question)>0:
+    question=question[0]
+   else:
+    autodone=True
+  except: pass
+  
+  if not autodone:
+   text=takeInputFortext(question)
+   data = {"captcha": text}
+   headers2 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Content-Type': 'application/x-www-form-urlencoded', 'Referer': page}
+   source2= session.post(page, headers = headers2, data= data)
+ else:
+  source2=source
+
+ tokpg = re.findall('getJSON\("(.*?)"', source2.text)[0]
+ xs = re.findall('(\?xs=.*?)"', source2.text)[0]
+ playpath = re.findall('file: "(.*).flv', source2.text)[0]
+ rtmp = re.findall('rtmp:.*?(wat.*?)1935', source2.text)[0]
+ headers3 = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': 'https://www.streamlive.to'}
+
+ source3 = session.get(tokpg, headers=headers3)
+ token = re.findall('token":"(.*?)"', source3.text)[0]
+
+
+
+ return 'rtmp://' + rtmp + ':1935/edge app=edge/_definst_/' + xs + ' playpath=' + playpath + ' swfVfy=1 token=' + token + ' swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15'
+
+def takeInputFortext(txt):
+ addon = xbmcaddon.Addon('plugin.video.live.streamspro')
+ addon_version = addon.getAddonInfo('version')
+ profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
+ 
+ solver = InputWindow( txt=txt)
+ solution = solver.get()
+ return solution
+
+class InputWindow(xbmcgui.WindowDialog):
+    def __init__(self, *args, **kwargs):
+
+        
+        self.txt = kwargs.get('txt','')
+
+        xbmcgui.WindowXMLDialog.__init__(self)
+        #self.addControl(self.txt)
+        path = xbmcaddon.Addon().getAddonInfo('path')
+        self.kbd = xbmc.Keyboard()
+        self.kbd.setHeading( self.txt)
+
+
+
+    def get(self):
+        self.show()
+        time.sleep(2)
+        self.kbd.doModal()
+        if (self.kbd.isConfirmed()):
+            text = self.kbd.getText()
+            self.close()
+            return text
+        self.close()
+        return False
+        
+]]></expres>
+<page></page>
+</regex>
+
+<regex>
+<name>loadcookie</name>
+<expres></expres>
+<page></page>
+<cookieJar>open[streamlive1.lwp]</cookieJar>
+</regex>
+
+</item>
+
+<item>
+<title>Live Sports -Footdirect24</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR snow][makelist.param2][/COLOR]</title>
+    <link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres>font.*?parent.&gt;\s*(.*?)\?(.*?)\s*&lt;.*&gt;([\w\W\s]*?)&lt;</expres>
+<page>http://footdirect24.com/id.php?channel=1</page>
+<referer>http://footdirect24.com</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+    <title>[COLOR dodgerblue][makelist2.param1][/COLOR]</title>
+    <sportsdevil>[makelist.param1]?[makelist.param2]</sportsdevil>
+    <referer>http://footdirect24.com</referer>
+]]></listrepeat>
+<expres>\s*(.*?\d{2}\:\d{2}.*)\s+(\s)</expres>
+<page>[makelist.param3]</page>
+<referer>http://footdirect24.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+###################################################################
+
+
+
+
+
+
+
+
