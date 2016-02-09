@@ -85,7 +85,18 @@
 <thumbnail>http://ecx.images-amazon.com/images/I/61KfxmW7caL.png</thumbnail>
 </item>
 
-
+<streaminginfo>
+<cname>IFilme ENG</cname>
+<item>
+<title>IFilme ENG</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=331</page>
+</regex>
+</item>
+</streaminginfo>
 
 
 
