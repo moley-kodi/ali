@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <streaminginfo>
-<cname>Iraqia</cname>
+<cname></cname>
  <item>
-<title>Iraqia</title>
+<title>Iraqia test</title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
