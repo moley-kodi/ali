@@ -104,6 +104,8 @@ http://stream.joinvisions.net:1935/taglive/taghier/chunklist.m3u8?wowzasessionid
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
 #EXTINF:-1 tvg-logo="http://goo.gl/GuL8Og",الرشيد
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+#EXTINF:-1, كتابات
+http://metrics.nt.vc/event/v/0/_.7112201504903623.80618843;pd=watchfomny.tv;pp=/A-Tv-Iraq.php;sz=300x250;if=110;lt=4580;al=1;av=821;nd=506;mv=27;vz=15953;vin=5;vbiv=000000001000;vbin=000000005000;ii=979737393499;hu=Tch0KlaBUnd0m0hB9I-2cQkedX2rHo8EJtqP2eecBwk;cg=d7f9eb9a14c0a5f142f56da5fefb4813;el=31487;
 #EXTINF:-1 tvg-logo="https://goo.gl/pMkYji", Afaaq 
 rtmp://live.afaq.tv/live/afaqtv<playpath>livestream <swfUrl> <pageUrl> <objectEncoding>
 #EXTINF:-1 tvg-logo="http://www.jfranews.com.jo/assets/images/70526_18_1379073604.jpg", Dijlah TV
