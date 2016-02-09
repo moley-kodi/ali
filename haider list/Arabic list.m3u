@@ -686,7 +686,7 @@ http://mbn-channel-07.akacast.akamaistream.net/7/27/233456/v1/ibb.akacast.akamai
 #EXTINF:0,Sawa egypt
 http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03
 
-#EXTINF:, Arabic test
+#EXTINF:-1, Arabic test
 plugin://plugin.video.i4atv/?tmp=0&genre_name=%5B%27All%27%5D&title=Arabic+9&cmd=ffrt2+http%3A%2F%2Falbaghdadiahls-
 
 </streamingInfos>
