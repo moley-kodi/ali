@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
+
 <item>
- <title>test الكوثر</title>
+ <title>Kothar test </title>
  <link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
  <regex>
  <name>get-m3u8final</name>
@@ -18,12 +19,12 @@
  <regex>
  <name>get-json</name>
  <expres>config = ({.*})</expres>
- <page>rtmp://fms.1830A.phicdn.net/201830A/alkawtharInstance/AlkawtharHLS</page>
+ <page>http://www.alkawthartv.ir/livetv</page>
   <agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
  <cookieJar></cookieJar>
  </regex>
  </item>
-
+<streaminginfo>
 
 	
 <streaminginfo>
