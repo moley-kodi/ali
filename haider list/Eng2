@@ -124,16 +124,4 @@
 </item>
 
 
-</stream>
-<item>
-<title>sweb</title>
-<link>http://Ignoreme</link>
-<externallink>http://swebstreamer.hopto.me:2709/get.php?username=kkXfDAm1Wb&amp;password=THlU4dhecq&amp;type=m3u&amp;output=mpegts</externallink>
-</item>
-
-
-<item>
-<title>test</title>
-<link>http://Ignoreme</link>
-<externallink>http://178.33.231.219:88/get.php?username=22492&&amp;password=22492&amp;type=m3u&&amp;output=mpegts</externallink>
-</item>
+<item><title>Mihai</title><link>Test 1</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=mihai&amp;password=mihai&amp;type=m3u&amp;output=mpegts</externallink></item>
