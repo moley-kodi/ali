@@ -118,7 +118,18 @@
 
 <streaminginfo><cname>Alahad</cname><item><title>العهد</title><link>plugin://plugin.video.youtube/play/?video_id=PcMS1FgQK90</link></item></streaminginfo>
 
-
+<streaminginfo>
+<cname>IFilme ENG</cname>
+<item>
+<title>IFilme ENG</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page>http://www.giniko.com/watch.php?id=331</page>
+</regex>
+</item>
+</streaminginfo>
 
 <streaminginfo>
      <cname>Qatar</cname>
