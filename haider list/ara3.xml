@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-
-
-<streaminginfo>
-<cname>Al Iraqiya</cname>
-<item>
-<title>Al Iraqiya</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page>http://www.giniko.com/watch.php?id=182</page>
-</regex>
-</item>
-</streaminginfo>
-
-
-
 <streaminginfo>
 <cname>Ahlulbayt</cname>
 <item>
@@ -677,7 +660,7 @@
 
 
 <item>
-<title>test</title>
+<title>test haider</title>
 <link>http://Ignoreme</link>
 <externallink>http://iptv-supplier.com:8000/get.php?username=kkk&amp;password=kkk&amp;type=m3u&amp;output=mpegts</externallink>
 </item>
