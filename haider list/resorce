@@ -75,3 +75,10 @@ sublink:LISTNAME:[COLOR yellow]Sky Sports 5[/COLOR] - [COLOR blue]SD[/COLOR] ::L
 -------------------------------
 <viewtype>list</viewtype>
 ----------------------------
+عمل بلي لست من youtube 
+
+
+<item>
+<title>[COLOR red] Playlist[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL_-DKA_MjvXyl6ybRydxzCiHh8idy6wmt&order=[default]</link>
+</item>
