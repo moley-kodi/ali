@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
- <title>test</title>
+ <title>test الكوثر</title>
  <link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
  <regex>
  <name>get-m3u8final</name>
@@ -18,7 +18,7 @@
  <regex>
  <name>get-json</name>
  <expres>config = ({.*})</expres>
- <page>http://www.liveonlinetv247.info/beinsports1.php</page>
+ <page>rtmp://fms.1830A.phicdn.net/201830A/alkawtharInstance/AlkawtharHLS</page>
   <agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
  <cookieJar></cookieJar>
  </regex>
