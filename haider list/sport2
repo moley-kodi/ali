@@ -6,7 +6,7 @@
 
 
 <item>
-<title>Fox Sports Channel test</title>
+<title> test</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -17,8 +17,8 @@
 ]]></listrepeat>
 <expres>a target.*?(http.*?)".*? (.*?) -</expres>
 <page>http://m.liveonlinetv247.info/foxsports2.php</page>
-<referer>http://m.liveonlinetv247.info/</referer>
-<agent>iPhone</agent>
+<referer>http://liveonlinetv247.info/</referer>
+<agent></agent>
 </regex>
 </item>
 
