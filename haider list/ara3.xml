@@ -647,7 +647,7 @@
 	<cname>arta flem1</cname>
 	<item>
 		<title>arta flem1e</title>
-		<link>rtmp://web.iptv-planet.com:1936/live2 playpath=artaflem1 swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=artaflem1 timeout=15</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=artaflem1 swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=artaflem1 timeout=15</link>
 	</item>
 </streaminginfo>	
 	
@@ -655,7 +655,7 @@
 	<cname>Hi_mbcdrama</cname>
 	<item>
 		<title>Hi_mbcdrama</title>
-		<link>rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_mbcdrama swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbcdrama timeout=15</link>
+		<link>rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcdrama swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbcdrama timeout=15</link>
 	</item>
 </streaminginfo>	
 </streamingInfos>
