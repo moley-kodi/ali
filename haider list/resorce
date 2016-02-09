@@ -91,3 +91,11 @@ sublink:LISTNAME:[COLOR yellow]Sky Sports 5[/COLOR] - [COLOR blue]SD[/COLOR] ::L
 <link>http://Ignoreme</link>
 <externallink>http://178.33.231.219:88/get.php?username=22492&&amp;password=22492&amp;type=m3u&&amp;output=mpegts</externallink>
 </item>
+---------------
+FIlmon addon
+<item>
+<title>Filmon</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs/filmon.com.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://multihop.tv/wp-content/uploads/2014/10/filmon-logo.png</thumbnail>
+</item>
