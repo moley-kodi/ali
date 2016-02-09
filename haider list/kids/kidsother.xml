@@ -1,5 +1,5 @@
 
-
+<items>
 <poster>Cartoons</poster>
 <fanart>http://theartmad.com/wp-content/uploads/2015/02/Mickey-Mouse-And-Friends-Wallpaper-48.jpg</fanart>
 
@@ -13,19 +13,22 @@
 <link>https://www.youtube.com/watch?v=wKm_Ts1qcfE</link>
 <thumbnail>http://images.clipartpanda.com/mickey-mouse-and-friends-clipart-di7eb7b9T.jpeg</thumbnail>
 </item>
-
+<item>
 <title>My Pet Dinosaur - My Magic Pet Morphle</title>
 <link>https://www.youtube.com/watch?v=u8QEGElcMlQ</link>
 <thumbnail>https://yt3.ggpht.com/-VBqDCWsdb9Q/AAAAAAAAAAI/AAAAAAAAAAA/o57M8TV6Kjo/s500-c-k-no/photo.jpg</thumbnail>
-
+</item>
+<item>
 <title>Donald Duck Cartoons - 2 Hours Long</title>
 <link>http://vignette2.wikia.nocookie.net/disney/images/7/71/Donald-duck-disney-photo-450x400-dcp-cpna013154.jpg/revision/20121205062928</link>
 <thumbnail>https://www.youtube.com/watch?v=ZptJCEF8cvM</thumbnail>
-
+</item>
+<item>
 <title>Mr Bean Cartoon Series</title>
 <link>https://www.youtube.com/watch?v=h6rcqPnpcBQ</link>
 <thumbnail>http://www.harveyvoices.co.uk/wp-content/uploads/2015/02/mr-bean-animated01-320x298.jpg</thumbnail>
-
+</item>
+<item>
 <title>My Red Racecar - My Magic Pet Morphle</title>
 <link>https://www.youtube.com/watch?v=DUHVxtjAcXs</link>
 <thumbnail>https://yt3.ggpht.com/-VBqDCWsdb9Q/AAAAAAAAAAI/AAAAAAAAAAA/o57M8TV6Kjo/s500-c-k-no/photo.jpg</thumbnail>
@@ -45,3 +48,9 @@
 <title>Curious George Full Episodes</title>
 <link>https://www.youtube.com/watch?v=Pb3nR9YLi5M</link>
 <thumbnail>https://i.ytimg.com/sh/yEsgHgup4fE/showposter.jpg?v=53ed23dd</thumbnail>
+
+
+
+
+
+</items>
