@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <streaminginfo>
-<cname></cname>
- <item>
-<title>Iraqia test</title>
+<cname>Ahlulbayt</cname>
+<item>
+<title>Ahlulbayt</title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
 <expres>file: "([^"]*)</expres>
-<page>http://www.giniko.com/watch.php?id=182</page>
+<page>http://www.giniko.com/watch.php?id=233</page>
 </regex>
 </item>
 </streaminginfo>
