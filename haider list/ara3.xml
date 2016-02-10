@@ -2,23 +2,6 @@
 
 
 
-<streaminginfo>
-<cname>ALssirat test</cname>
-<item>
-<title>ALssirat test</title>
-<link>$doregex[url]|Referer=http://166.62.41.132/swfs/SampleMediaPlayback.swf</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&amp;')</expres>
-<page></page>
-</regex>
-<regex>
-<name>get-url</name>
-<expres>"file":"(http.*?)"</expres>
-<page>http://www.assirat.tv/livestreaming.php</page>
-</regex>
-</item>
-</streaminginfo>
 
 
 
