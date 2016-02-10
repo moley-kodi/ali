@@ -2,7 +2,23 @@
 
 
 
-
+<streaminginfo>
+<cname>hekayat</cname>
+<item>
+<title>hekayatt</title>
+<link>$doregex[url]|Referer=http://yooanime.com/player/jwplayer.flash.swf</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&amp;')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>"file":"(http.*?)"</expres>
+<page>http://yooanime.com/free/embed.php?channel=art_hekayat&W=600&H=400&skin=&logo=url</page>
+</regex>
+</item>
+</streaminginfo>
 
 
 
