@@ -341,12 +341,12 @@ http://win15.yayin.com.tr/Alqanat/smil:Alqanat.smil/chunklist_w1370415133_b66553
 http://lb218.cdn.mangomolo.com/218/smil:218.smil/chunklist_w1981601760_b450000_t64MTYwcA==.m3u8
 
 #EXTINF:-1,النهار دراما
-http://stream250.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/chunklist_w934305784.m3u8
+http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/chunklist_w934305784.m3u8
 #EXTINF:-1, النهاراليوم
-http://stream250.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/playlist.m3u8
+http://stream138.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/playlist.m3u8
 
 #EXTINF:-1,النهار
-http://stream250.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/playlist.m3u8
+http://stream138.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/playlist.m3u8
 
  
 #EXTINF:0,Darbaka Aflam
@@ -374,8 +374,6 @@ http://2.109.65.142/masa/14209.m3u8?v=1279345274
 http://2.109.65.142/masa/14210.m3u8?v=1279345274
 
 
-#EXTINF:0,Cinema PRO لاتعمل حاليا
-http://2.109.65.142/masa/14208.m3u8?v=117603230T
  
 #EXTINF:0,Tok Tok Aflam لاتعمل حاليا
 http://2.109.65.142/masa/14205.m3u8?v=117603230T
@@ -402,20 +400,16 @@ http://2.109.65.142/masa/14201.m3u8?v=117603230T
  
 #EXTINF:0,Cairo Drama
 http://2.109.65.142/masa/14207.m3u8?v=1279345274
-#EXTINF:0,AlNahar
-http://stream250.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/gmswf.m3u8?v=1279345274
+
  
-#EXTINF:0,AlNahar2
+#EXTINF:0,Cinema PRO
 http://2.109.65.247/masa/24703.m3u8?v=1279345274
  
 #EXTINF:0,AlNahar alyoum
 http://2.109.65.142/masa/14221.m3u8?v=1279345274
  
-#EXTINF:0,AlNahar alyoum
-http://stream250.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/gmswf.m3u8?v=1279345274
- 
 #EXTINF:0,AlNahar Drama
-http://stream250.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?v=1279345274 
+http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?v=1279345274 
 #EXTINF:-1,masriya 2
 http://185.5.222.231:4242/bysid/5101
 #EXTINF:-1,Al thawra TV
