@@ -9,6 +9,25 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 #EXTINF:-1, [COLOR red]لمشاهدة قنوات ال MBC يرجى الذهاب الى \other Arabic  and go down to Arabic channles  [/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
+
+
+
+
+#EXTINF:-1,AR: MBC 1
+http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/762.ts
+#EXTINF:-1,AR: MBC MASR
+http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/766.ts
+
+#EXTINF:-1,AR: MBC MASR 2
+http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/767.ts
+
+#EXTINF:-1,AR: MBC DRAMA
+http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/768.ts
+
+#EXTINF:-1,AR: MBC MAX
+http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/769.ts
+
+
 #EXTINF:-1,MBC 1 
 http://bit.ly/jafaer-mbc
 #EXTINF:0,MBC Drama  لاتعمل حاليا
