@@ -129,7 +129,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=fbe_4BJrkgE
 http://31.24.33.68:1935/liveorigin/livestream_360p/gmswf.m3u8?v=1053886998
 #EXTINF:-1, Al_Manar 2
 rtmp://162.244.80.108:1935/liveedge/ playpath=livestream_360p swfUrl=http://www.almanar.com.lb/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.almanar.com.lb/manarlive.php?type=asx
-
+#EXTINF:-1,ALssirat قناةالصراط
+rtmp://166.62.41.132:1935/livepkgr playpath=livestream2 swfUrl=http://166.62.41.132/swfs/SampleMediaPlayback.swf pageUrl=http://www.assirat.tv/livestreaming.php <objectEncoding>
 #EXTINF:-1,الميادين 
 rtsp://livestreaming3.itworkscdn.net:554/mayadeenlive/mayadsat_240p
 #EXTINF:-1,El masira المسيرة
