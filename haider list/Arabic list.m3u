@@ -289,10 +289,8 @@ http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
 
 #EXTINF:-1,*********[COLOR red]  قنوات مصرية[/COLOR]**********
 http://jafaer-tv.com
-#EXTINF:-1,AR: ART Aflam 1
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/794.ts
-#EXTINF:-1,AR: Time Cinema
-http://188.165.142.253:8000/live/tvonlinestreams.com/iptv-solution/888.ts
+#EXTINF:-1,Hekayat 1
+rtmp://yooanime.com/free/ playpath=art_hekayat?code=e3897b5b21ff3ef0d1d94573d9bc441dc3714a99cb4e1cebe23179933d849095&e=MTQ1NTEy&s=MTQ1NTEyOQ==   swfUrl=http://yooanime.com/player/jwplayer.flash.swf pageUrl=http://yooanime.com/free/embed.php?channel=art_hekayat&W=600&H=400&skin=&logo=url of your logo <objectEncoding>
 
 
 #EXTINF:-1,rotana cinema
