@@ -5,17 +5,17 @@
 <streaminginfo>
         <cname>kbc_algeria</cname>
         <item>
-        <title>1234 test kbc_algeria</title>
-        <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=kbc_algeria&amp;width=600&amp;height=400 timeout=20</link>
+        <title>1234 test</title>
+        <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=kbc_algeria&amp;width=600&amp;height=400 timeout=20</link>
         <regex>
         <name>getrtmp</name>
         <expres>streamer="(.*?)";</expres>
-        <page>http://iptv-planet.com/embed.php?id=kbc_algeria&amp;width=600&amp;height=400</page>
+        <page>http://embed.iptv-planet.com/embed.php?id=kbc_algeria&amp;width=600&amp;height=400</page>
         </regex>
         <regex>
         <name>getplaypath</name>
         <expres>'file': '(.*?)'</expres>
-        <page>http://iptv-planet.com/embed.php?id=kbc_algeria&amp;width=600&amp;height=400</page>
+        <page>http://embed.iptv-planet.com/embed.php?id=kbc_algeria&amp;width=600&amp;height=400</page>
         </regex>
         </item>
 </streaminginfo>
