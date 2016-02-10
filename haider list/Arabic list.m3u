@@ -695,6 +695,6 @@ http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamai
 #EXTINF:-1,[COLOR red]****************هذه القنوات غير مستقرة ****************[/COLOR]
 
 
-#EXTINF:-1,1 test
+#EXTINF:-1,1test
 rtmp://$OPT:rtmp-raw=rtmp://web1.iptv-planet.com:1937/live2 playpath=kbc_algeria swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=kbc_algeria&width=600&height=400
 
