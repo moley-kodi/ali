@@ -45,6 +45,17 @@ http://bit.ly/1lrLW0C
 http://bit.ly/1PDwarE
 #EXTINF:-1,Arena Sport 4 HD
 http://bit.ly/1nw98MV
+#EXTINF:-1, Arena Sport 1 HD
+http://46.40.5.99:8000/arena_1_720
+#EXTINF:-1, Arena Sport 2 HD
+http://46.40.5.99:8000/arena_2_720
+#EXTINF:-1, Arena Sport 3 HD
+http://46.40.5.99:8000/arena_3_720
+#EXTINF:-1, Arena Sport 4 HD
+http://46.40.5.99:8000/arena_4_720
+
+
+
 #EXTINF:-1,FOX SPORTS LIVE TV 1 HD
 http://bit.ly/1QlNuGy
 #EXTINF:-1,FOX SPORTS LIVE TV 2 HD
@@ -293,6 +304,49 @@ http://169.45.89.106:1935/app/arhd2lsh/playlist.m3u8
 http://169.45.89.106:1935/app/arhd4lsh/playlist.m3u8
 #EXTINF:0,Sport Klub 1
 http://169.45.89.106:1935/app/skhd1lsh/playlist.m3u8
+#EXTINF:-1, Arena Sport 1 HD
+http://46.40.5.99:8000/arena_1_720
+#EXTINF:-1, Arena Sport 2 HD
+http://46.40.5.99:8000/arena_2_720
+#EXTINF:-1, Arena Sport 3 HD
+http://46.40.5.99:8000/arena_3_720
+#EXTINF:-1, Arena Sport 4 HD
+http://46.40.5.99:8000/arena_4_720
+
+#EXTINF:-1, Sport: K+1 HD Sport
+rtmp://216.185.103.158/live2//chSport1hd
+#EXTINF:-1, Sport: K+ PM HD Sport
+rtmp://216.185.103.158/live2//chSport2hd
+#EXTINF:-1, Sport:K+1 s1
+http://216.185.103.158:1935/live2/chSport1hd/playlist.m3u8
+#EXTINF:-1, Sport:K+1 s2
+http://199.189.110.20:1935/as99/chSport1hd/playlist.m3u8
+#EXTINF:-1, Sport: K+PM s1
+http://216.185.103.158:1935/live2/chSport2hd/playlist.m3u8
+#EXTINF:-1, Sport: K+PM s2
+http://199.189.110.20:1935/as99/chSport2hd/playlist.m3u8
+#EXTINF:-1,  Russia Sport
+http://s2.edem.tv/iptv/CRNMZP2B9W3983/529/index.m3u8
+#EXTINF:-1, Nova Sport 1
+http://213.81.153.241/live001/channel028_p3.stream/chunklist_w1268025928_DVR.m3u8
+#EXTINF:-1, Red Bull TV HD
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+#EXTINF:-1, Tenis tyC Sports HD
+http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/playlist.m3u8
+#EXTINF:-1, CDN Sports Max (DO)
+http://108.168.206.90:1935/cdnsm/cdnsm/chunklist_w32181520.m3u8
+#EXTINF:0, WIN SPORTS Latino
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
+#EXTINF:-1, BT Sport/ESPN
+http://tinyurl.com/zv6m5pq
+#EXTINF:-1, Extreme Sports Russia
+http://bit.ly/1NDRpyE
+#EXTINF:-1, TVP Sport HD PL
+http://tinyurl.com/zq7ye4v
+#EXTINF:-1, Nova Sport 1
+http://bit.ly/1jo7o5O
+#EXTINF:-1, SKY Bundesliga HD1 GER
+http://bit.ly/1XmOcIc
 
 
 ######################3333
