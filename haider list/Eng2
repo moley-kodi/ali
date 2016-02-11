@@ -147,7 +147,15 @@
 </streaminginfo>
 	
 	
-	
+<item>
+<title>TEST V1</title>
+<link>plugin://plugin.video.f4mTester/?url=$doregex[getURL]&amp;streamtype=TSDOWNLOADER</link>
+<regex>
+<name>getURL</name>
+<expres>(http.*ts)</expres>
+<page>http://4545.ddns.net:8000/live/Gzimidr/DRgzimi/70.ts</page>
+</regex>
+</item>	
 	
 	
 ######################
