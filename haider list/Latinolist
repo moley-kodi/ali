@@ -34,6 +34,24 @@ http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 #EXTINF:-1 group-title="Noticias",Canal del Congreso
 http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
 
+#EXTINF:-1,AXN VIVO
+http://213.136.73.41/8748/213.m3u8
+
+#EXTINF:-1,nicktoons En vivo
+http://213.136.73.41/8748/314.m3u8
+#EXTINF:-1,disney xd En vivo
+http://213.136.73.41/8748/322.m3u8
+#EXTINF:-1,Tru tv HD En vivo
+http://213.136.73.41/8748/215.m3u8
+
+
+#EXTINF:-1,ESPN VIVO
+http://213.136.73.41/8748/516.m3u8
+#EXTINF:-1,ESPN 2 VIVO
+http://213.136.73.41/8748/561.m3u8
+#EXTINF:-1,ESPN 3 VIVO
+http://213.136.73.41/8748/520.m3u8
+
 
 
 
