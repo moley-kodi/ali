@@ -108,10 +108,15 @@ http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?supertvlat=/.ts
 http://213.136.73.41/8748/377.m3u8
 #EXTINF:-1,Natinal Geo Wild
 http://213.136.73.41/8748/355.m3u8
-
+#EXTINF:-1,Discovery Theater
+http://213.136.73.41/8748/351.m3u8
+#EXTINF:-1,AXN VIVO
+http://213.136.73.41/8748/213.m3u8
 
 #EXTINF:-1,space HD en
 http://213.136.73.41/8748/445.m3u8
+#EXTINF:-1,Golden Edge
+http://213.136.73.41/8748/484.m3u8
 
 #EXTINF:-1,Golf channel
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
@@ -150,7 +155,8 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
 http://204.107.26.252:1935/live/796.high.stream/chunklist_w1818870275.m3u8
 
 
-
+#EXTINF:-1,Nicktoons En vivo
+http://213.136.73.41/8748/314.m3u8
 #EXTINF:-1,Smile Of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
 
@@ -161,6 +167,9 @@ http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m
 
 #EXTINF:-1,Ajyal Cinema
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
+#EXTINF:-1,Tru tv HD En vivo
+http://213.136.73.41/8748/215.m3u8
+
 
 #EXTINF:-1,Drama UK
 http://top-iptv.zapto.org:8000/live/walid/walid/530.m3u8
