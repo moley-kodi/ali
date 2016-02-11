@@ -32,15 +32,6 @@ http://rt.ashttp6.visionip.tv/live/RT_America-HD/chunklist.m3u8
 http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
 
 
-
-
-#EXTINF:0, Fox Comedy
-http://31.220.41.107/LiveEdge/FOXComedyLASD/chunklist_w468984425_b1000000.m3u8?token=cb28c609b7912a2148b947adbed8bb59
-
-#EXTINF:-1,GINX
-http://204.107.26.252:1935/live/796.high.stream/chunklist_w1818870275.m3u8
-
-
 #EXTINF:-1,AMC
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=/.ts
 http://46.40.5.99:8000/mgm_720
@@ -50,14 +41,38 @@ http://top-iptv.zapto.org:8000/live/walid/walid/544.m3u8
 http://46.40.5.99:8000/fox_720
 #EXTINF:-1,HBO Europe
 http://77.76.140.251/prgp.m3u8
+#EXTINF:-1,Fox 1 HD
+http://213.136.73.41/8748/417.m3u8
+#EXTINF:-1,FOX
+http://213.136.73.41/8748/201.m3u8
+#EXTINF:-1,FOX Action
+http://213.136.73.41/8748/416.m3u8
+#EXTINF:-1,FOX Movies
+http://213.136.73.41/8748/417.m3u8
 
+#EXTINF:0, Fox Comedy
+http://31.220.41.107/LiveEdge/FOXComedyLASD/chunklist_w468984425_b1000000.m3u8?token=cb28c609b7912a2148b947adbed8bb59
 
 #EXTINF:-1,FoxLife Europe 
 http://46.40.5.99:8000/foxlife_720
+#EXTINF:-1, Film Zone 
+http://213.136.73.41/8748/440.m3u8
+
+#EXTINF:-1,TNT HD
+http://213.136.73.41/8748/435.m3u8
+#EXTINF:-1,TNT Series HD
+http://213.136.73.41/8748/266.m3u8
+
+#EXTINF:-1,Syfy
+http://213.136.73.41/8748/257.m3u8
+#EXTINF:-1, Sony 
+http://213.136.73.41/8748/203.m3u8
+
 #EXTINF:0,NBC
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0MTozNSBQTSZoYXNoX3ZhbHVlPXEyMDBYeDQ0QjRNY3AySzRJOHZjQXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/nbc9.stream
 
-
+#EXTINF:-1,WB tv
+http://213.136.73.41/8748/205.m3u8
 
 #EXTINF:-1,Comedy Central Extra Europe
 http://77.76.140.251:22637/udp/231.2.2.26:1234
@@ -83,11 +98,18 @@ http://kalsegsec-a.akamaihd.net/dc-0/m/pa-live-publish3/kLive/smil:1_oorxcge2_pu
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1,Animal Plant 
 http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
-
+#EXTINF:-1,Discoveries channel
+http://213.136.73.41/8748/371.m3u8
 #EXTINF:-1,Discoveries
 http://162.212.176.83:8080/mystream1.m3u8
 #EXTINF:-1,Discovery USA
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?supertvlat=/.ts
+#EXTINF:-1,Natinal Geo En
+http://213.136.73.41/8748/377.m3u8
+
+
+#EXTINF:-1,space HD en
+http://213.136.73.41/8748/445.m3u8
 
 #EXTINF:-1,Golf channel
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
@@ -130,6 +152,8 @@ http://bcoveliveios-i.akamaihd.net/hls/live/203127/1539097700001/master_360p.m3u
 http://bcoveliveios-i.akamaihd.net/hls/live/207141/268012959001/WFTV_EVENTLIVE1/WFTV_EVENTLIVE1_800.m3u8
 #EXTINF:-1,WGN Chicago
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
+#EXTINF:-1,GINX
+http://204.107.26.252:1935/live/796.high.stream/chunklist_w1818870275.m3u8
 
 
 #EXTINF:-1,Fox Spanish
