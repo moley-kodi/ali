@@ -59,7 +59,7 @@
 </item>
 
 <item>
-<title>[COLOR deepskyblue][B]BeiN Sports[/B][/COLOR]</title>
+<title>[COLOR red][B]BeiN Sports قنوات بين سبورت[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=tv/bein.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
