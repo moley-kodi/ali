@@ -3,11 +3,10 @@
 
 
 #EXTM3U
-#EXTINF:-1, [COLOR red] Adds New channels 2/5 [/COLOR]
+#EXTINF:-1, [COLOR red] Adds New channels 2/12 [/COLOR]
 http://s2.iptvapi.com
 
-#EXTINF:-1,KUWAIT 3_SPORT
-http://63.237.48.23/ios/KUWAIT_3_SPORT/KUWAIT_3_SPORT.m3u8
+
 
 #EXTINF:-1,Dubai Sport 3
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
@@ -67,10 +66,7 @@ http://bit.ly/1NiOuVs
 
 
 
-#EXTINF:-1,ENCORE Sport
-http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1,ESPN 2
-http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?=/.ts
+
 #EXTINF:-1,Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
 
@@ -141,49 +137,13 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 
 #EXTINF:-1,Sport Max
 http://46.249.213.93/iPhone/HLS_TS/broadcast/sport_max-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
-#EXTINF:-1,SPORTES 1 HD
-http://www.xrxs.net/video/live-p12ariz-4728.m3u8
- 
-#EXTINF:-1,SPORTES 2 HD
-http://www.xrxs.net/video/live-p12baya-4728.m3u8
- 
-#EXTINF:-1,SPORTES 3 HD
-http://xrxs.net/video/live-p12losa-4728.m3u8
- 
-#EXTINF:-1,SPORTES 4 HD
-http://xrxs.net/video/live-p12moun-4728.m3u8
- 
-#EXTINF:-1,SPORTES 5 HD
-http://www.xrxs.net/video/live-p12netw-4728.m3u8
- 
-#EXTINF:-1,SPORTES 6 HD
-http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1,SportTime TV 1 
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
- #EXTINF:-1, Sport time 2 
-http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
-
-#EXTINF:-1,SportTime TV 3 
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
-
- 
-#EXTINF:-1,SportTime TV 5 
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
- 
-#EXTINF:-1,SportTime TV 6
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
- 
-#EXTINF:-1,SportTime TV 7
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200 
 
 
-#EXTINF:-1,Eurosport 1 ENG
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
 #EXTINF:-1,EUROSPORT 1 FR
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 
-#EXTINF:-1,Eurosport 1 ENG
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+
  
 #EXTINF:-1,RUS eurosport
 http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
@@ -200,8 +160,7 @@ http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1, Sportal TV HD
 http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
-#EXTINF:-1, Iraqiya Sport (low)
-http://212.7.205.5:1935/sport/live/playlist.m3u8
+
 #EXTINF:-1, M4 Sport
 http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
 
