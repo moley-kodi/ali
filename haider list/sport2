@@ -15,17 +15,32 @@
 </streaminginfos>
 
 <item>
-<title>Bein sport 1-5</title>
-<link>http://Ignoreme</link>
-<externallink>http://iptv-supplier.com:8000/get.php?username=kkk&amp;password=kkk&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<title>ch54- Captcha - 2M</title>
+<link>rtmp://tdsiptv.ddns.me/live playpath=ch54?code=$doregex[getcode] swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/ swfVfy=true flashVer=WIN\2013,0,0,214 timeout=15 live=true</link>
+<regex>
+<name>getcode</name>
+<expres>\?code=(.*?)\"</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer>http://www.livetv.tn/index.php</referer>
+<cookieJar>$doregex[applycaptcha]</cookieJar>
+</regex>
+<regex>
+<name>applycaptcha</name>
+<expres></expres>
+<page>http://www.livetv.tn/index.php</page>
+<post>capcode:$doregex[show-captcha]<post>
+<referer>http://www.livetv.tn/index.php</referer>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>show-captcha</name>
+<expres>$LiveStreamCaptcha[&lt;img src=\"(capimg\.php\?do=show)\"/&gt;]</expres>
+<page>http://www.livetv.tn/index.php</page>
+<referer>http://www.livetv.tn/index.php</referer>
+<cookieJar></cookieJar>
+</regex>
+
 </item>
-<item><title>Bein 1-5</title><link>Test</link><externallink>http://62.210.162.88:80/get.php?username=beIN_AR98&amp;password=115212022016&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
-
-<item><title>Rami Arabic</title><link>Test</link><externallink>http://avatarhd.no-ip.biz:3030/get.php?username=2rami1&amp;password=2rami1&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
-<item><title>Mnte Italien</title><link>Test</link><externallink>http://tvservice.webhop.me:80/get.php?username=monte&amp;password=monte&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
-<item><title>Fratelli Italien</title><link>Test</link><externallink>http://tvservice.webhop.me:80/get.php?username=fratelli&amp;password=fratelli&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
-
-<item>
 
 
 
