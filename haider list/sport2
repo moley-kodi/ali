@@ -14,23 +14,23 @@
 
 </streaminginfos>
 
-
-<item>
-<title>Bein 1 hd </title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param2]</title>
-<link>[makelist.param1]</link>
-<thumbnail>NA</thumbnail>
-]]></listrepeat>
-<expres>a target.*?(http.*?)".*? (.*?) -</expres>
-<page>http://www.caston.tv/watch/12</page>
-<referer>http://www.caston.tv/player.php?width=650&height=480&id=12</referer>
-<agent>iPhone</agent>
-</regex>
-</item>
+<streaminginfo>
+        <cname>KBC Algeria</cname>
+        <item>
+            <title>bein test </title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://www.caston.tv/swfs/player.swf pageUrl=http://cdn540.xyz/live/c4a5a0bb459b8fc/playlist.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NTI4NDMzMCZoYXNoX3ZhbHVlPTZiYmQyMjI5ZDM0M2VhYzkyN2NhNWZkODIwNmFlNWE3JnZhbGlkbWludXRlcz0zMCZpcD0xNzAuMTg1LjIzMy4xMDcm&wowzasessionid=1280981644</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <page>http://www.caston.tv/player.php?width=650&height=480&id=12</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <page>http://www.caston.tv/player.php?width=650&height=480&id=12</page>
+            </regex>
+        </item>
+</streaminginfo>
 
 
 
