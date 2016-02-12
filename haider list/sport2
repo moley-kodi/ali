@@ -16,19 +16,18 @@
 
 
 <item>
-<title>Bein Sports Channels</title>
+<title>Bein 1 hd </title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-	<title>[makelist.param2]</title>
-	<link>[makelist.param1]</link>
-	<thumbnail>NA</thumbnail>
+<title>[makelist.param2]</title>
+<link>[makelist.param1]</link>
+<thumbnail>NA</thumbnail>
 ]]></listrepeat>
 <expres>a target.*?(http.*?)".*? (.*?) -</expres>
-<page>http://m.liveonlinetv247.info/beinsports1.php
-</page>
-<referer>http://m.liveonlinetv247.info/</referer>
+<page>http://www.caston.tv/watch/12</page>
+<referer>http://www.caston.tv/player.php?width=650&height=480&id=12</referer>
 <agent>iPhone</agent>
 </regex>
 </item>
