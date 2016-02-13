@@ -76,7 +76,22 @@ http://46.40.5.99:8000/arena_2_720
 http://46.40.5.99:8000/arena_3_720
 #EXTINF:-1, Arena Sport 4 HD
 http://46.40.5.99:8000/arena_4_720
-
+#EXTINF:0,ITA: Sky Calcio 1 HD (mt)
+http://213.136.90.30:8000/live/test/test/9187.ts
+#EXTINF:0,ITA: Sky Calcio 2 HD (mt)
+http://213.136.90.30:8000/live/test/test/9188.ts
+#EXTINF:0,ITA: Sky Calcio 3 HD (mt)
+http://213.136.90.30:8000/live/test/test/9189.ts
+#EXTINF:0,ITA: Sky Calcio 4 HD (mt)
+http://213.136.90.30:8000/live/test/test/9190.ts
+#EXTINF:0,ITA: Sky Calcio 5 HD (mt)
+http://213.136.90.30:8000/live/test/test/9191.ts
+#EXTINF:0,ITA: Sky Calcio 6 HD (mt)
+http://213.136.90.30:8000/live/test/test/9192.ts
+#EXTINF:0,ITA: SKY Calcio 7 HD (mt)
+http://213.136.90.30:8000/live/test/test/9193.ts
+#EXTINF:0,ITA: SKY Calcio 8 HD (mt)
+http://213.136.90.30:8000/live/test/test/9194.ts
 
 
 #EXTINF:-1,FOX SPORTS LIVE TV 1 HD
