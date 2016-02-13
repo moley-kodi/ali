@@ -16,7 +16,16 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b12000
 http://137.135.64.32:1935/kas/kas/gmswf.m3u8
 #EXTINF:-16,NILE Sport
 rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport
-
+#EXTINF:-1,MBC_SPORT_HD3
+http://avatarhd.no-ip.biz:3030/live/2rami1/2rami1/32.m3u8
+#EXTINF:-1,MBC_SPORT_HD1
+http://avatarhd.no-ip.biz:3030/live/2rami1/2rami1/31.m3u8
+#EXTINF:-1,MBC_PROSPORT2
+http://avatarhd.no-ip.biz:3030/live/2rami1/2rami1/28.m3u8
+#EXTINF:-1,MBC_PROSPORT1
+http://avatarhd.no-ip.biz:3030/live/2rami1/2rami1/30.m3u8
+#EXTINF:-1,Eurosport1ENG
+http://avatarhd.no-ip.biz:3030/live/2rami1/2rami1/29.m3u8
 #EXTINF:-1, Bein Sport AR
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
 
