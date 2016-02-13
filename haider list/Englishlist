@@ -32,8 +32,9 @@ http://rt.ashttp6.visionip.tv/live/RT_America-HD/chunklist.m3u8
 http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
 
 
-#EXTINF:-1,AMC
-http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?supertvlat=/.ts
+#EXTINF:-1,AMC eu
+http://167.114.102.27/live/nZMWhg2tdqhYewbB8fadGQ/1455339877/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8
+#EXTINF:-1,AMC usa
 http://46.40.5.99:8000/mgm_720
 #EXTINF:-1,Sky comedy
 http://top-iptv.zapto.org:8000/live/walid/walid/544.m3u8
