@@ -36,6 +36,10 @@ http://46.101.248.73:1234/hls/bein3hd.m3u8
 http://46.101.248.73:1234/hls/bein4hd.m3u8
 #EXTINF:-1,BEIN 5 (AR)
 http://46.101.248.73:1234/hls/bein5hd.m3u8
+#EXTINF:-1, bein sport 5
+rtmp://46.28.53.32/live playpath=yalla_23?id=24287&pk=b2329343de0c55992db808bbc13415ec9772e35bd2158f629f7703a00c5f786c swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/yalla_23/1/600/350 <objectEncoding>ding
+#EXTINF:-1, bein sport 9
+rtmp://109.123.114.162/live playpath=yalla4_393?id=23820&pk=b2329343de0c55992db808bbc13415ec9772e35bd2158f629f7703a00c5f786c swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/yalla4_393/1/600/350 objectEncoding=FzaF92YWx1ZT00L1RtUGIxOEsvT2NyOGx1d3YxMEN3PT0mdmFsaWRtaW51dGVzPTMwMA==/
 
 
 
