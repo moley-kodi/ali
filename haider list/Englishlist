@@ -58,6 +58,16 @@ http://31.220.41.107/LiveEdge/FOXComedyLASD/chunklist_w468984425_b1000000.m3u8?t
 http://46.40.5.99:8000/foxlife_720
 #EXTINF:-1, Film Zone 
 http://213.136.73.41/8748/440.m3u8
+#EXTINF:-1,A&E
+http://167.114.102.27/live/20uuNDBIxh6vtphihvLdkw/1455481424/bb38d9048b7b91706264169a031f32a4.m3u8
+
+#EXTINF:-1,AMC
+http://167.114.102.27/live/hl5Rlm-CISiy548t_TbdlA/1455481439/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8
+#EXTINF:-1,Sky 2
+http://62.210.251.32:88/live/sb/sb/252.m3u8
+
+#EXTINF:-1,Axn  White
+http://178.21.120.198:1935/live3/_definst_/mp4:axncrime/chunklist_w1301224921.m3u8
 
 #EXTINF:-1,TNT HD
 http://213.136.73.41/8748/435.m3u8
@@ -109,6 +119,14 @@ http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?supertvlat=/.ts
 http://213.136.73.41/8748/377.m3u8
 #EXTINF:-1,Natinal Geo Wild
 http://213.136.73.41/8748/355.m3u8
+#EXTINF:-1,Descovery usa
+http://167.114.102.27/live/lnxk5_T0375Frpj5ZPEygg/1455481474/a490ae75a3ec2acf16c9f592e889eb4c.m3u8
+
+#EXTINF:-1,Natinoal Geog 
+http://167.114.102.27/live/nGtULbndVB4yZYw5jRnYag/1455481476/e08dd4627a3cf468a30d8a357956d6f8.m3u8
+
+#EXTINF:-1,Animal Plant US
+http://167.114.102.27/live/tCzsANZIPDf94G1iVC4RBQ/1455480824/52d1df7fff7b1ba3ac317b98ef2fdb80.m3u8
 #EXTINF:-1,Discovery Theater
 http://213.136.73.41/8748/351.m3u8
 #EXTINF:-1,AXN VIVO
