@@ -99,3 +99,12 @@ FIlmon addon
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs/filmon.com.cfg&amp;mode=1</jsonrpc>
 <thumbnail>http://multihop.tv/wp-content/uploads/2014/10/filmon-logo.png</thumbnail>
 </item>
+---------------------------
+#EXTINF:-1,الريان
+rtmp://78.100.40.195:1935/ryn<playpath>ryn <swfUrl>http://www.elahmad.com/tv/swf/alrayyantv.swf?autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 <pageUrl>http://www.elahmad.com/tv/alrayyantv.php <objectEncoding>
+--------------------------------------------------------------------------------
+
+
+
+
+
