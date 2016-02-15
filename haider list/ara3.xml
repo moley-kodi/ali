@@ -688,6 +688,16 @@
 
 
 
+	
+<channel>
+     <cname>Almawsleya</cname>
+     <title>abc</title>
+     <imageurl>http://s13.postimg.org/fvg02e16f/Maws.png</imageurl>
+     <enabled>True</enabled>
+     <assignedcategory>
+     <category>iraq</category>
+     </assignedcategory>
+</channel>
 
 
 
