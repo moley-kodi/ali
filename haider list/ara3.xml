@@ -689,9 +689,10 @@
 <cname>panoramadrama</cname>
 <item>
 <title>ART Aflam 1</title>
-<link>rtmp://web3.iptv-planet.com:1937/live2 playpath=artaflam1 swfUrl=http://embed.iptv-planet.com/swfs/player.swf  pageUrl=http://embed.iptv-planet.com/embed.php?id=artaflam1 timeout=15</link>
+<link>rtmp://web3.iptv-planet.com:1937/live2 playpath=artaflam1?cle=084117101032070101098032049054032048053032053056 swfUrl=http://embed.iptv-planet.com/swfs/player.swf  pageUrl=http://embed.iptv-planet.com/embed.php?id=artaflam1 timeout=15</link>
 </item>
 </streaminginfo>
+
 
 
 
