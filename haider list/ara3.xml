@@ -683,21 +683,39 @@
 	</item>
 </streaminginfo>
 
+
+
+<streaminginfo>
+<cname>panoramadrama</cname>
+<item>
+<title>ART Aflam 1</title>
+<link>rtmp://web3.iptv-planet.com:1937/live2 playpath=artaflam1 swfUrl=http://embed.iptv-planet.com/swfs/player.swf  pageUrl=http://embed.iptv-planet.com/embed.php?id=artaflam1 timeout=15</link>
+</item>
+</streaminginfo>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </streamingInfos>
 
 
 
 
 	
-<channel>
-     <cname>Almawsleya</cname>
-     <title>abc</title>
-     <imageurl>http://s13.postimg.org/fvg02e16f/Maws.png</imageurl>
-     <enabled>True</enabled>
-     <assignedcategory>
-     <category>iraq</category>
-     </assignedcategory>
-</channel>
+
 
 
 
