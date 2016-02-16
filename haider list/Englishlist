@@ -144,14 +144,27 @@ http://167.114.102.27/live/lnxk5_T0375Frpj5ZPEygg/1455481474/a490ae75a3ec2acf16c
 
 #EXTINF:-1,Natinoal Geog 
 http://167.114.102.27/live/nGtULbndVB4yZYw5jRnYag/1455481476/e08dd4627a3cf468a30d8a357956d6f8.m3u8
-
+#EXTINF:-1,Discovery Science
+http://91.204.214.106:23331/stolen/468n/generic.lzma
 #EXTINF:-1,Animal Plant US
 http://167.114.102.27/live/tCzsANZIPDf94G1iVC4RBQ/1455480824/52d1df7fff7b1ba3ac317b98ef2fdb80.m3u8
 #EXTINF:-1,Discovery Theater
 http://213.136.73.41/8748/351.m3u8
 #EXTINF:-1,AXN VIVO
 http://213.136.73.41/8748/213.m3u8
+#EXTINF:-1,CNBC Europe
+http://91.204.214.106:23111/stolen/031f/rutkit.exe
+#EXTINF:-1,CBC
+http://91.204.214.106:23311/stolen/434r/backdoor.hfs
+#EXTINF:-1,CBS Drama
+http://91.204.214.106:23251/stolen/311g/onehalf.cab
+#EXTINF:-1,CBS Reality
+http://91.204.214.106:23231/stolen/274c/cmos4.install
+#EXTINF:-1,CCTV Ru
+http://91.204.214.106:23251/stolen/303b/onehalf.cab
 
+#EXTINF:-1,Eureka HD
+http://91.204.214.106:23121/stolen/070e/trojan.exe
 #EXTINF:-1,space HD en
 http://213.136.73.41/8748/445.m3u8
 #EXTINF:-1,Golden Edge
@@ -198,7 +211,16 @@ http://204.107.26.252:1935/live/796.high.stream/chunklist_w1818870275.m3u8
 http://213.136.73.41/8748/314.m3u8
 #EXTINF:-1,Smile Of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
-
+#EXTINF:-1,Cartoon Network/TCM
+http://91.204.214.106:23351/stolen/udp/238.0.0.27:1234
+#EXTINF:-1,Disney
+http://91.204.214.106:23141/stolen/085r/imposter.rar
+#EXTINF:-1,Disney +2
+http://91.204.214.106:23371/stolen/011/duqu
+#EXTINF:-1,Disney +7
+http://91.204.214.106:23361/stolen/udp/238.0.17.89:1234
+#EXTINF:-1,Disney jr
+http://91.204.214.106:23331/stolen/479v/generic.lzma
 
 #EXTINF:-1,SYFY
 http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8
