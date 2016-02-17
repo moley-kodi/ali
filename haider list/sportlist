@@ -92,23 +92,13 @@ http://167.114.41.215:8080/sk1_raf/sk1_raf/index.m3u8
 
 #EXTINF:-1,Sky Sports 2
 http://167.114.41.215:8080/sk2_j/sk2_j/index.m3u8
-
-
 #EXTINF:-1,Sky Sports 3
 http://167.114.41.215:8080/sk3_raf/sk3_raf/index.m3u8
-
-#EXTINF:-1,Sky sport 4
-http://80.243.189.26:8081/sportshd/sky2/index.m3u8
-#EXTINF:-1,Sky sport 4
-http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8
 #EXTINF:-1,Sky Sports 4
 http://167.114.41.215:8080/sk4_raf/sk4_raf/index.m3u8
 #EXTINF:-1,Sky Sports 5
 http://167.114.41.215:8080/sk5_raf/sk5_raf/index.m3u8
-#EXTINF:-1, Sky sport 5
-rtmp://80.82.65.162/live playpath=mys5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf pageUrl=http://www.yocast.tv/embed.php?live=mys5&vw=600&vh=450 <objectEncoding>
-#EXTINF:-1,sky sport 5
-http://144.76.3.83/sky_sports5gb.m3u8
+
 #EXTINF:-1,Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,Red Bull sport 
