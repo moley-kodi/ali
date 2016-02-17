@@ -52,48 +52,9 @@ http://167.114.41.215:8080/bein11_j/bein11_j/index.m3u8
 
 
 
-ARENA SPORT1
-http://bit.do/morocco-arena1
-ARENA SPORT2
-http://bit.do/morocco-arena2
-ARENA SPORT3
-http://bit.do/morocco-arena3
-ARENA SPORT4
-http://bit.do/morocco-arena4
-ARENA SPORT5
-http://bit.do/morocco-arena5
-#EXTINF:-1,Arena Sport 1 HD
-http://bit.ly/1Zz8xGb
-#EXTINF:-1,Arena Sport 2 HD
-http://bit.ly/1lrLW0C
-#EXTINF:-1,Arena Sport 3 HD
-http://bit.ly/1PDwarE
-#EXTINF:-1,Arena Sport 4 HD
-http://bit.ly/1nw98MV
-#EXTINF:-1, Arena Sport 1 HD
-http://46.40.5.99:8000/arena_1_720
-#EXTINF:-1, Arena Sport 2 HD
-http://46.40.5.99:8000/arena_2_720
-#EXTINF:-1, Arena Sport 3 HD
-http://46.40.5.99:8000/arena_3_720
-#EXTINF:-1, Arena Sport 4 HD
-http://46.40.5.99:8000/arena_4_720
-#EXTINF:0,ITA: Sky Calcio 1 HD (mt)
-http://213.136.90.30:8000/live/test/test/9187.ts
-#EXTINF:0,ITA: Sky Calcio 2 HD (mt)
-http://213.136.90.30:8000/live/test/test/9188.ts
-#EXTINF:0,ITA: Sky Calcio 3 HD (mt)
-http://213.136.90.30:8000/live/test/test/9189.ts
-#EXTINF:0,ITA: Sky Calcio 4 HD (mt)
-http://213.136.90.30:8000/live/test/test/9190.ts
-#EXTINF:0,ITA: Sky Calcio 5 HD (mt)
-http://213.136.90.30:8000/live/test/test/9191.ts
-#EXTINF:0,ITA: Sky Calcio 6 HD (mt)
-http://213.136.90.30:8000/live/test/test/9192.ts
-#EXTINF:0,ITA: SKY Calcio 7 HD (mt)
-http://213.136.90.30:8000/live/test/test/9193.ts
-#EXTINF:0,ITA: SKY Calcio 8 HD (mt)
-http://213.136.90.30:8000/live/test/test/9194.ts
+
+
+
 
 
 #EXTINF:-1,FOX SPORTS LIVE TV 1 HD
@@ -127,24 +88,15 @@ http://167.114.41.215:8080/sksportsnews_raf/sksportsnews_raf/index.m3u8
 
 #EXTINF:-1,Sky Sports 1
 http://167.114.41.215:8080/sk1_raf/sk1_raf/index.m3u8
-#EXTINF:-1, Sky sport 1
-http://169.45.89.106:1935/app/skysports1lsh/playlist.m3u8?wowzasessionid=492280161
-#EXTINF:-1, Sky sport 1
-http://80.243.189.26:8081/sportshd/sky1/index.m3u8
-#EXTINF:-1,Sky Sports 2
-http://169.45.89.106:1935:1935/app/skysports2lsh/playlist.m3u8?wowzasessionid=1444918112
+
+
 #EXTINF:-1,Sky Sports 2
 http://167.114.41.215:8080/sk2_j/sk2_j/index.m3u8
-#EXTINF:-1,Sky sport 2
-http://169.45.89.106:1935/app/skysports2lsh/playlist.m3u8
-#EXTINF:-1,Sky sport 2
-http://80.243.189.26:8081/sportshd/sky2/index.m3u8
+
+
 #EXTINF:-1,Sky Sports 3
 http://167.114.41.215:8080/sk3_raf/sk3_raf/index.m3u8
-#EXTINF:-1,Sky sport 3
-http://169.45.89.106:1935/app/skysports3lsh/playlist.m3u8
-#EXTINF:-1,Sky sport 3
-http://80.243.189.26:8081/sportshd/sky3/index.m3u8
+
 #EXTINF:-1,Sky sport 4
 http://80.243.189.26:8081/sportshd/sky2/index.m3u8
 #EXTINF:-1,Sky sport 4
