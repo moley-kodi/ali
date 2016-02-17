@@ -686,10 +686,10 @@
 
 
 <streaminginfo>
-<cname>panoramadrama</cname>
+<cname>wataniya2</cname>
 <item>
-<title>ART Aflam 1</title>
-<link>rtmp://web3.iptv-planet.com:1937/live2 playpath=artaflam1?cle=084117101032070101098032049054032048053032053056 swfUrl=http://embed.iptv-planet.com/swfs/player.swf  pageUrl=http://embed.iptv-planet.com/embed.php?id=artaflam1 timeout=15</link>
+<title>wataniya2</title>
+<link>rtmp://185.24.221.74:1935/wataniya2 playpath=?token=0lrQB0E454YzD8Mmbpk66w&e=1455675587 swfUrl=http://ssl.p.jwpcdn.com/player/v/7.2.4/jwplayer.flash.swf pageUrl=http://mangaplustv.com/foot/tntv/chaine/player.php?live=wataniya2</link>
 </item>
 </streaminginfo>
 
