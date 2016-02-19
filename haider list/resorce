@@ -104,7 +104,12 @@ FIlmon addon
 rtmp://78.100.40.195:1935/ryn<playpath>ryn <swfUrl>http://www.elahmad.com/tv/swf/alrayyantv.swf?autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 <pageUrl>http://www.elahmad.com/tv/alrayyantv.php <objectEncoding>
 --------------------------------------------------------------------------------
 
-
+<item>
+<title>[COLOR gold][B]تاخذ من[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsList.txt&mode=5</jsonrpc>
+<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%2011%20HD.png</thumbnail>
+</item>
 
 
 
