@@ -32,12 +32,7 @@
 </item>
 plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsList.txt
 
-<item>
-<title>[COLOR gold][B]More LIVE Sports/Sky-bein [/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsList.txt&mode=5</jsonrpc>
-<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%2011%20HD.png</thumbnail>
-</item>
+
 
 
 <item>
@@ -445,8 +440,1017 @@ http://178.18.31.65:8081/liverepeater/227630/playlist.m3u8?wmsAuthSign=$doregex[
 
 ويد 
 
+ترك
 ###################################
+<item>
+<title>Sky Sports 1</title>
+<link>http://80.243.189.26:9909/sportshd/sky1/index.m3u8</link>
+<link>http://painel.soeu.ws:8000/live/seixas/seixas/721.m3u8</link>
+<link>rtmp://89.248.168.164/live/ playpath=vskys1 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.cast4u.tv/embedcr.php?live=vskys1&vw=620&vh=490 </link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Sky%20Sports%201.png</thumbnail>
+</item>
 
+<item>
+<title>Sky Sports 2</title>
+<link>http://80.243.189.26:9909/sportshd/sky2/index.m3u8</link>
+<link>http://painel.soeu.ws:8000/live/seixas/seixas/720.m3u8</link>
+<link>rtmp://80.82.70.194/live/ playpath=vskys2 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.cast4u.tv/embedcr.php?live=vskys2&vw=620&vh=490</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Sky%20Sports%202.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 3</title>
+<link>http://80.243.189.26:9909/sportshd/sky3/index.m3u8</link>
+<link>http://painel.soeu.ws:8000/live/seixas/seixas/719.m3u8</link>
+<link>rtmp://89.248.172.199/live/ playpath=vskys3 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.cast4u.tv/embedcr.php?live=vskys3&vw=620&vh=490</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Sky%20Sports%203.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 4</title>
+<link>http://80.243.189.26:9909/sportshd/sky4/index.m3u8</link>
+<link>http://painel.soeu.ws:8000/live/seixas/seixas/718.m3u8</link>
+<link>rtmp://94.102.56.157/live/ playpath=vskys4 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.cast4u.tv/embedcr.php?live=vskys4&vw=620&vh=490</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Sky%20Sports%204.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports 5</title>
+<link>http://144.76.3.83/sky_sports5gb.m3u8</link>
+<link>http://80.243.189.26:9909/sportshd/sky5/index.m3u8</link>
+<link>rtmp://93.174.93.201/live/ playpath=vskys5 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.cast4u.tv/embedcr.php?live=vskys5&vw=620&vh=490</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPzZKUP57MYvseLTCQezRB5H379rj17bR25oJIjRZBLV4snn6eeA</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports F1</title>
+<link>http://80.243.189.26:9909/sportshd/skf1/index.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Sky%20Sports%20F1.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sports News</title>
+<link>http://80.243.189.26:9909/sportshd/skynews/index.m3u8</link>
+<link>http://painel.soeu.ws:8000/live/seixas/seixas/715.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Sky%20Spts%20News.png</thumbnail>
+</item>
+
+<item>
+<title>BT Sport 1</title>
+<link>http://80.243.189.26:9909/sportshd/bt1/index.m3u8</link>
+<link>http://02e4.vp9.tv/chn/btsu1/v.m3u8</link>
+<link>http://painel.soeu.ws:8000/live/seixas/seixas/736.m3u8</link>
+<link>rtmp://31.220.2.149:80/live/ playpath=b1t token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co</link>
+<thumbnail>http://metalkettle.co/logos/logos1/BT%20Sport%201.png</thumbnail>
+</item>
+
+<item>
+<title>BT Sport 2</title>
+<link>http://80.243.189.26:9909/sportshd/bt2/index.m3u8</link>
+<link>rtmp://31.220.2.149:80/live/ playpath=b2t token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co</link>
+<link>http://02e4.vp9.tv/chn/btsu2/v.m3u8</link>
+<link>http://painel.soeu.ws:8000/live/seixas/seixas/735.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos1/BT%20Sport%202.png</thumbnail>
+</item>
+
+<item>
+<title>BT Sport Europe</title>
+<link>http://vurl.com/yPgq7</link>
+<link>http://tinyurl.com/o2m7nnw</link>
+<link>rtmp://185.63.255.18:80/live playpath=bte swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedx.php?live=bte&vw=736&vh=438 token=%Zrey(nKa@#Z</link>
+<thumbnail>https://img01.bt.co.uk/products/lib/img/packages/tv/btsporteuro.png</thumbnail>
+</item>
+
+<item>
+<title>BT ESPN</title>
+<link>http://80.243.189.26:9909/sportshd/espnuk/index.m3u8</link>
+<link>http://167.114.41.215:8080/espn1_j/espn1_j/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452</link>
+<thumbnail>https://img01.bt.co.uk/products/lib/img/packages/tv/btsportespn.png</thumbnail>
+</item>
+
+<item>
+<title>Sportsnet One (Shows Premier League & Various Sports)</title>
+<link>rtmp://31.220.2.149:80/live playpath=sprt1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprt1&vw=620&vh=490 token=%Zrey(nKa@#Z</link>
+<link>rtmp://185.63.255.60:80/live playpath=sprt1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprt1&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<link>rtmp://185.63.255.18:80/live playpath=sprt1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprt1&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThVeDZFUVuBqL0SlvXBiRiHdTcqm9Gy4dXVUoavzvsIOqemqcc</thumbnail>
+</item>
+
+<item>
+<title>Sportsnet World </title>
+<link>rtmp://31.220.2.149:80/live/ playpath=sprtnetworld token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co</link>
+<link>rtmp://31.220.2.149:80/live playpath=sprtnetworld swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://yotv.co/embedu.php?live=world&vw=620&vh=490 token=%Zrey(nKa@#Z</link>
+<link>rtmp://185.63.255.18:80/live playpath=sprtnetworld swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprtnetworld&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://www.liveonlinetv247.info/images/sportsnetworld.png</thumbnail>
+</item>
+
+<item>
+<title>Sportsnet Ontario (Shows Premier League & Various Sports)</title>
+<link>rtmp://185.63.255.60:80/live playpath=ontrio swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=ontrio&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<link>rtmp://31.220.2.149:80/live/ playpath=ontario token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co</link>
+<link>rtmp://185.63.255.18:80/live playpath=ontrio swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=ontrio&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<link>rtmp://31.220.2.149:80/live playpath=ontario swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://yotv.co/embedu.php?live=world&vw=620&vh=490 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://metalkettle.co/logos/logos1/Sportsnet%20Ontario.png</thumbnail>
+</item>
+
+<item>
+<title>TSN 1 (Shows Premier League & Various Sports)</title>
+<link>rtmp://31.220.2.149:80/live/ playpath=ts1 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co</link>
+<link>rtmp://185.63.255.18:80/live playpath=ts1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=ts1&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<link>rtmp://185.63.255.60:80/live playpath=tsnx1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=tsnx2&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://tgo-tv.com/images/tv/tsn1.jpg</thumbnail>
+</item>
+
+<item>
+<title>TSN 2 (Shows Premier League & Various Sports)</title>
+<link>rtmp://31.220.2.149:80/live/ playpath=tsnx2 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co</link>
+<link>rtmp://185.63.255.60:80/live playpath=tsnx2 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=tsnx2&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://tgo-tv.com/images/tv/tsn2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star Sports 1 (Shows Various Sports)</title>
+<link>http://80.243.189.26:9909/sportshd/starsport1/index.m3u8</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgOjdDNSfPoWXjy8JQ6BYvyWzNm7UfedqCGW42DncjKnCKM1bg</thumbnail>
+</item>
+
+<item>
+<title>Star Sports 2 (Shows Premier League & Various Sports)</title>
+<link>http://80.243.189.26:9909/sportshd/starsport2/index.m3u8</link>
+<thumbnail>http://www.bsitbd.net/images/tv/sports/star2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star Sports 3 (Shows Various Sports)</title>
+<link>http://80.243.189.26:9909/sportshd/starsport3/index.m3u8</link>
+<thumbnail>http://tvapk.website/image/star-sports-3.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star Sports 4 (Shows Premier League & Various Sports)</title>
+<link>http://80.243.189.26:9909/sportshd/starsport4/index.m3u8</link>
+<thumbnail>http://www.slt.lk/sites/default/files/channel_images/039%20-%20Star%20Sports%204_0.jpg</thumbnail>
+</item>
+
+<item>
+<title>SkyNet Sports 1 (Shows Premier League & Various Football)</title>
+<link>rtmp://199.189.110.20/as99/chSport1hd</link>
+<link>http://216.185.103.158:1935/live2/chSport1hd/playlist.m3u8</link>
+<thumbnail>http://www.sat-address.com/f/pics/logotipi/Sky-Net-Sports-1_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>SkyNet Sports 2 (Shows Premier League & Various Football)</title>
+<link>rtmp://216.185.103.158/live2//chSport2hd</link>
+<link>http://199.189.110.20:1935/as99/chSport2hd/playlist.m3u8</link>
+<thumbnail>https://www.skynetdth.com/facebook/snchannels/channel_logo/Sport2.png</thumbnail>
+</item>
+
+<item>
+<title>Viasat Sport Baltic HD (Shows Premier League & Various Sports)</title>
+<link>http://217.147.40.118:8080/udp/233.97.20.65:1234</link>
+<link>http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:VSB.smil/playlist.m3u8</link>
+<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2013/06/Viasat-Sport-Baltic-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Canal Plus Futbol (Shows Premier League & Various Football)</title>
+<link>rtmp://31.220.0.139/privatestream/futbolplus56 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
+<link>rtmp://31.220.0.139/privatestream playpath=futbolplus56?keys=4-DLFKU_ncLc9GqoxNxiUg&keyt=1448248367 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
+<thumbnail>https://pbs.twimg.com/profile_images/1297028567/ewe.JPG</thumbnail>
+</item>
+
+<item>
+<title>SportKlub 1 (Shows Premier League & Various Football)</title>
+<link>http://217.199.128.114:4022/udp/235.255.1.52:5394 </link>
+<link>http://169.45.89.106:1935/app/skhd1lsh/playlist.m3u8</link>
+<link>http://77.76.140.251/prgr.m3u8</link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/sport_klub_si_1.jpg</thumbnail>
+</item>
+
+<item>
+<title>SportKlub 2 (Shows Premier League & Various Football)</title>
+<link>http://217.199.128.114:4022/udp/235.255.1.31:5204</link>
+<link>http://77.76.140.251/prgs.m3u8</link>
+<link>http://169.45.89.106:1935/app/skhd2lsh/playlist.m3u8</link>
+<thumbnail>http://www.sat-address.com/f/pics/logotipi/Sport-Klub-2-Slovenia_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>SportKlub 3 (Shows Premier League & Various Football)</title>
+<link>http://77.76.140.251/prgt.m3u8</link>
+<link>http://169.45.89.106:1935/app/skhd3lsh/playlist.m3u8</link>
+<thumbnail>http://jagledam.info/logo/logosk3.jpg</thumbnail>
+</item>
+
+<item>
+<title>Idman HD (Shows Premier League & Various Sports)</title>
+<link>http://188.72.131.226/idman.m3u8</link>
+<link>http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/ka/8/87/%C4%B0dman.jpg</thumbnail>
+</item>
+
+<item>
+<title>Futbol 1 Ukraine (Shows Premier League & Various Football)</title>
+<link>http://193.106.211.2:1234/udp/225.1.3.103:4001</link>
+<link>http://178.165.0.14:4022/udp/239.0.0.214:1234</link>
+<link>http://109.254.93.19:81/udp/238.1.1.99:1234</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgAZ1A8G1jIa-cDRBeSQEEW1hVDS9OTcwdwMEkeRE1doxSdyaj</thumbnail>
+</item>
+
+<item>
+<title>Futbol 2 Ukraine (Shows Premier League & Various Football)</title>
+<link>http://178.165.0.14:4022/udp/239.0.0.215:1234</link>
+<link>http://109.254.93.19:81/udp/238.1.1.100:1234</link>
+<thumbnail>http://en.glaz.tv/images/logos/tv/big/futbol-2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Live Sports Channels (Shows Premier League & Various Sports - Links Change to Different Channels)</title>
+<link>rtmp://89.33.8.14/live?token=REsjXd8Y3ScRXwg0mrMEfwExpired=1455151199 playpath=verfd024732a22de447733236 swfUrl=http://abcast.net/juva.swf live=1 pageUrl=http://abcast.net/abcat.php?file=bamba&width=650&height=400</link>
+<link>rtmp://80.82.64.46/live/ playpath=hdch7 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cast4u.tv/embedm.php?live=hdch7&vw=640&vh=360 </link>
+<link>rtmp://80.82.64.171/live/ playpath=hdch5 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cast4u.tv/embedm.php?</link>
+<link>rtmp://80.82.64.46/live/ playpath=hdch6 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cast4u.tv/embedm.php?live=hdch7&vw=640&vh=360 </link>
+<link>rtmp://80.82.64.171/live/ playpath=hdch4 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cast4u.tv/embedm.php?</link>
+<link>rtmp://80.82.64.46/live/ playpath=hdch5 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cast4u.tv/embedm.php?live=hdch7&vw=640&vh=360 </link>
+<link>rtmp://80.82.64.171/live/ playpath=hdch4 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cast4u.tv/embedm.php?</link>
+<link>rtmp://80.82.64.46/live/ playpath=hdch4 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cast4u.tv/embedm.php?live=hdch7&vw=640&vh=360 </link>
+<link>rtmp://80.82.64.171/live/ playpath=hdch3 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cast4u.tv/embedm.php?</link>
+<link>rtmp://80.82.64.46/live/ playpath=hdch3 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cast4u.tv/embedm.php?live=hdch7&vw=640&vh=360 </link>
+<link>rtmp://80.82.64.171/live/ playpath=hdch2 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cast4u.tv/embedm.php?</link>
+<link>rtmp://80.82.64.46/live/ playpath=hdch2 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cast4u.tv/embedm.php?live=hdch7&vw=640&vh=360 </link>
+<link>rtmp://80.82.64.171/live/ playpath=hdch1 swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cast4u.tv/embedm.php?</link>
+<link>rtmp://66.71.244.110/live/ playpath=allstadium swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://www.all-stadium.net/tv.html Conn=S:OK</link>
+<thumbnail>https://lh3.googleusercontent.com/6Lv3dlOvg35nqjLGF36lWIxw0aYBLU8GyLS9Yv3oQ5rO4u7SpwYczE0YPpG6KQwi2Eo=w300</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 1 France (Shows Various Football)</title>
+<link>http://169.45.89.106:1935/app/bein1frlsh/playlist.m3u8</link>
+<link>rtmpe://93.174.95.124:80/live playpath=50?qKVoG swfUrl=http://www.castup.tv/player/plr.swf live=1 pageUrl=http://www.castup.tv/embed_2.php?channel=50?qKVoG&amp;vw=700&amp;vh=480 token=#@8x12pX@!x@# timeout=15</link>
+<link>http://82.135.224.135:88/udp/239.255.1.178:1234</link>
+<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%201%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 2 France (Shows Various Football)</title>
+<link>http://169.45.89.106:1935/app/bein2frlsh/playlist.m3u8</link>
+<link>rtmpe://89.248.168.21:80/live playpath=51?OFear swfUrl=http://www.castup.tv/player/plr.swf live=1 pageUrl=http://www.castup.tv/embed_2.php?channel=51?OFear&amp;vw=700&amp;vh=480 token=#@8x12pX@!x@# timeout=15</link>
+<link>http://80.243.189.26:8081/bein/sports2gg/index.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%202%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 3 France (Shows Various Football)</title>
+<link>http://169.45.89.106:1935/app/bein3frlsh/playlist.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%203%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>Bein N Espanyol (Shows Various Football)</title>
+<link>rtmp://89.248.174.101/live/ playpath=barczul swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cast4u.tv/embed.php?live=barczul&vw=640&vh=400</link>
+<link>rtmp://146.185.16.64/live playpath=tvcap1602op3?id=25149&pk=246d1494ad5bdcac1ae6f439f4da020c11dd0f6df0aedb4e02835a69ab3f3cc2 swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embedezcast.com/embedplayer/tvcap1602op3/1/730/430 conn=S:OK</link>
+<thumbnail>http://image.vam.synacor.com.edgesuite.net/5f/a5/5fa56c1788d6b49570e8654718a1ea4c4d025fd4/w=202,h=114,crop=auto/?sig=38751ae5e405333c34a4c8eff6985791c50335d2997e502287b2973093025b1a&app=powerplay</thumbnail>
+</item>
+
+<item>
+<title>Superlig TV Turkish (Shows Premier League & Various Football)</title>
+<link>http://92.222.205.40:8080/superlig</link>
+<thumbnail>http://1.bp.blogspot.com/-t3O7qSNJuGk/UwOn0IQdL5I/AAAAAAAAA6k/L4U5sLq7Y_E/s1600/Livetv.gif</thumbnail>
+</item>
+
+<item>
+<title>Kaz Sport (Shows Premier League & Various Sports)</title>
+<link>http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8</link>
+<thumbnail>http://en.glaz.tv/images/logos/tv/big/kazsport.jpg</thumbnail>
+</item>
+
+<item>
+<title>Turkmen Sport (Shows Premier League & Various Sports)</title>
+<link>http://tv.online.tm/hls/ch004_md/index.m3u8</link>
+<link>rtmp://217.174.227.20/webtv/ch004_sd</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Emblem_of_Turkmenistan.svg/110px-Emblem_of_Turkmenistan.svg.png</thumbnail>
+</item>
+
+<item>
+<title>Dolce Sports 1 (Shows Premier League & Champions League & Sports)</title>
+<link>http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8</link>
+<thumbnail>http://static.dolcetv.ro/img/tv_sigle/mobile/101.png</thumbnail>
+</item>
+
+<item>
+<title>Dolce Sports 2 (Shows Premier League & Champions League & Sports)</title>
+<link>http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8</link>
+<thumbnail>http://transferuri.ucoz.ro/_pu/0/70545701.png</thumbnail>
+</item>
+
+<item>
+<title>Dolce Sports 3 (Shows Premier League & Champions League & Sports)</title>
+<link>http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport3/playlist.m3u8</link>
+<thumbnail>http://free-itv.com/wp-content/uploads/2013/12/dolce-sport-3-online.png</thumbnail>
+</item>
+
+<item>
+<title>M4 Sport (Shows Champions League & Various Football)</title>
+<link>http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8</link>
+<thumbnail>http://www.freeiptvlinks.com/wp-content/uploads/2015/07/m4-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Arenasport 1 (Shows Various Football)</title>
+<link>http://46.40.5.99:8000/arena_1_720</link>
+<link>http://217.199.128.114:4022/udp/235.255.1.82:5654</link>
+<link>rtmp://195.154.217.100:80/liverepeater playpath=144597 swfUrl=http://cdn.deltatv.pw/players.swf live=1 pageUrl=http://deltatv.pw/stream.php?id=144599&width=720&height=400 token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://tv-online.in/wp-content/uploads/2012/11/Arena-Sport-1-Tv-live.gif</thumbnail>
+</item>
+
+<item>
+<title>Arenasport 2 (Shows Various Football)</title>
+<link>http://46.40.5.99:8000/arena_2_720</link>
+<link>http://217.199.128.114:4022/udp/235.255.1.83:5654</link>
+<link>rtmp://195.154.217.100:80/liverepeater playpath=144599 swfUrl=http://cdn.deltatv.pw/players.swf live=1 pageUrl=http://deltatv.pw/stream.php?id=144599&width=720&height=400 token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.stream2watch.co/images/thumbs/arenasport2%20live%20stream.jpg</thumbnail>
+</item>
+
+<item>
+<title>Arenasport 3 (Shows Various Football)</title>
+<link>http://46.40.5.99:8000/arena_3_720</link>
+<link>http://217.199.128.114:4022/udp/235.255.1.84:5654</link>
+<link>rtmp://195.154.122.88:80/liverepeater playpath=144600 swfUrl=http://cdn.deltatv.pw/players.swf live=1 pageUrl=http://deltatv.pw/stream.php?id=144600&width=720&height=400 token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://tv-online.in/wp-content/uploads/2013/11/Arena-Sport-3-live.jpg</thumbnail>
+</item>
+
+<item>
+<title>Arenasport 4 (Shows Various Football)</title>
+<link>http://46.40.5.99:8000/arena_4_720</link>
+<link>http://217.199.128.114:4022/udp/235.255.1.85:5654</link>
+<link>rtmp://195.154.122.88:80/liverepeater playpath=144602 swfUrl=http://cdn.deltatv.pw/players.swf live=1 pageUrl=http://deltatv.pw/stream.php?id=144603&width=720&height=400 token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.sat-address.com/f/pics/logotipi/Arena-Sport-4_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sport 1 (Shows Various Football)</title>
+<link>http://dd03.sytes.net/live/13221/index.m3u8?auth=</link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/sport1_cz.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sport 2 (Shows Various Football)</title>
+<link>http://dd03.sytes.net/live/13481/index.m3u8?auth=</link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/sport2_cz.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sport M (Shows Various Football)</title>
+<link>http://dd03.sytes.net/live/15791/index.m3u8?auth=</link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/sport_m.jpg</thumbnail>
+</item>
+
+<item>
+<title>DigiSport 1 (Shows Various Football)</title>
+<link>http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Digi-Sport-1.png</thumbnail>
+</item>
+
+<item>
+<title>DigiSport 2 (Shows Various Football)</title>
+<link>rtmp://31.220.0.103/shqstream/ playpath=dfgdfefoo7f?keys=YslZPrELarmHByLn7Fu4Kw&keyt=1455726365 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf live=1 pageUrl=http://hqstream.tv/player.php?streampage=dfgdfefoo7f&width=640&height=500</link>
+<link>http://82.76.249.81/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Digi-Sport-2.png</thumbnail>
+</item>
+
+<item>
+<title>DigiSport 3 (Shows Various Football)</title>
+<link>http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<thumbnail>http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Digi-Sport-3.png</thumbnail>
+</item>
+
+<item>
+<title>DigiSport 4 (Shows Various Football)</title>
+<link>http://82.76.249.81/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<thumbnail>http://www.rcs-rds.ro/resources/common/imag/ico_tvchannels/Digisport_4.png</thumbnail>
+</item>
+
+<item>
+<title>Sport TV 1 (Shows Various Football & Sports)</title>
+<link>rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to</link>
+<thumbnail>http://amtv.yolasite.com/resources/SPORT%20TV%201.jpg?timestamp=1275675756550</thumbnail>
+</item>
+
+<item>
+<title>Sport TV 2 (Shows Various Football & Sports)</title>
+<link>rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to</link>
+<link>http://195.244.40.135:8000/play/a01w</link>
+<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport_tv2_pt.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sport TV 3/Benfica TV2 (Shows Premier League & Various Football)</title>
+<link>rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to</link>
+<link>rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/</link>
+<link>http://195.244.40.135:8000/play/a020</link>
+<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2011/07/sport-tv3.jpg</thumbnail>
+</item>
+
+<item>
+<title>Canal Plus La Liga (Shows Spainish Football)</title>
+<link>rtmp://31.220.2.53/privatestream/ligados2 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
+<link>rtmp://31.220.0.204/privatestream/ playpath=yio3nbcd swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1</link>
+<link>rtmp://31.220.0.155/privatestream/ playpath=iop3ndhj swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1</link>
+<thumbnail>http://www.diesl.com/wp-content/uploads/2011/11/canal-plus-liga-blogfutbol.jpg?w=300</thumbnail>
+</item>
+
+<item>
+<title>MUTV</title>
+<link>http://painel.soeu.ws:8000/live/seixas/seixas/722.m3u8</link>
+<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2011/09/mutv-logo.jpeg</thumbnail>
+</item>
+
+<item>
+<title>Premier Sports</title>
+<link>rtmp://31.220.2.149:80/live/ playpath=premier token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co</link>
+<link>http://169.45.89.106:1935/app/vpremsplsh/playlist.m3u8</link>
+<link>rtmp://31.220.2.149:80/live playpath=premier swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=premier&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Premier%20Sports.png</thumbnail>
+</item>
+
+<item>
+<title>British Eurosport </title>
+<link>http://80.243.189.26:9909/sportshd/euro1/index.m3u8</link>
+<link>http://169.45.89.106:1935/app/vesplsh/playlist.m3u8</link>
+<link>rtmp://31.220.2.149:80/live/ playpath=euro1 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Eurosport%20UK.png</thumbnail>
+</item>
+
+<item>
+<title>British Eurosport 2</title>
+<link>http://80.243.189.26:9909/sportshd/euro2/index.m3u8</link>
+<link>http://169.45.89.106:1935/app/vesp2lsh/playlist.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Eurosport2%20UK.png</thumbnail>
+</item>
+
+<item>
+<title>Motors TV UK</title>
+<link>rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=motors&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z timeout=10</link>
+<link>rtmp://31.220.2.149:80/live/ playpath=motors token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co</link>
+<thumbnail>http://metalkettle.co/logos/logos1/Motors%20TV.png</thumbnail>
+</item>
+
+<item>
+<title>Silk Sport 3 (Shows Various Football & Sports)</title>
+<link>http://94.43.239.178:8080/CHANNEL222/BITRATE0/playlist.m3u8 </link>
+<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/09/SILK-SPORT.jpg</thumbnail>
+</item>
+
+<item>
+<title>True Sports 3 HD (Shows Various Football & Sports)</title>
+<link>rtmp://216.185.103.158/live2//chthaipremier11</link>
+<thumbnail>http://stepfb.net/live/movieposters/18.jpg</thumbnail>
+</item>
+
+<item>
+<title>True Sports 2 (Shows Various Football & Sports)</title>
+<link>rtmp://216.185.103.158/live2//chthaipremier31</link>
+<thumbnail>http://www.satellitetv-china.com/uploads/litimg/120830/19334Q2047.jpg</thumbnail>
+</item>
+
+<item>
+<title>Tan TV (Shows Champions League & Various Football)</title>
+<link>http://vs1.cdn.ott.otautv.kz/dtv/id9_KTR_SG--Tan/03/plst.m3u8</link>
+<link>http://vs2.cdn.ott.otautv.kz/dtv/id9_KTR_SG--Tan/03/plst.m3u8</link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYpZCIuUmAQPlF4PsnBTn1OEo0eTVkaIPl9b7TULnoCEDuiiTn</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 1 U.S (Shows Various Football & Sports)</title>
+<link>http://80.243.189.26:9909/pakindiatv/FoxSport1/index.m3u8</link>
+<link>http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8</link>
+<link>rtmp://31.220.2.149:80/live playpath=fox1ree swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=fox1ree&vw=620&vh=490 token=%Zrey(nKa@#Z</link>
+<link>http://foro:cable@24.139.177.135:9981/stream/channelid/700490170?ticket=C24EBD6A523450F567A9436019A038FA615BE425&profile=pass</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1alhV6Ih2i5WJGagQl0JC2vUS91OFtSB2LtQYoVYh9qegjBmP</thumbnail>
+</item>
+
+<item>
+<title>Fox Sports 2 U.S (Shows Various Football & Sports)</title>
+<link>http://80.243.189.26:9909/pakindiatv/FoxSport2/index.m3u8</link>
+<link>rtmp://185.63.255.18:80/live playpath=fox2ree swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=fox2ree&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<link>http://foro:cable@24.139.177.135:9981/stream/channelid/200532194?ticket=E0F8A59E370BCF2E0DAF422091D99DB409135C79&profile=pass</link>
+<thumbnail>http://www.foxsports.com/etc/designs/fsdigital/foxsports/styles/tv-listings/common/logo/fs2/fs2_db_56x40.png</thumbnail>
+</item>
+
+<item>
+<title>WWE Network</title>
+<link>http://sjc-ucdn11-ntt-tcdn.ustream.tv/sjc-uhs21/streams/httpflv/ustreamVideo/22023602/streams/live_1_1455579324_2112470143.flv?start=5825</link>
+<link>rtmp://94.102.56.157/live/ playpath=wwe swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.cast4u.tv/embed.php?live=wwe&vw=620&vh=490</link>
+<link>rtmp://94.102.56.157/live playpath=wwe swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.cast4u.tv/embedm.php?live=wwe&vw=640&vh=360</link>
+<thumbnail>http://officialtvstream.net/wp-content/uploads/2015/05/WWE_Network_logo.png</thumbnail>
+</item>
+
+<item>
+<title>ESPN U.S</title>
+<link>http://62.210.206.122:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934</link>
+<link>rtmp://31.220.2.149:80/live/ playpath=espnusa token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co</link>
+<link>rtmp://185.63.255.60:80/live playpath=espnusa swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=espnusa&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail>http://metalkettle.co/logos/logos1/ESPN%20USA.png</thumbnail>
+</item>
+
+<item>
+<title>ESPN 2 America</title>
+<link>http://62.210.206.122:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325</link>
+<link>rtmp://31.220.2.149:80/live/ playpath=espn2usa token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co</link>
+<link>http://foro:cable@24.139.177.135:9981/stream/channelid/254416826?ticket=7C6DAA5C9259DEC9D5692533D1714D3DE4316187&profile=pass</link>
+<thumbnail>http://metalkettle.co/logos/logos1/ESPN2%20USA.png</thumbnail>
+</item>
+
+<item>
+<title>NFL Network</title>
+<link>http://80.243.189.26:9909/pakindiatv/nfl/index.m3u8</link>
+<link>http://tinyurl.com/zzonf2h</link>
+<link>http://foro:cable@24.139.177.135:9981/stream/channelid/434952629?ticket=B5877F1BB4A34417135E0D755A019BBFE9330222&profile=pass</link>
+<thumbnail>http://metalkettle.co/logos/logos1/NFL%20TV.png</thumbnail>
+</item>
+
+<item>
+<title>VS Versus Channel</title>
+<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
+<thumbnail>https://nbcprohockeytalk.files.wordpress.com/2010/11/versus_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>BTN</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/eschi002_delivery@198517/master.m3u8</link>
+<thumbnail>https://bigtennetworks.files.wordpress.com/2011/06/new-logo-square.jpg?w=582</thumbnail>
+</item>
+
+<item>
+<title>FOX College Sports Central HD (Shows All College Sports)</title>
+<link>http://ftve1100-i.akamaihd.net/hls/live/217046/fcsc/3964k/prog.m3u8|X-Forwarded-For=13.107.25.55</link>
+<thumbnail>http://a1.fssta.com/content/dam/fsdigital/fscom/Programming/FCSC_Logo_small.vresize.257.145.medium.18.jpg</thumbnail>
+</item>
+
+<item>
+<title>Fox College Sports Atlantic HD (Shows All College Sports)</title>
+<link>http://ftve1100-i.akamaihd.net/hls/live/217045/fcsa/3964k/prog.m3u8|X-Forwarded-For=13.107.25.55</link>
+<thumbnail>http://www.tvrosat.com/logos/fox_college_sports_atlantic[1].png</thumbnail>
+</item>
+
+<item>
+<title>Fox College Sports Pacific HD (Shows All College Sports)</title>
+<link>http://ftve1100-i.akamaihd.net/hls/live/217047/fcsp/3964k/prog.m3u8|X-Forwarded-For=13.107.25.55</link>
+<thumbnail>http://a2.fssta.com/content/dam/fsdigital/fscom/Programming/FCSP_Logo_small.vresize.257.145.medium.7.jpg</thumbnail>
+</item>
+
+<item>
+<title>Viasat Sport (Shows Various U.S Sports) (Change to English in Player Settings)</title>
+<link>http://alturl.com/8wi4k</link>
+<link>http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos1/Viasat%20Sport.png</thumbnail>
+</item>
+
+<item>
+<title>Ten Sports (Shows Various Sports)</title>
+<link>http://80.243.189.26:9909/sportshd/tensports/index.m3u8</link>
+<thumbnail>http://www.paksee.com/wp-content/uploads/2014/04/TenSports-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Willow Cricket</title>
+<link>http://167.114.41.215:8080/willow/willow/index.m3u8</link>
+<link>rtmp://94.102.56.157/live/ playpath=willow swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.cast4u.tv/embed.php?live=willow&vw=620&vh=490</link>
+<thumbnail>http://www.livetvant.com/wp-content/uploads/2012/03/Watch-willow-TV-Online.jpeg</thumbnail>
+</item>
+
+<item>
+<title>Ten Cricket (Shows all Cricket Matches)</title>
+<link>http://80.243.189.26:9909/sportshd/tencricket/index.m3u8</link>
+<link>http://stream.zeefamily.tv/tencrick/index.m3u8</link>
+<thumbnail>http://www.criclounge.com/uploads/news/newsid_2097-TEN-Cricket-New-Logo-200x160.jpg</thumbnail>
+</item>
+
+<item>
+<title>Canal+ Golf</title>
+<link>rtmp://31.220.0.194/privatestream/golfplus00 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
+<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2013/01/Golf-en-Canal-+.jpeg</thumbnail>
+</item>
+
+<item>
+<title>NBC Golf 1080 HD </title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=66.171.228.102</link>
+<thumbnail>http://www.protracer.se/wp-content/uploads/2014/01/golfchannel_logo.png</thumbnail>
+</item>
+
+<item>
+<title>NBC Golf 720 HD</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=66.171.228.102</link>
+<thumbnail>http://www.protracer.se/wp-content/uploads/2014/01/golfchannel_logo.png</thumbnail>
+</item>
+
+<item>
+<title>NBC Golf SD</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=66.171.228.102</link>
+<thumbnail>http://www.protracer.se/wp-content/uploads/2014/01/golfchannel_logo.png</thumbnail>
+</item>
+
+<item>
+<title>Super Tennis</title>
+<link>http://92.38.161.99:4022/udp/239.77.0.87:1234</link>
+<thumbnail>http://www.digital-news.it/files-admin/Immagini/AltriEditori/supertennis-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Poker Central</title>
+<link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8</link>
+<thumbnail>http://cdn.uapoker.info/sites/default/files/niceimages/444902619777967.png</thumbnail>
+</item>
+
+<item>
+<title>PAC 12 National HD</title>
+<link>http://xrxs.net/video/live-p12netw-4728.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos1/Pac12.png</thumbnail>
+</item>
+
+<item>
+<title>PAC 12 Encore</title>
+<link>http://xrxs.net/video/live-p12oreg-4728.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos1/Pac12.png</thumbnail>
+</item>
+
+<item>
+<title>Fox sport 506 Australia (Shows Various Sports)</title>
+<link>http://motorsport.hopto.org:8080/</link>
+<link>http://motorsport.hopto.org:8080/</link>
+<thumbnail>https://pbs.twimg.com/profile_images/572618756170317824/T062e0aZ_400x400.png</thumbnail>
+</item>
+
+<item>
+<title>DXTV Sport (Shows Various Football & Sports)</title>
+<link>http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E</link>
+<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2014/06/DeporTV-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>A Spor (Shows Various Footblall & Sports)</title>
+<link>http://origin2.live.web.tv.streamprovider.net/live/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-YH5sETI69hA/VCPWQeouEAI/AAAAAAAAanE/SnuYqYmK1c0/s1600/a%2Bspor.png</thumbnail>
+</item>
+
+<item>
+<title>TRT Spor (Shows Various Footblall & Sports)</title>
+<link><link>http://hdtvizle.ru/14452/71930/71968/trts.m3u8</link></link>
+<link>http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/ukturk.m3u8</link>
+<thumbnail>http://www.bedavacanlitvizle.org/wp-content/uploads/trt-spor1.jpg</thumbnail>
+</item>
+
+<item>
+<title>NTV Spor (Shows Various Football & Sports)</title>
+<link>http://origin.live.web.tv.streamprovider.net/live/725528006e858fe951867f4e2436843f_live_0_0/index.m3u8</link>
+<link>http://wownet.ro/str/0828.m3u8|X-Forwarded-For=81.17.18.50</link>
+<link>http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-0Y-lPAHaec0/Uw4E3kFECrI/AAAAAAAAAeI/nst9LVyop7k/s1600/NTVSPOR.png</thumbnail>
+</item>
+
+<item>
+<title>Fanatik TV</title>
+<link>rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720</link>
+<thumbnail>http://tv.fanatik.com.tr/Content/images/fanatik_tv.png</thumbnail>
+</item>
+
+<item>
+<title>Sports TV (Shows Various Sports)</title>
+<link>rtmp://stream.sportstv.com.tr/sportstv/SportsTV3</link>
+<link>rtmp://stream.sportstv.com.tr/sportstv/SportsTV3</link>
+<thumbnail>http://www.giniko.com/logos/190x110/215.png</thumbnail>
+</item>
+
+<item>
+<title>Bursaspor TV</title>
+<link>http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8</link>
+<thumbnail>http://www.tvizleyin.org/wp-content/uploads/bs-tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>MMA Channel (English Spoken)</title>
+<link>rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3</link>
+<thumbnail>http://www.khunkao.com/oldsite/images/mmatv_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Dubai Racing Channel (Shows all Horse Races Inc Racing UK)</title>
+<link>http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1300000.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-XhU5Qk4wlFQ/T-DZ26I7tzI/AAAAAAAAAA4/DKqvNC67O1s/s1600/dubai_racing.jpg</thumbnail>
+</item>
+
+<item>
+<title>William Hill Live Races</title>
+<link>rtsp://whill.tscplayer.net/bettingshop/stream500</link>
+<thumbnail>http://whdn.williamhill.com/core/ob/static/cust/images/en/whLogo2.jpg?ver=723fa5ea119ca4e349d4e10120810d9a</thumbnail>
+</item>
+
+<item>
+<title>Rai Sport 1 </title>
+<link>mmsh://212.162.68.163:80/raisport+</link>
+<thumbnail>http://www.solosalerno.it/wp-content/uploads/2011/06/Rai_Sport_1.png</thumbnail>
+</item>
+
+<item>
+<title>Rai Sport 2</title>
+<link>mmsh://212.162.68.163:80/raisport2</link>
+<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2013/09/Rai-Sport-2-Italy-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sportitalia</title>
+<link>http://spi.hystream.com:1935/spilive/spistream_360/livestream.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/f/f9/Sportitalia_24_2011.jpg/260px-Sportitalia_24_2011.jpg</thumbnail>
+</item>
+
+<item>
+<title>CDN Sportsmax</title>
+<link>rtmp://108.168.206.90/cdnsm playpath=cdnsm swfUrl=http://cdn.com.do/wp-content/themes/cdn/js/player.swf live=1 timeout=13 pageUrl=http://cdn.com.do/</link>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000619827008/b9cc037613ceebec4d9b209eff48fbcf.jpeg</thumbnail>
+</item>
+
+<item>
+<title>TVM 1 Malta (Shows Various Sports)</title>
+<link>http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/3/3c/TVM_Malta.png</thumbnail>
+</item>
+
+<item>
+<title>TVM 2 Malta (Shows Various Sports)</title>
+<link>http://bcliveuniv-lh.akamaihd.net/i/TVM2DVR_1@326354/master.m3u8</link>
+<thumbnail>http://www.tvm.com.mt/wp-content/themes/pbs/images/logo-tv-tvm2.png</thumbnail>
+</item>
+
+<item>
+<title>Autosports TV</title>
+<link>mms://100automoto.tv/100livesport</link>
+<thumbnail>http://autosporttv.soundslike.me/skin/frontend/rwd/default/images/_logo_autosporttv.png</thumbnail>
+</item>
+
+<item>
+<title>Tile Sport</title>
+<link>rtmp://tv1.streampulse.eu/tilesport/movie1</link>
+<thumbnail>http://live-tv.im/wp-content/uploads/2013/12/TILE-SPORT.gif</thumbnail>
+</item>
+
+<item>
+<title>Classic Goals</title>
+<link>rtsp://46.249.213.93/broadcast/classicgoals-tablet.3gp</link>
+<thumbnail>http://oklivetv.com/wp-content/uploads/2015/02/classic-goals-channel-images-logo-large.png</thumbnail>
+</item>
+
+<item>
+<title>Spor TV</title>
+<link>rtmp://62.210.88.208:1935/liverepeat playpath=201020 swfUrl=http://www.ppcast.net/embedP/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.ppcast.net/embedP/8.php?file=zuca8&width=468&height=359</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/220px-SporTV_logo_2011.png</thumbnail>
+</item>
+
+<item>
+<title>SportTime Tv</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200</link>
+<thumbnail>https://lh3.googleusercontent.com/-XJYdDCR5BcQ/URP43iBNM4I/AAAAAAAABIE/UYcExt9ghUU/h120/sport-time-tv-logo.png</thumbnail>
+</item>
+
+<item>
+<title>SportTime Tv 1</title>
+<link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200</link>
+<thumbnail>https://lh3.googleusercontent.com/-XJYdDCR5BcQ/URP43iBNM4I/AAAAAAAABIE/UYcExt9ghUU/h120/sport-time-tv-logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red] ----- These Channels Are Down At The Moment But They Might Come Back ----- [/COLOR]</title>
+<link>NoURL</link>
+<thumbnail>https://i.vimeocdn.com/video/286124617_640.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport DE (Shows Premier League & Various Football)</title>
+<link>http://user.turkhdiptv.com:8000/live/ukturk/61515/11.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Sky_Sport_(Sky_Deutschland).png/250px-Sky_Sport_(Sky_Deutschland).png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 2 DE (Shows Premier League & Various Football)</title>
+<link>http://user.turkhdiptv.com:8000/live/ukturk/61515/15.ts</link>
+<thumbnail>http://www.sat-address.com/f/pics/logotipi/Sky-Sport-2-DE_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 11 (English Spoken) (Shows Premier League & Various Sports)</title>
+<link>http://www.t12v.com:8000/live/tlili/tlili/163.ts</link>
+<link>rtmp://live.iptv-planet.com:1936/live1/b11?user=5354&pass=88f1</link>
+<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%2011%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 12 (English Spoken) (Shows Premier League & Various Sports)</title>
+<link>http://www.t12v.com:8000/live/tlili/tlili/173.ts</link>
+<link>http://live01.pushpublish.tv/mylive/bein12/playlist.m3u8</link>
+<link>http://149.100.11.163:8080/udp/225.170.46.128:1234</link>
+<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%2012%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 1 Asia (English Spoken) (Shows Premier League & Various Football)</title>
+<link>http://180.250.29.22:80/jhos/beib1_4/playlist.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%201%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 2 Asia (English Spoken) (Shows Premier League & Various Football)</title>
+<link>http://180.250.29.22:80/jhos/beib2_4/playlist.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%202%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 3 Asia (English Spoken) (Shows Premier League & Various Football)</title>
+<link>http://180.250.29.22:80/jhos/beib3_4/playlist.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%203%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 1 ME (Shows Premier League & Various Football)</title>
+<link>http://46.101.248.73:1234/hls/bein1hd.m3u8</link>
+<link>http://80.243.189.26:8081/bein/sports1/index.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%201%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 2 ME (Shows Premier League & Various Football)</title>
+<link>http://46.101.248.73:1234/hls/bein2hd.m3u8</link>
+<link>http://80.243.189.26:8081/bein/sports2/index.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%202%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 3 ME (Shows Premier League & Various Football)</title>
+<link>http://46.101.248.73:1234/hls/bein3hd.m3u8</link>
+<link>http://80.243.189.26:8081/bein/sports3/index.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%203%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 4 ME (Shows Premier League & Various Football)</title>
+<link>http://46.101.248.73:1234/hls/bein4hd.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%204%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 5 ME (Shows Premier League & Various Football)</title>
+<link>http://46.101.248.73:1234/hls/bein5hd.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%205%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 6 ME (Shows Premier League & Various Football)</title>
+<link>rtmp://live.iptv-planet.com:1936/live1/b6?user=5354&pass=88f1</link>
+<link>http://live01.pushpublish.tv/mylive/bein6/playlist.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%206%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 7 ME (Shows Premier League & Various Football)</title>
+<link>rtmp://live.iptv-planet.com:1936/live1/b7?user=5354&pass=88f1</link>
+<link>http://live01.pushpublish.tv/mylive/bein7/playlist.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%207%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 8 ME (Shows Premier League & Various Football)</title>
+<link>rtmp://live.iptv-planet.com:1936/live1/b8?user=5354&pass=88f1</link>
+<link>http://live01.pushpublish.tv/mylive/bein8/playlist.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%208%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 9 ME (Shows Various Football)</title>
+<link>rtmp://live.iptv-planet.com:1936/live1/b9?user=5354&pass=88f1</link>
+<link>http://live01.pushpublish.tv/mylive/bein9/playlist.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%209%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>Bein Sports 10 ME (Shows Various Football)</title>
+<link>http://live01.pushpublish.tv/mylive/bein10/playlist.m3u8</link>
+<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%2010%20HD.png</thumbnail>
+</item>
+
+<item>
+<title>Silk Sports 1 (Shows Premier League Various Football & Sports)</title>
+<link>http://188.93.94.133/silk_football/index.m3u8</link>
+<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/09/SILK-SPORT.jpg</thumbnail>
+</item>
+
+<item>
+<title>Silk Sports 2 HD (Shows Various Football & Sports)</title>
+<link>http://188.93.94.133/silk_sport/index.m3u8</link>
+<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/09/SILK-SPORT.jpg</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 1 HD (Shows Premier League & Various Football)</title>
+<link>http://iptvdream.dynns.com:2500/live/facebook1/facebook2/1685.ts</link>
+<link>rtmp://27.254.149.71:1935/live/cth14.stream</link>
+<thumbnail>Image</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 2 HD (Shows Premier League & Various Football)</title>
+<link>http://iptvdream.dynns.com:2500/live/facebook1/facebook2/1686.ts</link>
+<thumbnail>Image</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 3 HD (Shows Premier League & Various Football)</title>
+<link>http://iptvdream.dynns.com:2500/live/facebook1/facebook2/1687.ts</link>
+<link>rtmp://27.254.149.71:1935/live/cth34.stream</link>
+<thumbnail>Image</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 4 HD (Shows Premier League & Various Football)</title>
+<link>http://iptvdream.dynns.com:2500/live/facebook1/facebook2/1688.ts</link>
+<link>rtmp://27.254.149.71:1935/live/cth44.stream</link>
+<thumbnail>Image</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 5 HD (Shows Premier League & Various Football)</title>
+<link>http://iptvdream.dynns.com:2500/live/facebook1/facebook2/1689.ts</link>
+<link>rtmp://27.254.149.71:1935/live/cth54.stream</link>
+<thumbnail>Image</thumbnail>
+</item>
+
+<item>
+<title>CTH Stadium 6 HD (Shows Premier League & Various Football)</title>
+<link>http://iptvdream.dynns.com:2500/live/facebook1/facebook2/1690.ts</link>
+<link>rtmp://27.254.149.71:1935/live/cth64.stream</link>
+<thumbnail>Image</thumbnail>
+</item>
+
+<item>
+<title>Astro Supersport 1 (Shows Premier League & Various Football)</title>
+<link>http://185.63.252.176/live/antenasportucl1/playlist.m3u8</link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/astro_supersport1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Astro Supersport 2 (Shows Premier League & Various Football)</title>
+<link>http://185.63.252.176/live/antenasportucl2/playlist.m3u8</link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/astro_supersport2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Astro Supersport 3 (Shows Premier League & Various Football)</title>
+<link>http://185.63.252.176/live/antenasportucl3/playlist.m3u8</link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/astro_supersport3.jpg</thumbnail>
+</item>
+
+<item>
+<title>Astro Supersport 4 (Shows Premier League & Various Football)</title>
+<link>http://185.63.252.176/live/antenasportucl4/playlist.m3u8</link>
+<thumbnail>http://www.tv-logo.com/pt-data/uploads/images/logo/astro_supersport4.jpg</thumbnail>
+</item>
+
+<item>
+<title>NBCSN (Shows Premier League & Various Sports)</title>
+<sportsdevil>http://hdfree.tv/nbc-sports-live-stream.html</sportsdevil>
+<referer>http://hdfree.tv/nbc-sports-live-stream.html</referer>
+<thumbnail>http://metalkettle.co/logos/logos1/NBC%20Sports.png</thumbnail>
+</item>
+
+<item>
+<title>F+ Sports (Shows Various Football & Sports)</title>
+<link>http://77.76.140.251/prge.m3u8</link>
+<thumbnail>http://www.sat-address.com/f/pics/logotipi/Film-Plus-HD_o.jpg</thumbnail>
+</item>
+
+<item>
+<title>Diema Sport (Shows Premier League & Various Football)</title>
+<link>http://77.76.140.251:22637/udp/224.156.69.36:5000</link>
+<thumbnail>http://www.blizoo.bg/images/Root/content/services/dtv/addons/diema_extra/images/diema_sport_hd_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Diema Sport 2 (Shows Premier League & Various Football)</title>
+<link>http://77.76.140.251:22637/udp/224.156.69.138:5000</link>
+<thumbnail>http://www.ekrana.info/wp-content/plugins/featplug/cache/155.64.64.diema_sport_2_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Nova Sport (Shows Premier League & Various Football)</title>
+<link>http://77.76.140.251:22637/udp/224.156.69.32:5000</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/55/Nova_sport_logo.png</thumbnail>
+</item>
+
+<item>
+<title>NBCSN (Shows Premier League & Various Sports)</title>
+<link>http://www.streamlive.to/view/71137/NBC_Sport_Network-live-stream-channel</link>
+<link>http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<link>http://foro:cable@24.139.177.135:9981/stream/channelid/1513984415?ticket=4254E596991D5EACB699C1930F8D02F06055E030&profile=pass</link>
+<thumbnail>http://metalkettle.co/logos/logos1/NBC%20Sports.png</thumbnail>
+</item>
 
 
 
