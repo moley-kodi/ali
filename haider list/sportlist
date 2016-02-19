@@ -3,7 +3,7 @@
 
 
 #EXTM3U
-#EXTINF:-1, [COLOR red] Adds New channels 2/12 [/COLOR]
+#EXTINF:-1, [COLOR red]Jafaer-tv.com [/COLOR]
 http://s2.iptvapi.com
 
 
@@ -60,26 +60,6 @@ http://live01.pushpublish.tv/mylive/bein11/playlist.m3u8
 http://live01.pushpublish.tv/mylive/bein12/playlist.m3u8
 
 
-
-
-
-#EXTINF:-1,BEIN 1 (AR)
-http://46.101.248.73:1234/hls/bein1hd.m3u8
-#EXTINF:-1,BEIN 2 (AR)
-http://46.101.248.73:1234/hls/bein2hd.m3u8
-#EXTINF:-1,BEIN 3 (AR)
-http://46.101.248.73:1234/hls/bein3hd.m3u8
-#EXTINF:-1,BEIN 4 (AR)
-http://46.101.248.73:1234/hls/bein4hd.m3u8
-#EXTINF:-1,BEIN 5 (AR)
-http://46.101.248.73:1234/hls/bein5hd.m3u8
-#EXTINF:-1, bein sport 5
-rtmp://46.28.53.32/live playpath=yalla_23?id=24287&pk=b2329343de0c55992db808bbc13415ec9772e35bd2158f629f7703a00c5f786c swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/yalla_23/1/600/350 <objectEncoding>ding
-#EXTINF:-1, bein sport 9
-rtmp://109.123.114.162/live playpath=yalla4_393?id=23820&pk=b2329343de0c55992db808bbc13415ec9772e35bd2158f629f7703a00c5f786c swfUrl=http://www.embedezcast.com/static/scripts/fplayer.swf pageUrl=http://www.embedezcast.com/embedplayer/yalla4_393/1/600/350 objectEncoding=FzaF92YWx1ZT00L1RtUGIxOEsvT2NyOGx1d3YxMEN3PT0mdmFsaWRtaW51dGVzPTMwMA==/
-
-
-
 #EXTINF:-1, Bein Sport AR
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
 
@@ -87,13 +67,18 @@ http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
 http://167.114.41.215:8080/bein11_j/bein11_j/index.m3u8
 
 
-
-
-
-
-
-
-
+#EXTINF:-1,Sky Sports 1
+http://167.114.41.215:8080/sk1_raf/sk1_raf/index.m3u8
+#EXTINF:-1,Sky Sports 2
+http://167.114.41.215:8080/sk2_j/sk2_j/index.m3u8
+#EXTINF:-1,Sky Sports 3
+http://167.114.41.215:8080/sk3_raf/sk3_raf/index.m3u8
+#EXTINF:-1,Sky Sports 4
+http://167.114.41.215:8080/sk4_raf/sk4_raf/index.m3u8
+#EXTINF:-1,Sky Sports 5
+http://167.114.41.215:8080/sk5_raf/sk5_raf/index.m3u8
+#EXTINF:-1,Sky Sports News
+http://167.114.41.215:8080/sksportsnews_raf/sksportsnews_raf/index.m3u8
 #EXTINF:-1,FOX SPORTS LIVE TV 1 HD
 http://bit.ly/1QlNuGy
 #EXTINF:-1,FOX SPORTS LIVE TV 2 HD
@@ -103,38 +88,13 @@ http://bit.ly/20co3Ke
 #EXTINF:-1,FOX SPORTS LIVE TV 4 HD
 http://bit.ly/1NiOuVs
 
-
-
-
 #EXTINF:-1,Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
 
-
-#EXTINF:-1,Eurosport
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
-#EXTINF:-1,Eurosport 1
-http://4.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
-#EXTINF:-1,Eurosport 2
-http://4.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
 #EXTINF:-1,Supersport News
 http://176.10.104.216/ss1sd/index.m3u8
 #EXTINF:-1,Fox Sports HD1
 http://streamup.global.ssl.fastly.net/app/zonasports2hds-stream/playlist.m3u8
-#EXTINF:-1,Sky Sports News
-http://167.114.41.215:8080/sksportsnews_raf/sksportsnews_raf/index.m3u8
-
-#EXTINF:-1,Sky Sports 1
-http://167.114.41.215:8080/sk1_raf/sk1_raf/index.m3u8
-
-
-#EXTINF:-1,Sky Sports 2
-http://167.114.41.215:8080/sk2_j/sk2_j/index.m3u8
-#EXTINF:-1,Sky Sports 3
-http://167.114.41.215:8080/sk3_raf/sk3_raf/index.m3u8
-#EXTINF:-1,Sky Sports 4
-http://167.114.41.215:8080/sk4_raf/sk4_raf/index.m3u8
-#EXTINF:-1,Sky Sports 5
-http://167.114.41.215:8080/sk5_raf/sk5_raf/index.m3u8
 
 #EXTINF:-1,Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
@@ -144,11 +104,19 @@ http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 http://167.114.41.215:8080/btSp1_j/btSp1_j/index.m3u8
 #EXTINF:-1,Bt Sports 2
 http://167.114.41.215:8080/btsp2_raf/btsp2_raf/index.m3u8
-#EXTINF:-1,Euro Sport 2
-http://213.81.153.241/live001/channel014_p3.stream/chunklist_w558968909_DVR.m3u8
 
 #EXTINF:-1,EUROSPORT 1 ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1,Eurosport FR
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+#EXTINF:-1,Eurosport 1
+http://4.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
+#EXTINF:-1,Eurosport 2
+http://4.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
+#EXTINF:-1,Euro Sport 2
+http://213.81.153.241/live001/channel014_p3.stream/chunklist_w558968909_DVR.m3u8
+
+
 
 #EXTINF:-1,SPORT TIME TV 1HD
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
@@ -202,12 +170,7 @@ http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr
 
 #EXTINF:-1,ENG-MMA BAY TV
 rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
-#EXTINF:-1,ESPN VIVO
-http://213.136.73.41/8748/516.m3u8
-#EXTINF:-1,ESPN 2 VIVO
-http://213.136.73.41/8748/561.m3u8
-#EXTINF:-1,ESPN 3 VIVO
-http://213.136.73.41/8748/520.m3u8
+
 
 
 #EXTINF:-1, PORSCHE CHANNEL
