@@ -260,8 +260,8 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
 
 
-#EXTINF:-1,USA HD
-plugin://plugin.video.dex/?url=1160&mode=55
+#EXTINF:-1,test HD
+plugin://plugin.video.dex/?url=1144&mode=55
 
 
 
