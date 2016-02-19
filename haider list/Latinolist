@@ -51,9 +51,11 @@ http://213.136.73.41/8748/516.m3u8
 http://213.136.73.41/8748/561.m3u8
 #EXTINF:-1,ESPN 3 VIVO
 http://213.136.73.41/8748/520.m3u8
+#EXTINF:0, TV Chile 
+http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
 
-
-
+#EXTINF:0, RPCTV (Panama) 
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
 
 
 #EXTINF:-1,Lasexta
