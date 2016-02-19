@@ -243,23 +243,6 @@ http://xrxs.net/video/live-p12wash-4728.m3u8
 
 
 
-#EXTINF:0,Arena Sport 1
-http://169.45.89.106:1935/app/arhd1lsh58/playlist.m3u8
-#EXTINF:0,Arena Sport 2
-http://169.45.89.106:1935/app/arhd2lsh/playlist.m3u8
-
-#EXTINF:0,Arena Sport 4
-http://169.45.89.106:1935/app/arhd4lsh/playlist.m3u8
-#EXTINF:0,Sport Klub 1
-http://169.45.89.106:1935/app/skhd1lsh/playlist.m3u8
-#EXTINF:-1, Arena Sport 1 HD
-http://46.40.5.99:8000/arena_1_720
-#EXTINF:-1, Arena Sport 2 HD
-http://46.40.5.99:8000/arena_2_720
-#EXTINF:-1, Arena Sport 3 HD
-http://46.40.5.99:8000/arena_3_720
-#EXTINF:-1, Arena Sport 4 HD
-http://46.40.5.99:8000/arena_4_720
 
 #EXTINF:-1, Sport: K+1 HD Sport
 rtmp://216.185.103.158/live2//chSport1hd
