@@ -284,5 +284,77 @@ http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w9
 
 ######################3333
 
+#EXTINF:-1 tvg-id="M4 Sport" tvg-name="M4_Sport" group-title="Hungary - הונגריה" tvg-logo="",M4 Sport
+http://212.40.98.162/intstreams/mtva/mtv4live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="rai sport" tvg-name="rai_sport" group-title="Italy - איטליה" tvg-logo="f1e3d8f988bf02aee98fb279ed4e3823.png",rai sport
+http://localhost:65007/?url=4112&mode=1
+
+#EXTINF:-1 tvg-id="rai sport 1" tvg-name="rai_sport_1" group-title="Italy - איטליה" tvg-logo="f1e3d8f988bf02aee98fb279ed4e3823.png",rai sport 1
+mmsh://212.162.68.163/raisport+?MSWMExt=.asf
+#EXTINF:-1 tvg-id="Россия 2" tvg-name="Россия_2" group-title="Russia - רוסיה" tvg-logo="",Россия 2
+http://hls.peers.tv/streaming/sport/126/tvrecw/playlist.m3u8?token=8c39708eda02b6360468a69d66bcd422|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/44.0.2403.89 Chrome/44.0.2403.89 Safari/537.36
+#EXTINF:-1 tvg-id="Sport 1" tvg-name="Sport_1" group-title="Russia - רוסיה" tvg-logo="",Sport 1
+http://62.210.91.25:8080/hls1/Sport1.m3u8?token=63o1aOu3ThvyLsRJmtpd-g&e=1456106335|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/44.0.2403.89 Chrome/44.0.2403.89 Safari/537.36&Referer=http://www.moskvatv.org/page/sport1-tv-online.php
+
+#EXTINF:-1 tvg-id="Sport 2" tvg-name="Sport_2" group-title="Russia - רוסיה" tvg-logo="",Sport 2
+http://62.210.91.25:8080/hls1/Sport.m3u8?token=1oTdenFJAB0CdFJkN4QL3A&e=1456106336|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/44.0.2403.89 Chrome/44.0.2403.89 Safari/537.36&Referer=http://www.moskvatv.org/page/sport2-tv-online.php
+#EXTINF:-1 tvg-id="extreme sports" tvg-name="extreme_sports" group-title="Russia - רוסיה" tvg-logo="",extreme sports
+http://localhost:65007/?url=250-extreme-sports&mode=29
+#EXTINF:-1 tvg-id="Hi-Sport" tvg-name="Hi-Sport" group-title="thailand - תאילנד" tvg-logo="8d5d112eaed97cc7a4aa7bc0a1d37b7f.jpg",Hi-Sport
+http://nakorn4.dyndns.tv:1935/live/sdlive.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="NFL Now HD" tvg-name="NFL_Now_HD" group-title="Sport - ספורט" tvg-logo="",NFL Now HD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+
+#EXTINF:-1 tvg-id="GFL Combat Sports" tvg-name="GFL_Combat_Sports" group-title="Sport - ספורט" tvg-logo="07037af4b714fc820e2f76f83bafe933.png",GFL Combat Sports
+http://localhost:65007/?url=3251&ignorefilmonguide=1&mode=1
+
+#EXTINF:-1 tvg-id="Rev'nTV" tvg-name="Rev'nTV" group-title="Sport - ספורט" tvg-logo="4968ef29c03fce2317fb0574fdb50b2f.png",Rev'nTV
+http://localhost:65007/?url=279&mode=6
+
+#EXTINF:-1 tvg-id="Sport TV 2 (Portugal)" tvg-name="Sport_TV_2_(Portugal)" group-title="Sport - ספורט" tvg-logo="",Sport TV 2 (Portugal)
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 tvg-id="Sport TV 3 (Portugal)" tvg-name="Sport_TV_3_(Portugal)" group-title="Sport - ספורט" tvg-logo="",Sport TV 3 (Portugal)
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE_Sport_Stars" group-title="Sport - ספורט" tvg-logo="9f26c2b303458e9efb15bbdb698931ac.jpg",TRACE Sport Stars
+http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/trace_tv_sports-tablet.3gp-mr647k.m3u8?trackingid=4031670000&os=desktop
+#EXTINF:-1 tvg-id="UFC Next" tvg-name="UFC_Next" group-title="Sport - ספורט" tvg-logo="db2ca716d6e3bc2f6f10b142b7c04ff6.png",UFC Next
+http://localhost:65007/?url=713&mode=1
+
+#EXTINF:-1 tvg-id="Dubai Sports" tvg-name="Dubai_Sports" group-title="Sport - ספורט" tvg-logo="86780b40d508b0ba6c637686464937ca.png",Dubai Sports
+http://localhost:65007/?url=79&ignorefilmonguide=1&mode=1
+
+#EXTINF:-1 tvg-id="Dubai Sports 3" tvg-name="Dubai_Sports_3" group-title="Sport - ספורט" tvg-logo="b6fc21808dba8ff8ddeed4480a023c95.png",Dubai Sports 3
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dubai Racing" tvg-name="Dubai_Racing" group-title="Sport - ספורט" tvg-logo="52091704bf4577259883582abe36b9c9.jpg",Dubai Racing
+http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SportTime TV Channel 5 Germany" tvg-name="SportTime_TV_Channel_5_Germany" group-title="Sport - ספורט" tvg-logo="3b20097ce74d475f4def96c3873002af.gif",SportTime TV Channel 5 Germany
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+
+#EXTINF:-1 tvg-id="SportTimeTV Channel 4 Germany" tvg-name="SportTimeTV_Channel_4_Germany" group-title="Sport - ספורט" tvg-logo="3b20097ce74d475f4def96c3873002af.gif",SportTimeTV Channel 4 Germany
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+
+#EXTINF:-1 tvg-id="SportTime TV Channel 3 Germany" tvg-name="SportTime_TV_Channel_3_Germany" group-title="Sport - ספורט" tvg-logo="3b20097ce74d475f4def96c3873002af.gif",SportTime TV Channel 3 Germany
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+
+#EXTINF:-1 tvg-id="SportTime TV Channel 2 Germany" tvg-name="SportTime_TV_Channel_2_Germany" group-title="Sport - ספורט" tvg-logo="3b20097ce74d475f4def96c3873002af.gif",SportTime TV Channel 2 Germany
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+
+#EXTINF:-1 tvg-id="SportTime TV Channel 1 Germany" tvg-name="SportTime_TV_Channel_1_Germany" group-title="Sport - ספורט" tvg-logo="3b20097ce74d475f4def96c3873002af.gif",SportTime TV Channel 1 Germany
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+
+#EXTINF:-1 tvg-id="nbc golf sd" tvg-name="nbc_golf_sd" group-title="Sport - ספורט" tvg-logo="1b7cee446040b1c7f9775bec876c641a.png",nbc golf sd
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-id="nbc golf 720p" tvg-name="nbc_golf_720p" group-title="Sport - ספורט" tvg-logo="1b7cee446040b1c7f9775bec876c641a.png",nbc golf 720p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-id="nbc golf 1080p" tvg-name="nbc_golf_1080p" group-title="Sport - ספורט" tvg-logo="1b7cee446040b1c7f9775bec876c641a.png",nbc golf 1080p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
 
