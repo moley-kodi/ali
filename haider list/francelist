@@ -1,5 +1,20 @@
 
 #EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="iTELE" tvg-name="iTELE" group-title="France - צרפת" tvg-logo="3b4b6b4297298579422ed0e9b36f6b92.png",iTELE
+http://localhost:65007/?url=http://hds_live_itv_aka-lh.akamaihd.net/z/itv_hds@179599/manifest.f4m?hdcore=2.11.3&g=NAPCTPXUXMHG
+
+
+#EXTINF:-1 tvg-id="Rouge TV French" tvg-name="Rouge_TV_French" group-title="France - צרפת" tvg-logo="48436abe64dc40792f3f21d9827ba2b7.jpg",Rouge TV French
+rtmp://rtmp.infomaniak.ch/livecast playpath=rougetv swfUrl=http://tvplayer.castlemedia.fr/swf/tvplayer.swf?4dadb783f0a81537187120216 pageUrl=http://www.playtv.fr/television/#rouge-tv live=true
+
+#EXTINF:-1 tvg-id="WEO" tvg-name="WEO" group-title="France - צרפת" tvg-logo="8694a3fc0587caf9c7cdf3c8fa2cbdcd.gif",WEO
+rtmp://str81.creacast.com:80/weo playpath=high swfUrl=http://www.tvlizer.com/live47/player.swf pageUrl=http://www.tvlizer.com/weo-tv-fra/
+
+#EXTINF:-1 tvg-id="LCP" tvg-name="LCP" group-title="France - צרפת" tvg-logo="",LCP
+http://localhost:65007/?url=3887&mode=1
 #EXTINF:-1 tvg-id="ARTE Fran" tvg-name="ARTE_Fran" group-title="France - צרפת" tvg-logo="ac3e9b9f464171d70b33e37cbf12a233.png",ARTE Fran
 http://localhost:65007/?url=1729&ignorefilmonguide=1&mode=1
 
