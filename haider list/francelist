@@ -1,5 +1,85 @@
 
 #EXTM3U
+#EXTINF:-1 tvg-id="ARTE Fran" tvg-name="ARTE_Fran" group-title="France - צרפת" tvg-logo="ac3e9b9f464171d70b33e37cbf12a233.png",ARTE Fran
+http://localhost:65007/?url=1729&ignorefilmonguide=1&mode=1
+
+#EXTINF:-1 tvg-id="ARTE Fran" tvg-name="ARTE_Fran" group-title="France - צרפת" tvg-logo="c74f486e899c4cd7773f54032e04502d.png",ARTE Fran
+http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
+
+#EXTINF:-1 tvg-id="ARTE Fran" tvg-name="ARTE_Fran" group-title="France - צרפת" tvg-logo="c74f486e899c4cd7773f54032e04502d.png",ARTE Fran
+http://localhost:65007/?url=arte&mode=19
+
+#EXTINF:-1 tvg-id="TV5MONDE EUROPE" tvg-name="TV5MONDE_EUROPE" group-title="France - צרפת" tvg-logo="59a1c2c45242227c2a7f643bc6bfa700.png",TV5MONDE EUROPE
+http://localhost:65007/?url=517&&filmonmethod=1&ignorefilmonguide=1&mode=1
+
+#EXTINF:-1 tvg-id="France o" tvg-name="France_o" group-title="France - צרפת" tvg-logo="5b64226d44f473c1c4ec083a69ca946a.jpg",France o
+http://localhost:65007/?url=3884&mode=1
+
+#EXTINF:-1 tvg-id="France o" tvg-name="France_o" group-title="France - צרפת" tvg-logo="5b64226d44f473c1c4ec083a69ca946a.jpg",France o
+http://localhost:65007/?url=france-o-live&mode=19
+
+#EXTINF:-1 tvg-id="France 2" tvg-name="France_2" group-title="France - צרפת" tvg-logo="d427e5fa1f725b2c29445c0940e2c2e4.png",France 2
+http://localhost:65007/?url=1717&ignorefilmonguide=1&mode=1
+
+#EXTINF:-1 tvg-id="France 2" tvg-name="France_2" group-title="France - צרפת" tvg-logo="d427e5fa1f725b2c29445c0940e2c2e4.png",France 2
+http://localhost:65007/?url=france-2-live&mode=19
+
+#EXTINF:-1 tvg-id="France 3" tvg-name="France_3" group-title="France - צרפת" tvg-logo="cdd122a0d97ce750aaeaa77e0687f4f5.png",France 3
+http://localhost:65007/?url=1723&ignorefilmonguide=1&mode=1
+
+#EXTINF:-1 tvg-id="France 3" tvg-name="France_3" group-title="France - צרפת" tvg-logo="cdd122a0d97ce750aaeaa77e0687f4f5.png",France 3
+http://localhost:65007/?url=france-3-live&mode=19
+
+#EXTINF:-1 tvg-id="France 3 Rhone" tvg-name="France_3_Rhone" group-title="France - צרפת" tvg-logo="cdd122a0d97ce750aaeaa77e0687f4f5.png",France 3 Rhone
+http://localhost:65007/?url=3890&mode=1
+
+#EXTINF:-1 tvg-id="France 3 Alpes" tvg-name="France_3_Alpes" group-title="France - צרפת" tvg-logo="cdd122a0d97ce750aaeaa77e0687f4f5.png",France 3 Alpes
+http://localhost:65007/?url=3893&mode=1
+
+#EXTINF:-1 tvg-id="France 4" tvg-name="France_4" group-title="France - צרפת" tvg-logo="f65a67a22934c5b83b0981f93f840c70.jpg",France 4
+http://localhost:65007/?url=3905&mode=1
+
+#EXTINF:-1 tvg-id="France 4" tvg-name="France_4" group-title="France - צרפת" tvg-logo="f65a67a22934c5b83b0981f93f840c70.jpg",France 4
+http://localhost:65007/?url=france-4-live&mode=19
+
+#EXTINF:-1 tvg-id="France 5" tvg-name="France_5" group-title="France - צרפת" tvg-logo="4e1b2301fab7fbbf9dbc011323b8e80f.png",France 5
+http://localhost:65007/?url=1720&mode=1
+
+#EXTINF:-1 tvg-id="France 5" tvg-name="France_5" group-title="France - צרפת" tvg-logo="4e1b2301fab7fbbf9dbc011323b8e80f.png",France 5
+http://localhost:65007/?url=france-5-live&mode=19
+
+#EXTINF:-1 tvg-id="Gulli" tvg-name="Gulli" group-title="France - צרפת" tvg-logo="271158fa9a0026b34f1215f446cb648e.png",Gulli
+http://localhost:65007/?url=gulli&mode=19
+
+#EXTINF:-1 tvg-id="W9" tvg-name="W9" group-title="France - צרפת" tvg-logo="51aefdde3411ac1600bf578ae7c475d8.png",W9
+http://localhost:65007/?url=w9-live&mode=19
+
+#EXTINF:-1 tvg-id="TF1" tvg-name="TF1" group-title="France - צרפת" tvg-logo="2eabca7d74fdaa0164f1844b341fe2fd.png",TF1
+http://localhost:65007/?url=tf1-live&mode=19
+
+#EXTINF:-1 tvg-id="M6" tvg-name="M6" group-title="France - צרפת" tvg-logo="7936ef6fd190a03f55c14c1a0f53dc2a.png",M6
+http://localhost:65007/?url=m6-live&mode=19
+
+#EXTINF:-1 tvg-id="D8" tvg-name="D8" group-title="France - צרפת" tvg-logo="9a578ddebe8b89c766b055f093a37631.png",D8
+http://localhost:65007/?url=d8-live&mode=19
+
+#EXTINF:-1 tvg-id="D17" tvg-name="D17" group-title="France - צרפת" tvg-logo="bb9831798dfd008656b0ea82a2a6df32.jpg",D17
+http://localhost:65007/?url=d17-live&mode=19
+
+#EXTINF:-1 tvg-id="RTS Un" tvg-name="RTS_Un" group-title="France - צרפת" tvg-logo="0abe1e737d22c8fdc30f9c16439a5810.png",RTS Un
+http://localhost:65007/?url=3911&mode=1
+
+#EXTINF:-1 tvg-id="RTS Un" tvg-name="RTS_Un" group-title="France - צרפת" tvg-logo="0abe1e737d22c8fdc30f9c16439a5810.png",RTS Un
+http://localhost:65007/?url=rts-un-live&mode=19
+
+#EXTINF:-1 tvg-id="RTS Deux" tvg-name="RTS_Deux" group-title="France - צרפת" tvg-logo="44f58726e412185890b727871f593195.jpg",RTS Deux
+http://localhost:65007/?url=3914&mode=1
+
+#EXTINF:-1 tvg-id="RTS Deux" tvg-name="RTS_Deux" group-title="France - צרפת" tvg-logo="44f58726e412185890b727871f593195.jpg",RTS Deux
+http://localhost:65007/?url=rts-deux-live&mode=19
+
+#EXTINF:-1 tvg-id="teleclub" tvg-name="teleclub" group-title="France - צרפת" tvg-logo="",teleclub
+http://teleclub.fr/club1.mp4
 
 #EXTINF:-1,ARTE
 http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
