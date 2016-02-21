@@ -232,6 +232,72 @@ rtmp://streamer1.streamhost.org/salive/GMIalfam
 #EXTINF:-1,Venezuela:ViveTV Venezuela 
 mmsh://difusion.cantv.net/vhost-covetel_live
 
+#EXTINF:-1 tvg-id="canal 9" tvg-name="canal_9" group-title="Argentina - ארגנטינה" tvg-logo="",canal 9
+http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" group-title="Argentina - ארגנטינה" tvg-logo="17a9e1732468973af9fd66a279306a78.jpg",C5N
+rtmp://c5n.stweb.tv/c5n/live
+
+#EXTINF:-1 tvg-id="LATINOS ARGENTINA:CANAL 10 ENTRE RIOS" tvg-name="LATINOS_ARGENTINA:CANAL_10_ENTRE_RIOS" group-title="Argentina - ארגנטינה" tvg-logo="",LATINOS ARGENTINA:CANAL 10 ENTRE RIOS
+http://iphone-streaming.ustream.tv/ustreamVideo/253309/streams/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 13 HD" tvg-name="Canal_13_HD" group-title="Argentina - ארגנטינה" tvg-logo="82a8f18d3d8e247a055e4b0bbfe39efd.jpg",Canal 13 HD
+rtmp://stream.eltrecetv.com.ar/ app=live13/13tv playpath=13tv1 swfUrl=http://static.eltrecetv.com.ar/sites/all/libraries/jwplayer/player-licensed.swf live=true timeout=15 pageUrl=http://www.eltrecetv.com.ar/vivo
+
+#EXTINF:-1 tvg-id="AMERICA 24" tvg-name="AMERICA_24" group-title="Argentina - ארגנטינה" tvg-logo="ce88f660d52969f6518bfff47a75c684.PNG",AMERICA 24
+http://localhost:65007/?url=https://www.youtube.com/watch?v=FtD4Wgh97MA
+
+#EXTINF:-1 tvg-id="AMERICA 24" tvg-name="AMERICA_24" group-title="Argentina - ארגנטינה" tvg-logo="ce88f660d52969f6518bfff47a75c684.PNG",AMERICA 24
+http://localhost:65007/?url=http://prepublish.f.qaotic.net/epb/ngrp:americatvlive-100056_all/manifest.f4m
+
+#EXTINF:-1 tvg-id="Canal 26" tvg-name="Canal_26" group-title="Argentina - ארגנטינה" tvg-logo="",Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="TODO NOTICIAS" tvg-name="TODO_NOTICIAS" group-title="Argentina - ארגנטינה" tvg-logo="38549c0bf63006fbf6df80b925f81893.jpg",TODO NOTICIAS
+rtmp://stream.tn.com.ar/live/tnhd2 playpath=tnhd2 swfUrl="http://tn.com.ar/sites/all/themes/dozer/swf/cplayer/player.swf" pageUrl="http://tn.com.ar/envivo/24hs/HD" swfVfy=true live=true
+
+#EXTINF:-1 tvg-id="360 TV" tvg-name="360_TV" group-title="Argentina - ארגנטינה" tvg-logo="",360 TV
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+
+#EXTINF:-1 tvg-id="Argentina - AM SPORTS ARGENTINA" tvg-name="Argentina_-_AM_SPORTS_ARGENTINA" group-title="Argentina - ארגנטינה" tvg-logo="",Argentina - AM SPORTS ARGENTINA
+http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="america sports" tvg-name="america_sports" group-title="Argentina - ארגנטינה" tvg-logo="058f23571de4447c5e0adea80b2a4322.PNG",america sports
+http://iphone-streaming.ustream.tv/ustreamVideo/11602466/streams/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Argentina - VIVRA TV" tvg-name="Argentina_-_VIVRA_TV" group-title="Argentina - ארגנטינה" tvg-logo="",Argentina - VIVRA TV
+http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVP" tvg-name="TVP" group-title="Argentina - ארגנטינה" tvg-logo="b7389ac7ba597028ac0c0e3960e58d44.PNG",TVP
+http://localhost:65007/?url=http://ffahds-lh.akamaihd.net/z/c7hds_3@7396/manifest.f4m?hdcore=3.5.0
+
+#EXTINF:-1 tvg-id="Canal Encuentro" tvg-name="Canal_Encuentro" group-title="Argentina - ארגנטינה" tvg-logo="852accac3b85105c1561734e6db84cd9.jpg",Canal Encuentro
+http://lsdencuentrohls-lh.akamaihd.net/i/encuentrohls_1@96967/index_500_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Magazine" tvg-name="Magazine" group-title="Argentina - ארגנטינה" tvg-logo="",Magazine
+rtmp://stream.mgzn.tv/live/mgzntv/mgzntv playpath=mgzntv swfUrl=http://www.mgzn.tv/sites/all/themes/magazine/images/player.swf live=1 pageUrl=http://www.mgzn.tv/vivo
+
+#EXTINF:-1 tvg-id="ORBE 21" tvg-name="ORBE_21" group-title="Argentina - ארגנטינה" tvg-logo="",ORBE 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+
+#EXTINF:-1 tvg-id="TATETI" tvg-name="TATETI" group-title="Argentina - ארגנטינה" tvg-logo="",TATETI
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+
+#EXTINF:-1 tvg-id="VIAJAR" tvg-name="VIAJAR" group-title="Argentina - ארגנטינה" tvg-logo="",VIAJAR
+http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
+
+#EXTINF:-1 tvg-id="TELEMAX" tvg-name="TELEMAX" group-title="Argentina - ארגנטינה" tvg-logo="",TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV UNIVERSIDAD LA PLATA" tvg-name="TV_UNIVERSIDAD_LA_PLATA" group-title="Argentina - ארגנטינה" tvg-logo="",TV UNIVERSIDAD LA PLATA
+rtmp://stratus.stream.cespi.unlp.edu.ar:80/stream/tvunlp
+
+#EXTINF:-1 tvg-id="Quiero Musica" tvg-name="Quiero_Musica" group-title="Argentina - ארגנטינה" tvg-logo="",Quiero Musica
+mms://200.42.92.6:1755/qmusica
+
+#EXTINF:-1 tvg-id="PAKA PAKA" tvg-name="PAKA_PAKA" group-title="Argentina - ארגנטינה" tvg-logo="",PAKA PAKA
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+
 
 
 
