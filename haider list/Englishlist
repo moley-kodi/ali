@@ -31,6 +31,12 @@ http://rt.ashttp6.visionip.tv/live/RT_America-HD/chunklist.m3u8
 #EXTINF:-1,Fox 59
 http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
 
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" group-title="thailand - תאילנד" tvg-logo="",FOX
+http://tv02.thaizatv.com:1935/drm/ft.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fox Movies" tvg-name="Fox_Movies" group-title="Movies - סרטים" tvg-logo="",Fox Movies
+rtmp://web3.iptv-planet.com:1937/live2 playpath=fm?cle=083117110032070101098032050049032048055032048050 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=fm&width=600&height=400
+
 
 #EXTINF:-1,AMC eu
 http://167.114.102.27/live/nZMWhg2tdqhYewbB8fadGQ/1455339877/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8
