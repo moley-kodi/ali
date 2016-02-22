@@ -653,69 +653,6 @@
 
 
 
-<item>
-<title>Haider test</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR blue]Channels - [/COLOR][makelist.param1]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]&amp;Buffer=20971520 live=1 timeout=15</link>
-<thumbnail>NA</thumbnail>
-]]></listrepeat>
-<expres>#EXTINF:-1,(.*?)\n(.*ts)</expres>
-<page>http://sream1.mine.nu:8000/get.php?username=Gzimidr&amp;password=DRgzimi&amp;type=m3u&amp;output=mpegts</page>
-<agent>MoziMozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
-</regex>
-<regex>
-<name>encodedurl</name>
-<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
-<page></page>
-</regex>
-</item>
-
-
-<streaminginfo>
-	<cname>D8</cname>
-	<item>
-	<title>Nick Toons</title>
-	<link>plugin://plugin.video.dextertv/?url=http%3A%2F%2F50.7.136.90%3A81%2Flive%2Fneilspark553130%40gmail.com%2Fupgrade1123%2F122.ts&mode=12</link>
-	</item>
-</streaminginfo>
-
-
-
-
-<streaminginfo>
-<cname>Wataniya 2</cname>
-<item>
-<title>Wataniya 2 test</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[xmlurl]'.replace('&amp;amp;','&amp;')</expres>
-<page></page>
-</regex>
-<regex>
-<name>xmlurl</name>
-<expres>file="(http.*?)"</expres>
-<page>http://mangaplustv.com/foot/tntv/chaine/player.php?live=wataniya2</page>
-<referer>http://ssl.p.jwpcdn.com/player/v/7.2.4/jwplayer.flash.swf</referer>
-</regex>
-</item>
-</streaminginfo>
-
-
-
-
-
-
-
-<item>
-<title>test haider</title>
-<link>http://Ignoreme</link>
-<externallink>http://avatarhd.no-ip.biz:3030/live/?username=2rami1&&amp;password=2rami1&amp;type=m3u&&amp;output=mpegts</externallink>
-</item>
 
 
 
