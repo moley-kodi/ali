@@ -11,8 +11,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 
-#EXTINF:-1 ,MBC masr
-rtmp://web3.iptv-planet.com:1937/live2 playpath=mbcmasr?cle=077111110032070101098032050050032048050032053057 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=mbcmasr live=1 swfVfy=true timeout=10
+#EXTINF:-1 ,MBC masr test
+rtmp://web3.iptv-planet.com:1937/live2 playpath=mbcmasr?cle=077111110032070101098032050050032048050032053057 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=mbcmasr live=1 swfVfy=true 
 
 
 #EXTINF:-1,MBC 1 
