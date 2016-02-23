@@ -4,10 +4,9 @@
 #EXTM3U
 
 #EXTINF:-1, [COLOR red] --  http://Jafaer-tv.com --[/COLOR]
-
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
-
+#EXTINF:-1, [COLOR red] --  تم اضافة قنوات جديدة MBC تجدوها في Haider list 2الرجاء مشاهدتها الكثير من القنوات  --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 
