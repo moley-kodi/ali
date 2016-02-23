@@ -1,0 +1,37 @@
+
+<streamingInfos> 
+<streaminginfo> <cname>Elmourabiton</cname> <item> <title>Med</title> <link>http://m.live.net.sa:1935/m/chm7/chunklist.m3u8</link> </item> </streaminginfo>   
+<streaminginfo> <cname>SM SM KIDS</cname> <item> <title>Med</title> <link>http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8</link> </item> </streaminginfo> 
+<streaminginfo> <cname>DMM</cname> <item> <title>Med</title> <link>http://streaming.i-sat.tv:1935/live/dmm/playlist.m3u8</link> </item> </streaminginfo> 
+<streaminginfo><cname>Almajlis</cname><item><title>Med</title><link>http://stream03.fasttelco.net/4/pub/asset/12/streams.m3u8</link></item></streaminginfo> 
+<streaminginfo><cname>almouridiyyah</cname><item><title>Med</title><link>http://208.93.116.239:1935/liveroku/roku-live1/gmswf.m3u8</link></item></streaminginfo> 
+<streaminginfo> <cname>D8</cname> <item> <title>Geoblocked</title> <link>plugin://plugin.video.f4mTester/?url=http://hds_live_d8_aka-lh.akamaihd.net/z/d8_hds@182613/manifest.f4m</link> </item> </streaminginfo>
+ <streaminginfo> <cname>SBC</cname> <item> <title>SBC Livestream</title> <link>http://cdn01.iqbroadcast.tv:8081/g1/sbscvt1206/playlist.m3u8</link> 
+</item> </streaminginfo> 
+ <streaminginfo> <cname>Bein Sport News</cname> <item> <title>Official</title> <link>http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8</link> </item> </streaminginfo> 
+ <streaminginfo> <cname>LPC</cname> <item> <title>ustream</title> <link>$doregex[get-link]</link> <regex> <name>get-link</name> <expres>$pyFunction:get_ustream('http://iphone-streaming.ustream.tv/ustreamVideo/20753403/streams/live/playlist.m3u8')</expres> <page></page> </regex> </item> </streaminginfo>
+ <streaminginfo> <cname>Grand Lille TV</cname> <item> <title>360px SD</title> <link>rtmp://str81.creacast.com/grandlilletv/high</link> </item> </streaminginfo> 
+ <streaminginfo> <cname>Tom and Jerry</cname> <item> <title>Source SD</title> <link>rtmp://208.53.180.130/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html</link> </item>	</streaminginfo> 
+ <streaminginfo> <cname>Cherie 25</cname> <item> <title>720px HD</title> <link>http://pebbles110-lh.akamaihd.net/i/cheriehd_1@97438/index_4000_av-b.m3u8?sd=10&amp;rebase=on|X-Forwarded-For=195.186.136.21</link> </item> </streaminginfo> 
+ <streaminginfo> <cname>Equipe 21</cname> <item> <title>720px HD</title> <link>http://pebbles110-lh.akamaihd.net/i/equipetvhd_1@97439/index_4000_av-b.m3u8?sd=10&amp;rebase=on|X-Forwarded-For=195.186.136.21</link> </item> </streaminginfo> 
+ <streaminginfo> <cname>Disney</cname> <item> <title>404px SD</title> <link>http://mystreams.fr.mu/80E803/enco35-cp/hls/m3u8/5643785098.m3u8</link> </item> </streaminginfo> <streaminginfo> <cname>RMC Decouverte</cname> <item> <title>1080px HD</title> <link>http://pebbles112-lh.akamaihd.net/i/rmchd_1@97445/index_4000_av-b.m3u8?sd=10&amp;rebase=on|X-Forwarded-For=195.186.136.21</link> </item> </streaminginfo> 
+ <streaminginfo> <cname>Animaux</cname> <item> <title>720px HD</title> <link>http://87.248.160.8/edge/smil:animaux/playlist.m3u8</link> </item> </streaminginfo>
+ <streaminginfo> <cname>Ten</cname> <item> <title>You need to install vaughnlive addon</title> <link>plugin://plugin.stream.vaughnlive.tv/?sourcetype=auto&amp;img=http%3A%2F%2Fcdn.vaughnsoft.com%2Fvaughnsoft%2Fvaughn%2Fimg_profiles%2F20satcom_320.jpg&amp;title=20satcom&amp;url=http%3A%2F%2Fvaughnlive.tv%2F20satcom&amp;section=&amp;site=&amp;mode=PlayLiveStream&amp;fimg=http%3A%2F%2Fcdn.vaughnsoft.com%2Fvaughnsoft%2Fvaughnlive%2Fimg_backgrounds%2F20satcom.jpg&amp;channel=20satcom</link> </item> </streaminginfo> <streaminginfo> <cname>Ten</cname> <item> <title>You need to install Sportsdevil</title> <sportsdevil>https://vaughnlive.tv/embed/video/20satcom</sportsdevil> <referer>https://vaughnlive.tv</referer> </item> </streaminginfo>
+ <streaminginfo> <cname>NTV 2</cname> <item> <title>Med</title> <link>rtmpt://lc2.streamakaci.com/lc2new/lc2 live=1 timeout=20</link> </item> </streaminginfo>
+ <streaminginfo> <cname>Islam Channel UK</cname> <item> <title>HLS_stream</title> <link>http://wowza05.sharp-stream.com:1935/islamtv/mp4:islamtv.stream/chunklist_w110095687.m3u8</link> </item> </streaminginfo>
+ <streaminginfo> <cname>Peace TV Asia</cname> <item> <title>rtmp_Stream</title> <link>rtmp://peace.fms.visionip.tv/live/b2b-peace_asia-live-25f-4x3-sdh_1</link> </item> </streaminginfo>
+ <streaminginfo> <cname>Peace TV UK</cname> <item> <title>rtmp_Stream</title> <link>rtmp://peace.fms.visionip.tv/live/b2b-peace_sky-live-25f-4x3-sdh_1</link> </item> </streaminginfo>
+ <streaminginfo><cname>Dalmar TV</cname><item><title>Youtube</title><link>plugin://plugin.video.youtube/play/?video_id=Yz5j2-z8hs8</link></item></streaminginfo> <streaminginfo>
+ <cname>HCTV</cname> <item> <title>HLS_Stream</title> <link>http://162.212.176.83:8080/hctvgermany.m3u8</link> </item> </streaminginfo> <streaminginfo> <cname>Kalsan Tv</cname> <item> <title>HLS_Stream</title> <link>http://cdn01.iqbroadcast.tv:8081/g1/kalsan300/playlist.m3u8</link> </item> </streaminginfo>
+ <streaminginfo> <cname>GuideUS TV</cname> <item> <title>RTMP_Stream</title> <link>rtmp://stream.streamislam.com:1935/streamer/live</link> </item> </streaminginfo>
+ <streaminginfo> <cname>Tom and Jerry</cname> <item> <title>low SVR4</title> <link>http://208.53.133.178:1935/ctv/tom/playlist.m3u8</link> </item> </streaminginfo>
+ <streaminginfo> <cname>Tom and Jerry</cname> <item> <title>low SVR3</title> <link>http://66.90.111.18:1935/ctv/tom/playlist.m3u8</link> </item> </streaminginfo>
+ <streaminginfo> <cname>Tom and Jerry</cname> <item> <title>low SVR2</title> <link>http://66.90.111.66:1935/ctv/tom/playlist.m3u8</link> </item> </streaminginfo>
+ <streaminginfo> <cname>Tom and Jerry</cname> <item> <title>low SVR1</title> <link>rtmp://208.53.133.122/tvamigos/ playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.carolineoliveira.com.br/face/curta.html</link> </item> </streaminginfo>
+ <streaminginfo> <cname>Al mayaden</cname> <item> <title>High</title> <link>http://38.96.148.204:1935/liveedge/livestream_m256p/playlist.m3u8</link> </item> </streaminginfo>
+ <streaminginfo> <cname>Al mayaden</cname> <item> <title>Low</title> <link>http://38.96.148.204:1935/liveedge/livestream_m128p/playlist.m3u8</link> </item> </streaminginfo>
+ <streaminginfo> <cname>Al mayaden</cname> <item> <title>Med</title> <link>http://38.96.148.204:1935/liveedge/livestream_240p/gmswf.m3u8</link> </item> </streaminginfo>
+ <streaminginfo> <cname>Al Sharqiya News</cname> <item> <title>Low</title> <link>http://46.165.208.230:1935/alsharqiyalive/mystream/gmswf.m3u8</link> </item> </streaminginfo>
+ <streaminginfo> <cname>Al Sharqiya</cname> <item> <title>Low</title> <link>http://46.165.208.230:1935/home/mystream/gmswf.m3u8</link> </item> </streaminginfo>
+ <streaminginfo> <cname>Palestine</cname> <item> <title>Low</title> <link>http://217.21.0.14:1935/pbc/pbc_1/gmswf.m3u8</link> </item> </streaminginfo>
+ <streaminginfo> <cname>Alquds Educ</cname> <item> <title>Low</title> <link>http://178.214.64.157/aqtv/imm/gmswf.m3u8</link> </item> </streaminginfo>
