@@ -2,6 +2,26 @@
 
 
 
+<item>
+<title>Jafaer-tv.com تمتع بمشاهدة جميع القنوات العربية مجانا</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>file: "([^"]*)</expres>
+<page></page>
+</regex>
+</item>
+
+
+
+
+
+
+
+
+
+
+
 <streaminginfo>
 <cname>Ahlulbayt</cname>
 <item>
