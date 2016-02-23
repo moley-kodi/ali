@@ -3,7 +3,7 @@
 <streamingInfos>
 #EXTM3U
 
-#EXTINF:-1, [COLOR red] --  Jafaer-tv --[/COLOR]
+#EXTINF:-1, [COLOR red] --  http://Jafaer-tv.com --[/COLOR]
 
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
@@ -11,8 +11,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 
-#EXTINF:-1 ,MBC masr test
-rtmp://web3.iptv-planet.com:1937/live2 playpath=mbcmasr swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=mbcmasr live=1 swfVfy=true 
 
 
 #EXTINF:-1,MBC 1 
