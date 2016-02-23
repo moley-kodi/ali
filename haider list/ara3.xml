@@ -2,10 +2,6 @@
 
 
 
-
-
-
-
 <streaminginfo>
 <cname>Ahlulbayt</cname>
 <item>
@@ -459,6 +455,22 @@
 <link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fsaudi-arabian-tv-sports&amp;mode=125&amp;name=Saudi+Arabian+TV+Sports&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1781%2Fextra_big_logo.png&amp;start=saudi-arabian-tv-sports&amp;ch_fanart=1781</link></item></streaminginfo>
 
 
+<streaminginfo>
+  <cname>Al Sumaria</cname>
+  <item>
+    <title>Al-Sumaria</title>
+    <link>rtmp://livestreaming2.itworkscdn.net/sumarialive playpath=live swfUrl=http://www.alsumaria.tv/LiveMedia4/jwplayer.flash.swf live=1 pageUrl=http://www.alsumaria.tv/watch-Alsumaria-Live</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+  <cname>Al Sharqiya</cname>
+  <item>
+    <title>Al-Sharqiya</title>
+    <link>rtmp://ns8.indexforce.com/home playpath=mystream swfUrl=http://www.alsharqiyatv.com/player.swf live=1 pageUrl=http://www.alsharqiyatv.com/</link>
+	</item>
+</streaminginfo>
+
 
 
 <streaminginfo>
@@ -469,7 +481,45 @@
 	</item>
 </streaminginfo>
 
+<streaminginfo>
+  <cname>Dubai</cname>
+  <item>
+    <title>Dubai TV</title>
+    <link>http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_w457705655_b1200000.m3u8</link>
+        </item>
+</streaminginfo>
 
+<streaminginfo>
+  <cname>Dubai Drama</cname>
+  <item>
+    <title>Dubai Drama</title>
+    <link>http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w1549159313_b1200000.m3u8</link>
+        </item>
+</streaminginfo>
+
+<streaminginfo>
+  <cname>Dubai Zaman</cname>
+  <item>
+    <title>Dubai Zaman</title>
+    <link>http://dmi.mangomolo.com:1935/dubaizaman/smil:dubaizaman.stream.smil/chunklist_w2003666137_b1200000.m3u8</link>
+        </item>
+</streaminginfo>
+
+<streaminginfo>
+  <cname>Sama Dubai</cname>
+  <item>
+    <title>Sama Dubai</title>
+    <link>http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/chunklist_w1226210005_b1200000.m3u8</link>
+        </item>
+</streaminginfo>
+
+<streaminginfo>
+  <cname>Dubai One</cname>
+  <item>
+    <title>Dubai One</title>
+    <link>http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/chunklist_w565927905_b1800000.m3u8</link>
+        </item>
+</streaminginfo>
 
 <streaminginfo>
 <cname>Tamazigh Algeria</cname>
@@ -648,6 +698,55 @@
 
 
 	
+<streaminginfo>
+  <cname>LBC EUROPE</cname>
+  <item>
+    <title>LBC Europe</title>
+    <link>$doregex[url]</link>
+    <regex>
+    <name>url</name>
+    <expres>file: "(http.*?)"</expres>
+    <page>http://www.lbcgroup.tv/live</page>
+    </regex>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+  <cname>MTV</cname>
+  <item>
+    <title>MTV Lebanon</title>
+    <link>rtmp://livestreaming1.itworkscdn.net/mtvlive playpath=murrtelevision swfUrl=http://mtv.com.lb/Player/400/jwplayer.flash.swf pageUrl=http://mtv.com.lb/Player/600/400</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+  <cname>OTV Lebanon</cname>
+  <item>
+    <title>OTV Lebanon</title>
+    <link>rtmp://livestreaming.itworkscdn.net/otvlive playpath=otvlive_1 swfUrl=http://player.l1vetv.com/otvent/jwplayer.flash.swf live=1 pageUrl=http://player.l1vetv.com/otvent/live2.php</link>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+  <cname>Aljadeed</cname>
+  <item>
+    <title>Al-Jadeed TV</title>
+    <link>rtmp://livestreaming.itworkscdn.net/aljadeedlive playpath=aljadeed swfUrl=http://player.l1vetv.com/aljadeed/jwplayer.flash.swf live=1 pageUrl=http://player.l1vetv.com/aljadeed/index-1.html</link>
+        </item>
+</streaminginfo>
+
+<streaminginfo>
+  <cname>Future TV</cname>
+  <item>
+    <title>Future TV</title>
+    <link>http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8</link>
+        </item>
+</streaminginfo>
+
+
+
+
+
 
 
 
