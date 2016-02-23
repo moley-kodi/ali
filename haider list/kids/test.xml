@@ -35,3 +35,41 @@
  <streaminginfo> <cname>Al Sharqiya</cname> <item> <title>Low</title> <link>http://46.165.208.230:1935/home/mystream/gmswf.m3u8</link> </item> </streaminginfo>
  <streaminginfo> <cname>Palestine</cname> <item> <title>Low</title> <link>http://217.21.0.14:1935/pbc/pbc_1/gmswf.m3u8</link> </item> </streaminginfo>
  <streaminginfo> <cname>Alquds Educ</cname> <item> <title>Low</title> <link>http://178.214.64.157/aqtv/imm/gmswf.m3u8</link> </item> </streaminginfo>
+
+
+
+
+
+
+<item>
+<title>ORIGINAL | streamlive.to if / else | @Shani_08</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_HD]' if not '$doregex[get_HD]'=='' else '$doregex[get_SD]'</expres>
+<page></page>
+</regex><regex>
+<name>get_HD</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/71560',False,False)</expres>
+<page></page>
+</regex>
+<regex><name>get_SD</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/view/73269',False,False)</expres>
+<page></page>
+</regex>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
