@@ -17,7 +17,7 @@
 <streaminginfo>
         <cname>alnahar</cname>
         <item>
-            <title>12345</title>
+            <title> 1111 TEST </title>
             <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=alnahar&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
@@ -29,7 +29,7 @@
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
                 <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=alnahar2&amp;width=600&amp;height=400</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=alnahar&amp;width=600&amp;height=400</page>
             </regex>
         </item>
     </streaminginfo>
