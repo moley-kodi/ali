@@ -262,6 +262,160 @@
 
 
 
+ <streaminginfo>
+        <cname>Egypt 1</cname>
+        <item>
+            <title>Egypt 1</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_adaloula&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_adaloula&amp;width=600&amp;height=400</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_adaloula&amp;width=600&amp;height=400</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al oula Maroc</cname>
+        <item>
+            <title>Al oula Maroc</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_AlAoulainter&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_AlAoulainter&amp;width=600&amp;height=400</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_AlAoulainter&amp;width=600&amp;height=400</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Algeria 3</cname>
+        <item>
+            <title>Algeria 3</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_TVA3&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_TVA3&amp;width=600&amp;height=400</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_TVA3&amp;width=600&amp;height=400</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Alhayat 1</cname>
+        <item>
+            <title>Alhayat 1</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_ALhayat&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_ALhayat&amp;width=600&amp;height=400</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_ALhayat&amp;width=600&amp;height=400</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Alhayat Cinema</cname>
+        <item>
+            <title>Alhayat Cinema</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_AlHayatCinema&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_AlHayatCinema&amp;width=600&amp;height=400</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_AlHayatCinema&amp;width=600&amp;height=400</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Alhayat Drama</cname>
+        <item>
+            <title>Alhayat Drama</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_Alhayetdrama&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_Alhayetdrama&amp;width=600&amp;height=400</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_Alhayetdrama&amp;width=600&amp;height=400</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al Nahar</cname>
+        <item>
+            <title>Al Nahar</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=alnahar&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=alnahar&amp;width=600&amp;height=400</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=alnahar&amp;width=600&amp;height=400</page>
+            </regex>
+        </item>
+    </streaminginfo>
+    <streaminginfo>
+        <cname>Al-Nahar Drama</cname>
+        <item>
+            <title>Al-Nahar Drama</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=alnahardrama&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=alnahardrama&amp;width=600&amp;height=400</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=alnahardrama&amp;width=600&amp;height=400</page>
+            </regex>
+        </item>
+    </streaminginfo>
+
+
 
 
 
