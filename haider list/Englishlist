@@ -34,73 +34,26 @@ http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX" group-title="thailand - תאילנד" tvg-logo="",FOX
 http://tv02.thaizatv.com:1935/drm/ft.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fox Movies" tvg-name="Fox_Movies" group-title="Movies - סרטים" tvg-logo="",Fox Movies
-rtmp://web3.iptv-planet.com:1937/live2 playpath=fm?cle=083117110032070101098032050049032048055032048050 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=fm&width=600&height=400
 
 
-#EXTINF:-1,AMC eu
-http://167.114.102.27/live/nZMWhg2tdqhYewbB8fadGQ/1455339877/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8
-#EXTINF:-1,AMC 
-http://167.114.102.27/live/v-NZky8-2XdP3aaPhWMtuA/1456112667/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
-#EXTINF:-1,Sky comedy
-http://top-iptv.zapto.org:8000/live/walid/walid/544.m3u8
-#EXTINF:-1,Fox Europe
-http://46.40.5.99:8000/fox_720
-#EXTINF:-1,HBO Europe
-http://77.76.140.251/prgp.m3u8
-#EXTINF:-1,Fox 1 HD
-http://canalesvip.ml/test/415.m3u8
 
-#EXTINF:-1,FOX cinema
-http://canalesvip.ml/test/421.m3u8
+EXTINF:-1, 24 Action Movies 
+http://127.0.0.1:9000/veetle/aHR0cDovLzM4LjY4LjEzMS4xODM6ODAvZmx2LzU2YWI3NTQ1OTViY2YvdGVzdGF0MTIz
 
-#EXTINF:-1,FOX Action
-http://canalesvip.ml/test/416.m3u8
-#EXTINF:-1,FOX Movies
-http://canalesvip.ml/test/417.m3u8
-#EXTINF:0, Fox Comedy
-http://31.220.41.107/LiveEdge/FOXComedyLASD/chunklist_w468984425_b1000000.m3u8?token=cb28c609b7912a2148b947adbed8bb59
 
-#EXTINF:-1,FoxLife Europe 
-http://46.40.5.99:8000/foxlife_720
-#EXTINF:-1, Film Zone 
-http://213.136.73.41/8748/440.m3u8
-#EXTINF:-1,A&E
-http://167.114.102.27/live/20uuNDBIxh6vtphihvLdkw/1455481424/bb38d9048b7b91706264169a031f32a4.m3u8
 
-#EXTINF:-1,AMC
-http://167.114.102.27/live/hl5Rlm-CISiy548t_TbdlA/1455481439/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8
-#EXTINF:-1,Sky 2
-http://62.210.251.32:88/live/sb/sb/252.m3u8
+
 
 #EXTINF:-1,Axn  White
 http://178.21.120.198:1935/live3/_definst_/mp4:axncrime/chunklist_w1301224921.m3u8
 
-#EXTINF:-1,TNT HD
-http://213.136.73.41/8748/435.m3u8
-#EXTINF:-1,TNT Series HD
-http://213.136.73.41/8748/266.m3u8
 
-#EXTINF:-1,Syfy
-http://213.136.73.41/8748/257.m3u8
-#EXTINF:-1, Sony 
-http://213.136.73.41/8748/203.m3u8
-
-#EXTINF:0,NBC
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0MTozNSBQTSZoYXNoX3ZhbHVlPXEyMDBYeDQ0QjRNY3AySzRJOHZjQXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/nbc9.stream
-
-#EXTINF:-1,WB tv
-http://213.136.73.41/8748/205.m3u8
-
-#EXTINF:-1,Comedy Central Extra Europe
-http://77.76.140.251:22637/udp/231.2.2.26:1234
 #EXTINF:-1 group-title=”English”,Bloomberg  (ENG)
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
 
 
 #EXTINF:-1 group-title=”English”,London Live  (ENG)
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-
 
 #EXTINF:-1 group-title=”English”,GLOBAL HD (ENG)
 https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307348~exp=1434307948~acl=/i/*~id=5a91003f-0e87-4f31-b475-5beb4de69407~hmac=8011c2346009544656a3195d1e9e03e511efc6523dab9644debf3692f630fe77
@@ -118,8 +71,7 @@ http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
 #EXTINF:-1,Dubai One
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
 
-#EXTINF:0,SKY COMEDY
-rtmp://play.uktvnow.net:1935/live/mcomedy.stream
+
 
 
 #EXTINF:-1,Poker channel
@@ -129,52 +81,17 @@ http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 
 #EXTINF:-1,OPTV world
 http://app.pakistanvision.tv:1935/live/8090/player.m3u8
-#EXTINF:-1,The Weather Channel
-http://kalsegsec-a.akamaihd.net/dc-0/m/pa-live-publish3/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
+
 #EXTINF:-1,Weather nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1,Animal Plant 
 http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Discoveries channel
-http://213.136.73.41/8748/371.m3u8
+
 #EXTINF:-1,Discoveries
 http://162.212.176.83:8080/mystream1.m3u8
-#EXTINF:-1,Discovery USA
-http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?supertvlat=/.ts
-#EXTINF:-1,Natinal Geo En
-http://213.136.73.41/8748/377.m3u8
-#EXTINF:-1,Natinal Geo Wild
-http://213.136.73.41/8748/355.m3u8
-#EXTINF:-1,Descovery usa
-http://167.114.102.27/live/lnxk5_T0375Frpj5ZPEygg/1455481474/a490ae75a3ec2acf16c9f592e889eb4c.m3u8
 
-#EXTINF:-1,Natinoal Geog 
-http://167.114.102.27/live/nGtULbndVB4yZYw5jRnYag/1455481476/e08dd4627a3cf468a30d8a357956d6f8.m3u8
-#EXTINF:-1,Discovery Science
-http://91.204.214.106:23331/stolen/468n/generic.lzma
-#EXTINF:-1,Animal Plant US
-http://167.114.102.27/live/tCzsANZIPDf94G1iVC4RBQ/1455480824/52d1df7fff7b1ba3ac317b98ef2fdb80.m3u8
-#EXTINF:-1,Discovery Theater
-http://213.136.73.41/8748/351.m3u8
-#EXTINF:-1,AXN VIVO
-http://213.136.73.41/8748/213.m3u8
-#EXTINF:-1,CNBC Europe
-http://91.204.214.106:23111/stolen/031f/rutkit.exe
-#EXTINF:-1,CBC
-http://91.204.214.106:23311/stolen/434r/backdoor.hfs
-#EXTINF:-1,CBS Drama
-http://91.204.214.106:23251/stolen/311g/onehalf.cab
-#EXTINF:-1,CBS Reality
-http://91.204.214.106:23231/stolen/274c/cmos4.install
-#EXTINF:-1,CCTV Ru
-http://91.204.214.106:23251/stolen/303b/onehalf.cab
 
-#EXTINF:-1,Eureka HD
-http://91.204.214.106:23121/stolen/070e/trojan.exe
-#EXTINF:-1,space HD en
-http://213.136.73.41/8748/445.m3u8
-#EXTINF:-1,Golden Edge
-http://213.136.73.41/8748/484.m3u8
+
 
 #EXTINF:-1,Golf channel
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
@@ -194,8 +111,7 @@ http://realitatea.m247.ro/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/3807.jpg", NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,News Bronx
-rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
+
 
 #EXTINF:-1 group-title="ENGLISH", Bloomberg
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
@@ -209,24 +125,15 @@ http://bcoveliveios-i.akamaihd.net/hls/live/203127/1539097700001/master_360p.m3u
 http://bcoveliveios-i.akamaihd.net/hls/live/207141/268012959001/WFTV_EVENTLIVE1/WFTV_EVENTLIVE1_800.m3u8
 #EXTINF:-1,WGN Chicago
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
-#EXTINF:-1,GINX
-http://204.107.26.252:1935/live/796.high.stream/chunklist_w1818870275.m3u8
 
 
-#EXTINF:-1,Nicktoons En vivo
-http://213.136.73.41/8748/314.m3u8
+#EXTINF:-1,24/7 Old Cartoons
+mms://72.13.93.186/animatedfilms
+#EXTINF:-1,the Smpsons 24
+http://127.0.0.1:9000/veetle/aHR0cDovLzM4LjY4LjEzMS4xMzY6ODAvZmx2LzUyZGFkYTYxYmRmMTMvdGVzdGF0MTIz
 #EXTINF:-1,Smile Of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
-#EXTINF:-1,Cartoon Network/TCM
-http://91.204.214.106:23351/stolen/udp/238.0.0.27:1234
-#EXTINF:-1,Disney
-http://91.204.214.106:23141/stolen/085r/imposter.rar
-#EXTINF:-1,Disney +2
-http://91.204.214.106:23371/stolen/011/duqu
-#EXTINF:-1,Disney +7
-http://91.204.214.106:23361/stolen/udp/238.0.17.89:1234
-#EXTINF:-1,Disney jr
-http://91.204.214.106:23331/stolen/479v/generic.lzma
+
 
 #EXTINF:-1,SYFY
 http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8
@@ -234,12 +141,8 @@ http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m
 
 #EXTINF:-1,Ajyal Cinema
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
-#EXTINF:-1,Tru tv HD En vivo
-http://213.136.73.41/8748/215.m3u8
 
 
-#EXTINF:-1,Drama UK
-http://top-iptv.zapto.org:8000/live/walid/walid/530.m3u8
 #EXTINF:-1,Fashion TV
 http://edgeb.streaming.sk/fashiontv/fashiontv.stream/playlist.m3u8
 
@@ -253,16 +156,8 @@ http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1,news 12 Newjersey
 rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000 playpath=fs-b9e3010000000000 swfUrl=http://newjersey.news12.com/js/libs/jwplayer/6.9/jwplayer.flash.swf app=vxedge/fs-b9e3010000000000 pageUrl=http://newjersey.news12.com/news/news-12-new-jersey-live-stream-1.3925819?qr=1 live=true swfVfy=true timeout=10 live=true swfVfy=true timeout=10
 
-#EXTINF:-1,HBO Europe (English Spoken)
-http://77.76.140.251/prgp.m3u8
 
 
-
-#EXTINF:-1,NFL Now 720p
-http://bit.ly/1MLMdSu
-
-#EXTINF:-1,Poker Central
-http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8 
 
 
 
