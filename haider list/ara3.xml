@@ -23,12 +23,12 @@
 
 
 <streaminginfo>
-		<cname>mbc 1</cname>
-		<item>
-			<title>1</title>
-			<link>http://50.7.69.138:9080/hls/mbc1.m3u8|User-Agent=iPad</link>
-		</item>
-	</streaminginfo>
+<cname>mbc 1</cname>
+<item>
+<title>123</title>
+<link>http://50.7.69.138:9080/hls/mbc1.m3u8|User-Agent=iPad</link>
+</item>
+</streaminginfo>
 
 
 <streaminginfo>
