@@ -14,25 +14,7 @@
 
 
 
-<streaminginfo>
-        <cname>alnahar</cname>
-        <item>
-            <title> 1111 TEST </title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=alnahar&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=alnahar&amp;width=600&amp;height=400</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=alnahar&amp;width=600&amp;height=400</page>
-            </regex>
-        </item>
-    </streaminginfo>
+
 
 
 
@@ -1823,34 +1805,6 @@
 </streaminginfo>
 
 
-
-
-
-
-
-
-
-
-<channels>
-<channel>
-	<cname>Quran Hidayah</cname>
-	<title>Quran Hidayah</title>
-	<imageurl>http://s12.postimg.org/mcy4nlwax/photo.jpg</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>gulf</category>
-	<category>islam</category>
-	</assignedcategory>
-</channel>
-<channel>
-	<cname>Nogoum FM</cname>
-	<title>Nogoum FM</title>
-	<imageurl>http://s29.postimg.org/4a8l344d3/tvlogo.png</imageurl>
-	<enabled>True</enabled>
-	<assignedcategory>
-	<category>music</category>
-	</assignedcategory>
-</channel>
 
 
 
