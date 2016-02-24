@@ -1825,7 +1825,26 @@
 
 
 
-
+<channels>
+<channel>
+	<cname>Quran Hidayah</cname>
+	<title>Quran Hidayah</title>
+	<imageurl>http://s12.postimg.org/mcy4nlwax/photo.jpg</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>gulf</category>
+	<category>islam</category>
+	</assignedcategory>
+</channel>
+<channel>
+	<cname>Nogoum FM</cname>
+	<title>Nogoum FM</title>
+	<imageurl>http://s29.postimg.org/4a8l344d3/tvlogo.png</imageurl>
+	<enabled>True</enabled>
+	<assignedcategory>
+	<category>music</category>
+	</assignedcategory>
+</channel>
 
 
 
