@@ -18,8 +18,9 @@
 
  <streaminginfo>
         <cname>Al oula Maroc la3youn</cname>
-        <title>Haider</title>
+        
         <item>
+        	<title>Haider</title>
          <link>rtm_la3youn</link>
         </item>
     </streaminginfo>
