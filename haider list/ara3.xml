@@ -21,13 +21,7 @@
 
 
 
-<streaminginfo>
-<cname>mbc 1</cname>
-<item>
-<title>123</title>
-<link>http://50.7.69.138:9080/hls/mbc1.m3u8|User-Agent=iPad</link>
-</item>
-</streaminginfo>
+<item><title>Haider Arabic</title><link>Test</link><externallink>http://avatarhd.no-ip.biz:3030/get.php?username=2rami1&amp;password=2rami1&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
 
 
 <streaminginfo>
