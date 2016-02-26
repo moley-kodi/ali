@@ -27,6 +27,29 @@ http://avatarhd.no-ip.biz:3030/live/2rami1/2rami1/30.m3u8
 #EXTINF:-1,Eurosport1ENG
 http://avatarhd.no-ip.biz:3030/live/2rami1/2rami1/29.m3u8
 
+#EXTINF:-1,beIN_SPORTS_1_HD
+http://80.243.189.26:81/bein/sports1/index.m3u8
+#EXTINF:-1,beIN_SPORTS_2_HD
+http://80.243.189.26:81/bein/sports2/index.m3u8
+#EXTINF:-1,beIN_SPORTS_3_HD
+http://80.243.189.26:81/bein/sports3/index.m3u8
+#EXTINF:-1,beIN_SPORTS_4_HD
+http://80.243.189.26:81/bein/sports4/index.m3u8
+#EXTINF:-1,beIN_SPORTS_5_HD
+http://80.243.189.26:81/bein/sports5/index.m3u8
+#EXTINF:-1,beIN_SPORTS_6_HD
+http://80.243.189.26:81/bein/sports6/index.m3u8
+#EXTINF:-1,beIN_SPORTS_7_HD
+http://80.243.189.26:81/bein/sports7/index.m3u8
+#EXTINF:-1,beIN_SPORTS_8_HD
+http://80.243.189.26:81/bein/sports8/index.m3u8
+#EXTINF:-1,beIN_SPORTS_9_HD
+http://80.243.189.26:81/bein/sports9/index.m3u8
+#EXTINF:-1,beIN_SPORTS_10_HD
+http://80.243.189.26:81/bein/sports10/index.m3u8
+
+
+المصدر See more at: Anis Sat http://anis-sat.blogspot.com/2016/02/iptv-bein-sports-1-10hd-ar.html#ixzz41JAP03li
 
 #EXTINF:-1,bein 1
 http://bit.ly/jafaertv-bein1
