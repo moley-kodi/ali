@@ -517,6 +517,8 @@
             </regex>
         </item>
     </streaminginfo>
+    
+    <streaminginfo><cname>Alhayat2</cname><item><title>Alhayat2</title><link>plugin://plugin.video.youtube/play/?video_id=0lmM6zgL2AU</link></item></streaminginfo>
     <streaminginfo>
         <cname>Alhayat Cinema</cname>
         <item>
@@ -606,7 +608,7 @@
 <streaminginfo>
 	<cname>Alqseem</cname>
 	<item>
-	<title>Med</title>
+	<title>ALqseem</title>
 	<link>http://streaming.i-sat.tv:1935/live/alqseem.stream_360p/playlist.m3u8</link>
 	</item>
 </streaminginfo>
@@ -1087,8 +1089,9 @@
 <streaminginfo><cname>Kaifa</cname><item><title>Kaifa</title><link>http://82.212.95.122:1935/live/kifa.stream_360p/hassuni.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>Aghanina</cname><item><title>Aghanina</title><link>http://82.212.95.122:1935/live/aghanina.stream_360p/playlist.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>Libya Alrasmiya</cname><item><title>Libya Alrasmiya</title><link>http://82.212.95.122:1935/live/libyaalrasmya.stream_360p/playlist.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Burhan</cname><item><title>Burhan</title><link>http://82.212.95.122:1935/live/burhan.stream_360p/playlist.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>Libya One</cname><item><title>Libya One</title><link>http://82.212.95.122:1935/live/Libya-One.stream_360p/playlist.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Libya 24</cname><item><title>576p</title><link>http://54.229.252.71:1935/live/myStream/shani.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Burhan</cname><item><title>Burhan</title><link>http://82.212.95.122:1935/live/burhan.stream_360p/playlist.m3u8</link></item></streaminginfo>
 
 
 
