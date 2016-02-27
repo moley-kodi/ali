@@ -278,11 +278,13 @@ rtmp://yooanime.com/free/ playpath=art_hekayat?code=e3897b5b21ff3ef0d1d94573d9bc
 http://vai.la/jN2b
 #EXTINF:-1,Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/HasBahCa.m3u8
+#EXTINF:-1,القاهرة و الناس 1 
 
-
+plugin://plugin.video.youtube/?action=play_video&videoid=7vOKKinCqn0
 #EXTINF:-1,القاهرة و الناس 2
-plugin://plugin.video.youtube/?action=play_video&videoid=N4Trs03VKT4
+plugin://plugin.video.youtube/?action=play_video&videoid=ZrfmWqzPhrw
 
+ 
 #EXTINF:-1, CBC Extra
 plugin://plugin.video.youtube/?action=play_video&videoid=r7ammFV2blg
 #EXTINF:-1,CBC sofra سي بي سي سفرة
@@ -291,6 +293,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=K8XaIiikpAo
 plugin://plugin.video.youtube/?action=play_video&videoid=uMvhnVugCjo
 #EXTINF:-1,CBC Live 
 plugin://plugin.video.youtube/?action=play_video&videoid=1yEMLzYzE1g
+
 #EXTINF:-1,الشرق الفضائية
 plugin://plugin.video.youtube/?action=play_video&videoid=8ITFSKZAXD4
 #EXTINF:-1,أون تي في ONtv
