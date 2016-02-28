@@ -69,26 +69,7 @@ http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
 
 #EXTINF:-1,Bein Sports 11
 http://167.114.41.215:8080/bein11_j/bein11_j/index.m3u8
-#EXTINF:-1,beIN_SPORTS_1_HD
-http://80.243.189.26:81/bein/sports1/index.m3u8
-#EXTINF:-1,beIN_SPORTS_2_HD
-http://80.243.189.26:81/bein/sports2/index.m3u8
-#EXTINF:-1,beIN_SPORTS_3_HD
-http://80.243.189.26:81/bein/sports3/index.m3u8
-#EXTINF:-1,beIN_SPORTS_4_HD
-http://80.243.189.26:81/bein/sports4/index.m3u8
-#EXTINF:-1,beIN_SPORTS_5_HD
-http://80.243.189.26:81/bein/sports5/index.m3u8
-#EXTINF:-1,beIN_SPORTS_6_HD
-http://80.243.189.26:81/bein/sports6/index.m3u8
-#EXTINF:-1,beIN_SPORTS_7_HD
-http://80.243.189.26:81/bein/sports7/index.m3u8
-#EXTINF:-1,beIN_SPORTS_8_HD
-http://80.243.189.26:81/bein/sports8/index.m3u8
-#EXTINF:-1,beIN_SPORTS_9_HD
-http://80.243.189.26:81/bein/sports9/index.m3u8
-#EXTINF:-1,beIN_SPORTS_10_HD
-http://80.243.189.26:81/bein/sports10/index.m3u8
+
 
 #EXTINF:-1,Sky Sports 1
 http://167.114.41.215:8080/sk1_raf/sk1_raf/index.m3u8
@@ -114,19 +95,8 @@ http://bit.ly/1NiOuVs
 #EXTINF:-1,Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
 
-#EXTINF:-1,Supersport News
-http://176.10.104.216/ss1sd/index.m3u8
-#EXTINF:-1,Fox Sports HD1
-http://streamup.global.ssl.fastly.net/app/zonasports2hds-stream/playlist.m3u8
-
 #EXTINF:-1,Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Red Bull sport 
-http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
-#EXTINF:-1,Bt Sports 1
-http://167.114.41.215:8080/btSp1_j/btSp1_j/index.m3u8
-#EXTINF:-1,Bt Sports 2
-http://167.114.41.215:8080/btsp2_raf/btsp2_raf/index.m3u8
 
 #EXTINF:-1,EUROSPORT 1 ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
@@ -139,23 +109,11 @@ http://4.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
 #EXTINF:-1,Euro Sport 2
 http://213.81.153.241/live001/channel014_p3.stream/chunklist_w558968909_DVR.m3u8
 
-
-
 #EXTINF:-1,SPORT TIME TV 1HD
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
 
-
-
-#EXTINF:-1,Sport Max
-http://46.249.213.93/iPhone/HLS_TS/broadcast/sport_max-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
-
-
-
 #EXTINF:-1,EUROSPORT 1 FR
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-
-
- 
 #EXTINF:-1,RUS eurosport
 http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
  
@@ -177,19 +135,12 @@ http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
 
 #EXTINF:1,Fight
 http://87.248.160.8/edge/smil:boet/playlist.m3u8
-#EXTINF:-1,TURK-A SPOR rtmp 720*510
-http://rtmp.turkuvazgroup.net/aspor/aspor3/player.m3u8
+
 #EXTINF:-1,TURK-BURSASPOR TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 
-
-#EXTINF:-1,Xtreme Impacts
-http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
-
 #EXTINF:0,Motosports
 http://motorsport.hopto.org:8081/
-#EXTINF:0,Sport Max
-http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
 
 #EXTINF:-1,ENG-MMA BAY TV
 rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
@@ -214,15 +165,10 @@ mms://100automoto.tv/100livesport
 #EXTINF:-1,Auto HD 576P (China)
 rtmp://182.92.189.193/live/ playpath=h_auto_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
 
-#EXTINF:-1 tvg-logo=”BTN.png” group-title=”All Sports”, Big Ten Network HD
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-#EXTINF:-1,SPORTTV 1 Portugal
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c pageUrl=http://sharecast.to/
+
 #EXTINF:0, Rai Sport 1
 mmsh://212.162.68.163:80/raisport+
 
-#EXTINF:-1,Sports Max
-http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
 
 #EXTINF:-1,USA-BASKET UNI.(Arizona)
 http://xrxs.net/video/live-p12ariz-1164.m3u8
@@ -267,18 +213,6 @@ http://xrxs.net/video/live-p12wash-4728.m3u8
 
 
 
-#EXTINF:-1, Sport: K+1 HD Sport
-rtmp://216.185.103.158/live2//chSport1hd
-#EXTINF:-1, Sport: K+ PM HD Sport
-rtmp://216.185.103.158/live2//chSport2hd
-#EXTINF:-1, Sport:K+1 s1
-http://216.185.103.158:1935/live2/chSport1hd/playlist.m3u8
-#EXTINF:-1, Sport:K+1 s2
-http://199.189.110.20:1935/as99/chSport1hd/playlist.m3u8
-#EXTINF:-1, Sport: K+PM s1
-http://216.185.103.158:1935/live2/chSport2hd/playlist.m3u8
-#EXTINF:-1, Sport: K+PM s2
-http://199.189.110.20:1935/as99/chSport2hd/playlist.m3u8
 #EXTINF:-1,  Russia Sport
 http://s2.edem.tv/iptv/CRNMZP2B9W3983/529/index.m3u8
 #EXTINF:-1, Nova Sport 1
