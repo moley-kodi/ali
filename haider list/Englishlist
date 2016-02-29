@@ -31,22 +31,33 @@ http://tv02.thaizatv.com:1935/drm/ft.stream/playlist.m3u8
 ##############################33
 
 
-
-#EXTINF:-1  tvg-logo="http://canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg" ,A&E 
-http://167.114.102.27/live/24vjUxnkZjk_B66tQwaoGA/1451942335/bb38d9048b7b91706264169a031f32a4.m3u8
-
-http://167.114.102.27/live/0SODMTApP5NxqYJQJ5fvIA/1456727004/bb38d9048b7b91706264169a031f32a4.m3u8
+#EXTINF:-1 tvg-logo="Latino-FOX.png",Fox
+http://tvultimate.ddns.net/LIVE/H01/CANAL201/PROFILE05.m3u8?tvultimate=%2F.ts
 
 
+#EXTINF:-1 tvg-logo="sony.png",Sony HD
+http://tvultimate.ddns.net/LIVE/H01/CANAL203/PROFILE05.m3u8?tvultimate=%2F.ts
 
+#EXTINF:-1 tvg-logo="warner hd.png",Warner HD
+http://tvultimate.ddns.net/LIVE/H01/CANAL205/PROFILE05.m3u8?tvultimate=%2F.ts
 
-#EXTINF:-1,AMC 
-http://167.114.102.27/live/4W5aYwNADrPsvJj-6nE67w/1451941952/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8
+#EXTINF:-1 tvg-logo="universal hd.png",Universal HD
+http://tvultimate.ddns.net/LIVE/H01/CANAL207/PROFILE05.m3u8?tvultimate=%2F.ts
 
-http://167.114.102.27/live/OBobO8FmRwhCCIqUqVZsuA/1456727040/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8
+#EXTINF:-1 tvg-logo="Latino-FX-HD.png",FX HD
+http://tvultimate.ddns.net/LIVE/H01/CANAL209/PROFILE05.m3u8?tvultimate=%2F.ts
 
-http://167.114.102.27/live/OBobO8FmRwhCCIqUqVZsuA/1456727040/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8
+#EXTINF:-1 tvg-logo="a&e.png",A&E 
+http://tvultimate.ddns.net/LIVE/H01/CANAL211/PROFILE05.m3u8?tvultimate=%2F.ts
 
+#EXTINF:-1 tvg-logo="axn.png",AXN HD
+http://tvultimate.ddns.net/LIVE/H01/CANAL213/PROFILE05.m3u8?tvultimate=%2F.ts
+
+#EXTINF:-1 tvg-logo="trutv.png",TruTV HD
+http://tvultimate.ddns.net/LIVE/H01/CANAL215/PROFILE05.m3u8?tvultimate=%2F.ts
+
+#EXTINF:-1 tvg-logo="Comedy Central HD (2).png",Comedy Central
+http://tvultimate.ddns.net/LIVE/H01/CANAL217/PROFILE05.m3u8?tvultimate=%2F.ts
 
 
 
