@@ -60,7 +60,7 @@ http://167.114.41.215:8080/bein11_j/bein11_j/index.m3u8
 
 
 #EXTINF:-1,Sky Sports 1
-http://167.114.41.215:8080/sk1_raf/sk1_raf/index.m3u8
+http://02e4.vp9.tv/chn/sks1/v.m3u8
 #EXTINF:-1,Sky Sports 2
 http://167.114.41.215:8080/sk2_j/sk2_j/index.m3u8
 #EXTINF:-1,Sky Sports 3
@@ -71,6 +71,10 @@ http://167.114.41.215:8080/sk4_raf/sk4_raf/index.m3u8
 http://167.114.41.215:8080/sk5_raf/sk5_raf/index.m3u8
 #EXTINF:-1,Sky Sports News
 http://167.114.41.215:8080/sksportsnews_raf/sksportsnews_raf/index.m3u8
+
+#EXTINF:-1,FOX College
+http://ftve1100-i.akamaihd.net/hls/live/217046/fcsc/3964k/prog.m3u8|X-Forwarded-For=13.107.25.55
+
 #EXTINF:-1,FOX SPORTS LIVE TV 1 HD
 http://bit.ly/1QlNuGy
 #EXTINF:-1,FOX SPORTS LIVE TV 2 HD
