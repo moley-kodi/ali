@@ -448,11 +448,7 @@ http://www.elahmad.com/tv/m3u8/itworkscdn.m3u8?id=quran1
 http://fl1.viastreaming.net:1935/iqraatv/livestream/HasBahCa.m3u8
 #EXTINF:-1, QURAN TV ksa
 http://46.245.160.224/mekke/mekke/chunklist_w581447799.m3u8
-#EXTINF:-1,SAFA
-http://50.7.131.42:1935/safa/smil:safa-smil.smil/chunklist_w1889871104_b632768.m3u8
 
-#EXTINF:-1,Alasr
-http://xtvalasrx.api.channel.livestream.com/3.0/playlist.m3u8
 
 
 #EXTINF:-1,*********[COLOR red]  Other Arabic Channels[/COLOR]**********
@@ -675,5 +671,3 @@ http://mbn-channel-07.akacast.akamaistream.net/7/27/233456/v1/ibb.akacast.akamai
 #EXTINF:0,Sawa egypt
 http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03
 
-#EXTINF:0, ART Aflam 1 test
-rtmp://$OPT:rtmp-raw=rtmp://web1.iptv-planet.com:1937/live2 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=artaflam2&width=600&height=400 playpath=artaflam2?cle=084104117032070101098032050053032048053032052053
