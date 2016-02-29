@@ -28,56 +28,11 @@ http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
 http://tv02.thaizatv.com:1935/drm/ft.stream/playlist.m3u8
 
 
-##############################33
-
-
-#EXTINF:-1 tvg-logo="Latino-FOX.png",Fox
-http://tvultimate.ddns.net/LIVE/H01/CANAL201/PROFILE05.m3u8?tvultimate=%2F.ts
-
-
-#EXTINF:-1 tvg-logo="sony.png",Sony HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL203/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="warner hd.png",Warner HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL205/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="universal hd.png",Universal HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL207/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="Latino-FX-HD.png",FX HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL209/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="a&e.png",A&E 
-http://tvultimate.ddns.net/LIVE/H01/CANAL211/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="axn.png",AXN HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL213/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="trutv.png",TruTV HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL215/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="Comedy Central HD (2).png",Comedy Central
-http://tvultimate.ddns.net/LIVE/H01/CANAL217/PROFILE05.m3u8?tvultimate=%2F.ts
+##############################
 
 
 
-#EXTINF:0 tvg-name="Comedy Central" tvg-language="English" tvg-country="US" tvg-id="Comedy Central" tvg-logo="http://1.bp.blogspot.com/-DQR0qRIc8-s/UHHBSxA20-I/AAAAAAAAAB0/9aHsa8A6xn8/s72-c/Logo_ComedyCentral_001.gif" group-title="Top10",Comedy Central (Top10) (US) (English)
-http://167.114.102.27/live/0PIwDs89vMHhpYzffD3eRA/1451942330/fa894851552e99b1cc146264a8ffaf4b.m3u8
 
-#EXTINF:0 tvg-name="Discovery Channel" tvg-language="English" tvg-country="US" tvg-id="Discovery Channel" tvg-logo="http://images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg" group-title="Top10",Discovery Channel (Top10) (US) (English)
-http://167.114.102.27/live/edY6VU__RAnnA-GHRuD-Dg/1451941957/a490ae75a3ec2acf16c9f592e889eb4c.m3u8
-
-#EXTINF:0 tvg-name="ESPN" tvg-language="English" tvg-country="US" tvg-id="ESPN" tvg-logo="http://www.pixeldust.net/wp-content/uploads/2015/05/logo-espn.jpg" group-title="Top10",ESPN (Top10) (US) (English)
-http://167.114.102.27/live/v0PF2USAs1aLWSqjtmwqPA/1451942346/7b0ef842a6a1233a8a86a8533063a1a1.m3u8
-
-#EXTINF:0 tvg-name="History" tvg-language="English" tvg-country="US" tvg-id="History" tvg-logo="http://2.bp.blogspot.com/-QSfFAp_jqP0/T3DH2aXPHUI/AAAAAAAABdg/5a9_qDD92AQ/s1600/h5.png" group-title="Top10",History (Top10) (US) (English)
-http://167.114.102.27/live/7RURLWLRxM6b_Z4hA8Sbog/1451941941/d4a4950b7b7267417aa0b9733f30b6fe.m3u8
-
-#EXTINF:0 tvg-name="The CW Network" tvg-language="English" tvg-country="US" tvg-id="The CW Network" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn%3AANd9GcQO4WEZsIKEfe7n7dyKqaIxF6FwyrhqPZtz0_2hG54zFWIY0YmB49TAOhA" group-title="Top10",The CW Network (Top10) (US) (English)
-http://167.114.102.27/live/BPp-EAUCJzp5h0X9PxqgsA/1451942319/d61960e75b1a90a23ebfb02f0bb46678.m3u8
-
-#EXTINF:0 tvg-name="Universal Channel HD" tvg-language="English" tvg-country="UK" tvg-id="Universal Channel HD" tvg-logo="http://www.cyfrowypolsatnews.pl/images/news/universal_hd.jpg" group-title="Top10",Universal Channel HD (Top10) (UK) (English)
-http://200.76.77.237/LIVE/H01/CANAL207/PROFILE05.m3u8?supertvlat=%2F.ts
 
 
 
