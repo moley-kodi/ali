@@ -35,8 +35,6 @@ http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
 http://tv02.thaizatv.com:1935/drm/ft.stream/playlist.m3u8
 
 
-#EXTINF:-1,amc
-rtmp://watch9.streamlive.to:1935/edge/_definst_/?xs=_we_N3BjdG1yZTB6ZndzYzI0fDE0NTY3NTc0ODB8NzQuMTMxLjEzMS4xMzJ8NTZkM2IyMjhiY2FlOHxjNmNiNGJhMjNmZTY0MzhlNTllYjhmMWQzN2QxN2VkZWZiMjE2OWU5 playpath=7pctmre0zfwsc24 swfUrl=http://www.streamlive.to/ads/streamlive.swf pageUrl=http://www.streamlive.to/view/68963/AM <objectEncoding>
 
 EXTINF:-1, 24 Action Movies 
 http://127.0.0.1:9000/veetle/aHR0cDovLzM4LjY4LjEzMS4xODM6ODAvZmx2LzU2YWI3NTQ1OTViY2YvdGVzdGF0MTIz
