@@ -35,6 +35,60 @@ http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
 http://tv02.thaizatv.com:1935/drm/ft.stream/playlist.m3u8
 
 
+##############################33
+
+
+
+#EXTINF:0 tvg-name="A&E" tvg-language="English" tvg-country="US" tvg-id="A&E" tvg-logo="http://canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg" group-title="Top10",A&E (Top10) (US) (English)
+http://167.114.102.27/live/24vjUxnkZjk_B66tQwaoGA/1451942335/bb38d9048b7b91706264169a031f32a4.m3u8
+
+#EXTINF:0 tvg-name="AMC" tvg-language="English" tvg-country="US" tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/150px-Amc_logo.svg.png" group-title="Top10",AMC (Top10) (US) (English)
+http://167.114.102.27/live/4W5aYwNADrPsvJj-6nE67w/1451941952/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8
+
+#EXTINF:0 tvg-name="Comedy Central" tvg-language="English" tvg-country="US" tvg-id="Comedy Central" tvg-logo="http://1.bp.blogspot.com/-DQR0qRIc8-s/UHHBSxA20-I/AAAAAAAAAB0/9aHsa8A6xn8/s72-c/Logo_ComedyCentral_001.gif" group-title="Top10",Comedy Central (Top10) (US) (English)
+http://167.114.102.27/live/0PIwDs89vMHhpYzffD3eRA/1451942330/fa894851552e99b1cc146264a8ffaf4b.m3u8
+
+#EXTINF:0 tvg-name="Discovery Channel" tvg-language="English" tvg-country="US" tvg-id="Discovery Channel" tvg-logo="http://images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg" group-title="Top10",Discovery Channel (Top10) (US) (English)
+http://167.114.102.27/live/edY6VU__RAnnA-GHRuD-Dg/1451941957/a490ae75a3ec2acf16c9f592e889eb4c.m3u8
+
+#EXTINF:0 tvg-name="ESPN" tvg-language="English" tvg-country="US" tvg-id="ESPN" tvg-logo="http://www.pixeldust.net/wp-content/uploads/2015/05/logo-espn.jpg" group-title="Top10",ESPN (Top10) (US) (English)
+http://167.114.102.27/live/v0PF2USAs1aLWSqjtmwqPA/1451942346/7b0ef842a6a1233a8a86a8533063a1a1.m3u8
+
+#EXTINF:0 tvg-name="History" tvg-language="English" tvg-country="US" tvg-id="History" tvg-logo="http://2.bp.blogspot.com/-QSfFAp_jqP0/T3DH2aXPHUI/AAAAAAAABdg/5a9_qDD92AQ/s1600/h5.png" group-title="Top10",History (Top10) (US) (English)
+http://167.114.102.27/live/7RURLWLRxM6b_Z4hA8Sbog/1451941941/d4a4950b7b7267417aa0b9733f30b6fe.m3u8
+
+#EXTINF:0 tvg-name="The CW Network" tvg-language="English" tvg-country="US" tvg-id="The CW Network" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn%3AANd9GcQO4WEZsIKEfe7n7dyKqaIxF6FwyrhqPZtz0_2hG54zFWIY0YmB49TAOhA" group-title="Top10",The CW Network (Top10) (US) (English)
+http://167.114.102.27/live/BPp-EAUCJzp5h0X9PxqgsA/1451942319/d61960e75b1a90a23ebfb02f0bb46678.m3u8
+
+#EXTINF:0 tvg-name="Universal Channel HD" tvg-language="English" tvg-country="UK" tvg-id="Universal Channel HD" tvg-logo="http://www.cyfrowypolsatnews.pl/images/news/universal_hd.jpg" group-title="Top10",Universal Channel HD (Top10) (UK) (English)
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE05.m3u8?supertvlat=%2F.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 EXTINF:-1, 24 Action Movies 
 http://127.0.0.1:9000/veetle/aHR0cDovLzM4LjY4LjEzMS4xODM6ODAvZmx2LzU2YWI3NTQ1OTViY2YvdGVzdGF0MTIz
