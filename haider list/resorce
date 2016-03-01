@@ -144,5 +144,16 @@ rtmp://78.100.40.195:1935/ryn<playpath>ryn <swfUrl>http://www.elahmad.com/tv/swf
 	</regex>
 	</item>
 </streaminginfo>
-
+---------------------------latino-webtv.com-------------------
+<item>
+<title>FOX En  </title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+<name>url</name>
+<expres>url=(.*?)"</expres>
+<page>http://embed.latino-webtv.com/fox.html</page>
+<referer>http://latino-webtv.com/FOX-en-vivo/</referer>
+<agent>iPad</agent>
+</regex>
+</item>
 
