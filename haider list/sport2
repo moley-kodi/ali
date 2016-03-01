@@ -148,76 +148,6 @@ http://178.18.30.113:8081/liverepeater/229933/playlist.m3u8?wmsAuthSign=$doregex
 
 
 
-
-
-
-
-
-
-item>
-<title>Fox Sports West U.S</title>
-<link>rtmp://kv2.ts33.net/sat/us011</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_au_1.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>Golf </title>
-<link>rtmp://185.63.255.60:80/live playpath=gp0lf swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=gp0lf&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
-<thumbnail>http://corporate.orangelake.com/images/media/logogolfchannel.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>MLB </title>
-<link>
-http://178.18.30.113:8081/liverepeater/229464/playlist.m3u8?wmsAuthSign=$doregex[m3u8]
-<regex>
-<name>m3u8</name>
-<expres>wmsAuthSign=([^"]*)</expres>
-<page>http://biggestplayer.me/streamcrjeje2.php?id=229464&width=640&height=460</page>
-<referer>http://theactionlive.com/livegamecr2.php?id=mlbu&width=640&height=460&stretching=</referer>
-</regex>
-</link>
-<thumbnail>http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2012/05/mlb.tvlogo.jpg </thumbnail>
-</item>
-
-<item>
-<title>NBATV</title>
-<link>
-rtmp://179.43.158.202:1935$doregex[playpath] swfUrl=http://thecdn.04stream.com/ss/oooll82.swf pageUrl=$doregex[pageUrl]
-<regex>
-<name>pageUrl</name>
-<expres>src=(http.+?)'</expres>
-<page>http://www.04stream.com/weed.js?stream=0f5bZcQBIw&width=600&height=460&str=is&link=1&cat=2</page>
-</regex>
-<regex>
-<name>playpath</name>
-<expres>\+thist\+'(/stream/.+?)&</expres>
-<page>$doregex[pageUrl]</page>
-</regex>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nba_tv_ca.png </thumbnail>
-</item>
-
-
-<item>
-<title>NBCSN </title>
-<link>
-http://178.18.31.65:8081/liverepeater/227630/playlist.m3u8?wmsAuthSign=$doregex[m3u8]
-<regex>
-<name>m3u8</name>
-<expres>wmsAuthSign=([^"]*)</expres>
-<page>http://biggestplayer.me/streamnope.php?id=227630&width=620&height=490</page>
-<referer>http://theactionlive.com/livegame.php?id=nbcsnx&width=620&height=490&stretching=</referer>
-</regex>
-</link>
-<thumbnail> </thumbnail>
-</item>
-
-
-
 <item>
 <title>Sportsnet World </title>
 <link>rtmp://185.63.255.18:80/live playpath=sprtnetworld swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=sprtnetworld&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
@@ -240,14 +170,6 @@ http://178.18.31.65:8081/liverepeater/227630/playlist.m3u8?wmsAuthSign=$doregex[
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tsn_2_ca.png</thumbnail>
 </item>
 
-<item>
-<title>TSN 2 </title>
-<link>$base64[aHR0cDovL3d3dy5zZHctbmV0LmNvL2NoYW5uZWxzL1RTTi0yLmh0bWw=]</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tsn_2_ca.png</thumbnail>
-</item>
-
-
-
 
 <item>
 <title>TVA Sports </title>
@@ -255,37 +177,6 @@ http://178.18.31.65:8081/liverepeater/227630/playlist.m3u8?wmsAuthSign=$doregex[
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPPs_NMRBKsBXAuolJYIfy2BXucoHGGvg60One2f0Aih7fX9gs0PoNYw </thumbnail>
 </item>
 
-<item>
-<title>UFC Combate  HD</title>
-<link>$base64[aHR0cDovL3N0cmVhbXVwLmdsb2JhbC5zc2wuZmFzdGx5Lm5ldC9hcHAvYWl1Y2FyZC10cmV2b3ItYmVsbW9udHMtc3RyZWFtL3BsYXlsaXN0Lm0zdTg=]</link>
-<thumbnail>http://vignette4.wikia.nocookie.net/logopedia/images/b/b2/Ufc-combate-globo.jpg/revision/latest?cb=20131226000907 </thumbnail>
-</item>
-
-<item>
-<title>UFC Next </title>
-<link>https://www.filmon.com/channel/ufc-next</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRga4XKafP0jxogMOOhSCf_otx_enRA_xGT7ckauf53r9LtzuKF </thumbnail>
-</item>
-
-<item>
-<title>UFC TV </title>
-<link>http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/75/amlst:mainstream/demotiki75.m3u8?op_id=19&userId=0&channelId=40641&stime=1450799281&etime=1450885681&token=07b9514f231a31561015d</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRga4XKafP0jxogMOOhSCf_otx_enRA_xGT7ckauf53r9LtzuKF </thumbnail>
-</item>
-
-
-<item>
-<title>WWE</title>
-<link>rtmp://94.102.56.157/live/ playpath=wwe swfUrl=http://cast4u.tv/jwplayer/jwplayer.flash.swf pageUrl=http://www.cast4u.tv/embed.php?live=wwe&vw=620&vh=490</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp7yQU81aDGY59RRUOCyWC8tA79Z3s4UKle1WDkngmEAIg5ilqag </thumbnail>
-</item>
-
-
-<item>
-<title>Pac 12 washington</title>
-<link>http://xrxs.net/video/live-p12wash-2328.m3u8</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/pp/pac_12_networks_us.png</thumbnail>
-</item>
 
 <item>
 <title>Pac 12 oregon</title>
@@ -325,27 +216,6 @@ http://178.18.31.65:8081/liverepeater/227630/playlist.m3u8?wmsAuthSign=$doregex[
 
 
 
-<item>
-<title>ALB Liverpool v1 </title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR blue]BES-IPTV[/COLOR][COLOR white] |[/COLOR][COLOR deepskyblue] Channels - [/COLOR][makelist.param1]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]|User-Agent=VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1&amp;Buffer=20971520 live=1 timeout=30</link>
-<thumbnail>NA</thumbnail>
-]]></listrepeat>
-<expres>#EXTINF:-1,ALB: (.*?)\n(.*ts)</expres>
-<page>http://cp.dmbshare.net:8000/get.php?username=liverpool&amp;password=liverpool&amp;type=m3u&amp;output=mpegts</page>
-<agent>MoziMozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
-</regex>
-<regex>
-<name>encodedurl</name>
-<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
-<page></page>
-</regex>
-</item>
-
 
 
 
@@ -358,26 +228,9 @@ http://178.18.31.65:8081/liverepeater/227630/playlist.m3u8?wmsAuthSign=$doregex[
 ###################################
 
 
-<item>
-<title>Canal+ Golf</title>
-<link>rtmp://31.220.0.194/privatestream/golfplus00 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
-<thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2013/01/Golf-en-Canal-+.jpeg</thumbnail>
-</item>
-
-<item>
-<title>NBC Golf 1080 HD </title>
-<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=66.171.228.102</link>
-<thumbnail>http://www.protracer.se/wp-content/uploads/2014/01/golfchannel_logo.png</thumbnail>
-</item>
 
 
 
-
-<item>
-<title>Super Tennis</title>
-<link>http://92.38.161.99:4022/udp/239.77.0.87:1234</link>
-<thumbnail>http://www.digital-news.it/files-admin/Immagini/AltriEditori/supertennis-logo.jpg</thumbnail>
-</item>
 
 <item>
 <title>Poker Central</title>
@@ -398,35 +251,21 @@ http://178.18.31.65:8081/liverepeater/227630/playlist.m3u8?wmsAuthSign=$doregex[
 </item>
 
 <item>
-<title>Fox sport 506 Australia (Shows Various Sports)</title>
+<title>Fox sport 506 Australia </title>
 <link>http://motorsport.hopto.org:8080/</link>
-
 <thumbnail>https://pbs.twimg.com/profile_images/572618756170317824/T062e0aZ_400x400.png</thumbnail>
 </item>
 
 <item>
-<title>DXTV Sport (Shows Various Football & Sports)</title>
+<title>DXTV Sport </title>
 <link>http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E</link>
 <thumbnail>http://nowwatchtvlive.me/wp-content/uploads/2014/06/DeporTV-logo.jpg</thumbnail>
 </item>
 
 <item>
-<title>A Spor (Shows Various Footblall & Sports)</title>
+<title>A Spor </title>
 <link>http://origin2.live.web.tv.streamprovider.net/live/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-YH5sETI69hA/VCPWQeouEAI/AAAAAAAAanE/SnuYqYmK1c0/s1600/a%2Bspor.png</thumbnail>
-</item>
-
-<item>
-<title>TRT Spor (Shows Various Footblall & Sports)</title>
-<link><link>http://hdtvizle.ru/14452/71930/71968/trts.m3u8</link></link>
-
-<thumbnail>http://www.bedavacanlitvizle.org/wp-content/uploads/trt-spor1.jpg</thumbnail>
-</item>
-
-<item>
-<title>NTV Spor (Shows Various Football & Sports)</title>
-<link>http://origin.live.web.tv.streamprovider.net/live/725528006e858fe951867f4e2436843f_live_0_0/index.m3u8</link>
-<thumbnail>http://2.bp.blogspot.com/-0Y-lPAHaec0/Uw4E3kFECrI/AAAAAAAAAeI/nst9LVyop7k/s1600/NTVSPOR.png</thumbnail>
 </item>
 
 <item>
@@ -436,7 +275,7 @@ http://178.18.31.65:8081/liverepeater/227630/playlist.m3u8?wmsAuthSign=$doregex[
 </item>
 
 <item>
-<title>Sports TV (Shows Various Sports)</title>
+<title>Sports TV</title>
 <link>rtmp://stream.sportstv.com.tr/sportstv/SportsTV3</link>
 <thumbnail>http://www.giniko.com/logos/190x110/215.png</thumbnail>
 </item>
@@ -454,16 +293,11 @@ http://178.18.31.65:8081/liverepeater/227630/playlist.m3u8?wmsAuthSign=$doregex[
 </item>
 
 <item>
-<title>Dubai Racing Channel (Shows all Horse Races Inc Racing UK)</title>
+<title>Dubai Racing Channel </title>
 <link>http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1300000.m3u8</link>
 <thumbnail>http://4.bp.blogspot.com/-XhU5Qk4wlFQ/T-DZ26I7tzI/AAAAAAAAAA4/DKqvNC67O1s/s1600/dubai_racing.jpg</thumbnail>
 </item>
 
-<item>
-<title>William Hill Live Races</title>
-<link>rtsp://whill.tscplayer.net/bettingshop/stream500</link>
-<thumbnail>http://whdn.williamhill.com/core/ob/static/cust/images/en/whLogo2.jpg?ver=723fa5ea119ca4e349d4e10120810d9a</thumbnail>
-</item>
 
 <item>
 <title>Rai Sport 1 </title>
@@ -490,13 +324,13 @@ http://178.18.31.65:8081/liverepeater/227630/playlist.m3u8?wmsAuthSign=$doregex[
 </item>
 
 <item>
-<title>TVM 1 Malta (Shows Various Sports)</title>
+<title>TVM 1 Malta </title>
 <link>http://bcliveuniv-lh.akamaihd.net/i/TVM1DVR_1@326354/index_2_av-p.m3u8?sd=10&rebase=on</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/3/3c/TVM_Malta.png</thumbnail>
 </item>
 
 <item>
-<title>TVM 2 Malta (Shows Various Sports)</title>
+<title>TVM 2 Malta </title>
 <link>http://bcliveuniv-lh.akamaihd.net/i/TVM2DVR_1@326354/master.m3u8</link>
 <thumbnail>http://www.tvm.com.mt/wp-content/themes/pbs/images/logo-tv-tvm2.png</thumbnail>
 </item>
