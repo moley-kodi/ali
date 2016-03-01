@@ -115,6 +115,34 @@ rtmp://78.100.40.195:1935/ryn<playpath>ryn <swfUrl>http://www.elahmad.com/tv/swf
 <jsonrpc>plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsList.txt&mode=5</jsonrpc>
 <thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%2011%20HD.png</thumbnail>
 </item>
+----------------------------- from http://livestream.com-------------------------------------------------
+<streaminginfo>
+	<cname>Alaraby</cname>
+	<item>
+	<title>ALFayha</title>
+	<link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+	<regex>
+	<name>get-m3u8final</name>
+	<expres>43.*\s?(http.*?)\s</expres>
+	<page>$doregex[get-m3u8]</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
 
+	</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+    
+	<regex>
+	<name>get-json</name>
+	<expres>config = ({.*})</expres>
+	<page>http://livestream.com/accounts/13964753/events/4352548/player?width=1080&amp;amp;height=720&amp;autoPlay=true&amp;mute=false</page>
+	<agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+	<cookieJar></cookieJar>
+	</regex>
+	</item>
+</streaminginfo>
 
 
