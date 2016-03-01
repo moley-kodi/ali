@@ -735,41 +735,64 @@ http://178.18.31.65:8081/liverepeater/227630/playlist.m3u8?wmsAuthSign=$doregex[
 ###################################################################
 
 <item>
-<title>BEIN 1HD </title>
-<link>$doregex[getM3U8Header]$doregex[getWMSAUTH]</link> 
+<title>Bein 1 </title>
+<link>$doregex[finalurl]</link>
 <regex>
-<name>getWMSAUTH</name>
-<expres>\["(.*?)"</expres>
-<page>http://www.caston.tv/ss.php</page>
-<referer>http://www.caston.tv/player.php?width=640&amp;height=485&amp;id=12</referer>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
-<X-Req>XMLHttpRequest</X-Req>
+        <name>finalurl</name>
+        <expres>(http.*)</expres>
+        <page>$doregex[url]$doregex[auth]</page>
+        <cookieJar></cookieJar>
+        <agent>iPhone</agent>
 </regex>
-
 <regex>
-<name>getM3U8Header</name>
-<expres>file:"(.*?)"\+</expres>
-<page>$doregex[getUnwisedCode]</page>
+        <name>url</name>
+        <expres>file:"(.*?)"</expres>
+        <page>$doregex[decrypted]</page>
 </regex>
-
 <regex>
-<name>getUnwisedCode</name>
-<expres>$pyFunction:get_unwise("$doregex[getWiseCode]")</expres>
-<page></page>
+        <name>auth</name>
+        <expres>\["(.*?)"</expres>
+        <page>http://www.caston.tv/$doregex[authurl]</page>
+        <referer>http://www.caston.tv</referer>
+        <rawpost>token=$doregex[token]&amp;is_ajax=1</rawpost>
+        <x-req>XMLHttpRequest</x-req>
+        <agent>iPhone</agent>
+        <cookieJar>open[siteName.lwp]</cookieJar>
 </regex>
-
 <regex>
-<name>getWiseCode</name>
-<expres>w,i,s,e.*\s.*\((.*?)\)\);</expres>
-<page>http://www.caston.tv/player.php?width=640&amp;height=485&amp;id=21</page>
-<referer>http://showsport-tv.com/embed.php?ch=bein1</referer>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+        <name>token</name>
+        <expres>token:"(.*?)"</expres>
+        <page>$doregex[decrypted]</page>
+</regex>
+<regex>
+        <name>authurl</name>
+        <expres>url:'(.*?)'</expres>
+        <page>$doregex[decrypted]</page>
+</regex>
+<regex>
+        <name>decrypted</name>
+        <expres>$pyFunction:get_unwise("$doregex[encrypted]")$doregex[savecookie]</expres>
+        <page></page>
+</regex>
+<regex>
+        <name>encrypted</name>
+        <expres>eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
+        <page>http://www.caston.tv/player.php?id=12</page>
+        <referer>http://www.caston.tv</referer>
+        <agent>iPhone</agent>
+        <cookieJar></cookieJar>
+</regex>
+<regex>
+        <name>savecookie</name>
+        <expres></expres>
+        <page></page>
+        <cookieJar>save[siteName.lwp]</cookieJar>
 </regex>
 </item>
 
 ----
 <item>
-<title>Caston Regex</title>
+<title>Bein 3</title>
 <link>$doregex[finalurl]</link>
 <regex>
         <name>finalurl</name>
