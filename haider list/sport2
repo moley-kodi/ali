@@ -122,57 +122,11 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
 
-
-
-
-
-
-<item>
-<title>Sky Sports 1 HD</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-	<title>[makelist.param2]</title>
-	<link>[makelist.param1]</link>
-	<thumbnail>NA</thumbnail>
-]]></listrepeat>
-<expres>a target.*?(http.*?)".*? (.*?) -</expres>
-<page>http://m.liveonlinetv247.info/skysports.php</page>
-<referer>http://m.liveonlinetv247.info/</referer>
-<agent>iPhone</agent>
-</regex>
-</item>
-
-
 <item>
 <title>	Golf  1080</title>
 <link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
 <thumbnail>http://img1.wikia.nocookie.net/__cb20100323073441/logopedia/images/3/3a/Golf_Channel_2008.png</thumbnail>
 </item>
-
-<item>
-<title>	Golf    720</title>
-<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
-<thumbnail>http://img1.wikia.nocookie.net/__cb20100323073441/logopedia/images/3/3a/Golf_Channel_2008.png</thumbnail>
-</item>
-
-<item>
-<title>BTN </title>
-<link>http://ooyalahd2-f.akamaihd.net/i/eschi002_delivery@198517/master.m3u8 </link>
-<thumbnail>http://www.nr4w.com/wp-content/uploads/2014/11/btn.jpg</thumbnail>
-</item>
-
-
-
-
-
-
-
-
-
-
-
 
 
 <item>
@@ -192,79 +146,13 @@ http://178.18.30.113:8081/liverepeater/229933/playlist.m3u8?wmsAuthSign=$doregex
 
 
 
-<item>
-<title>Fox Soccer Plus</title>
-<link>$base64[aHR0cDovL3RvcnVsYS51cy50by9mc3AvaW5kZXgubTN1OA==]</link>
-<thumbnail> </thumbnail>
-</item>
 
 
 
 
 
 
-<item>
-<title>Fox Sports 1</title>
-<link>$base64[aHR0cDovL3d3dy5zdHJlYW1saXZlLnRvL3ZpZXcvNzMyNjA=]</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_au_1.png</thumbnail>
-</item>
 
-item>
-<title>Fox Sports 1</title>
-<link>
-http://178.18.31.54:8081/liverepeater/196423/playlist.m3u8?wmsAuthSign=$doregex[m3u8]
-<regex>
-<name>m3u8</name>
-<expres>wmsAuthSign=([^"]*)</expres>
-<page>http://biggestplayer.me/streamcrstop.php?id=196423&width=620&height=490</page>
-<referer>http://theactionlive.com/livegamecr2.php?id=fox2&width=620&height=490&stretching=</referer>
-</regex>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png  </thumbnail>
-</item>
-
-<item>
-<title>Fox Sports 2 </title>
-<link>$base64[aHR0cDovL3RvcnVsYS51cy50by9mczIvaW5kZXgubTN1OA==]</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_au_2.png</thumbnail>
-</item>
-
-item>
-<title>FOX Sports 2 </title>
-<link>rtmp://185.63.255.18:80/live playpath=fox2ree swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=fox2ree&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_asia.png </thumbnail>
-</item>
-
-
-<item>
-<title>Fox Sports 2</title>
-<link>
-http://178.18.31.64:8081/liverepeater/227480/playlist.m3u8?wmsAuthSign=$doregex[m3u8]
-<regex>
-<name>m3u8</name>
-<expres>wmsAuthSign=([^"]*)</expres>
-<page>http://biggestplayer.me/streamcrjeje2.php?id=227480&width=620&height=490</page>
-<referer>http://theactionlive.com/livegamecr2.php?id=fox2&width=620&height=490&stretching=</referer>
-</regex>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_asia.png </thumbnail>
-</item>
-
-
-
-item>
-<title>Fox Sports 2</title>
-<link>
-http://178.18.31.55:8081/liverepeater/196423/playlist.m3u8?wmsAuthSign=$doregex[m3u8]
-<regex>
-<name>m3u8</name>
-<expres>wmsAuthSign=([^"]*)</expres>
-<page>http://biggestplayer.me/streamcr.php?id=196423&amp;width=620&amp;height=490</page>
-<referer>http://theactionlive.com/livegamecr.php?id=fox2&amp;width=620&amp;height=490&amp;stretching=</referer>
-</regex>
-</link>
-<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_sports_au_2.png</thumbnail>
-</item>
 
 item>
 <title>Fox Sports West U.S</title>
@@ -482,17 +370,8 @@ http://178.18.31.65:8081/liverepeater/227630/playlist.m3u8?wmsAuthSign=$doregex[
 <thumbnail>http://www.protracer.se/wp-content/uploads/2014/01/golfchannel_logo.png</thumbnail>
 </item>
 
-<item>
-<title>NBC Golf 720 HD</title>
-<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=66.171.228.102</link>
-<thumbnail>http://www.protracer.se/wp-content/uploads/2014/01/golfchannel_logo.png</thumbnail>
-</item>
 
-<item>
-<title>NBC Golf SD</title>
-<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=66.171.228.102</link>
-<thumbnail>http://www.protracer.se/wp-content/uploads/2014/01/golfchannel_logo.png</thumbnail>
-</item>
+
 
 <item>
 <title>Super Tennis</title>
