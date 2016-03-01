@@ -3,17 +3,14 @@
 
 
 <item>
-<title>Jafaer-tv.com تمتع بمشاهدة جميع القنوات العربية مجانا</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>file: "([^"]*)</expres>
-<page></page>
-</regex>
+<title>[COLOR red]Jafaer-tv.com تمتع بمشاهدة جميع القنوات العربية مجانا
+[/COLOR red] </title></item>
+
+PayPal.Me/jafaertv 
+
+<item>
+<title> [COLOR red]Help us by donation to------ PayPal.Me/jafaertv------[/COLOR red] </title>
 </item>
-
-
-
 
 
 
