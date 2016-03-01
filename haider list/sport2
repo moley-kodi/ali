@@ -1123,7 +1123,7 @@ http://178.18.30.113:8081/liverepeater/229933/playlist.m3u8?wmsAuthSign=$doregex
 
 
 <item>
-<title>36 </title>
+<title>56 </title>
 <link>$doregex[finalurl]</link>
 <regex>
         <name>finalurl</name>
@@ -1165,7 +1165,7 @@ http://178.18.30.113:8081/liverepeater/229933/playlist.m3u8?wmsAuthSign=$doregex
 <regex>
         <name>encrypted</name>
         <expres>eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-        <page>http://www.caston.tv/player.php?id=36</page>
+        <page>http://www.caston.tv/player.php?id=56</page>
         <referer>http://www.caston.tv</referer>
         <agent>iPhone</agent>
         <cookieJar></cookieJar>
@@ -1179,7 +1179,7 @@ http://178.18.30.113:8081/liverepeater/229933/playlist.m3u8?wmsAuthSign=$doregex
 </item>
 
 <item>
-<title>37 </title>
+<title>45</title>
 <link>$doregex[finalurl]</link>
 <regex>
         <name>finalurl</name>
@@ -1221,7 +1221,7 @@ http://178.18.30.113:8081/liverepeater/229933/playlist.m3u8?wmsAuthSign=$doregex
 <regex>
         <name>encrypted</name>
         <expres>eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-        <page>http://www.caston.tv/player.php?id=37</page>
+        <page>http://www.caston.tv/player.php?id=45</page>
         <referer>http://www.caston.tv</referer>
         <agent>iPhone</agent>
         <cookieJar></cookieJar>
@@ -1237,7 +1237,7 @@ http://178.18.30.113:8081/liverepeater/229933/playlist.m3u8?wmsAuthSign=$doregex
 
 
 <item>
-<title>39</title>
+<title>11</title>
 <link>$doregex[finalurl]</link>
 <regex>
         <name>finalurl</name>
@@ -1279,7 +1279,7 @@ http://178.18.30.113:8081/liverepeater/229933/playlist.m3u8?wmsAuthSign=$doregex
 <regex>
         <name>encrypted</name>
         <expres>eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-        <page>http://www.caston.tv/player.php?id=39</page>
+        <page>http://www.caston.tv/player.php?id=11</page>
         <referer>http://www.caston.tv</referer>
         <agent>iPhone</agent>
         <cookieJar></cookieJar>
