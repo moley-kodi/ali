@@ -65,7 +65,16 @@
 <thumbnail></thumbnail>
 </item>
 
-
+<item>
+<title>The HD Movie channel</title> 
+<link>$doregex[rtmp-code]</link>
+<regex>
+	<name>rtmp-code</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68358',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
 
 
 
@@ -82,16 +91,28 @@
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>The HD Movie channel</title> 
-<link>$doregex[rtmp-code]</link>
+
+<streaminginfo>
+	<cname>world travel channel</cname>
+	<item>
+	<title>world travel channel</title> 
+	<link>$doregex[clean-url]</link> 
 <regex>
-	<name>rtmp-code</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=68358',False,False,'http://vipracing.info/')</expres>
+	<name>clean-url</name>
+	<expres>$pyFunction: '$doregex[get-url]'.replace('\\/','/')</expres>
 	<page></page>
 </regex>
-<thumbnail></thumbnail>
+<regex>
+	<name>get-url</name>
+	<expres>"mediaUrl":"(.*?)"</expres>
+	<page>http://worldtravelchannel.web.tv/</page>
+</regex>
 </item>
+</streaminginfo
+
+
+
+
 
 
 
