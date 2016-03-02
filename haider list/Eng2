@@ -38,76 +38,6 @@
 
 
 
-<item>
-<title>Sky Movies Action & Adventure</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Action/mpegts?token=testrapid:3CmWLfb3kW</link>
-<fanart></fanart>
-<thumbnail>http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/72.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Movies Comedy</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Comedy/mpegts?token=testrapid:3CmWLfb3kW</link>
-<fanart></fanart>
-<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/c/c6/Sky-Movies-Comedy.png/revision/latest?cb=20111118185407/68.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Movies Crime and Thriller</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Thriller/mpegts?token=testrapid:3CmWLfb3kW</link>
-<fanart></fanart>
-<thumbnail>http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/76.png</thumbnail>
-</item>
-
-</item>
-<item>
-<title>SKY Movies Drama</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Drama/mpegts?token=testrapid:3CmWLfb3kW</link>
-<fanart></fanart>
-<thumbnail>http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/259.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Movies Family</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Family/mpegts?token=testrapid:3CmWLfb3kW</link>
-<fanart></fanart>
-<thumbnail>http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/70.png</thumbnail>
-</item>
-
-<item>
-<title>SKY Movies Modern Greats</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Modern-Greats/mpegts?token=testrapid:3CmWLfb3kW</link>
-<fanart></fanart>
-<thumbnail>http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/257.png</thumbnail>
-</item>
-
-<item>
-<title>SKY Movies Premiere</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Premiere/mpegts?token=testrapid:3CmWLfb3kW</link>
-<fanart></fanart>
-<thumbnail>http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/66.png</thumbnail>
-			
-<item>
-<title>SKY Movies Scifi & Horror</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Scifi---Horror/mpegts?token=testrapid:3CmWLfb3kW</link>
-<fanart></fanart>
-<thumbnail>http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/78.png</thumbnail>
-</item>
-
-<item>
-<title>Sky Movies Showcase</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Showcase/mpegts?token=testrapid:3CmWLfb3kW</link>
-<fanart></fanart>
-<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/4/41/Sky-Movies-Showcase.png/revision/latest?cb=20111118190538</thumbnail>
-</item>
-
-<item>
-<title>Sky Movies Select</title>
-<link>http://ovh143.bsdns.eu:8080/live/UK-Sky-Movies-Select/mpegts?token=testrapid:3CmWLfb3kW</link>
-<fanart></fanart>
-<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/d/df/SkyMoviesSelect.png/revision/latest?cb=20130628181333</thumbnail>
-</item>
-<stream>
 
 
 
@@ -183,7 +113,7 @@
 </item>
 </streaminginfo>
 
-
+<item>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
