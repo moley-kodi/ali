@@ -126,11 +126,11 @@
 
 
 <item>
-<title>almayadeen test</title>
-<link>$doregex[get-m3u8]</link>
+<title>almayadeen </title>
+<link>$doregex[rtmp-code]</link>
 
 <regex>
-<name>get-m3u8</name>
+<name>rtmp-code</name>
 <expres>file:"(.*?)"</expres>
 <page>http://www.elahmad.com/tv/f4m/manifest.f4m?id=almayadeen</page>
 </regex>
