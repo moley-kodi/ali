@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
+<item>
+<title>Fox_News</title> 
+<link>$doregex[rtmp-code]</link>
+<regex>
+<name>rtmp-code</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=46465',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>http://www.streamlive.to/account
+<thumbnail></thumbnail>
+</item>
 
+
+<item>
+<title>CNN HD</title> 
+<link>$doregex[rtmp-code]</link>
+<regex>
+<name>rtmp-code</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=46461',False,False,'http://vipracing.info/')</expres>
+<page></page>
+</regex>http://www.streamlive.to/account
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>HBO 2</title> 
@@ -93,9 +114,9 @@
 <title>Cartoon network/</title> 
 <link>$doregex[rtmp-code]</link>
 <regex>
-	<name>rtmp-code</name>
-	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71632',False,False,'http://vipracing.info/')</expres>
-	<page></page>
+<name>rtmp-code</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71632',False,False,'http://vipracing.info/')</expres>
+<page></page>
 </regex>
 <thumbnail></thumbnail>
 </item>
