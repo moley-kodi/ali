@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 
-<item>
-<title>almayadeen test</title>
-<link>$doregex[get-m3u8]</link>
 
-<regex>
-<name>get-m3u8</name>
-<expres>file:"(.*?)"</expres>
-<page>http://www.elahmad.com/tv/almayadeentv.php</page>
-</regex>
-</item>
-
-<item>
-<title>almayadeen </title>
-<link>$doregex[rtmp-code]</link>
-
-<regex>
-<name>rtmp-code</name>
-<expres>file:"(.*?)"</expres>
-<page>http://www.elahmad.com/tv/almayadeentv.php</page>
-</regex>
-</item>
 
 
 
