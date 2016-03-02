@@ -1293,7 +1293,10 @@
 <streaminginfo><cname>Saudia Sport</cname><item><title>Saudia Sport</title>
 <link>plugin://plugin.video.F.T.V/?url=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fsaudi-arabian-tv-sports&amp;mode=125&amp;name=Saudi+Arabian+TV+Sports&amp;iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F1781%2Fextra_big_logo.png&amp;start=saudi-arabian-tv-sports&amp;ch_fanart=1781</link></item></streaminginfo>
 
-
+<item>
+<title>IraqiaNews</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/21791994/streams/live/playlist.m3u8</link>
+</item>
 <streaminginfo>
   <cname>Al Sumaria</cname>
   <item>
