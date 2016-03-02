@@ -17,16 +17,100 @@
 	<link>http://win15.yayin.com</link>
 	</item>
 </streaminginfo>
+###############################################33
+
+
+
+
+	<streaminginfo>
+		<cname>mbc action</cname>
+		<item>
+			<title>mbc action</title>
+			<link>http://50.7.69.138:9080/hls/mbc-action.m3u8|User-Agent=iPad</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>mbc max</cname>
+		<item>
+			<title>mbc max</title>
+			<link>http://50.7.69.138:9080/hls/mbc-max.m3u8|User-Agent=iPad</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>mbc drama</cname>
+		<item>
+			<title>mbc drama</title>
+			<link>http://50.7.69.138:9080/hls/mbc-drama.m3u8|User-Agent=iPad</link>
+		</item>
+	</streaminginfo>
+	
+	
+	
+	<streaminginfo>
+		<cname>mbc 1</cname>
+		<item>
+			<title>mbc 1</title>
+			<link>http://50.7.69.138:9080/hls/mbc1.m3u8|User-Agent=iPad</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>mbc 2</cname>
+		<item>
+			<title>Mbc2</title>
+			<link>http://50.7.69.138:9080/hls/mbc2.m3u8|User-Agent=iPad</link>
+		</item>
+	</streaminginfo>
+	
+	
+	<streaminginfo>
+		<cname>mbc 3</cname>
+		<item>
+			<title>mbc 3</title>
+			<link>http://50.7.69.138:9080/hls/mbc3.m3u8|User-Agent=iPad</link>
+		</item>
+	</streaminginfo>
+	
+	<streaminginfo>
+		<cname>mbc 4</cname>
+		<item>
+			<title>mbc 4</title>
+			<link>http://50.7.69.138:9080/hls/mbc4.m3u8|User-Agent=iPad</link>
+		</item>
+	</streaminginfo>
+	
+<streaminginfo>
+		<cname>zee alwan</cname>
+		<item>
+			<title>zee alwan</title>
+			<link>http://50.7.69.138:9080/hls/zee-alwan.m3u8|User-Agent=iPad</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>zee aflam</cname>
+		<item>
+			<title>zee aflam</title>
+			<link>http://50.7.69.138:9080/hls/zee-aflam.m3u8|User-Agent=iPad</link>
+		</item>
+	</streaminginfo>
+	<streaminginfo>
+		<cname>arte</cname>
+		<item>
+			<title>art</title>
+			<link>$doregex[get-link]</link>
+			<regex>
+			<name>get-link</name>
+			<expres>file: "(.*?)"</expres>
+				<page>http://racacaxtv.ga/s4fwatch.php?name=Regarder%20Arte%20en%20direct&amp;url=http://racacax1234.ga/yomama/arte/master.m3u8</page></regex>
+		</item>
+	</streaminginfo>
 
 
 
 
 
 
-
-
-
-
+#######################################3
   <streaminginfo>
         <cname>MBC Drama</cname>
         <item>
