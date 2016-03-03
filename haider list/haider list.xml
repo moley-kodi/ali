@@ -114,11 +114,11 @@
 <channels>
 
 <channel>
-      <name>[COLOR lime]Jafaer-tv Arabic Movies [/COLOR]</name>
+      <name>[COLOR red]Jafaer-tv Arabic Movies [/COLOR]</name>
   <thumbnail>http://jafaer-tv.com/kodi/jafaer-tv/jafaerlogo.png</thumbnail>
 <fanart>http://jafaer-tv.com/kodi/jafaer-tv/jojo.png</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/Arabic%20movies</externallink> ##change haider
+   <externallink>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/Arabic%20movies.m3u</externallink> ##change haider
    
 </channel>
   </channels>
