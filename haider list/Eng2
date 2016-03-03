@@ -3,7 +3,16 @@
 
 
 
+<item>
+<title>fx test</title>
+<link>$doregex[get-m3u8]</link>
 
+<regex>
+<name>get-m3u8</name>
+<expres>file:"(.*?)"</expres>
+<page>https://www.arconaitv.me/fx/</page>
+</regex>
+</item>
 
 <item>
 <title>HBO 2</title> 
