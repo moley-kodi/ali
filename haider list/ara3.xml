@@ -20,7 +20,14 @@
 ###############################################33
 
 
-
+<streaminginfo>
+<cname>Al Anwar</cname>
+<item>
+<title>Al Anwar</title>
+<type>Limited</type>
+<link>http://127.0.0.1:4500/channel.flv?channel=AlAnwar_LR&amp;server=$GL-IPLR$&amp;port=2077&amp;session=$GL-Sesession$</link>
+</item>
++</streaminginfo>
 
 
 
