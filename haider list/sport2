@@ -1,10 +1,21 @@
-
-
-
-
-
 <streaminginfos>
 <items>
+
+<item>
+<title>Bein Sports</title>
+<link>$doregex[rtmpurl]</link>
+<regex>
+<name>rtmpurl</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.direct2watch.com/embedplayer.php?channel=$doregex[id]',False,False,'http://vipracing.tv')</expres>
+<page></page>
+</regex>
+<regex>
+<name>id</name>
+<expres>direct2watch.com/embed/(.*?)&</expres>
+<page>http://vipracing.tv/channel/opcion-1</page>
+</regex>
+</item>
+
 
 
 
