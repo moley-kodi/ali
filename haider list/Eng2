@@ -3,14 +3,34 @@
 
 
 
+
 <item>
-<title>fx test</title>
-<link>$doregex[get-m3u8]</link>
+<title>http://tutvgratis.tv/mundo-y-cultura/the-history-channel</title>
+<link>$doregex[max-cookie-referer]</link>
 
 <regex>
-<name>get-m3u8</name>
-<expres>file:"(.*?)"</expres>
-<page>https://www.arconaitv.me/fx/</page>
+<name>max-cookie-referer</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='$doregex[select_Url]'):
+ import re
+ import requests
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0'}
+ source = requests.get(url, headers=headers)
+ sd = re.findall('640x360.*?\n(http.*)', source.text)[0]
+ clean=sd.replace('|','%7C')
+ cookie2 = source.cookies['_g']
+ return clean + '|Referer=http://tutvgratis.tv/&Cookie=_g=' + cookie2
+
+]]></expres>
+<page></page>
+</regex>
+
+
+<regex>
+<name>select_Url</name>
+<expres>file: "(.*?)"</expres>
+<page>$pyFunction: unCaptcha.performCaptcha('http://tutvgratis.tv/embed/tutv?chid=44',Cookie_Jar,returnpage=True)</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
 </regex>
 </item>
 
