@@ -119,7 +119,73 @@
 </item>
 </streaminginfo
 
+###############
 
+<item>
+<title>history channel</title>
+<link>$doregex[max-cookie-referer]</link>
+
+<regex>
+<name>max-cookie-referer</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='$doregex[select_Url]'):
+ import re
+ import requests
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0'}
+ source = requests.get(url, headers=headers)
+ maxi = re.findall('(http.*)', source.text)[0]
+ clean=maxi.replace('|','%7C')
+ cookie2 = source.cookies['_g']
+ return clean + '|Referer=http://tutvgratis.tv/&Cookie=_g=' + cookie2
+
+]]></expres>
+<page></page>
+</regex>
+
+
+<regex>
+<name>select_Url</name>
+<expres>file: "(.*?)"</expres>
+<page>$pyFunction: unCaptcha.performCaptcha('http://tutvgratis.tv/embed/tutv?chid=44',Cookie_Jar,returnpage=True)</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
+</regex>
+</item>
+
+
+##############test
+
+
+
+<item>
+<title>theater Descovery</title>
+<link>$doregex[max-cookie-referer]</link>
+
+<regex>
+<name>max-cookie-referer</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='$doregex[select_Url]'):
+ import re
+ import requests
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0'}
+ source = requests.get(url, headers=headers)
+ maxi = re.findall('(http.*)', source.text)[0]
+ clean=maxi.replace('|','%7C')
+ cookie2 = source.cookies['_g']
+ return clean + '|Referer=http://tutvgratis.tv/&Cookie=_g=' + cookie2
+
+]]></expres>
+<page></page>
+</regex>
+
+
+<regex>
+<name>select_Url</name>
+<expres>file: "(.*?)"</expres>
+<page>$pyFunction: unCaptcha.performCaptcha('http://tutvgratis.tv/embed/tutv?chid=45',Cookie_Jar,returnpage=True)</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
+</regex>
+</item>
+#############
 
 
 
