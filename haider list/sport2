@@ -108,7 +108,24 @@ sublink:http://80.243.189.26:8889/pakindiatv/FoxSport2/index.m3u8#
 <link>http://80.243.189.26:8889/sprtXStpp/starsport4/index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
-
+<item>
+<title>[COLOR red]SKY 1[/COLOR]</title>
+<link>$doregex[get-m3u8]|User-Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>get-m3u8</name>
+<expres>file: "(.*?)"</expres>
+<page>http://biggestplayer.me/streamcr.php?id=$doregex[get-id]&amp;width=640&amp;height=460</page>
+<referer>http://theactionlive.com/livegamecr2.php?id=sky1&width=640&height=460&stretching=</referer>
+</regex>
+<regex>
+<name>get-id</name>
+<expres>id='(.*?)'</expres>
+<page>http://theactionlive.com/livegamecr2.php?id=sky1&amp;width=640&amp;height=460&amp;stretching=</page>
+<referer>http://cricfree.sx/update/skys1.php</referer>
+</regex>
+<thumbnail>http://www.premiershiprugby.com/images/content/Premiership-Content-Partner-Sky.gif</thumbnail>
+<fanart>https://e33311a1-a-62cb3a1a-s-sites.googlegroups.com/site/kodilista/bad-boy-hd-wallpapers.jpg</fanart>
+</item>
 <item>
 <title>Bein Sport 1  </title>
 <link>
@@ -363,23 +380,6 @@ sublink:http://foro:cable@24.139.177.135:9981/stream/channelid/254416826?ticket=
 </item>
 
 
-<item>
-<title>NBC Golf 1080 HD </title>
-<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=66.171.228.102</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NBC Golf 720 HD</title>
-<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=66.171.228.102</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NBC Golf SD</title>
-<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=66.171.228.102</link>
-<thumbnail></thumbnail>
-</item>
 
 
 
@@ -413,38 +413,6 @@ sublink:rtmp://31.220.0.139/privatestream/futbolplus56 swfUrl=http://privatestre
 sublink:rtmp://31.220.0.139/privatestream playpath=futbolplus56?keys=4-DLFKU_ncLc9GqoxNxiUg&keyt=1448248367 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf#
 <thumbnail></thumbnail>
 </item>
-
-<item>
-<title>DigiSport 1 </title>
-<link>http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>DigiSport 2 </title>
-<link>
-sublink:rtmp://31.220.0.103/shqstream/ playpath=dfgdfefoo7f?keys=YslZPrELarmHByLn7Fu4Kw&keyt=1455726365 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf live=1 pageUrl=http://hqstream.tv/player.php?streampage=dfgdfefoo7f&width=640&height=500#
-sublink:http://82.76.249.81/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000#
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>DigiSport 3</title>
-<link>http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>DigiSport 4</title>
-<link>http://82.76.249.81/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000</link>
-<thumbnail></thumbnail>
-</item>
-
-
-
-
-
 
 
 
