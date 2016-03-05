@@ -91,8 +91,8 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 <item>
 <title>Fox Sports 2 U.S</title>
 <link>
-sublink:rtmp://185.63.255.18:80/live playpath=fox2ree swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=fox2ree&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z
-sublink:http://80.243.189.26:8889/pakindiatv/FoxSport2/index.m3u8
+sublink:rtmp://185.63.255.18:80/live playpath=fox2ree swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=fox2ree&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z#
+sublink:http://80.243.189.26:8889/pakindiatv/FoxSport2/index.m3u8#
 </link>
 <thumbnail></thumbnail>
 </item>
@@ -112,8 +112,8 @@ sublink:http://80.243.189.26:8889/pakindiatv/FoxSport2/index.m3u8
 <item>
 <title>Bein Sport 1  </title>
 <link>
-sublink:rtmp://85.132.67.123:1935/live/be01
-sublink:http://80.243.189.26:8889/bein/sports1/index.m3u8
+sublink:rtmp://85.132.67.123:1935/live/be01#
+sublink:http://80.243.189.26:8889/bein/sports1/index.m3u8#
 </link>
 <thumbnail></thumbnail>
 </item>
@@ -121,8 +121,8 @@ sublink:http://80.243.189.26:8889/bein/sports1/index.m3u8
 <item>
 <title>Bein Sport 2 </title>
 <link>
-sublink:rtmp://85.132.67.123:1935/live/be02
-sublink:http://80.243.189.26:8889/bein/sports2/index.m3u8
+sublink:rtmp://85.132.67.123:1935/live/be02#
+sublink:http://80.243.189.26:8889/bein/sports2/index.m3u8#
 </link>
 <thumbnail></thumbnail>
 </item>
@@ -130,8 +130,8 @@ sublink:http://80.243.189.26:8889/bein/sports2/index.m3u8
 <item>
 <title>Bein Sport 3 </title>
 <link>
-sublink:rtmp://85.132.67.123:1935/live/be03
-http://80.243.189.26:8889/bein/sports3/index.m3u8
+sublink:rtmp://85.132.67.123:1935/live/be03#
+sublink:http://80.243.189.26:8889/bein/sports3/index.m3u8#
 </link>
 <thumbnail</thumbnail>
 </item>
@@ -139,8 +139,8 @@ http://80.243.189.26:8889/bein/sports3/index.m3u8
 <item>
 <title>Bein Sport 4 </title>
 <link>
-sublink:rtmp://85.132.67.123:1935/live/be04
-sublink:http://80.243.189.26:8889/bein/sports4/index.m3u8
+sublink:rtmp://85.132.67.123:1935/live/be04#
+sublink:http://80.243.189.26:8889/bein/sports4/index.m3u8#
 </link>
 <thumbnail></thumbnail>
 </item>
@@ -148,8 +148,8 @@ sublink:http://80.243.189.26:8889/bein/sports4/index.m3u8
 <item>
 <title>Bein Sport 5</title>
 <link>
-sublink:rtmp://85.132.67.123:1935/live/be05
-sublink:http://80.243.189.26:8889/bein/sports5/index.m3u8
+sublink:rtmp://85.132.67.123:1935/live/be05#
+sublink:http://80.243.189.26:8889/bein/sports5/index.m3u8#
 </link>
 <thumbnail></thumbnail>
 </item>
@@ -157,8 +157,8 @@ sublink:http://80.243.189.26:8889/bein/sports5/index.m3u8
 <item>
 <title>Idman HD </title>
 <link>
-sublink:http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8
-sublink:http://188.72.131.226/idman.m3u8
+sublink:http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8#
+sublink:http://188.72.131.226/idman.m3u8#
 </link>
 <thumbnail></thumbnail>
 </item>
@@ -166,8 +166,8 @@ sublink:http://188.72.131.226/idman.m3u8
 <item>
 <title>SkyNet Sports</title>
 <link>
-sublink:rtmp://199.189.110.20/as99/chSport1hd
-sublink:http://216.185.103.158:1935/live2/chSport1hd/playlist.m3u8
+sublink:rtmp://199.189.110.20/as99/chSport1hd#
+sublink:http://216.185.103.158:1935/live2/chSport1hd/playlist.m3u8#
 </link>
 <thumbnail</thumbnail>
 </item>
