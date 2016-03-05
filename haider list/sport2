@@ -54,31 +54,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
 
-<item>
-<title>Bein sport 1 </title>
-<link>$doregex[finalurl]</link>
-<regex>
-        <name>finalurl</name>
-        <expres>(http.*)</expres>
-        <page>$doregex[url]$doregex[auth]</page>
-        <cookieJar></cookieJar>
-        <agent>iPhone</agent>
-</regex>
-<regex>
-        <name>url</name>
-        <expres>file:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>auth</name>
-        <expres>\["(.*?)"</expres>
-        <page>http://www.caston.tv/$doregex[authurl]</page>
-        <referer>http://www.caston.tv</referer>
-        <rawpost>token=$doregex[token]&amp;is_ajax=1</rawpost>
-        <x-req>XMLHttpRequest</x-req>
-        <agent>iPhone</agent>
-        <cookieJar>open[siteName.lwp]</cookieJar>
-</regex>
+
 <regex>
         <name>token</name>
         <expres>token:"(.*?)"</expres>
@@ -111,636 +87,337 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 </item>
 #####################
 
-<item>
-<title>Bein sport 2 </title>
-<link>$doregex[finalurl]</link>
-<regex>
-        <name>finalurl</name>
-        <expres>(http.*)</expres>
-        <page>$doregex[url]$doregex[auth]</page>
-        <cookieJar></cookieJar>
-        <agent>iPhone</agent>
-</regex>
-<regex>
-        <name>url</name>
-        <expres>file:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>auth</name>
-        <expres>\["(.*?)"</expres>
-        <page>http://www.caston.tv/$doregex[authurl]</page>
-        <referer>http://www.caston.tv</referer>
-        <rawpost>token=$doregex[token]&amp;is_ajax=1</rawpost>
-        <x-req>XMLHttpRequest</x-req>
-        <agent>iPhone</agent>
-        <cookieJar>open[siteName.lwp]</cookieJar>
-</regex>
-<regex>
-        <name>token</name>
-        <expres>token:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>authurl</name>
-        <expres>url:'(.*?)'</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>decrypted</name>
-        <expres>$pyFunction:get_unwise("$doregex[encrypted]")$doregex[savecookie]</expres>
-        <page></page>
-</regex>
-<regex>
-        <name>encrypted</name>
-        <expres>eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-        <page>http://www.caston.tv/player.php?id=13</page>
-        <referer>http://www.caston.tv</referer>
-        <agent>iPhone</agent>
-        <cookieJar></cookieJar>
-</regex>
-<regex>
-        <name>savecookie</name>
-        <expres></expres>
-        <page></page>
-        <cookieJar>save[siteName.lwp]</cookieJar>
-</regex>
-</item>
-----
-<item>
-<title>Bein sport 3</title>
-<link>$doregex[finalurl]</link>
-<regex>
-        <name>finalurl</name>
-        <expres>(http.*)</expres>
-        <page>$doregex[url]$doregex[auth]</page>
-        <cookieJar></cookieJar>
-        <agent>iPhone</agent>
-</regex>
-<regex>
-        <name>url</name>
-        <expres>file:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>auth</name>
-        <expres>\["(.*?)"</expres>
-        <page>http://www.caston.tv/$doregex[authurl]</page>
-        <referer>http://www.caston.tv</referer>
-        <rawpost>token=$doregex[token]&amp;is_ajax=1</rawpost>
-        <x-req>XMLHttpRequest</x-req>
-        <agent>iPhone</agent>
-        <cookieJar>open[siteName.lwp]</cookieJar>
-</regex>
-<regex>
-        <name>token</name>
-        <expres>token:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>authurl</name>
-        <expres>url:'(.*?)'</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>decrypted</name>
-        <expres>$pyFunction:get_unwise("$doregex[encrypted]")$doregex[savecookie]</expres>
-        <page></page>
-</regex>
-<regex>
-        <name>encrypted</name>
-        <expres>eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-        <page>http://www.caston.tv/player.php?id=27</page>
-        <referer>http://www.caston.tv</referer>
-        <agent>iPhone</agent>
-        <cookieJar></cookieJar>
-</regex>
-<regex>
-        <name>savecookie</name>
-        <expres></expres>
-        <page></page>
-        <cookieJar>save[siteName.lwp]</cookieJar>
-</regex>
-</item>
-
-###########################################
 
 <item>
-<title>Bein sport 4</title>
-<link>$doregex[finalurl]</link>
-<regex>
-        <name>finalurl</name>
-        <expres>(http.*)</expres>
-        <page>$doregex[url]$doregex[auth]</page>
-        <cookieJar></cookieJar>
-        <agent>iPhone</agent>
-</regex>
-<regex>
-        <name>url</name>
-        <expres>file:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>auth</name>
-        <expres>\["(.*?)"</expres>
-        <page>http://www.caston.tv/$doregex[authurl]</page>
-        <referer>http://www.caston.tv</referer>
-        <rawpost>token=$doregex[token]&amp;is_ajax=1</rawpost>
-        <x-req>XMLHttpRequest</x-req>
-        <agent>iPhone</agent>
-        <cookieJar>open[siteName.lwp]</cookieJar>
-</regex>
-<regex>
-        <name>token</name>
-        <expres>token:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>authurl</name>
-        <expres>url:'(.*?)'</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>decrypted</name>
-        <expres>$pyFunction:get_unwise("$doregex[encrypted]")$doregex[savecookie]</expres>
-        <page></page>
-</regex>
-<regex>
-        <name>encrypted</name>
-        <expres>eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-        <page>http://www.caston.tv/player.php?id=28</page>
-        <referer>http://www.caston.tv</referer>
-        <agent>iPhone</agent>
-        <cookieJar></cookieJar>
-</regex>
-<regex>
-        <name>savecookie</name>
-        <expres></expres>
-        <page></page>
-        <cookieJar>save[siteName.lwp]</cookieJar>
-</regex>
+<title>Fox Sports 2 U.S</title>
+<link>
+sublink:rtmp://185.63.255.18:80/live playpath=fox2ree swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=fox2ree&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z
+sublink:http://80.243.189.26:8889/pakindiatv/FoxSport2/index.m3u8
+</link>
+<thumbnail></thumbnail>
 </item>
 
------------------------------############################
+<item>
+<title>Star Sports 2 </title>
+<link>http://80.243.189.26:8889/sprtXStpp/starsport2/index.m3u8</link>
+<thumbnail>http://www.bsitbd.net/images/tv/sports/star2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star Sports 4 </title>
+<link>http://80.243.189.26:8889/sprtXStpp/starsport4/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 1  </title>
+<link>
+sublink:rtmp://85.132.67.123:1935/live/be01
+sublink:http://80.243.189.26:8889/bein/sports1/index.m3u8
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 2 </title>
+<link>
+sublink:rtmp://85.132.67.123:1935/live/be02
+sublink:http://80.243.189.26:8889/bein/sports2/index.m3u8
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 3 </title>
+<link>
+sublink:rtmp://85.132.67.123:1935/live/be03
+http://80.243.189.26:8889/bein/sports3/index.m3u8
+</link>
+<thumbnail</thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 4 </title>
+<link>
+sublink:rtmp://85.132.67.123:1935/live/be04
+sublink:http://80.243.189.26:8889/bein/sports4/index.m3u8
+</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>Bein Sport 5</title>
-<link>$doregex[finalurl]</link>
-<regex>
-        <name>finalurl</name>
-        <expres>(http.*)</expres>
-        <page>$doregex[url]$doregex[auth]</page>
-        <cookieJar></cookieJar>
-        <agent>iPhone</agent>
-</regex>
-<regex>
-        <name>url</name>
-        <expres>file:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>auth</name>
-        <expres>\["(.*?)"</expres>
-        <page>http://www.caston.tv/$doregex[authurl]</page>
-        <referer>http://www.caston.tv</referer>
-        <rawpost>token=$doregex[token]&amp;is_ajax=1</rawpost>
-        <x-req>XMLHttpRequest</x-req>
-        <agent>iPhone</agent>
-        <cookieJar>open[siteName.lwp]</cookieJar>
-</regex>
-<regex>
-        <name>token</name>
-        <expres>token:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>authurl</name>
-        <expres>url:'(.*?)'</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>decrypted</name>
-        <expres>$pyFunction:get_unwise("$doregex[encrypted]")$doregex[savecookie]</expres>
-        <page></page>
-</regex>
-<regex>
-        <name>encrypted</name>
-        <expres>eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-        <page>http://www.caston.tv/player.php?id=29</page>
-        <referer>http://www.caston.tv</referer>
-        <agent>iPhone</agent>
-        <cookieJar></cookieJar>
-</regex>
-<regex>
-        <name>savecookie</name>
-        <expres></expres>
-        <page></page>
-        <cookieJar>save[siteName.lwp]</cookieJar>
-</regex>
-</item>
-########################################3
-<item>
-<title>Bein Sport 6 </title>
-<link>$doregex[finalurl]</link>
-<regex>
-        <name>finalurl</name>
-        <expres>(http.*)</expres>
-        <page>$doregex[url]$doregex[auth]</page>
-        <cookieJar></cookieJar>
-        <agent>iPhone</agent>
-</regex>
-<regex>
-        <name>url</name>
-        <expres>file:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>auth</name>
-        <expres>\["(.*?)"</expres>
-        <page>http://www.caston.tv/$doregex[authurl]</page>
-        <referer>http://www.caston.tv</referer>
-        <rawpost>token=$doregex[token]&amp;is_ajax=1</rawpost>
-        <x-req>XMLHttpRequest</x-req>
-        <agent>iPhone</agent>
-        <cookieJar>open[siteName.lwp]</cookieJar>
-</regex>
-<regex>
-        <name>token</name>
-        <expres>token:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>authurl</name>
-        <expres>url:'(.*?)'</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>decrypted</name>
-        <expres>$pyFunction:get_unwise("$doregex[encrypted]")$doregex[savecookie]</expres>
-        <page></page>
-</regex>
-<regex>
-        <name>encrypted</name>
-        <expres>eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-        <page>http://www.caston.tv/player.php?id=30</page>
-        <referer>http://www.caston.tv</referer>
-        <agent>iPhone</agent>
-        <cookieJar></cookieJar>
-</regex>
-<regex>
-        <name>savecookie</name>
-        <expres></expres>
-        <page></page>
-        <cookieJar>save[siteName.lwp]</cookieJar>
-</regex>
-</item>
-################################
-<item>
-<title>Bein Sport 7</title>
-<link>$doregex[finalurl]</link>
-<regex>
-        <name>finalurl</name>
-        <expres>(http.*)</expres>
-        <page>$doregex[url]$doregex[auth]</page>
-        <cookieJar></cookieJar>
-        <agent>iPhone</agent>
-</regex>
-<regex>
-        <name>url</name>
-        <expres>file:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>auth</name>
-        <expres>\["(.*?)"</expres>
-        <page>http://www.caston.tv/$doregex[authurl]</page>
-        <referer>http://www.caston.tv</referer>
-        <rawpost>token=$doregex[token]&amp;is_ajax=1</rawpost>
-        <x-req>XMLHttpRequest</x-req>
-        <agent>iPhone</agent>
-        <cookieJar>open[siteName.lwp]</cookieJar>
-</regex>
-<regex>
-        <name>token</name>
-        <expres>token:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>authurl</name>
-        <expres>url:'(.*?)'</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>decrypted</name>
-        <expres>$pyFunction:get_unwise("$doregex[encrypted]")$doregex[savecookie]</expres>
-        <page></page>
-</regex>
-<regex>
-        <name>encrypted</name>
-        <expres>eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-        <page>http://www.caston.tv/player.php?id=31</page>
-        <referer>http://www.caston.tv</referer>
-        <agent>iPhone</agent>
-        <cookieJar></cookieJar>
-</regex>
-<regex>
-        <name>savecookie</name>
-        <expres></expres>
-        <page></page>
-        <cookieJar>save[siteName.lwp]</cookieJar>
-</regex>
-</item>
-#########################333333
-
-<item>
-<title>Bein sport 8 </title>
-<link>$doregex[finalurl]</link>
-<regex>
-        <name>finalurl</name>
-        <expres>(http.*)</expres>
-        <page>$doregex[url]$doregex[auth]</page>
-        <cookieJar></cookieJar>
-        <agent>iPhone</agent>
-</regex>
-<regex>
-        <name>url</name>
-        <expres>file:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>auth</name>
-        <expres>\["(.*?)"</expres>
-        <page>http://www.caston.tv/$doregex[authurl]</page>
-        <referer>http://www.caston.tv</referer>
-        <rawpost>token=$doregex[token]&amp;is_ajax=1</rawpost>
-        <x-req>XMLHttpRequest</x-req>
-        <agent>iPhone</agent>
-        <cookieJar>open[siteName.lwp]</cookieJar>
-</regex>
-<regex>
-        <name>token</name>
-        <expres>token:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>authurl</name>
-        <expres>url:'(.*?)'</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>decrypted</name>
-        <expres>$pyFunction:get_unwise("$doregex[encrypted]")$doregex[savecookie]</expres>
-        <page></page>
-</regex>
-<regex>
-        <name>encrypted</name>
-        <expres>eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-        <page>http://www.caston.tv/player.php?id=32</page>
-        <referer>http://www.caston.tv</referer>
-        <agent>iPhone</agent>
-        <cookieJar></cookieJar>
-</regex>
-<regex>
-        <name>savecookie</name>
-        <expres></expres>
-        <page></page>
-        <cookieJar>save[siteName.lwp]</cookieJar>
-</regex>
-</item>
-###########################################
-<item>
-<title>Bein sport 9 </title>
-<link>$doregex[finalurl]</link>
-<regex>
-        <name>finalurl</name>
-        <expres>(http.*)</expres>
-        <page>$doregex[url]$doregex[auth]</page>
-        <cookieJar></cookieJar>
-        <agent>iPhone</agent>
-</regex>
-<regex>
-        <name>url</name>
-        <expres>file:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>auth</name>
-        <expres>\["(.*?)"</expres>
-        <page>http://www.caston.tv/$doregex[authurl]</page>
-        <referer>http://www.caston.tv</referer>
-        <rawpost>token=$doregex[token]&amp;is_ajax=1</rawpost>
-        <x-req>XMLHttpRequest</x-req>
-        <agent>iPhone</agent>
-        <cookieJar>open[siteName.lwp]</cookieJar>
-</regex>
-<regex>
-        <name>token</name>
-        <expres>token:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>authurl</name>
-        <expres>url:'(.*?)'</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>decrypted</name>
-        <expres>$pyFunction:get_unwise("$doregex[encrypted]")$doregex[savecookie]</expres>
-        <page></page>
-</regex>
-<regex>
-        <name>encrypted</name>
-        <expres>eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-        <page>http://www.caston.tv/player.php?id=33</page>
-        <referer>http://www.caston.tv</referer>
-        <agent>iPhone</agent>
-        <cookieJar></cookieJar>
-</regex>
-<regex>
-        <name>savecookie</name>
-        <expres></expres>
-        <page></page>
-        <cookieJar>save[siteName.lwp]</cookieJar>
-</regex>
-</item>
-#######################33
-
-<item>
-<title>test 1 </title>
-<link>$doregex[finalurl]</link>
-<regex>
-        <name>finalurl</name>
-        <expres>(http.*)</expres>
-        <page>$doregex[url]$doregex[auth]</page>
-        <cookieJar></cookieJar>
-        <agent>iPhone</agent>
-</regex>
-<regex>
-        <name>url</name>
-        <expres>file:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>auth</name>
-        <expres>\["(.*?)"</expres>
-        <page>http://www.caston.tv/$doregex[authurl]</page>
-        <referer>http://www.caston.tv</referer>
-        <rawpost>token=$doregex[token]&amp;is_ajax=1</rawpost>
-        <x-req>XMLHttpRequest</x-req>
-        <agent>iPhone</agent>
-        <cookieJar>open[siteName.lwp]</cookieJar>
-</regex>
-<regex>
-        <name>token</name>
-        <expres>token:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>authurl</name>
-        <expres>url:'(.*?)'</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>decrypted</name>
-        <expres>$pyFunction:get_unwise("$doregex[encrypted]")$doregex[savecookie]</expres>
-        <page></page>
-</regex>
-<regex>
-        <name>encrypted</name>
-        <expres>eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-        <page>http://www.caston.tv/player.php?id=34</page>
-        <referer>http://www.caston.tv</referer>
-        <agent>iPhone</agent>
-        <cookieJar></cookieJar>
-</regex>
-<regex>
-        <name>savecookie</name>
-        <expres></expres>
-        <page></page>
-        <cookieJar>save[siteName.lwp]</cookieJar>
-</regex>
-</item>
-####################################33
-
-<item>
-<title>test 2 </title>
-<link>$doregex[finalurl]</link>
-<regex>
-        <name>finalurl</name>
-        <expres>(http.*)</expres>
-        <page>$doregex[url]$doregex[auth]</page>
-        <cookieJar></cookieJar>
-        <agent>iPhone</agent>
-</regex>
-<regex>
-        <name>url</name>
-        <expres>file:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>auth</name>
-        <expres>\["(.*?)"</expres>
-        <page>http://www.caston.tv/$doregex[authurl]</page>
-        <referer>http://www.caston.tv</referer>
-        <rawpost>token=$doregex[token]&amp;is_ajax=1</rawpost>
-        <x-req>XMLHttpRequest</x-req>
-        <agent>iPhone</agent>
-        <cookieJar>open[siteName.lwp]</cookieJar>
-</regex>
-<regex>
-        <name>token</name>
-        <expres>token:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>authurl</name>
-        <expres>url:'(.*?)'</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>decrypted</name>
-        <expres>$pyFunction:get_unwise("$doregex[encrypted]")$doregex[savecookie]</expres>
-        <page></page>
-</regex>
-<regex>
-        <name>encrypted</name>
-        <expres>eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-        <page>http://www.caston.tv/player.php?id=35</page>
-        <referer>http://www.caston.tv</referer>
-        <agent>iPhone</agent>
-        <cookieJar></cookieJar>
-</regex>
-<regex>
-        <name>savecookie</name>
-        <expres></expres>
-        <page></page>
-        <cookieJar>save[siteName.lwp]</cookieJar>
-</regex>
-</item>
-
-
-
-
-
-
-
-
-
-
-
-
-<item>
-<title>Sky Sports Channels</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-	<title>[makelist.param2]</title>
-	<link>[makelist.param1]</link>
-	<thumbnail>NA</thumbnail>
-]]></listrepeat>
-<expres>a target.*?(http.*?)".*? (.*?) -</expres>
-<page>http://m.liveonlinetv247.info/skysports.php</page>
-<referer>http://m.liveonlinetv247.info/</referer>
-<agent>iPhone</agent>
-</regex>
-</item>
-
-=================================
-
-<item>
-<title>Bein sport 1 eng</title>
-<link>https://forums.tvaddons.ag/$doregex[rtmp] app=$doregex[app] playpath=$doregex[file] swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf flashVer=WIN\2020,0,0,306 swfVfy=1 live=1 timeout=13 pageUrl=$doregex[page]</link>
-<regex>
-<name>rtmp</name>
-<expres>file: "(rtmp.*\/).*?",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>app</name>
-<expres>file: ".*\/(.*?\/).*?",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>file</name>
-<expres>file: ".*\/(.*?)",</expres>
-<page>$doregex[page]</page>
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
-<regex>
-<name>page</name>
-<expres>iframe src='(.*?)'.*?width='100%</expres>
-<page>http://www.speed9kick9.com/BEINSport-179.html</page> ### change
-<referer>http://www.speed9kick9.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-</regex>
+<link>
+sublink:rtmp://85.132.67.123:1935/live/be05
+sublink:http://80.243.189.26:8889/bein/sports5/index.m3u8
+</link>
 <thumbnail></thumbnail>
-<fanart></fanart>
+</item>
+
+<item>
+<title>Idman HD </title>
+<link>
+sublink:http://meridelive02-lh.akamaihd.net/i/idmantv_1@319873/master.m3u8
+sublink:http://188.72.131.226/idman.m3u8
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SkyNet Sports</title>
+<link>
+sublink:rtmp://199.189.110.20/as99/chSport1hd
+sublink:http://216.185.103.158:1935/live2/chSport1hd/playlist.m3u8
+</link>
+<thumbnail</thumbnail>
+</item>
+
+<item>
+<title>SkyNet Sports 2 </title>
+<link>
+sublink:rtmp://216.185.103.158/live2//chSport2hd
+sublink:http://199.189.110.20:1935/as99/chSport2hd/playlist.m3u8
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Kaz Sport</title>
+<link>
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Turkmen Sport </title>
+<link>
+sublink:http://tv.online.tm/hls/ch004_md/index.m3u8
+sublink:rtmp://217.174.227.20/webtv/ch004_sd</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Dolce Sports 1 </title>
+<link>http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Dolce Sports 2 </title>
+<link>http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport2/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Dolce Sports 3 </title>
+<link>http://178.21.120.198:1935/live3/_definst_/mp4:dolcesport3/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CDN Sportsmax </title>
+<link>
+sublink:rtmp://108.168.206.90/cdnsm playpath=cdnsm swfUrl=http://cdn.com.do/wp-content/themes/cdn/js/player.swf live=1 timeout=13 pageUrl=http://cdn.com.do/</link>
+sublink:http://bit.ly/1TSw4Si
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Arenasport 1 </title>
+<link>
+sublink:http://188.247.133.26:8888/ipvt_010
+sublink:http://185.59.222.184/arena1/mpegts
+sublink:http://46.40.5.99:8000/arena_1_720
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Arenasport 2 </title>
+<link>
+sublink:http://188.247.133.26:8888/ipvt_011
+sublink:http://185.59.222.184/arena2/mpegts
+sublink:http://46.40.5.99:8000/arena_2_720
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Arenasport 3 </title>
+<link>
+sublink:http://188.247.133.18:8888/ipvt_005
+sublink:http://185.59.222.184/arena3/mpegts
+sublink:http://46.40.5.99:8000/arena_3_720</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Arenasport 4 </title>
+<link>http://188.247.133.18:8888/ipvt_006</link>
+<link>http://185.59.222.184/arena5/mpegts</link>
+<link>http://46.40.5.99:8000/arena_4_720</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>M4 Sport</title>
+<link>http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Star Sports 1 </title>
+<link>http://80.243.189.26:8889/sprtXStpp/starsport1/index.m3u8</link>
+<thumbnail>g</thumbnail>
+</item>
+
+<item>
+<title>Ten Sports </title>
+<link>http://80.243.189.26:8889/sprtXStpp/tensports/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<
+<item>
+<title>Premier Sports</title>
+<link>rtmp://31.220.2.149:80/live/ playpath=premier token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co</link>
+<link>rtmp://31.220.2.149:80/live playpath=premier swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=premier&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>British Eurosport </title>
+<link>http://80.243.189.26:8889/sprtXStpp/euro1/index.m3u8</link>
+<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8</link>
+<link>rtmp://31.220.2.149:80/live/ playpath=euro1 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>British Eurosport 2</title>
+<link>http://80.243.189.26:8889/sprtXStpp/euro2/index.m3u8</link>
+<link>http://www.satorbita.com/iptv/free/free7novosibirsk-1.php?v=aHR0cDovLzE3Ni41MS4xMDcuMTYyOjEyMzQvdWRwLzIyNS41NC4yMy4xMzE6NTAwMA==</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Motors TV UK</title>
+<link>rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=motors&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z timeout=10</link>
+<link>rtmp://31.220.2.149:80/live/ playpath=motors token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NFL Network</title>
+<link>http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8</link>
+<link>http://tinyurl.com/zzonf2h</link>
+<link>http://80.243.189.26:8889/sprtXStpp/nfl/index.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>ESPN U.S</title>
+<link>rtmp://31.220.2.149:80/live/ playpath=espnusa token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co</link>
+<link>rtmp://185.63.255.60:80/live playpath=espnusa swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=espnusa&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ESPN 2 America</title>
+<link>rtmp://31.220.2.149:80/live/ playpath=espn2usa token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://yotv.co</link>
+<link>http://foro:cable@24.139.177.135:9981/stream/channelid/254416826?ticket=7C6DAA5C9259DEC9D5692533D1714D3DE4316187&profile=pass</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>NBC Golf 1080 HD </title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=66.171.228.102</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NBC Golf 720 HD</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=66.171.228.102</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NBC Golf SD</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=66.171.228.102</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>Autosports TV</title>
+<link>mms://100automoto.tv/100livesport</link>
+<thumbnail></thumbnail>
+</item>
+
+
+item>
+<title>Sky Sport DE</title>
+<link>http://user.turkhdiptv.com:8000/live/ukturk/61515/11.ts</link>
+<thumbnail>g</thumbnail>
+</item>
+
+item>
+<title>Sky Sport 2 DE </title>
+<link>http://user.turkhdiptv.com:8000/live/ukturk/61515/15.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 11 </title>
+<link>http://www.t12v.com:8000/live/tlili/tlili/163.ts</link>
+<link>rtmp://live.iptv-planet.com:1936/live1/b11?user=5354&pass=88f1</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Bein Sport 12 </title>
+<link>http://www.t12v.com:8000/live/tlili/tlili/173.ts</link>
+<link>http://live01.pushpublish.tv/mylive/bein12/playlist.m3u8</link>
+<link>http://149.100.11.163:8080/udp/225.170.46.128:1234</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>Canal Plus Futbol </title>
+<link>rtmp://31.220.0.139/privatestream/futbolplus56 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
+<link>rtmp://31.220.0.139/privatestream playpath=futbolplus56?keys=4-DLFKU_ncLc9GqoxNxiUg&keyt=1448248367 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DigiSport 1 </title>
+<link>http://82.76.249.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DigiSport 2 </title>
+<link>rtmp://31.220.0.103/shqstream/ playpath=dfgdfefoo7f?keys=YslZPrELarmHByLn7Fu4Kw&keyt=1455726365 swfUrl=http://filo.hqstream.tv/jwp6/jwplayer.flash.swf live=1 pageUrl=http://hqstream.tv/player.php?streampage=dfgdfefoo7f&width=640&height=500</link>
+<link>http://82.76.249.81/digiedge/digisport2ehq/index.m3u8?is=2&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DigiSport 3</title>
+<link>http://82.76.249.81/digiedge/digisport3ehq/index.m3u8?is=3&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DigiSport 4</title>
+<link>http://82.76.249.81/digiedge/digisport4ehq/index.m3u8?is=49&src=digi-online.ro&t=00000000000000000000000000000000</link>
+<thumbnail></thumbnail>
 </item>
 
 
@@ -750,6 +427,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
 
+####################################3
 <item>
 <title>	Golf  1080</title>
 <link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
