@@ -209,3 +209,29 @@ rtmp://78.100.40.195:1935/ryn<playpath>ryn <swfUrl>http://www.elahmad.com/tv/swf
 <page>http://elsharq.web.tv/</page>
 </regex>
 </item>
+#############################www.caston.tv
+<item>
+<title>Bein sport 1 </title>
+<link>$doregex[finalurl]</link>
+<regex>
+        <name>finalurl</name>
+        <expres>(http.*)</expres>
+        <page>$doregex[url]$doregex[auth]</page>
+        <cookieJar></cookieJar>
+        <agent>iPhone</agent>
+</regex>
+<regex>
+        <name>url</name>
+        <expres>file:"(.*?)"</expres>
+        <page>$doregex[decrypted]</page>
+</regex>
+<regex>
+        <name>auth</name>
+        <expres>\["(.*?)"</expres>
+        <page>http://www.caston.tv/$doregex[authurl]</page>
+        <referer>http://www.caston.tv</referer>
+        <rawpost>token=$doregex[token]&amp;is_ajax=1</rawpost>
+        <x-req>XMLHttpRequest</x-req>
+        <agent>iPhone</agent>
+        <cookieJar>open[siteName.lwp]</cookieJar>
+</regex>
