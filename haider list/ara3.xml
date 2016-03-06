@@ -1145,18 +1145,22 @@
 </item>
 </streaminginfo>
 
-<streaminginfo>
-     <cname>Sharjah</cname>
-	 <item>
+
+
+<item>
 <title>Sharjah</title>
 <link>$doregex[url]</link>
 <regex>
 <name>url</name>
-<expres>file: "([^"]*)</expres>
+<expres>src.*(http.*m3u8.*)[',"]</expres>
 <page>http://www.giniko.com/watch.php?id=183</page>
+<referer>http://www.giniko.com/</referer>
+<cookieJar></cookieJar>
 </regex>
 </item>
-</streaminginfo>
+
+
+
 
 <streaminginfo>
     <cname>DW Arabic</cname>
@@ -1185,7 +1189,7 @@
 <streaminginfo><cname>Aghanina</cname><item><title>Aghanina</title><link>http://82.212.95.122:1935/live/aghanina.stream_360p/playlist.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>Libya Alrasmiya</cname><item><title>Libya Alrasmiya</title><link>http://82.212.95.122:1935/live/libyaalrasmya.stream_360p/playlist.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>Libya One</cname><item><title>Libya One</title><link>http://82.212.95.122:1935/live/Libya-One.stream_360p/playlist.m3u8</link></item></streaminginfo>
-<streaminginfo><cname>Libya 24</cname><item><title>576p</title><link>http://54.229.252.71:1935/live/myStream/shani.m3u8</link></item></streaminginfo>
+<streaminginfo><cname>Libya 24</cname><item><title>Libya 24</title><link>http://54.229.252.71:1935/live/myStream/shani.m3u8</link></item></streaminginfo>
 <streaminginfo><cname>Burhan</cname><item><title>Burhan</title><link>http://82.212.95.122:1935/live/burhan.stream_360p/playlist.m3u8</link></item></streaminginfo>
 
 
@@ -1210,6 +1214,20 @@
 </streaminginfo>
 
 
+<item>
+<title>Oman</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>src.*(http.*m3u8.*)[',"]</expres>
+<page>http://www.giniko.com/watch.php?id=184</page>
+<referer>http://www.giniko.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
 <streaminginfo>
      <cname>Jordan</cname>
 	 <item>
@@ -1223,6 +1241,22 @@
 <thumbnail>http://giniko.com/logos/190x110/186.jpg</thumbnail>
 </item>
 </streaminginfo>
+<item>
+<title>Jordan</title>
+<link>$doregex[url]</link>
+
+<regex>
+<name>url</name>
+<expres>src.*(http.*m3u8.*)[',"]</expres>
+<page>http://www.giniko.com/watch.php?id=186</page>
+<referer>http://www.giniko.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
 
 <streaminginfo>
         <cname>Aljazeera Doc</cname>
@@ -1394,7 +1428,18 @@
 </regex>
 </item>
 </streaminginfo>
-
+<item>
+<title>Tunisia AlJanoubiya TV</title>
+<link>$doregex[geturl]</link>
+<regex>
+    <name>geturl</name>
+    <expres>flashvars.src.*(http.*?)[',"]</expres>
+    <page>https://www.streaminghd.tn/embed/sHtrJxsG3JPU</page>
+	<referer>https://www.streaminghd.tn/</referer>
+    <cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_janoubiya_tv_tn.png</thumbnail>
+</item>
 
 <streaminginfo>
 
