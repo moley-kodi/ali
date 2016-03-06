@@ -500,6 +500,31 @@ http://kurd-live.com:1935/live/speda/playlist.m3u8
 http://de.live.net.sa:1935/live/alj/playlist.m3u8
 #EXTINF:-1, النهار الجزائرية
 http://live.ennahartv.net/endz/EnnaharTV/playlist.m3u8
+#######https://www.streaminghd.tn/live/First-TV##########
+
+#EXTINF:-1,Hannibal-TV
+https://cdn.streaminghd.tn/live/4iOz0B1t0dP7tWLGLhy6Lg/1457249533/hannibal/index.m3u8
+#EXTINF:-1,Janoubia
+https://cdn.streaminghd.tn/live/I5WPBqCctkmvxCHeojZTaQ/1457249758/janoubia/index.m3u8
+#EXTINF:-1,M Tunisia
+https://cdn.streaminghd.tn/live/EJ3thFgLohSF_vv5CLj2Lw/1457250895/mtunisia/index.m3u8
+#EXTINF:-1, First tv
+https://cdn.streaminghd.tn/live/UVa0DcqU-62-IlJStNarCw/1457250975/first/index.m3u8
+#EXTINF:-1,Jawhara tv
+https://cdn.streaminghd.tn/live/oNhCjPP-Q93NcZScZYR5Fw/1457251089/jawhara/index.m3u8
+
+#EXTINF:-1,Maghreb 24
+https://cdn.streaminghd.tn/live/F7_itqTzUevE8lV3dyilVg/1457251159/maghreb24/index.m3u8
+#EXTINF:-1,Tunisia
+https://cdn.streaminghd.tn/live/qfrww8YJIn545Dhvd2m6iw/1457251224/mtunisia/index.m3u8
+#EXTINF:-1,TNN
+https://cdn.streaminghd.tn/live/UUcWklRvBRuh2lzv-VoFEQ/1457251308/tnn/index.m3u8
+
+#EXTINF:-1,Watania 1
+https://cdn.streaminghd.tn/live/Riz5pJDZ9Za1OITgHz0zww/1457251359/nat1/index.m3u8
+#EXTINF:-1,Watania 2
+https://cdn.streaminghd.tn/live/LLLiAbWz7A7cvxDGAHunjQ/1457251401/nat2/index.m3u8
+
 
 
 #EXTINF:-1,Echorouk Tv
