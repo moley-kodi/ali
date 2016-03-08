@@ -50,7 +50,18 @@
 </regex>
 <thumbnail></thumbnail>
 </item>
-
+<item>
+  <title>AMC </title>
+  <link>$doregex[getM3U8]|User-Agent=VLC</link>
+  
+  <regex>
+    <name>getM3U8</name>
+    <expres>(http.*yc0tLEpCi40S6bI97nmAeQ.*m3u8.*?)</expres>
+    <page>http://cdn.gitcdn.link/cdn/banjaara/banjaara/52f6431391899134ef4fe50eab84a3f4627315b2/lists/kodi.txt</page>
+    <referer></referer>
+    <agent>VLC</agent>
+  </regex>
+</item>
 <item>
 <title>Fox Movie</title> 
 <link>$doregex[rtmp-code]</link>
