@@ -364,7 +364,7 @@ http://2.109.65.142/masa/14223.m3u8?v=1279345274
 #EXTINF:0,Time Aflam
 http://2.109.65.142/masa/14230.m3u8?v=117603230T
  
-#EXTINF:0,Cinema لاتعمل حاليا
+#EXTINF:0,Cinema 
 http://2.109.65.142/masa/14202.m3u8?v=117603230T
 #EXTINF:0,Melody aflam
 http://38.96.148.163/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1176032304
@@ -374,7 +374,7 @@ http://38.96.148.163//MelodyDrama/smil:drama.smil/chunklist_w659482942_b500000.m
 #EXTINF:-1,Melody Classic
 http://38.96.148.163/MelodyClassic/smil:classic.smil/chunklist_w63959344_b2400000.m3u8
 
-#EXTINF:0,Cima Ali baba Aflam لاتعمل حاليا
+#EXTINF:0,Cima Ali baba Aflam 
 http://2.109.65.247/masa/24706.m3u8
 #EXTINF:0,Time comedy
 http://2.109.65.142/masa/14201.m3u8?v=117603230T
