@@ -37,7 +37,7 @@ http://167.114.102.27/live/5_xNXBEp1ziZMnwBb547Cg/1457589919/7c52ed5b8820b7dfd90
 #EXTINF:0 tvg-name="Comedy Central" tvg-language="English" tvg-country="US" tvg-id="Comedy Central" tvg-logo="http://1.bp.blogspot.com/-DQR0qRIc8-s/UHHBSxA20-I/AAAAAAAAAB0/9aHsa8A6xn8/s72-c/Logo_ComedyCentral_001.gif" group-title="Top10",Comedy Central 
 http://167.114.102.27/live/A0Sj_vHFvOOR7flIE4BF2A/1457589923/fa894851552e99b1cc146264a8ffaf4b.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36 
 
-EXTINF:0 tvg-name="A&E" tvg-language="English" tvg-country="US" tvg-id="A&E" tvg-logo="http://canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg" group-title="Top10",A&E 
+#EXTINF:0 tvg-name="A&E" tvg-language="English" tvg-country="US" tvg-id="A&E" tvg-logo="http://canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg" group-title="Top10",A&E 
 http://167.114.102.27/live/Z2wvdK2WdzxNaAox-bJbhA/1457589917/bb38d9048b7b91706264169a031f32a4.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36 
 
 
@@ -51,20 +51,7 @@ http://167.114.102.27/live/Z2wvdK2WdzxNaAox-bJbhA/1457589917/bb38d9048b7b9170626
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-EXTINF:-1, 24 Action Movies 
+#EXTINF:-1, 24 Action Movies 
 http://127.0.0.1:9000/veetle/aHR0cDovLzM4LjY4LjEzMS4xODM6ODAvZmx2LzU2YWI3NTQ1OTViY2YvdGVzdGF0MTIz
 
 
@@ -113,6 +100,10 @@ http://app.pakistanvision.tv:1935/live/8090/player.m3u8
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1,Animal Plant 
 http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-name="Discovery Channel" tvg-language="English" tvg-country="US" tvg-id="Discovery Channel" tvg-logo="http://images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg" group-title="Top10",Discovery Channel 
+http://167.114.102.27/live/U_eg99_HpuWdIMq8-1HZ6w/1457589926/a490ae75a3ec2acf16c9f592e889eb4c.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36 
+#EXTINF:0 tvg-name="History" tvg-language="English" tvg-country="US" tvg-id="History" tvg-logo="http://2.bp.blogspot.com/-QSfFAp_jqP0/T3DH2aXPHUI/AAAAAAAABdg/5a9_qDD92AQ/s1600/h5.png" group-title="Top10",History 
+http://167.114.102.27/live/Vuf3izZbhCFNNr3E14u2Ow/1457590013/d4a4950b7b7267417aa0b9733f30b6fe.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36 #EXTINF:0 tvg-name="National Geographic Channel" tvg-language="English" tvg-country="US" tvg-id="National Geographic Channel" tvg-logo="http://www.seat42f.com/wp-content/uploads/2013/02/NatGeo-Channel-Logo.jpg" group-title="Top10",National Geographic Channel (Top10) (US) (English) http://167.114.102.27/live/nbO4OThbXpigprhEdoFeew/1457590018/e08dd4627a3cf468a30d8a357956d6f8.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36 
 
 #EXTINF:-1,Discoveries
 http://162.212.176.83:8080/mystream1.m3u8
