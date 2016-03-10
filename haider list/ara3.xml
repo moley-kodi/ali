@@ -431,7 +431,7 @@
 <streaminginfo>
 	<cname>First TV</cname>
 	<item>
-	<title>Med</title>
+	<title>First TV</title>
 	<link>$doregex[geturl]</link>
 	<regex>
     <name>geturl</name>
@@ -444,7 +444,7 @@
 <streaminginfo>
 	<cname>Hanibal</cname>
 	<item>
-	<title>Med</title>
+	<title>Hanibal</title>
 	<link>$doregex[geturl]</link>
 	<regex>
     <name>geturl</name>
@@ -457,7 +457,7 @@
 <streaminginfo>
 	<cname>Al Janoubiya</cname>
 	<item>
-	<title>Med</title>
+	<title>Al Janoubiya</title>
 	<link>$doregex[geturl]</link>
 	<regex>
     <name>geturl</name>
@@ -470,7 +470,7 @@
 <streaminginfo>
 	<cname>Maghreb24</cname>
 	<item>
-	<title>Med</title>
+	<title>Maghreb24</title>
 	<link>$doregex[geturl]</link>
 	<regex>
     <name>geturl</name>
@@ -483,7 +483,7 @@
 <streaminginfo>
 	<cname>TNN</cname>
 	<item>
-	<title>Med</title>
+	<title>TNN</title>
 	<link>$doregex[geturl]</link>
 	<regex>
     <name>geturl</name>
@@ -496,7 +496,7 @@
 <streaminginfo>
 	<cname>Tounesna</cname>
 	<item>
-	<title>Med</title>
+	<title>Tounesna</title>
 	<link>$doregex[geturl]</link>
 	<regex>
     <name>geturl</name>
@@ -509,7 +509,7 @@
 <streaminginfo>
 	<cname>Tunisia national 1</cname>
 	<item>
-	<title>Med</title>
+	<title>Tunisia national 1</title>
 	<link>$doregex[geturl]</link>
 	<regex>
     <name>geturl</name>
@@ -522,7 +522,7 @@
 <streaminginfo>
 	<cname>Tunisia national 2</cname>
 	<item>
-	<title>Med</title>
+	<title>Tunisia national 2</title>
 	<link>$doregex[geturl]</link>
 	<regex>
     <name>geturl</name>
@@ -535,7 +535,7 @@
 <streaminginfo>
 	<cname>M Tunisia</cname>
 	<item>
-	<title>Med</title>
+	<title>M Tunisia</title>
 	<link>$doregex[geturl]</link>
 	<regex>
     <name>geturl</name>
@@ -548,7 +548,7 @@
 <streaminginfo>
 	<cname>France 24 FR</cname>
 	<item>
-	<title>Med</title>
+	<title>France 24</title>
 	<link>$doregex[geturl]</link>
 	<regex>
     <name>geturl</name>
@@ -561,7 +561,7 @@
 <streaminginfo>
 	<cname>France 24</cname>
 	<item>
-	<title>Med</title>
+	<title>France 24 Arabic</title>
 	<link>$doregex[geturl]</link>
 	<regex>
     <name>geturl</name>
@@ -575,7 +575,7 @@
 <streaminginfo>
 	<cname>Alinsen</cname>
 	<item>
-	<title>Med</title>
+	<title>Alinsen</title>
 	<link>$doregex[geturl]</link>
 	<regex>
     <name>geturl</name>
