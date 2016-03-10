@@ -31,7 +31,8 @@ http://tv02.thaizatv.com:1935/drm/ft.stream/playlist.m3u8
 ##############################
 
 
-
+#EXTINF:0 tvg-name="AMC" tvg-language="English" tvg-country="US" tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/150px-Amc_logo.svg.png" group-title="Top10",AMC  
+http://167.114.102.27/live/5_xNXBEp1ziZMnwBb547Cg/1457589919/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36 
 
 
 
