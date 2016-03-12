@@ -329,3 +329,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 </item>
+
+
+<item><title>COBRA</title><link>Test</link><externallink>http://iptv333.mine.nu:8000/get.php?username=COBRA&amp;password=COBRA&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
