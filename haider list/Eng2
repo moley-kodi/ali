@@ -330,25 +330,83 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 </item>
 
+############
 
 <item>
-<title>Private (make sure Private.xml exists in addon_data\plugin.video.live.streamspro\LivewebTV</title>
-<link>http://Ignoreme</link>
-<externallink>Private.xml</externallink>
+<title>Sponge Bob</title>
+<link>plugin://plugin.video.veetle/?channel=50686cb1bbaa9</link>
+<thumbnail>http://www.cityflavourmagazine.com/wp-content/uploads/2015/01/SPONGEBOB.jpg</thumbnail>
+</item> 
+
+
+<item>
+<title>Disney XD</title>
+<link>$doregex[getIlive]</link>
+<regex>
+<name>getIlive</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('https://www.streamlive.to/view/69893',False,False)</expres>
+<page></page>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/disney_xd_us.png</thumbnail>
 </item>
-<item><title>COBRA</title><link>Test</link><externallink>http://iptv333.mine.nu:8000/get.php?username=COBRA&amp;password=COBRA&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
-<item><title>John</title><link>Test</link><externallink>http://www.t12v.com:8000/get.php?username=john&amp;password=john&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
-<item><title>redbled</title><link>Test</link><externallink>http://redbled.no-ip.org:8000/get.php?username=ZUkiSACZ&amp;password=BVSE1SPr&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
-<item><title>Yahya2</title><link>Test</link><externallink>http://srvs.topiptv.org:8000/get.php?username=Yahya2&amp;password=Yahya2&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
-<item><title>ndasat</title><link>Test</link><externallink>http://iptv.ndasat.com:88/get.php?username=24327&amp;password=24327&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
 
-<item><title>Hassan2</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=Hassan2amp;password=Hassan2amp;type=m3uamp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
-<item><title>ismail</title><link>Test</link><externallink>http://iptvbox.noip.us:9998/get.php?username=ismailamp;password=ismailamp;type=m3uamp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
-<item><title>News</title><link>Test</link><externallink>http://178.33.231.219:88/get.php?username=newamp;password=newamp;type=m3uamp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item>
+<title>Boomerang</title>
+<link>$doregex[getIlive]</link>
+<regex>
+<name>getIlive</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('https://www.streamlive.to/view/65510',False,False)</expres>
+<page></page>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png</thumbnail>
+</item>
 
-<item><title>moumen</title><link>Test</link><externallink>http://iptv-supplier.com:8000/get.php?username=moumen&amp;password=moumen&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
-<item><title>22992</title><link>http://Ignoreme</link><externallink>http://178.33.231.219:88/get.php?username=22492&amp;password=22492&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
 
-<item><title>Caloge</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=calogero&amp;password=calogero&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
-<item><title>Gio<</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=gioacchino&amp;password=gioacchino&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item>
+<title>Tom and Jerry</title>
+<link>rtmp://208.53.133.178/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html live=true timeout=15</link>
+<thumbnail>http://www.cityflavourmagazine.com/wp-content/uploads/2015/02/tomjerry.jpg</thumbnail>
+</item>
 
+<item>
+<title>Nat Geo Wild</title>
+<link>rtmp://109.200.202.124/live playpath=animal swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com live=1 timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_us.png</thumbnail>
+</item>
+
+<item>
+<title>Animal Planet</title>
+<link>http://sjc-uhls-proxy04.ustream.tv/watch/playlist.m3u8?cid=12762028</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us.png</thumbnail>
+</item>
+
+</channel>  
+
+<channel>
+<name>[COLOR=FF00ff45]Naija Churches Live[/COLOR]</name>
+<thumbnail>http://www.cityflavourmagazine.com/wp-content/uploads/2015/02/naijachurch.jpg</thumbnail>
+<fanart>http://www.cityflavourmagazine.com/wp-content/uploads/2015/02/naijachurch.jpg</fanart>
+
+<item>
+<title>MFM TV</title>
+<link>http://wpc.AEA6.edgecastcdn.net/hls-live/20AEA6/mfm/mfm/mfm,250,500,.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mfm_tv_ng.png</thumbnail>
+</item>
+
+<item>
+<title>MFM LIVE</title>
+<link>http://wpc.AEA6.edgecastcdn.net/hls-live/20AEA6/mfmlive/mfmlive/mfmlive,150,250,500,.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mfm_tv_ng.png</thumbnail>
+</item>
+
+<item>
+<title>Winners Chapel Uk</title>
+<link>http://78.129.234.50:1935/live/winnerschapel/playlist.m3u8?DVR</link>
+<thumbnail>http://i61.tinypic.com/29cxgk4.jpg</thumbnail>
+</item> 
+
+<item>
+<title>Winners Chapel NG</title>
+<link>rtmp://54.69.149.190:1935/live playpath=myStream swfUrl=http://www.davidoyedepoministries.org/wp-content/themes/domi-revamp/libs/flowplayer/flowplayer.rtmp-3.2.13.swf pageUrl=http://www.davidoyedepoministries.org live=true timeout=15</link>
+<thumbnail>http://i59.tinypic.com/opa0cx.jpg</thumbnail>
+</item> 
