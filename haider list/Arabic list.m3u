@@ -9,8 +9,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR red] --  تم اضافة قنوات جديدة MBC تجدوها في Haider list 2الرجاء مشاهدتها الكثير من القنوات  --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
-#EXTINF:-1,MBC 3
-http://50.7.69.138:9080/hls/mbc3.m3u8|User-Agent=iPad
+
 
 #EXTINF:-1,MBC 1 
 http://bit.ly/jafaer-mbc
@@ -627,14 +626,21 @@ http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 
 #EXTINF:-1,[COLOR red]****************قنوات أطفال KIDS ****************[/COLOR]
 
-#EXTINF:-1 group-title=”ARABIC”,قناة أجيال 
-http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel05/_definst_/live/stream1.m3u8
 #EXTINF:-1, Al Jazeera Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8?b?b*t$
 #EXTINF:-1,semsem
 http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
-#EXTINF:-1, براعم  لاتعمل حاليا
-http://78.100.40.195:1935/brm/brm/chunklist.m3u8?wowzasessionid=2061182377
+
+#EXTINF:-1,mbc3
+http://www.arabic-toons.com/apple/sdc0dd155plok/mbc3.m3u8
+
+#EXTINF:-1,spacetoon
+http://www.arabic-toons.com/apple/sdc0dd155plok/spacetoon.m3u8
+#EXTINF:-1,Ajial
+http://www.arabic-toons.com/apple/sdc0dd155plok/ajial.m3u8
+#EXTINF:-1,mody kids
+http://www.arabic-toons.com/apple/sdc0dd155plok/modykids.m3u8
+
 
 
 #EXTINF:-1, كارتون نت ورك TV
@@ -643,19 +649,7 @@ http://54.255.155.24:1935/Live/_definst_/sweetbcha1novD28_W_250.sdp/chunklist.m3
 
 #EXTINF:-1,Smile Of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
-#EXTINF:-1,Cartoon Network/TCM
-http://91.204.214.106:23351/stolen/udp/238.0.0.27:1234
-#EXTINF:-1,Disney
-http://91.204.214.106:23141/stolen/085r/imposter.rar
-#EXTINF:-1,Disney +2
-http://91.204.214.106:23371/stolen/011/duqu
-#EXTINF:-1,Disney +7
-http://91.204.214.106:23361/stolen/udp/238.0.17.89:1234
-#EXTINF:-1,Disney jr
-http://91.204.214.106:23331/stolen/479v/generic.lzma
-#EXTINF:-1,Gem_Junior
-rtmp://63.237.48.23:1935/live playpath=GEM_JUNIOR swfUrl=http://oklivetv.com/xplay/swf/GrindPlayer.swf live=1 pageUrl=http://oklivetv.com/xplay/xplay.php?idds=4f545131
-#####
+
 
 ######
 
