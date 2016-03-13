@@ -331,4 +331,24 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<item>
+<title>Private (make sure Private.xml exists in addon_data\plugin.video.live.streamspro\LivewebTV</title>
+<link>http://Ignoreme</link>
+<externallink>Private.xml</externallink>
+</item>
 <item><title>COBRA</title><link>Test</link><externallink>http://iptv333.mine.nu:8000/get.php?username=COBRA&amp;password=COBRA&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>John</title><link>Test</link><externallink>http://www.t12v.com:8000/get.php?username=john&amp;password=john&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>redbled</title><link>Test</link><externallink>http://redbled.no-ip.org:8000/get.php?username=ZUkiSACZ&amp;password=BVSE1SPr&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>Yahya2</title><link>Test</link><externallink>http://srvs.topiptv.org:8000/get.php?username=Yahya2&amp;password=Yahya2&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>ndasat</title><link>Test</link><externallink>http://iptv.ndasat.com:88/get.php?username=24327&amp;password=24327&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+
+<item><title>Hassan2</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=Hassan2amp;password=Hassan2amp;type=m3uamp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>ismail</title><link>Test</link><externallink>http://iptvbox.noip.us:9998/get.php?username=ismailamp;password=ismailamp;type=m3uamp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>News</title><link>Test</link><externallink>http://178.33.231.219:88/get.php?username=newamp;password=newamp;type=m3uamp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+
+<item><title>moumen</title><link>Test</link><externallink>http://iptv-supplier.com:8000/get.php?username=moumen&amp;password=moumen&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>22992</title><link>http://Ignoreme</link><externallink>http://178.33.231.219:88/get.php?username=22492&amp;password=22492&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+
+<item><title>Caloge</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=calogero&amp;password=calogero&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+<item><title>Gio<</title><link>Test</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=gioacchino&amp;password=gioacchino&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink></item>
+
