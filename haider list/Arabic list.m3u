@@ -504,26 +504,24 @@ http://live.ennahartv.net/endz/EnnaharTV/playlist.m3u8
 
 #EXTINF:-1,Hannibal-TV
 https://cdn.streaminghd.tn/live/4iOz0B1t0dP7tWLGLhy6Lg/1457249533/hannibal/index.m3u8
-#EXTINF:-1,Janoubia
-https://cdn.streaminghd.tn/live/I5WPBqCctkmvxCHeojZTaQ/1457249758/janoubia/index.m3u8
-#EXTINF:-1,M Tunisia
-https://cdn.streaminghd.tn/live/EJ3thFgLohSF_vv5CLj2Lw/1457250895/mtunisia/index.m3u8
-#EXTINF:-1, First tv
+#EXTINF:-1 tvg-logo="https://www.streaminghd.tn/img/tv/janoubia.png",Janoubia
+https://cdn.streaminghd.tn/live/jZQ6Cy5Z2w8sBeUw62pYaQ/1457895498/janoubia/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.streaminghd.tn/img/tv/mtunisia.png",M Tunisia
+https://cdn.streaminghd.tn/live/dwR_CADcbAllQodMdagBjQ/1457896910/mtunisia/index.m3u8
+#EXTINF:-1 tvg-logo="", First tv
 https://cdn.streaminghd.tn/live/UVa0DcqU-62-IlJStNarCw/1457250975/first/index.m3u8
-#EXTINF:-1,Jawhara tv
-https://cdn.streaminghd.tn/live/oNhCjPP-Q93NcZScZYR5Fw/1457251089/jawhara/index.m3u8
-
-#EXTINF:-1,Maghreb 24
-https://cdn.streaminghd.tn/live/F7_itqTzUevE8lV3dyilVg/1457251159/maghreb24/index.m3u8
-#EXTINF:-1,Tunisia
-https://cdn.streaminghd.tn/live/qfrww8YJIn545Dhvd2m6iw/1457251224/mtunisia/index.m3u8
-#EXTINF:-1,TNN
-https://cdn.streaminghd.tn/live/UUcWklRvBRuh2lzv-VoFEQ/1457251308/tnn/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.streaminghd.tn/img/tv/jawhara.png",Jawhara tv
+https://cdn.streaminghd.tn/live/vLbgp2vlu67I-vlPr2gAvA/1457896738/jawhara/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.streaminghd.tn/img/tv/maghreb24.png",Maghreb 24
+https://cdn.streaminghd.tn/live/bcRldBKGmgO4KmEUCctJrw/1457896843/maghreb24/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.streaminghd.tn/img/tv/tunisna.png",Tunisia
+https://cdn.streaminghd.tn/live/B_weIihBhMW53k1H57nt9Q/1457897523/tounesna/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.streaminghd.tn/img/tv/tnn.png",TNN
+https://cdn.streaminghd.tn/live/tMVuTBbPDL2_8opCq4hXNQ/1457897310/tnn/index.m3u8
 #EXTINF:-1,Watania 1
-https://cdn.streaminghd.tn/live/Riz5pJDZ9Za1OITgHz0zww/1457251359/nat1/index.m3u8
+https://cdn.streaminghd.tn/live/5IFDgVYIV1lcCUjae0Ryig/1457898248/nat1/index.m3u8
 #EXTINF:-1,Watania 2
-https://cdn.streaminghd.tn/live/LLLiAbWz7A7cvxDGAHunjQ/1457251401/nat2/index.m3u8
+https://cdn.streaminghd.tn/live/fCFl_D-RucJ33O9t4BbloA/1457898338/nat2/index.m3u8
 
 
 
