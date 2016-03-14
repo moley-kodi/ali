@@ -9,14 +9,14 @@ http://</link>
 </item>
 
 <item>
-<title>[COLOR green]Live Sports[/COLOR][COLOR red] All Sports From sportDevil[/COLOR]</title>
+<title>[COLOR green]Live Sports</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</jsonrpc>
  <thumbnail>http://gvt.net/sites/default/files/HD-Sports-2.0-Logo-450.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR gold][B]LIVE Sports HD/SD UPDATE EVERDAY[/B][/COLOR]</title>
+<title>[COLOR gold][B]LIVE Sports list 2[/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.eu.cfg&amp;mode=1</jsonrpc>
 <thumbnail>http://ww1.prweb.com/prfiles/2013/06/09/11806053/gI_127433_OWS_logo_white_green_beyond_boundaries.png</thumbnail>
@@ -43,7 +43,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
 <item>
-<title>[COLOR blue]Bundesliga-Streams.net Live Streams[/COLOR]</title>
+<title>[COLOR blue]Bundesliga Live Streams[/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/bundesliga-streams.net.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
