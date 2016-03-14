@@ -1,22 +1,10 @@
 
+
+
+
 	
 <item>
-<title>Sindbad Makelist Episodes</title>
-<link>$doregex[makelist]| swfUrl=http://www.arabic-toons.com/flowplayer-3.2.7.swf live=1 pageUrl=http://www.arabic-toons.com/Sindbad-200-anime-streaming.html</link>
-  
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>Sindbad - [makelist.param3]</title>
-<link>[makelist.param1]</link>
-<referer></referer>
-<thumbnail>http://www.arabic-toons.com/[makelist.param2]</thumbnail>
-]]></listrepeat>
-<expres>href="(.*?)" class=".*?"&gt;&lt;img src="(.*?)" align=".*?"&gt;(.*?)&lt;</expres>
-<page>http://www.arabic-toons.com/Sindbad-200-anime-streaming.html</page>
-<agent>Mozilla/5.0 (X11 Linux i686 rv:44.0) Gecko/20100101 Firefox/44.0 Iceweasel/44.0</agent>
-<thumbnail>http://www.arabic-toons.com/thumbnails/200.jpg</thumbnail>
-<cookieJar></cookieJar>
-</regex>
+<title>كارتون سندباد البحري</title>
+<link>https://raw.githubusercontent.com/hai82der/ali/haider/haider%20list/kids/Arabiccartoons/Sndabad.txt</link>
 </item>	
 	
