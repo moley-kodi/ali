@@ -5,7 +5,7 @@
   
 <poster>Sindabad</poster>
 <fanart>http://thetvdb.com/banners/fanart/original/257655-2.jpg</fanart>  
-<directories>  
+ 
 <item>
 <title>الحلقة 1</title>
 <link>$doregex[makelist]| swfUrl=http://www.arabic-toons.com/flowplayer-3.2.7.swf live=1 pageUrl=http://www.arabic-toons.com/Sindbad-200-anime-streaming.html</link>
@@ -51,6 +51,5 @@
 
 
 
-</directories>
 
 </items>
