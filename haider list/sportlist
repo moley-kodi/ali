@@ -160,7 +160,21 @@ rtmp://182.92.189.193/live/ playpath=h_auto_1 swfUrl=http://www.hupo.tv/jwplayer
 
 #EXTINF:0, Rai Sport 1
 mmsh://212.162.68.163:80/raisport+
+#EXTINF:-1,Rai 1
+http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/master.m3u8
+ 
+#EXTINF:-1,Rai 2
+http://b2everyrai-lh.akamaihd.net/i/rai2_1@66477/master.m3u8
 
+#EXTINF:-1,Rai 3
+http://b2everyrai-lh.akamaihd.net/i/rai3_1@91501/master.m3u8
+ 
+#EXTINF:-1,Rai 4
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
+ 
+ 
+#EXTINF:-1,Rai 5
+http://b2.stream12.rai.it/live/rai5.smil/playlist.m3u8
 
 #EXTINF:-1,USA-BASKET UNI.(Arizona)
 http://xrxs.net/video/live-p12ariz-1164.m3u8
