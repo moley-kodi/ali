@@ -353,3 +353,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <referer>http://nowwatchtvlive.me/</referer>
 </regex>
 </item>
+
+
+<title>AMC test</title>
+<sportsdevil>http://www.stream2watch.co/streams/35961/1</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
