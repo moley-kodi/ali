@@ -9,6 +9,13 @@ http://</link>
 </item>
 
 <item>
+<title>[COLOR gold][B]قنوات بين سبورت اضغط هنا[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsList.txt&mode=5</jsonrpc>
+<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%2011%20HD.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR green]Live Sports</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</jsonrpc>
