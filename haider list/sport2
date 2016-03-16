@@ -9,9 +9,9 @@ http://</link>
 </item>
 
 <item>
-<title>[COLOR red][B]BeiN Sports test[/B][/COLOR]</title>
+<title>[COLOR red][B]Sports test[/B][/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/?item=url=uktvplayer.cfg&amp;mode=1</jsonrpc>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?item=url=Sports/UKTVNow.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
 </item>
 
