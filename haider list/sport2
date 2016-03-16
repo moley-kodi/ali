@@ -9,14 +9,14 @@ http://</link>
 </item>
 
 <item>
-<title>[COLOR gold][B]قنوات بين سبورت اضغط هنا[/B][/COLOR]</title>
+<title>[COLOR red][B]BeiN Sports test[/B][/COLOR]</title>
 <link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsList.txt&mode=5</jsonrpc>
-<thumbnail>http://metalkettle.co/logos/logos1/BeIN%20Sports%2011%20HD.png</thumbnail>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?item=url=uktvplayer.cfg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR green]Live Sports</title>
+<title>[COLOR green]Live Sports [/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</jsonrpc>
  <thumbnail>http://gvt.net/sites/default/files/HD-Sports-2.0-Logo-450.png</thumbnail>
@@ -141,6 +141,7 @@ sublink:http://80.243.189.26:8889/pakindiatv/FoxSport2/index.m3u8#
 <item>
 <title>Bein Sport 1  </title>
 <link>
+sublink: http://iptv.am000.tv:8000/live/tornado5/tornado5/293.m3u8#
 sublink:rtmp://85.132.67.123:1935/live/be01#
 sublink:http://80.243.189.26:8889/bein/sports1/index.m3u8#
 </link>
