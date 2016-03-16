@@ -332,8 +332,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 ############
 <item>
-<title> AMC | nowwatchtvlive.me </title>
-<link>$doregex[rtmp] playpath=$doregex[file] pageUrl=$doregex[page] swfUrl=http://p.castamp.com/cplayer.swf live=1</link>
+<title> nowwatchtvlive.me </title>
+<link>$doregex[rtmp] playpath=$doregex[file] pageUrl=$doregex[page] swfUrl=http://www.stream2watch.co/streams/35961/1</link>
 <regex>
 <name>rtmp</name>
 <expres>...</expres>
