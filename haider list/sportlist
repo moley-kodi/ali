@@ -244,4 +244,5 @@ http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="nbc golf 1080p" tvg-name="nbc_golf_1080p" group-title="Sport - ספורט" tvg-logo="1b7cee446040b1c7f9775bec876c641a.png",nbc golf 1080p
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
-
+#EXTINF:-1,arena 1 sport
+rtmp://195.154.199.178:80/liverepeater playpath=142306 swfUrl=http://cdn.deltatv.xyz/players.swf pageUrl=http://deltatv.xyz/stream.php?id=142306&width=640&height=360 <objectEncoding>
