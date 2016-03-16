@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
+<item>
+<title>AMC test</title>
+<sportsdevil>http://www.stream2watch.co/streams/35961/1</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+<item>
+<title>A&E</title>
+<sportsdevil>http://www.stream2watch.co/streams/29568/1</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
 
+
+
+<item>
+<title>ABC</title>
+<sportsdevil>http://www.stream2watch.co/streams/13285/1</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+
+<item>
+<title>ABC FAMILY</title>
+<sportsdevil>http://www.stream2watch.co/streams/35913/1</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
 
 <item>
 <title>HBO 2</title> 
@@ -354,29 +379,4 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 </item>
 
-<item>
-<title>AMC test</title>
-<sportsdevil>http://www.stream2watch.co/streams/35961/1</sportsdevil>
-<referer>http://showsport-tv.com/</referer>
-</item>
-<item>
-<title>A&E</title>
-<sportsdevil>http://www.stream2watch.co/streams/29568/1</sportsdevil>
-<referer>http://showsport-tv.com/</referer>
-</item>
 
-
-
-<item>
-<title>ABC</title>
-<sportsdevil>http://www.stream2watch.co/streams/13285/1</sportsdevil>
-<referer>http://showsport-tv.com/</referer>
-</item>
-
-
-
-<item>
-<title>ABC FAMILY</title>
-<sportsdevil>http://www.stream2watch.co/streams/35913/1</sportsdevil>
-<referer>http://showsport-tv.com/</referer>
-</item>
