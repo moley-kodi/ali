@@ -394,7 +394,18 @@ sublink:rtmp://31.220.0.139/privatestream playpath=futbolplus56?keys=4-DLFKU_ncL
 <thumbnail></thumbnail>
 </item>
 
-
+<item>
+  <title>At the Races Stream</title>
+  <link>$doregex[getSTREAM]|User-Agent=iPhone</link>
+  
+  <regex>
+    <name>getSTREAM</name>
+    <expres>file:.*(http.*?)[",']</expres>
+    <page>http://lqgq.biggestplayer.me/streamcr.php?id=197884&width=620&height=460</page>
+    <referer>http://theactionlive.com/livegamecrnope.php?id=ch21d&width=640&height=460&stretching=</referer>
+	<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+  </regex>
+</item>
 
 ####################################3
 <item>
