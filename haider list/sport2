@@ -739,9 +739,9 @@ http://178.18.30.113:8081/liverepeater/229933/playlist.m3u8?wmsAuthSign=$doregex
 <link>rtmp://195.154.199.178:80/liverepeater playpath=142308 swfUrl=http://cdn.deltatv.xyz/players.swf live=1 pageUrl=http://deltatv.xyz/stream.php?id=142308&width=640&height=460 token=Fo5_n0w?U.rA6l3-70w47ch</link>
 </item>
 
-
+##################http://cricfree.tv/###############33
 <item>
-  <title>sky1 test</title>
+  <title>sky1 </title>
   <link>$doregex[getSTREAM]|User-Agent=iPhone</link>
   
   <regex>
@@ -752,10 +752,93 @@ http://178.18.30.113:8081/liverepeater/229933/playlist.m3u8?wmsAuthSign=$doregex
 	<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
   </regex>
 </item>
+
+
+<item>
+  <title>sky 2 </title>
+  <link>$doregex[getSTREAM]|User-Agent=iPhone</link>
+  
+  <regex>
+    <name>getSTREAM</name>
+    <expres>file:.*(http.*?)[",']</expres>
+    <page>http://lqgq.biggestplayer.me/streamcr.php?id=197884&width=620&height=460</page>
+    <referer>http://theactionlive.com/livegamecrnope.php?id=ss2zx&width=640&height=460&stretching=</referer>
+	<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+  </regex>
+</item>
+
+<item>
+  <title>sky 3 </title>
+  <link>$doregex[getSTREAM]|User-Agent=iPhone</link>
+  
+  <regex>
+    <name>getSTREAM</name>
+    <expres>file:.*(http.*?)[",']</expres>
+    <page>http://lqgq.biggestplayer.me/streamcr.php?id=197884&width=620&height=460</page>
+    <referer>http://theactionlive.com/livegamecrnope.php?id=sk3&width=640&height=460&stretching=</referer>
+	<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+  </regex>
+</item>
+
+<item>
+  <title>sky 4 </title>
+  <link>$doregex[getSTREAM]|User-Agent=iPhone</link>
+  
+  <regex>
+    <name>getSTREAM</name>
+    <expres>file:.*(http.*?)[",']</expres>
+    <page>http://lqgq.biggestplayer.me/streamcr.php?id=197884&width=620&height=460</page>
+    <referer>http://theactionlive.com/livegamecrnope.php?id=sky4n&width=640&height=460&stretching=</referer>
+	<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+  </regex>
+</item>
 ###################################################################
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+################test aera 
 
 item>
 <title> 40 </title>
@@ -819,34 +902,9 @@ item>
 
 
 
-<item>
-<title>AMC test</title>
-<sportsdevil>http://www.stream2watch.co/streams/35961/1</sportsdevil>
-<referer>http://showsport-tv.com/</referer>
-</item>
-<item>
-<title>A&E</title>
-<sportsdevil>http://www.stream2watch.co/streams/29568/1</sportsdevil>
-<referer>http://showsport-tv.com/</referer>
-</item>
 
-
-
-<item>
-<title>ABC</title>
-<sportsdevil>http://www.stream2watch.co/streams/13285/1</sportsdevil>
-<referer>http://showsport-tv.com/</referer>
-</item>
-
-
-
-<item>
-<title>ABC FAMILY</title>
-<sportsdevil>http://www.stream2watch.co/streams/35913/1</sportsdevil>
-<referer>http://showsport-tv.com/</referer>
-</item>
 #########################33
-<item>
+item>
 <title>Bein sport 2 </title>
 <link>$doregex[finalurl]</link>
 <regex>
