@@ -418,7 +418,17 @@ http://178.18.30.113:8081/liverepeater/229933/playlist.m3u8?wmsAuthSign=$doregex
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA40YZ9MEH9pQmZnKExQq7I3wq0qgHd2YP4tcC_EXwVXgaVWmi</thumbnail>
 </item>
 
-
+<item>
+<title>Premier sports</title>
+<link>$doregex[get_sxstream]|User-Agent=iPhone</link>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/premiersports.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+</item>
 
 
 
