@@ -275,7 +275,26 @@ def GetLSProData(page_data,Cookie_Jar,m,url='$doregex[select_Url]'):
 </item>
 </streaminginfo>
 
+<item>
+<title>MTV</title>
+<link>$doregex[getRtmp] playpath=$doregex[getPath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf live=1 pageUrl=http://embed.iptv-planet.com/embed.php?id=mtv&width=600&height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
 
+<regex>
+<name>getRtmp</name>
+<expres>streamer="(.*?)";</expres>
+<referer>http://iptv-planet.com/mtv.html</referer>
+<page>http://embed.iptv-planet.com/embed.php?id=mtv&width=600&height=400</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+
+<regex>
+<name>getPath</name>
+<expres>'file'.*?[",'](.*?)[",']</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=mtv&width=600&height=400</page>
+<referer>http://iptv-planet.com/mtv.html</referer>
+<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+</item>
 
 <item>
 <title>24/7 Simpsons</title>
