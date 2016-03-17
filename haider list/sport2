@@ -16,11 +16,24 @@ http://</link>
 
 
 <item>
-<title>[COLOR red][B]test[/B][/COLOR]</title>
+<title>[COLOR red][B]Zemtv بعد الضغط اذهب الى سبورت ومن ثما الى يوكي تيفي [/B][/COLOR]</title>
 <link>ignorme</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/Sports/UKTVNow?item=url=Sports/UKTVNow.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
 </item>
+
+
+
+
+
+<item>
+<title>[COLOR green]test 1 [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.NJMSoccer/?url=plugin%3A%2F%2Fplugin.video.SportsDevil%2F%3Fmode%3D1%26amp%3Bitem%3Dcatcher%253dstreams%2526url%3Dhttp%3A%2F%2Fportaltv.ro%2F%3Fdigi-sport-4.dgf%2526referer%3Dhttp%3A%2F%2Fportaltv.ro%2F%3Fdigi-sport-4.dgf&mode=12
+</jsonrpc>
+ <thumbnail>http://gvt.net/sites/default/files/HD-Sports-2.0-Logo-450.png</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR green]Live Sports [/COLOR]</title>
