@@ -50,7 +50,8 @@ http://streamer1.hamuraabi.com:1935/salam/live/chunklist_w473936807.m3u8
 
 #EXTINF:-1,اهل البيت
 rtmp://ahlulbaytlive.nanocdn.com/live/ahlulbayt256
-
+#EXTINF:-1, الامام الحسن ع
+rtmp://uni6rtmp.tulix.tv:1935/imamh/imamh1
 #EXTINF:-1 tvg-logo="http://goo.gl/6DFzwR",قناة الامام الحسين ع
 rtsp://ca.live.imamhussein.tv:1935/live/mp4:ih203
 
