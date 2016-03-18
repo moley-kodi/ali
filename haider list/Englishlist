@@ -58,7 +58,8 @@ http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 #EXTINF:-1,RT DOcumentary
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
-
+#EXTINF:-1,cspan2 
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
 #EXTINF:-1,OPTV world
 http://app.pakistanvision.tv:1935/live/8090/player.m3u8
 
@@ -72,6 +73,8 @@ http://cp.dmbshare.net:8000/live/burgess/burgess/2793.m3u8
 http://cp.dmbshare.net:8000/live/burgess/burgess/2792.m3u8
 
 
+#EXTINF:-1,True tv
+http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/4/playlist.m3u8
 
 #EXTINF:-1,dream tv
 http://212.224.108.76:80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
