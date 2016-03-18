@@ -594,7 +594,13 @@
     </streaminginfo>
 
 
-
+<streaminginfo>
+    <cname>KBC Algeria</cname>
+	<item>
+	<title>KBC Algeria</title>
+	<link>plugin://plugin.video.f4mTester/?url=http://stream.kbcalgerie.tv/hds-live/livepkgr/_definst_/liveevent/livestream.f4m</link>
+	</item>
+</streaminginfo
 
 
 
