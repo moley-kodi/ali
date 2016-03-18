@@ -341,7 +341,111 @@ def GetLSProData(page_data,Cookie_Jar,m,url='$doregex[select_Url]'):
 </regex>
 </item>
 </streaminginfo>
+#################(oklivetv).com
+<item>
+<title>tru tv-live </title>
+<thumbnail></thumbnail>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>streamURL.*?"(.*?)"</expres>
+	<page>$doregex[getmainPage]</page>
+</regex>
+<regex>
+	<name>getmainPage</name>
+	<expres>$pyFunction:get_unpacked(page_data,'player69.*?(eval.*)')</expres>
+	<page>$doregex[streampage]</page>
+	<cookieJar>$doregex[postcaptcha]</cookieJar>
+	<ignorecache/>
+</regex>
+<regex>
+<name>postcaptcha</name>
+	<expres></expres>
+	<page>$doregex[streampage]</page>
+	<post>$doregex[showcaptcha]</post>
+	<referer>$doregex[streampage]</referer>
+	<cookieJar></cookieJar>
+</regex>
+<regex>
+	<name>showcaptcha</name>
+	<expres>(.*)</expres>
+	<page>$pyFunction:getGoogleRecaptchaResponse('$doregex[captchaid]',Cookie_Jar,2)</page>
+	<cookieJar></cookieJar>
+</regex>
+<regex>
+	<name>captchaid</name>
+	<expres>challenge\?k=([^"]*)</expres>
+	<page>$doregex[streampage]</page>
+	<cookieJar></cookieJar>
+</regex>
+<regex>
+	<name>streampage</name>
+	<expres>src='(.*?idds.*?)'</expres>
+	<page>http://oklivetv.com/trutv-live/</page>
+	<cookieJar></cookieJar>
+</regex>
+</item>
 
+
+<item>
+<title>tru tv-live </title>
+<thumbnail></thumbnail>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>streamURL.*?"(.*?)"</expres>
+	<page>$doregex[getmainPage]</page>
+</regex>
+<regex>
+	<name>getmainPage</name>
+	<expres>$pyFunction:get_unpacked(page_data,'player69.*?(eval.*)')</expres>
+	<page>$doregex[streampage]</page>
+	<cookieJar>$doregex[postcaptcha]</cookieJar>
+	<ignorecache/>
+</regex>
+<regex>
+<name>postcaptcha</name>
+	<expres></expres>
+	<page>$doregex[streampage]</page>
+	<post>$doregex[showcaptcha]</post>
+	<referer>$doregex[streampage]</referer>
+	<cookieJar></cookieJar>
+</regex>
+<regex>
+	<name>showcaptcha</name>
+	<expres>(.*)</expres>
+	<page>$pyFunction:getGoogleRecaptchaResponse('$doregex[captchaid]',Cookie_Jar,2)</page>
+	<cookieJar></cookieJar>
+</regex>
+<regex>
+	<name>captchaid</name>
+	<expres>challenge\?k=([^"]*)</expres>
+	<page>$doregex[streampage]</page>
+	<cookieJar></cookieJar>
+</regex>
+<regex>
+	<name>streampage</name>
+	<expres>src='(.*?idds.*?)'</expres>
+	<page>http://oklivetv.com/trutv-live/</page>
+	<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##################3
 <item>
 <regex>
 <name>makelist</name>
