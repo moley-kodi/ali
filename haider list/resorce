@@ -278,4 +278,48 @@ rtmp://78.100.40.195:1935/ryn<playpath>ryn <swfUrl>http://www.elahmad.com/tv/swf
 	<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
   </regex>
 </item>
-######################3
+######################oklivetv.com############################
+<item>
+<title>Das Erste (oklivetv)</title>
+<thumbnail></thumbnail>
+<link>$doregex[url]</link>
+<regex>
+	<name>url</name>
+	<expres>streamURL.*?"(.*?)"</expres>
+	<page>$doregex[getmainPage]</page>
+</regex>
+<regex>
+	<name>getmainPage</name>
+	<expres>$pyFunction:get_unpacked(page_data,'player69.*?(eval.*)')</expres>
+	<page>$doregex[streampage]</page>
+	<cookieJar>$doregex[postcaptcha]</cookieJar>
+	<ignorecache/>
+</regex>
+<regex>
+<name>postcaptcha</name>
+	<expres></expres>
+	<page>$doregex[streampage]</page>
+	<post>$doregex[showcaptcha]</post>
+	<referer>$doregex[streampage]</referer>
+	<cookieJar></cookieJar>
+</regex>
+<regex>
+	<name>showcaptcha</name>
+	<expres>(.*)</expres>
+	<page>$pyFunction:getGoogleRecaptchaResponse('$doregex[captchaid]',Cookie_Jar,2)</page>
+	<cookieJar></cookieJar>
+</regex>
+<regex>
+	<name>captchaid</name>
+	<expres>challenge\?k=([^"]*)</expres>
+	<page>$doregex[streampage]</page>
+	<cookieJar></cookieJar>
+</regex>
+<regex>
+	<name>streampage</name>
+	<expres>src='(.*?idds.*?)'</expres>
+	<page>http://oklivetv.com/das-erste-live/</page>
+	<cookieJar></cookieJar>
+</regex>
+</item>
+#############################3
