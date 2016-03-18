@@ -1,22 +1,17 @@
 
 #EXTM3U
-#EXTINF:-1,[COLOR red]last update 2/28[/COLOR red]
+#EXTINF:-1,[COLOR red]last update 3/17[/COLOR red]
 #EXTINF:-1, [COLOR red] --  please update you device by click Jafaer-tv and click the newest one 0.5.7  --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1,Sky News
 plugin://plugin.video.youtube/?action=play_video&videoid=y60wDzZt8yg
-#EXTINF:0,SKY NEWS
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTA6NDY6NDQgUE0maGFzaF92YWx1ZT1vaWdBWStDTzVJQSs5bDB2VTJETjBBPT0mdmFsaWRtaW51dGVzPTIw/skynews.stream
 
 #EXTINF:-1,CNN link 1
 http://edge1.everyon.tv/etv1sb/phd16/chunklist_w1519714347.m3u8
 #EXTINF:-1, CNN
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/chunklist.m3u8
-#EXTINF:0,BBC News
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1MzoxNCBQTSZoYXNoX3ZhbHVlPW05Zkc1bThtWUhkQVByMGhxMXFPaGc9PSZ2YWxpZG1pbnV0ZXM9MjA=/bbcnews.stream
 
-#EXTINF:-1,CNBC
-http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
+
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 #EXTINF:-1,RT US
@@ -41,23 +36,10 @@ http://tv02.thaizatv.com:1935/drm/ft.stream/playlist.m3u8
 
 
 
-#EXTINF:-1, 24 Action Movies 
-http://127.0.0.1:9000/veetle/aHR0cDovLzM4LjY4LjEzMS4xODM6ODAvZmx2LzU2YWI3NTQ1OTViY2YvdGVzdGF0MTIz
-
-
-
-
-
-#EXTINF:-1,Axn  White
-http://178.21.120.198:1935/live3/_definst_/mp4:axncrime/chunklist_w1301224921.m3u8
-
-
 #EXTINF:-1 group-title=”English”,Bloomberg  (ENG)
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
 
 
-#EXTINF:-1 group-title=”English”,London Live  (ENG)
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 
 #EXTINF:-1 group-title=”English”,GLOBAL HD (ENG)
 https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307348~exp=1434307948~acl=/i/*~id=5a91003f-0e87-4f31-b475-5beb4de69407~hmac=8011c2346009544656a3195d1e9e03e511efc6523dab9644debf3692f630fe77
@@ -69,12 +51,6 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live.m3u8
 #EXTINF:-1 group-title=”English”,At The Drive-In  (ENG)
 http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
-
-
-
-#EXTINF:-1,Dubai One
-http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8
-
 
 
 
@@ -90,20 +66,13 @@ http://app.pakistanvision.tv:1935/live/8090/player.m3u8
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1,Animal Plant 
 http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3u8
-#EXTINF:0 tvg-name="Discovery Channel" tvg-language="English" tvg-country="US" tvg-id="Discovery Channel" tvg-logo="http://images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg" group-title="Top10",Discovery Channel 
-http://167.114.102.27/live/U_eg99_HpuWdIMq8-1HZ6w/1457589926/a490ae75a3ec2acf16c9f592e889eb4c.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36 
-#EXTINF:0 tvg-name="History" tvg-language="English" tvg-country="US" tvg-id="History" tvg-logo="http://2.bp.blogspot.com/-QSfFAp_jqP0/T3DH2aXPHUI/AAAAAAAABdg/5a9_qDD92AQ/s1600/h5.png" group-title="Top10",History 
-http://167.114.102.27/live/Vuf3izZbhCFNNr3E14u2Ow/1457590013/d4a4950b7b7267417aa0b9733f30b6fe.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36 #EXTINF:0 tvg-name="National Geographic Channel" tvg-language="English" tvg-country="US" tvg-id="National Geographic Channel" tvg-logo="http://www.seat42f.com/wp-content/uploads/2013/02/NatGeo-Channel-Logo.jpg" group-title="Top10",National Geographic Channel (Top10) (US) (English) http://167.114.102.27/live/nbO4OThbXpigprhEdoFeew/1457590018/e08dd4627a3cf468a30d8a357956d6f8.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36 
-
-#EXTINF:-1,Discoveries
-http://162.212.176.83:8080/mystream1.m3u8
-#EXTINF:-1,Animal Plant
-http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8
+#EXTINF:-1,UK: NATIONAL GEOGRAPHIC
+http://cp.dmbshare.net:8000/live/burgess/burgess/2793.m3u8
+#EXTINF:-1,UK: NATIONAL GEOGRAPHIC WILD
+http://cp.dmbshare.net:8000/live/burgess/burgess/2792.m3u8
 
 
 
-#EXTINF:-1,Golf channel
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
 #EXTINF:-1,dream tv
 http://212.224.108.76:80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:-1,Vevo 1
@@ -125,9 +94,6 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebas
 #EXTINF:-1 group-title="ENGLISH", Bloomberg
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
-
-#EXTINF:-1 tvg-id="TWiT US" tvg-name="TWiT_US" group-title="ENGLISH" tvg-logo="b9ea6c3f841ce9d44fae986aee5ca81a.png",TWiT US
-http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8
 #EXTINF:-1,Daystar
 http://bcoveliveios-i.akamaihd.net/hls/live/203127/1539097700001/master_360p.m3u8
 #EXTINF:-1,WFTV Florida 
@@ -138,14 +104,12 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
 
 #EXTINF:-1,24/7 Old Cartoons
 mms://72.13.93.186/animatedfilms
-#EXTINF:-1,the Smpsons 24
-http://127.0.0.1:9000/veetle/aHR0cDovLzM4LjY4LjEzMS4xMzY6ODAvZmx2LzUyZGFkYTYxYmRmMTMvdGVzdGF0MTIz
+
 #EXTINF:-1,Smile Of a Child
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
+#EXTINF:0, JEI ENGLISH TV
+http://123.108.164.71/etv2sb/phd15/lihattv.m3u8
 
-
-#EXTINF:-1,SYFY
-http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8
 
 
 #EXTINF:-1,Ajyal Cinema
