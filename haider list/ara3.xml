@@ -24,8 +24,8 @@
 <streaminginfo>
         <cname>Algeria 3</cname>
         <item>
-            <title>Algeria  test</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=a3&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <title>  test</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/embedPlayer.js pageUrl=http://embed.iptv-planet.com/embed.php?id=a3&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
