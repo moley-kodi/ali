@@ -217,28 +217,28 @@
 </item>
 0000000000000000000000000000000
 <item>
-<title>MBC Max</title>
-<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbcmasr&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
+<title>fox movies</title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_foxmovies&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
 <regex>
 <name>getRTMP</name>
 <expres>var streamer="(.*?)"</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcmasr&amp;width=590&amp;height=401</page>
-<referer>http://iptv-planet.com/mbcmasr.html</referer>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_foxmovies&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/foxmovies.html</referer>
 <agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
 </regex>
 
 <regex>
 <name>getAPP</name>
 <expres>1937\/(.*?)";</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcmasrx&amp;width=590&amp;height=401</page>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_foxmoviesx&amp;width=590&amp;height=401</page>
 <referer>http://iptv-planet.com/mbcmasr.html</referer>
 <agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
 </regex>
 <regex>
 <name>getPLAYPATH</name>
 <expres>'file': '(.*?)'</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcmasrx&amp;width=590&amp;height=401</page>
-<referer>http://iptv-planet.com/mbcmasr.html</referer>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_foxmovies&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/foxmovies.html</referer>
 <agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
 </regex>
 </item>
