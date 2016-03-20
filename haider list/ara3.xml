@@ -219,28 +219,27 @@
 </item>
 0000000000000000000000000000000
 <item>
-<title>fox movies</title>
-<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_foxmovies&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
+<title>art aflam 1</title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_artaflam1&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
 <regex>
 <name>getRTMP</name>
 <expres>var streamer="(.*?)"</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_foxmovies&amp;width=590&amp;height=401</page>
-<referer>http://iptv-planet.com/foxmovies.html</referer>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_artaflam1&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/artaflam1.html</referer>
 <agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
 </regex>
-
 <regex>
 <name>getAPP</name>
 <expres>1937\/(.*?)";</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_foxmovies&amp;width=590&amp;height=401</page>
-<referer>http://iptv-planet.com/foxmovies.html</referer>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_artaflam1&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/artaflam1.html</referer>
 <agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
 </regex>
 <regex>
 <name>getPLAYPATH</name>
 <expres>'file': '(.*?)'</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_foxmovies&amp;width=590&amp;height=401</page>
-<referer>http://iptv-planet.com/foxmovies.html</referer>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_artaflam1&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/artaflem1.html</referer>
 <agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
 </regex>
 </item>
@@ -273,34 +272,10 @@
 </regex>
 </item>
 00000000000
-<item>
-<title>art aflam 1</title>
-<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_artaflam1&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
-<regex>
-<name>getRTMP</name>
-<expres>var streamer="(.*?)"</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_artaflam1&amp;width=590&amp;height=401</page>
-<referer>http://iptv-planet.com/artaflam1.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
-</regex>
-<regex>
-<name>getAPP</name>
-<expres>1937\/(.*?)";</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_artaflam1&amp;width=590&amp;height=401</page>
-<referer>http://iptv-planet.com/artaflam1.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
-</regex>
-<regex>
-<name>getPLAYPATH</name>
-<expres>'file': '(.*?)'</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_artaflam1&amp;width=590&amp;height=401</page>
-<referer>http://iptv-planet.com/artaflem1.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
-</regex>
-</item>
+
  00000000000
 <item>
-<title>art aflam 1</title>
+<title>art cinema</title>
 <link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_artcinema&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
 <regex>
 <name>getRTMP</name>
