@@ -252,7 +252,7 @@ artaflem2
 <name>getRTMP</name>
 <expres>var streamer="(.*?)"</expres>
 <page>http://embed.iptv-planet.com/embed.php?id=Hi_artaflem2&amp;width=590&amp;height=401</page>
-<referer>http://iptv-planet.com/artaflam2.html</referer>
+<referer>http://iptv-planet.com/artaflem2.html</referer>
 <agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
 </regex>
 
