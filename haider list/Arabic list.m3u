@@ -120,7 +120,10 @@ http://presstv-ch06.akamai.hls.live.cdn.overon.es/livehigh/chunklist_b2500000_sl
 #EXTINF:-1,*********[COLOR red] قنوات الشام[/COLOR]**********
 http://jafaer-tv.com
 
-#EXTINF:-1,الميادين (تعمل)  1
+
+#EXTINF:-1,الميادين
+http://63.237.48.23/ios/ALMAYADEEN/ALMAYADEEN.m3u8
+#EXTINF:-1,الميادين
 plugin://plugin.video.youtube/?action=play_video&videoid=04uzP251PoY
 #EXTINF:-1,العالم
 rtmp://fml.BE1E.edgecastcdn.net/20BE1E/HLS/AlalamHLS 
