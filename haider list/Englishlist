@@ -27,6 +27,18 @@ http://tv02.thaizatv.com:1935/drm/ft.stream/playlist.m3u8
 
 
 
+#EXTINF:-1,Sky movies Action
+http://ipsatpro.com:8000/live/angelo/angelo/524.ts
+#EXTINF:-1,Sky movie comedy
+http://ipsatpro.com:8000/live/angelo/angelo/524.ts
+#EXTINF:-1,Sky movie crime 
+http://ipsatpro.com:8000/live/angelo/angelo/512.ts
+#EXTINF:-1,Sky movie drama
+http://ipsatpro.com:8000/live/angelo/angelo/521.ts
+#EXTINF:-1,Sky movie family
+http://ipsatpro.com:8000/live/angelo/angelo/520.ts
+#EXTINF:-1,Sky movie scifi
+http://ipsatpro.com:8000/live/angelo/angelo/515.ts
 
 
 
