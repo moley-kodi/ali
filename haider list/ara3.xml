@@ -2249,26 +2249,16 @@ artcinema
 
 
 
-
-
-
-
 <item>
-<title>test youtube</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-    <title>[makelist.param2]</title>
-    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-    <thumbnail>NA</thumbnail>
-]]></listrepeat>
-<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
-<page>https://www.youtube.com/playlist?list=PLLKdTSUfZelUOnsM0v7AAmRNhs3dhQvo9</page>
-<referer>https://www.youtube.com/user/alsumariatviraq/playlists</referer>
-<cookieJar></cookieJar>
-</regex>
+<title>[COLOR green]test 1 [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=C%3a%5cUsers%5chlazem1%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.phstreams%5cfanart.jpg&amp;image=http%3a%2f%2falaska.watchkodi.com%2fcrusader88A.png&amp;name=Arabic%20Channels&amp;tvshow=0&amp;url=http%3a%2f%2falaska.watchkodi.com%2fPlaylist%2fplaymain.xml 
+</jsonrpc>
+ <thumbnail>http://gvt.net/sites/default/files/HD-Sports-2.0-Logo-450.png</thumbnail>
 </item>
+
+
+
 
 
 
