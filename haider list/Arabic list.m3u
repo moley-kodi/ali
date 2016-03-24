@@ -506,28 +506,6 @@ http://kurd-live.com:1935/live/speda/playlist.m3u8
 http://de.live.net.sa:1935/live/alj/playlist.m3u8
 #EXTINF:-1, النهار الجزائرية
 http://live.ennahartv.net/endz/EnnaharTV/playlist.m3u8
-#######https://www.streaminghd.tn/live/First-TV##########
-
-#EXTINF:-1,Hannibal-TV
-https://cdn.streaminghd.tn/live/4iOz0B1t0dP7tWLGLhy6Lg/1457249533/hannibal/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.streaminghd.tn/img/tv/janoubia.png",Janoubia
-https://cdn.streaminghd.tn/live/jZQ6Cy5Z2w8sBeUw62pYaQ/1457895498/janoubia/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.streaminghd.tn/img/tv/mtunisia.png",M Tunisia
-https://cdn.streaminghd.tn/live/dwR_CADcbAllQodMdagBjQ/1457896910/mtunisia/index.m3u8
-#EXTINF:-1 tvg-logo="", First tv
-https://cdn.streaminghd.tn/live/UVa0DcqU-62-IlJStNarCw/1457250975/first/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.streaminghd.tn/img/tv/jawhara.png",Jawhara tv
-https://cdn.streaminghd.tn/live/vLbgp2vlu67I-vlPr2gAvA/1457896738/jawhara/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.streaminghd.tn/img/tv/maghreb24.png",Maghreb 24
-https://cdn.streaminghd.tn/live/bcRldBKGmgO4KmEUCctJrw/1457896843/maghreb24/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.streaminghd.tn/img/tv/tunisna.png",Tunisia
-https://cdn.streaminghd.tn/live/B_weIihBhMW53k1H57nt9Q/1457897523/tounesna/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.streaminghd.tn/img/tv/tnn.png",TNN
-https://cdn.streaminghd.tn/live/tMVuTBbPDL2_8opCq4hXNQ/1457897310/tnn/index.m3u8
-#EXTINF:-1,Watania 1
-https://cdn.streaminghd.tn/live/5IFDgVYIV1lcCUjae0Ryig/1457898248/nat1/index.m3u8
-#EXTINF:-1,Watania 2
-https://cdn.streaminghd.tn/live/fCFl_D-RucJ33O9t4BbloA/1457898338/nat2/index.m3u8
 
 
 
@@ -538,8 +516,6 @@ http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
 rtmp://82.137.248.20/Talaqie/TalaqieLive2
 
 
-#EXTINF:-1,Jordan
-rtmp://64.251.14.168/jorlive/jrtv
 #EXTINF:-1,Maannews
 http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
 
