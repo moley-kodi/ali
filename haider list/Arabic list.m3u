@@ -250,10 +250,7 @@ rtmp://livestreaming.itworkscdn.net/smc1live/ playpath=smc1tv_360p swfUrl=http:/
 
 #EXTINF:-1,الريان
 http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_828.m3u8
-#EXTINF:-1,koweit_sport HD
-http://stream03.fasttelco.net:1935/live/_definst_/ktv3_480.stream/playlist.m3u8
-#EXTINF:-1,koweit_sport plus
-http://stream03.fasttelco.net:1935/live/_definst_/ktv4_480.stream/playlist.m3u8
+
 
 #EXTINF:-1,Dubai Sport 3
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
@@ -268,10 +265,12 @@ http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p/playlist.m3u8
 http://bab-live.hls.adaptive.level3.net/hls-live/bab-channel04/_definst_/live/stream2.m3u8
 #EXTINF:-1,KUWAIT 3_SPORT
 http://63.237.48.23/ios/KUWAIT_3_SPORT/KUWAIT_3_SPORT.m3u8
-
 #EXTINF:-1,kuwait sport 
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
-
+#EXTINF:-1,Kuwait sport HD
+http://stream03.fasttelco.net:1935/live/_definst_/ktv3_480.stream/playlist.m3u8
+#EXTINF:-1,kuwait_sport plus
+http://stream03.fasttelco.net:1935/live/_definst_/ktv4_480.stream/playlist.m3u8
 
 ###############################################################
 
