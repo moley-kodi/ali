@@ -11,7 +11,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 
 
-#EXTINF:-1,MBC 1 
+#EXTINF:-,MBC 1 
 http://bit.ly/jafaer-mbc
 #EXTINF:-1,MBC 2 
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
