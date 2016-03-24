@@ -1356,11 +1356,17 @@ artcinema
 		</item>
 </streaminginfo>
 
-<item>
-  <title>Alghadeer الغدير</title>
-  <link>plugin://plugin.video.f4mTester/?streamtype=HDS&amp;url=http://37.72.171.204/hds-live/livepkgr/_definst_/liveevent/alghadeer.f4m|User-Agent=iPhone&amp;Referer=http://www.alghadeer.tv/livetv/</link>
-</item>
 
+<title>Alghadeer الغدير</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HDS&amp;url=$doregex[getSTream]|User-Agent=iPhone&amp;Referer=http://www.alghadeer.tv/livetv/</link>
+<regex>
+  <name>getSTream</name>
+  <expres>flashvars="src=(http.*?)"</expres>
+  <page>http://www.alghadeer.tv/livetv/</page>
+  <referer>http://www.alghadeer.tv/livetv/</referer>
+</regex>
+<thumbnail>http://www.alghadeer.tv/static/images/logo.png</thumbnail>
+</item>
 <streaminginfo>
 	<cname>Al-hurra Iraq</cname>
 	<item>
