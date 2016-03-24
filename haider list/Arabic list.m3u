@@ -672,5 +672,5 @@ http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamai
 #EXTINF:-1,mbc3
 http://embed.iptv-planet.com/embed.php?id=Hi_mbc3&amp;width=590&amp;height=401 live=1 swfVfy=1
 
-#EXTINF:-1,1
-rtmp://$OPT:rtmp-raw=rtmp://web1.iptv-planet.com:1937/live2 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=artaflam1&width=600&height=400 playpath=artaflam1?cle=084104117032070101098032050053032048053032052051
+#EXTINF:-1,MBC Action
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcaction swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbcaction&width=600&height=400
