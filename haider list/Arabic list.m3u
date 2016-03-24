@@ -103,9 +103,9 @@ rtmp://ns8.indexforce.com/alsharqiyalive/mystream
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://goo.gl/8Gtauc",ALSharqia News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:0, alghadeer.tv 
+#EXTINF:0, alghadeer
 rtmp://$OPT:rtmp-raw=rtmp://live.alghadeer.tv/live/alghadeer//livestream playpath=alghadeer swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.alghadeer.tv/livetv/
-#EXTINF:0, alghadeer.tv 
+#EXTINF:0, alghadeer الغدير
 rtmp://live.alghadeer.tv/live/alghadeer//livestream playpath=alghadeer swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.alghadeer.tv/livetv/
 #EXTINF:-1 tvg-logo="http://goo.gl/x0wqm7",التغير
 http://stream.joinvisions.net:1935/taglive/taghier/chunklist.m3u8?wowzasessionid=634223339&v=1250133442
