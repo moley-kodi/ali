@@ -81,7 +81,7 @@ http://api.new.livestream.com/accounts/13964753/events/4352548/videos/113443974.
 
 #EXTINF:-1,anb العراقية
 http://82.212.95.122:1935/live/anb.stream_360p/chunklist_w640443579.m3u8?v=411569703
-#EXTINF:-1 tvg-logo="http://www.imn.iq/data/Al_Iraqiya_logo(1).gif",Iraqiya تعمل 
+#EXTINF:-1 tvg-logo="http://www.imn.iq/data/Al_Iraqiya_logo(1).gif",Iraqiya 
 http://iphone-streaming.ustream.tv/ustreamVideo/21791994/streams/live/playlist.m3u8
 
 #EXTINF:-1,قناة اسيا
@@ -242,8 +242,7 @@ http://stream03.fasttelco.net:1935/live/_definst_/ktv6_480.stream/playlist.m3u8
 http://stream03.fasttelco.net:1935/live/_definst_/ktv7_480.stream/playlist.m3u8
 
 
-#EXTINF:-1,(قطر اليوم  (لا تعمل
-http://82.212.95.122:1935/live/qatar/gmswf.m3u8
+
 #EXTINF:-1,Sharjah Kabla
 http://livestreaming.itworkscdn.net/kablatvlive/kabtv_360p/playlist.m3u8
 #EXTINF:-1,الشارقة
@@ -278,15 +277,7 @@ http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
 
 #EXTINF:-1,*********[COLOR red]  قنوات مصرية[/COLOR]**********
 http://jafaer-tv.com
-#EXTINF:-1,Rotana Clasic
-http://185.5.222.227:4242/bysid/5605
-#EXTINF:-1, مصرية
-http://185.5.222.227:4242/bysid/5606
 
-#EXTINF:-1, سينما
-http://185.5.222.227:4242/bysid/5607
-#EXTINF:-1,Rotana cinema
-http://vai.la/jN2b
 #EXTINF:-1,Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/HasBahCa.m3u8
 #EXTINF:-1,القاهرة و الناس 1 
