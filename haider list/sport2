@@ -119,7 +119,47 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 </item>
 #####################
 
+<item>
+<title>sky sport 1</title>
+<link>$doregex[get-decode]</link>
+<regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres><page></page>
+</regex><regex><name>get-enctext</name><expres>curl = "(.*?)"</expres>
+<page>http://miplayer.net/embedplayer.php?id=ibrodtv21</page></regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
+<item>
+<title>sky sport 3</title>
+<link>$doregex[get-decode]</link>
+<regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres><page></page>
+</regex><regex><name>get-enctext</name><expres>curl = "(.*?)"</expres>
+<page>http://miplayer.net/embedplayer.php?id=ibrodtv23</page></regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>sky sport 4</title>
+<link>$doregex[get-decode]</link>
+<regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres><page></page>
+</regex><regex><name>get-enctext</name><expres>curl = "(.*?)"</expres>
+<page>http://miplayer.net/embedplayer.php?id=ibrodtv24</page></regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>sky sport 5</title>
+<link>$doregex[get-decode]</link>
+<regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres><page></page>
+</regex><regex><name>get-enctext</name><expres>curl = "(.*?)"</expres>
+<page>http://miplayer.net/embedplayer.php?id=ibrodtv25</page></regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 <item>
 <title>Fox Sports 2 U.S</title>
 <link>
