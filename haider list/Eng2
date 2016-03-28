@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <item>
-<title>AMC test</title>
-<sportsdevil>http://www.stream2watch.co/streams/35961/1</sportsdevil>
-<referer>http://showsport-tv.com/</referer>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  IPTV[B]Canales[/B]   [/COLOR] [COLOR skyblue][/COLOR]  </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[COLOR white][/COLOR][COLOR lime][makelist.param1][/COLOR]</title>
+<link>http://iptvcanales.com/xw/canales/canal1.m3u8?canal=[makelist.param2]&amp;profile=3|Referer=http://iptvcanales.com/hls/grindplayer/flashlsOSMF.swf</link>
+<thumbnail>[makelist.param3]</thumbnail>
+</item>
+]]></listrepeat>
+<expres>canal=(.*?)&[\w\W\s]{0,4}n_canal=(.*?)"[\w\W\s]{0,6}src="(.*?)"</expres>
+<page>http://iptvcanales.com</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
 </item>
 <item>
 <title>A&E</title>
