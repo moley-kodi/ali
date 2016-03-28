@@ -90,6 +90,27 @@
 
 
 
+<item>
+<title>Sky Scifi</title> 
+<link>$doregex[rtmp-code]</link>
+<regex>
+	<name>rtmp-code</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=71731',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>StarZ HD</title> 
+<link>$doregex[rtmp-code]</link>
+<regex>
+	<name>rtmp-code</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=73259',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
 
 
 <item>
@@ -309,9 +330,8 @@ def GetLSProData(page_data,Cookie_Jar,m,url='$doregex[select_Url]'):
 </item>
 
 
-<item><title>Mihai</title><link>Test 1</link><externallink>http://iptv-online.ddns.net:8000/get.php?username=mihai&amp;password=mihai&amp;type=m3u&amp;output=mpegts</externallink></item>
 
-<item>
+item>
 <title>ontv</title>
 <link>$doregex[makelist]</link>
 <regex>
@@ -347,7 +367,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='$doregex[select_Url]'):
 </item>
 </streaminginfo>
 #################(oklivetv).com
-<item>
+item>
 <title>tru tv-live </title>
 <thumbnail></thumbnail>
 <link>$doregex[url]</link>
@@ -392,7 +412,7 @@ def GetLSProData(page_data,Cookie_Jar,m,url='$doregex[select_Url]'):
 </item>
 
 
-<item>
+item>
 <title>tru tv-live </title>
 <thumbnail></thumbnail>
 <link>$doregex[url]</link>
