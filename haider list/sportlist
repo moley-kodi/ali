@@ -24,7 +24,7 @@ rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl
 
 #EXTINF:-1, Bein Sport AR
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
-#EXTINF:-1,BeIN SporTS
+#EXTINF:-1,BeIN SporTS 1
 http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
 
 #EXTINF:-1 tvg-id="Lista PLAY-KODI FR beIN Sports" tvg-name="FR beIN Sports 3" tvg-logo="Bein Sports 3 Francia" group-title="DEPORTES",Bein Sports 3 Francia
