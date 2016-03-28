@@ -176,7 +176,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 </item>
 
 <item>
-<title>ABC Family/</title> 
+<title>bein sport spanish</title> 
 <link>$doregex[rtmp-code]</link>
 <regex>
 	<name>rtmp-code</name>
@@ -185,6 +185,19 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 </regex>
 <thumbnail></thumbnail>
 </item>
+
+
+<item>
+<title>Espn</title> 
+<link>$doregex[rtmp-code]</link>
+<regex>
+	<name>rtmp-code</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=48051',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
 
 <item>
 <title>Idman HD </title>
