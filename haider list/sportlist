@@ -24,8 +24,31 @@ rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl
 
 #EXTINF:-1, Bein Sport AR
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
+#EXTINF:-1,BeIN SporTS
+http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI FR beIN Sports" tvg-name="FR beIN Sports 3" tvg-logo="Bein Sports 3 Francia" group-title="DEPORTES",Bein Sports 3 Francia
+
+http://evolive-tv.com:8000/live/genio/genio/67.m3u8
+
+#EXTINF:-1,Bein HD
+http://iptvbox.noip.us:9998/live/atik/atik/726.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/rmtv.png",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.20m.es/img2/recortes/2013/12/04/149729-588-291.jpg",Real Madrid TV 2
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
 
+
+#EXTINF:-1,Canal Futbol 
+http://iptvbox.noip.us:9998/live/atik/atik/265.m3u8
+#EXTINF:-1,Canal Futbol 2
+http://iptvbox.noip.us:9998/live/atik/atik/857.m3u8
+
+#EXTINF:-1,Canal  Liga
+http://iptvbox.noip.us:9998/live/atik/atik/274.m3u8
 #EXTINF:-1,Sky Sports 1
 http://02e4.vp9.tv/chn/sks1/v.m3u8
 
