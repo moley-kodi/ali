@@ -26,13 +26,7 @@ http://</link>
 
 
 
-<item>
-<title>[COLOR green]test 1 [/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.NJMSoccer/?url=plugin%3A%2F%2Fplugin.video.SportsDevil%2F%3Fmode%3D1%26amp%3Bitem%3Dcatcher%253dstreams%2526url%3Dhttp%3A%2F%2Fportaltv.ro%2F%3Fdigi-sport-4.dgf%2526referer%3Dhttp%3A%2F%2Fportaltv.ro%2F%3Fdigi-sport-4.dgf&mode=12
-</jsonrpc>
- <thumbnail>http://gvt.net/sites/default/files/HD-Sports-2.0-Logo-450.png</thumbnail>
-</item>
+
 
 
 <item>
@@ -180,69 +174,18 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 <thumbnail>http://www.premiershiprugby.com/images/content/Premiership-Content-Partner-Sky.gif</thumbnail>
 <fanart>https://e33311a1-a-62cb3a1a-s-sites.googlegroups.com/site/kodilista/bad-boy-hd-wallpapers.jpg</fanart>
 </item>
+
 <item>
-<title>Bein Sport 1  </title>
-<link>
-sublink: http://iptv.am000.tv:8000/live/tornado5/tornado5/293.m3u8#
-sublink:rtmp://85.132.67.123:1935/live/be01#
-sublink:http://80.243.189.26:8889/bein/sports1/index.m3u8#
-</link>
+<title>ABC Family/</title> 
+<link>$doregex[rtmp-code]</link>
+<regex>
+	<name>rtmp-code</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=72400',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>Bein Sport 2 </title>
-<link>
-sublink:rtmp://85.132.67.123:1935/live/be02#
-sublink:http://80.243.189.26:8889/bein/sports2/index.m3u8#
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 3 </title>
-<link>
-sublink:rtmp://85.132.67.123:1935/live/be03#
-sublink:http://80.243.189.26:8889/bein/sports3/index.m3u8#
-</link>
-<thumbnail</thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 4 </title>
-<link>
-sublink:rtmp://85.132.67.123:1935/live/be04#
-sublink:http://80.243.189.26:8889/bein/sports4/index.m3u8#
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 5</title>
-<link>
-sublink:rtmp://85.132.67.123:1935/live/be05#
-sublink:http://80.243.189.26:8889/bein/sports5/index.m3u8#
-</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>Bein Sport 11 </title>
-<link>
-sublink:http://www.t12v.com:8000/live/tlili/tlili/163.ts#
-sublink:rtmp://live.iptv-planet.com:1936/live1/b11?user=5354&pass=88f1#
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Bein Sport 12 </title>
-<link>
-sublink:http://www.t12v.com:8000/live/tlili/tlili/173.ts#
-sublink:http://live01.pushpublish.tv/mylive/bein12/playlist.m3u8#
-sublink:http://149.100.11.163:8080/udp/225.170.46.128:1234#
-</link>
-<thumbnail></thumbnail>
-</item>
 <item>
 <title>Idman HD </title>
 <link>
