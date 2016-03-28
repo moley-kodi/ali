@@ -199,6 +199,20 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 </item>
 
 
+
+<item>
+<title>Fox sport 1</title> 
+<link>$doregex[rtmp-code]</link>
+<regex>
+	<name>rtmp-code</name>
+	<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.streamlive.to/embedplayer_new2.php?channel=73260',False,False,'http://vipracing.info/')</expres>
+	<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
 <item>
 <title>Idman HD </title>
 <link>
@@ -732,44 +746,7 @@ http://178.18.30.113:8081/liverepeater/229933/playlist.m3u8?wmsAuthSign=$doregex
 </item>
 
 
-<item>
-  <title>sky 2 </title>
-  <link>$doregex[getSTREAM]|User-Agent=iPhone</link>
-  
-  <regex>
-    <name>getSTREAM</name>
-    <expres>file:.*(http.*?)[",']</expres>
-    <page>http://lqgq.biggestplayer.me/streamcr.php?id=197884&width=620&height=460</page>
-    <referer>http://theactionlive.com/livegamecrnope.php?id=ss2zx&width=640&height=460&stretching=</referer>
-	<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-  </regex>
-</item>
 
-<item>
-  <title>sky 3 </title>
-  <link>$doregex[getSTREAM]|User-Agent=iPhone</link>
-  
-  <regex>
-    <name>getSTREAM</name>
-    <expres>file:.*(http.*?)[",']</expres>
-    <page>http://lqgq.biggestplayer.me/streamcr.php?id=197884&width=620&height=460</page>
-    <referer>http://theactionlive.com/livegamecrnope.php?id=sk3&width=640&height=460&stretching=</referer>
-	<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-  </regex>
-</item>
-
-<item>
-  <title>sky 4 </title>
-  <link>$doregex[getSTREAM]|User-Agent=iPhone</link>
-  
-  <regex>
-    <name>getSTREAM</name>
-    <expres>file:.*(http.*?)[",']</expres>
-    <page>http://lqgq.biggestplayer.me/streamcr.php?id=197884&width=620&height=460</page>
-    <referer>http://theactionlive.com/livegamecrnope.php?id=sky4n&width=640&height=460&stretching=</referer>
-	<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36</agent>
-  </regex>
-</item>
 ###################################################################
 
 
