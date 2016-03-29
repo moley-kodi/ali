@@ -9,7 +9,17 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR red] --  تم اضافة قنوات جديدة MBC تجدوها في Haider list 2الرجاء مشاهدتها الكثير من القنوات  --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
-
+#EXTINF:0,MBC
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_1
+ 
+#EXTINF:-1,MBC Masr
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_masr
+ 
+#EXTINF:-1,MBC Masr2
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_masr_2
+ 
+#EXTINF:-1,MBC Drama
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_drama
 EXTINF:-,MBC 1 
 http://bit.ly/jafaer-mbc
 #EXTINF:-1,MBC 2 
