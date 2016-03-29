@@ -275,7 +275,8 @@ http://stream03.fasttelco.net:1935/live/_definst_/ktv4_480.stream/playlist.m3u8
 
 #EXTINF:-1,*********[COLOR red]  قنوات مصرية[/COLOR]**********
 http://jafaer-tv.com
-
+#EXTINF:-1,Alhayat
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=alhayat
 #EXTINF:-1,Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/HasBahCa.m3u8
 #EXTINF:-1,القاهرة و الناس 1 
@@ -283,7 +284,8 @@ http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/HasBahCa.m3u8
 plugin://plugin.video.youtube/?action=play_video&videoid=7vOKKinCqn0
 #EXTINF:-1,القاهرة و الناس 2
 plugin://plugin.video.youtube/?action=play_video&videoid=ZrfmWqzPhrw
-
+#EXTINF:-1,Alkahera wa AlNas2
+http://2.109.65.143/masa/14306.m3u8?v=1176025225
  
 #EXTINF:-1, CBC Extra
 plugin://plugin.video.youtube/?action=play_video&videoid=r7ammFV2blg
@@ -315,7 +317,6 @@ rtmp://livestreaming5.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=
 rtmp://livestreaming5.onlinehorizons.net/NTNNileComedy playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=comedy
 
 
-#EXTINF:-16,NILE Sport
 
 #EXTINF:-1, القناة
 http://win15.yayin.com.tr/Alqanat/smil:Alqanat.smil/chunklist_w1370415133_b665536_t64U0Q=.m3u8
@@ -329,7 +330,8 @@ http://stream138.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/playlist.m3u
 
 #EXTINF:-1,النهار
 http://stream138.n-stream.tv:1935/naharch/nahar_tvprofile2.stream/playlist.m3u8
-
+#EXTINF:-1,Alahly
+http://2.109.65.143/masa/14302.m3u8?v=1176025225
  
 #EXTINF:0,Darbaka Aflam
 http://2.109.65.247/masa/24708.m3u8?v=1279345274
