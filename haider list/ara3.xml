@@ -1479,7 +1479,22 @@ artcinema
 <streaminginfo><cname>Burhan</cname><item><title>Burhan</title><link>http://82.212.95.122:1935/live/burhan.stream_360p/playlist.m3u8</link></item></streaminginfo>
 
 
-
+<item>
+<title>[COLOR blue]El Sharq TV[/COLOR]</title>
+<link>$doregex[get-720url]</link>
+<regex>
+     <name>get-720url</name>
+     <expres>$pyFunction:'$doregex[get-url]'.replace('480','720')</expres>
+     <page></page>
+</regex> 
+<regex>
+     <name>get-url</name>
+     <expres>content=[",'](.*?\.mp4)[",']</expres>
+     <page>https://content.jwplatform.com/players/P02QUIGe.html</page>
+     <agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+</regex>
+<thumbnail>https://assets-jpcust.jwpsrv.com/thumbs/P02QUIGe-720.jpg</thumbnail>
+ </item>
 
 
 
