@@ -16,7 +16,7 @@ http://evolive-tv.com:8000/live/genio/genio/49.ts
 http://evolive-tv.com:8000/live/genio/genio/48.ts
 #EXTINF:-1,MBC DRAMA
 http://evolive-tv.com:8000/live/genio/genio/47.ts
-#EXTINF:-,MBC 1 
+EXTINF:-,MBC 1 
 http://bit.ly/jafaer-mbc
 #EXTINF:-1,MBC 2 
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
