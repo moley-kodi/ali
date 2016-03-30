@@ -24,12 +24,11 @@
 	</item>
 </streaminginfo>
 ###############################################33
-<streaminginfo>	
-<item>
- <title>اجيال</title>
-<link>rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/ajyal</link>
-</item>
+<streaminginfo>
+<item><title>test</title><link>rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/ajyal/link></item>
 </streaminginfo>
+
+
 
 <item>
 <title>MBC1</title>
