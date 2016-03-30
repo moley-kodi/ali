@@ -721,8 +721,6 @@ rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_nahar_drama
 rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_quran_al_karim
 #EXTINF:-1,Al Rahma
 rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_rahma
-#EXTINF:-1,Al Resalah
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_resalah
 
-#EXTINF:-1,Al Sumaria
+#EXTINF:0,Al Sumaria
 rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_sumaria
