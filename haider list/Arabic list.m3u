@@ -671,5 +671,59 @@ http://mbn-channel-07.akacast.akamaistream.net/7/27/233456/v1/ibb.akacast.akamai
 #EXTINF:0,Sawa egypt
 http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03
 
-#EXTINF:-1,test
-http://1250132868@5.196.86.70:8888/mbc_1.m3u8?idu=hmemar_68112242640
+#EXTINF:1,2M
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/2m
+#EXTINF:2,ALHayat
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/alhayat
+#EXTINF:3,Abu Dhabi Drama
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/abu_dhabi_drama
+#EXTINF:4,Abu Dhabi Emarat
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/abu_dhabi_emarat
+#EXTINF:5,Abu Dhabi Sports 1
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/abu_dhabi_sports_1
+#EXTINF:6,Abu Dhabi Sports 2
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/abu_dhabi_sports_2
+#EXTINF:7,Abu Dhabi
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/abu_dhabi
+#EXTINF:8,Aghanina
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/aghanina
+#EXTINF:9,Ajyal
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/ajyal
+#EXTINF:10,Al Aoula Maroc
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_aoula_maroc
+#EXTINF:11,Al Baghdadia
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_baghdadia
+#EXTINF:12,Al Ekhbaria
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_ekhbaria
+#EXTINF:13,Al Haneen Music
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_haneen_music
+#EXTINF:14,Al Iraqiya
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_iraqiya
+#EXTINF:15,Al Kahera Wal Nas
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_kahera_wal_nas
+#EXTINF:16,Al Maghribia
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_maghribia
+#EXTINF:17,Al Majd
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_majd
+#EXTINF:18,Al Manar
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_manar
+#EXTINF:19,Al Masriyah
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_masriyah
+#EXTINF:20,Al Mehwar
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_mehwar
+#EXTINF:21,Al Moustakilla
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_moustakilla
+#EXTINF:22,Al Mutawasit
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_mutawasit
+#EXTINF:23,Al Nahar Drama
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_nahar_drama
+#EXTINF:24,Al Quran Al Karim
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_quran_al_karim
+#EXTINF:25,Al Rahma
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_rahma
+#EXTINF:26,Al Resalah
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_resalah
+#EXTINF:27,Al Sharqiya
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_sharqiya
+#EXTINF:28,Al Sumaria
+rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_sumaria
