@@ -2329,25 +2329,42 @@ artcinema
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <item>
-<title>[COLOR green]test 1 [/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.phstreams/?action=ndmode&amp;audio=0&amp;content=0&amp;fanart=C%3a%5cUsers%5chlazem1%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.phstreams%5cfanart.jpg&amp;image=http%3a%2f%2falaska.watchkodi.com%2fcrusader88A.png&amp;name=Arabic%20Channels&amp;tvshow=0&amp;url=http%3a%2f%2falaska.watchkodi.com%2fPlaylist%2fplaymain.xml 
-</jsonrpc>
- <thumbnail>http://gvt.net/sites/default/files/HD-Sports-2.0-Logo-450.png</thumbnail>
+<title>artaflem2 test</title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_artaflem2&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>var streamer="(.*?)"</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_artaflem2&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/artaflem2.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+
+<regex>
+<name>getAPP</name>
+<expres>1937\/(.*?)";</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_artaflem2&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/artaflem2.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_artaflem2&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/artaflem2.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
 </item>
+
+
+
+
+
+
+
+
+
+
 
 
 
