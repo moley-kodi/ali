@@ -137,6 +137,25 @@
 
 
 
+<item>
+<title>National-geographic </title>
+<link>$doregex[getURL]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>getURL</name>
+<expres>source src="(.*?)"</expres>
+<page>http://www.stream4free.pro/national-geographic</page>
+<referer>http://www.stream4free.pro/</referer>
+<cookieJar>$doregex[createCFCookie]</cookieJar>
+</regex>
+<regex>
+<name>createCFCookie</name>
+<expres></expres>
+<page>$pyFunction:cloudflare.createCookie('http://www.stream4free.pro/national-geographic',Cookie_Jar,'Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1')</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 <item>
