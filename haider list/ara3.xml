@@ -481,10 +481,9 @@ artcinema
 </streaminginfo> 
 
 
-<streaminginfo>
-	 <cname>art hikeyet</cname>
+
 <item>
-<title>art hikeyet test</title>
+<title>art hikeyat</title>
 <link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_arthikeyet&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
 <regex>
 <name>getRTMP</name>
@@ -509,26 +508,7 @@ artcinema
 <agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
 </regex>
 </item>
-</streaminginfo>
-    <streaminginfo>
-        <cname>ART Hekayat 2</cname>
-        <item>
-            <title>ART Hekayat 2</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=artcinema&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=artcinema&amp;width=600&amp;height=400</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=artcinema&amp;width=600&amp;height=400</page>
-            </regex>
-        </item>
-    </streaminginfo>
+
     <streaminginfo>
         <cname>ART Hekayat</cname>
         <item>
@@ -537,7 +517,7 @@ artcinema
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <referer>http://iptv-planet.com/arthikeyet.html</referer>
                 <page>http://embed.iptv-planet.com/embed.php?id=arthikeyet&amp;width=600&amp;height=400</page>
             </regex>
             <regex>
@@ -815,31 +795,6 @@ artcinema
 </item>
 
 
-<item>
-<title>Alhayat 1</title>
-<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_alhayat&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
-<regex>
-<name>getRTMP</name>
-<expres>var streamer="(.*?)"</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_alhayat&amp;width=590&amp;height=401</page>
-<referer>http://iptv-planet.com/alhayat.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
-</regex>
-<regex>
-<name>getAPP</name>
-<expres>1937\/(.*?)";</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_alhayat&amp;width=590&amp;height=401</page>
-<referer>http://iptv-planet.com/alhayat.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
-</regex>
-<regex>
-<name>getPLAYPATH</name>
-<expres>'file': '(.*?)'</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_alhayat&amp;width=590&amp;height=401</page>
-<referer>http://iptv-planet.com/alhayat.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
-</regex>
-</item>
 
 
 
@@ -870,74 +825,59 @@ artcinema
 </item>
 
 
-
-
 <item>
-<title>artaflem2</title>
-<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_artaflem2&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
+<title>Alhayat cinema</title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_alnahardrama&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
 <regex>
 <name>getRTMP</name>
 <expres>var streamer="(.*?)"</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_artaflem2&amp;width=590&amp;height=401</page>
-<referer>http://iptv-planet.com/artaflem2.html</referer>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_alnahardrama&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/alnahardrama.html</referer>
 <agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
 </regex>
 <regex>
 <name>getAPP</name>
 <expres>1937\/(.*?)";</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_artaflem2&amp;width=590&amp;height=401</page>
-<referer>http://iptv-planet.com/artaflem2.html</referer>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_aalnahardrama&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/alnahardrama.html</referer>
 <agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
 </regex>
 <regex>
 <name>getPLAYPATH</name>
 <expres>'file': '(.*?)'</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_artaflem2&amp;width=590&amp;height=401</page>
-<referer>http://iptv-planet.com/artaflem2.html</referer>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_alnahardrama&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/alnahardrama.html</referer>
 <agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
 </regex>
 </item>
-    <streaminginfo>
-        <cname>Algeria 3</cname>
-        <item>
-            <title>Algeria 3</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_a3&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=Hi_a3&amp;width=600&amp;height=400</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=Hi_a3&amp;width=600&amp;height=400</page>
-            </regex>
-        </item>
-    </streaminginfo>
+
+<item>
+<title>Algeria 3</title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_a3&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>var streamer="(.*?)"</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_a3&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/a3.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getAPP</name>
+<expres>1937\/(.*?)";</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_a3&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/a3.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_a3&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/a3.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+</item>
    
     
-    <streaminginfo><cname>Alhayat2</cname><item><title>Alhayat2</title><link>plugin://plugin.video.youtube/play/?video_id=0lmM6zgL2AU</link></item></streaminginfo>
-    <streaminginfo>
-        <cname>Alhayat Cinema</cname>
-        <item>
-            <title>Alhayat Cinema</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_AlHayatCinema&amp;width=600&amp;height=400 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=Hi_AlHayatCinema&amp;width=600&amp;height=400</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=Hi_AlHayatCinema&amp;width=600&amp;height=400</page>
-            </regex>
-        </item>
-    </streaminginfo>
     <streaminginfo>
         <cname>Alhayat Drama</cname>
         <item>
