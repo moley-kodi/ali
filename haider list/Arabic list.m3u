@@ -29,9 +29,9 @@ http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
 
 #EXTINF:-1,*********[COLOR red]قنوات عراقية[/COLOR]**********
 
-#EXTINF:-1 tvg-logo="https://goo.gl/Y9g6gK",Al Forat
+#EXTINF:-1,Al Forat
 http://alforatlive.nanocdn.com:1935/live/alforat256/HasBahCa.m3u8
- Mobile/8H7 Safari/6533.18.5
+
 
 #EXTINF:-1 tvg-logo="https://goo.gl/8mGe7t",Al Kawthar (تعمل)
 rtmp://fms.1830A.phicdn.net/201830A/alkawtharInstance/AlkawtharHLS
@@ -360,15 +360,15 @@ http://2.109.65.142/masa/14210.m3u8?v=1279345274
 
  
 #EXTINF:0,Tok Tok Aflam لاتعمل حاليا
-http://2.109.65.142/masa/14205.m3u8?v=117603230T
+http://2.109.65.142/masa/14205.m3u8
 #EXTINF:0,Time cinema
 http://2.109.65.142/masa/14223.m3u8?v=1279345274
  
 #EXTINF:0,Time Aflam
-http://2.109.65.142/masa/14230.m3u8?v=117603230T
+http://2.109.65.142/masa/14230.m3u8
  
 #EXTINF:0,Cinema 
-http://2.109.65.142/masa/14202.m3u8?v=117603230T
+http://2.109.65.142/masa/14202.m3u8
 #EXTINF:0,Melody aflam
 http://38.96.148.163/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1176032304
 #EXTINF:-1,Melody Drama
