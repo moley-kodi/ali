@@ -244,7 +244,8 @@ artaflem2
 </regex>
 </item>
 
-
+<streaminginfo>
+        <cname>ART aflam 2</cname>
 <item>
 <title>art aflam 2</title>
 <link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_artaflem2&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
@@ -271,6 +272,7 @@ artaflem2
 <agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
 </regex>
 </item>
+</streaminginfo>
 00000000000
 artcinema
  00000000000
@@ -479,6 +481,35 @@ artcinema
 </streaminginfo> 
 
 
+<streaminginfo>
+	 <cname>art hikeyet</cname>
+<item>
+<title>art hikeyet test</title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_arthikeyet&amp;width=590&amp;height=401 live=1 swfVfy=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>var streamer="(.*?)"</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_arthikeyet&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/arthikeyet.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+<regex>
+<name>getAPP</name>
+<expres>1937\/(.*?)";</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_arthikeyet&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/arthikeyet.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+
+<regex>
+<name>getPLAYPATH</name>
+<expres>'file': '(.*?)'</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_arthikeyet&amp;width=590&amp;height=401</page>
+<referer>http://iptv-planet.com/arthikeyet.html</referer>
+<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
+</regex>
+</item>
+</streaminginfo>
     <streaminginfo>
         <cname>ART Hekayat 2</cname>
         <item>
