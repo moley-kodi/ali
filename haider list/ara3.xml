@@ -24,21 +24,6 @@
 	</item>
 </streaminginfo>
 ###############################################33
-<streaminginfo>
-<item><title>test</title><link>rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/ajyal/link></item>
-</streaminginfo>
-
-<item>
-  <title>ALKOTHAR  TV</title>
-  <link>$doregex[get_sxUrl]|User-Agent=iPhone&amp;Referer=http://www.alkawthartv.ir/livetv</link>
-  
-  <regex>
-    <name>get_sxUrl</name>
-    <expres>hls.*?[',"](http.*?)[",']\W</expres>
-    <page>http://www.alkawthartv.ir/livetv</page>
-  </regex>
-  <thumbnail>http://www.alkawthartv.ir/livetv</thumbnail>
-</item>
 
 
 <item>
@@ -376,6 +361,26 @@ artcinema
  <cookieJar></cookieJar>
  </regex>
  </item>
+ 
+ 
+ <item>
+<title>الكوثر</title>
+<link>$doregex[get_m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>get_m3u8</name>
+<expres>video src="(.*?)" height="300"</expres>
+<page>$doregex[get_iframe]</page>
+<referer>http://www.alkawthartv.ir/</referer>
+</regex>
+<regex>
+<name>get_iframe</name>
+<expres>iframe align="middle".*?src="(.*?)" style="border:none"</expres>
+<page>http://www.alkawthartv.ir/en/livetv</page>
+<referer>http://www.alkawthartv.ir/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 <streaminginfo>
 	<cname>Alghad Alarabi</cname>
 	<item>
