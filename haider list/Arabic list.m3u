@@ -9,12 +9,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR red] --  تم اضافة قنوات جديدة MBC تجدوها في Haider list 2الرجاء مشاهدتها الكثير من القنوات  --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
-#EXTINF:-1 group-title=”Arab”,MBC 1
-http://149.11.90.99:4022/udp/238.21.13.25:5004
-#EXTINF:-1 group-title=”Arab”,MBC DRAMA
-http://149.11.90.99:4022/udp/238.21.13.31:5004
-#EXTINF:-1 group-title=”Arab”,MBC MASR
-http://149.11.90.99:4022/udp/238.21.11.80:5004
 EXTINF:-,MBC 1 
 http://bit.ly/jafaer-mbc
 #EXTINF:-1,MBC 2 
@@ -406,20 +400,7 @@ http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?
 http://185.5.222.231:4242/bysid/5101
 #EXTINF:-1,Al thawra TV
 http://151.80.93.121:8081/althawratv_main/main/althawratv_main/live_720p/chunks.m3u8
-#EXTINF:-1,Rotana
-http://149.11.90.99:4022/udp/238.21.12.36:5004
-#EXTINF:-1,Rotana Clip
-http://149.11.90.99:4022/udp/238.21.12.37:5004
-#EXTINF:-1,Rotana Khalijiah
-http://149.11.90.99:4022/udp/238.21.12.38:5004
-#EXTINF:-1,Rotana Masriya
-http://149.11.90.99:4022/udp/238.21.12.40:5004
-#EXTINF:-1,Rotana Classic
-http://149.11.90.99:4022/udp/238.21.12.39:5004
-#EXTINF:-1,Rotana Cinema EGY
-http://149.11.90.99:4022/udp/238.21.12.41:5004
-#EXTINF:-1,Rotana Cinema KSA
-http://149.11.90.99:4022/udp/238.21.12.42:5004
+
 
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
 http://jafaer-tv.com
