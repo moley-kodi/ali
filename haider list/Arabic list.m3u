@@ -8,8 +8,13 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 #EXTINF:-1, [COLOR red] --  تم اضافة قنوات جديدة MBC تجدوها في Haider list 2الرجاء مشاهدتها الكثير من القنوات  --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
-#EXTINF:-1,art test
-rtmp://web1.iptv-planet.com:1937/live2 playpath=artaflam1 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=artaflam1&width=590&height=401 <objectEncoding>
+
+#EXTINF:-1 group-title=”Arab”,MBC 1
+http://149.11.90.99:4022/udp/238.21.13.25:5004
+#EXTINF:-1 group-title=”Arab”,MBC DRAMA
+http://149.11.90.99:4022/udp/238.21.13.31:5004
+#EXTINF:-1 group-title=”Arab”,MBC MASR
+http://149.11.90.99:4022/udp/238.21.11.80:5004
 EXTINF:-,MBC 1 
 http://bit.ly/jafaer-mbc
 #EXTINF:-1,MBC 2 
@@ -23,6 +28,8 @@ http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/vaa7zb",MBC Bollywood 
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+#EXTINF:-1 group-title=”Arab”,MBC MAX
+http://149.11.90.99:4022/udp/238.21.13.37:5004
 #EXTINF:-1, Cinema
 http://46.43.64.190:1935/ajyal/livestreamm/playlist.m3u8
 
@@ -205,7 +212,8 @@ http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
 http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
 #EXTINF:-1,Dubai
 http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8
-
+#EXTINF:-1,AL EMARAT TV
+http://149.11.90.99:4022/udp/238.21.11.36:5004
 #EXTINF:-1,دبي زمان
 http://dmi.mangomolo.com:1935/dubaizaman/smil:dubaizaman.stream.smil/chunklist_w2003666137_b1200000.m3u8
 
@@ -398,7 +406,20 @@ http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?
 http://185.5.222.231:4242/bysid/5101
 #EXTINF:-1,Al thawra TV
 http://151.80.93.121:8081/althawratv_main/main/althawratv_main/live_720p/chunks.m3u8
-
+#EXTINF:-1,Rotana
+http://149.11.90.99:4022/udp/238.21.12.36:5004
+#EXTINF:-1,Rotana Clip
+http://149.11.90.99:4022/udp/238.21.12.37:5004
+#EXTINF:-1,Rotana Khalijiah
+http://149.11.90.99:4022/udp/238.21.12.38:5004
+#EXTINF:-1,Rotana Masriya
+http://149.11.90.99:4022/udp/238.21.12.40:5004
+#EXTINF:-1,Rotana Classic
+http://149.11.90.99:4022/udp/238.21.12.39:5004
+#EXTINF:-1,Rotana Cinema EGY
+http://149.11.90.99:4022/udp/238.21.12.41:5004
+#EXTINF:-1,Rotana Cinema KSA
+http://149.11.90.99:4022/udp/238.21.12.42:5004
 
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
 http://jafaer-tv.com
@@ -609,7 +630,20 @@ rtmp://cp135357.live.edgefcs.net/live/
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 
 #EXTINF:-1,[COLOR red]****************قنوات أطفال KIDS ****************[/COLOR]
-
+#EXTINF:-1 group-title=”Kids”,HodHod TV
+http://149.11.90.99:4022/udp/238.21.15.64:5004
+#EXTINF:-1 group-title=”Kids”,TAHA
+http://149.11.90.99:4022/udp/238.21.14.2:5004
+#EXTINF:-1 group-title=”Kids”,TOYOR AL JANAH
+http://149.11.90.99:4022/udp/238.21.14.6:5004
+#EXTINF:-1 group-title=”Kids”,CN Arabia
+http://149.11.90.99:4022/udp/238.21.13.55:5004
+#EXTINF:-1 group-title=”Kids”,MBC3
+http://149.11.90.99:4022/udp/238.21.13.28:5004
+#EXTINF:-1 group-title=”Kids”,SEMSEM
+http://149.11.90.99:4022/udp/238.21.12.63:5004
+#EXTINF:-1 group-title=”Kids”,SPACETOON ARABIC
+http://149.11.90.99:4022/udp/238.21.11.64:5004
 #EXTINF:-1, Al Jazeera Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8?b?b*t$
 #EXTINF:-1,semsem
@@ -670,57 +704,3 @@ http://mbn-channel-07.akacast.akamaistream.net/7/27/233456/v1/ibb.akacast.akamai
 
 #EXTINF:0,Sawa egypt
 http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03
-
-#EXTINF:-1,2M
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/2m
-#EXTINF:-1,ALHayat
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/alhayat
-#EXTINF:-1,Abu Dhabi Drama
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/abu_dhabi_drama
-#EXTINF:-1,Abu Dhabi Emarat
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/abu_dhabi_emarat
-#EXTINF:-1,Abu Dhabi Sports 1
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/abu_dhabi_sports_1
-#EXTINF:-1,Abu Dhabi Sports 2
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/abu_dhabi_sports_2
-#EXTINF:-1,Abu Dhabi
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/abu_dhabi
-#EXTINF:-1,Aghanina
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/aghanina
-#EXTINF:-1,Ajyal
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/ajyal
-#EXTINF:-1,Al Aoula Maroc
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_aoula_maroc
-#EXTINF:-1,Al Baghdadia
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_baghdadia
-#EXTINF:-1,Al Ekhbaria
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_ekhbaria
-#EXTINF:-1,Al Haneen Music
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_haneen_music
-#EXTINF:-1,Al Iraqiya
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_iraqiya
-#EXTINF:-1,Al Kahera Wal Nas
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_kahera_wal_nas
-#EXTINF:-1,Al Maghribia
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_maghribia
-#EXTINF:-1,Al Majd
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_majd
-#EXTINF:-1,Al Manar
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_manar
-#EXTINF:-1,Al Masriyah
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_masriyah
-#EXTINF:-1,Al Mehwar
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_mehwar
-#EXTINF:-1,Al Moustakilla
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_moustakilla
-#EXTINF:-1,Al Mutawasit
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_mutawasit
-#EXTINF:-1,Al Nahar Drama
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_nahar_drama
-#EXTINF:-1,Al Quran Al Karim
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_quran_al_karim
-#EXTINF:-1,Al Rahma
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_rahma
-
-#EXTINF:0,Al Sumaria
-rtmp://5.196.84.28:1935/live?idu=alkasbi_66684244680/al_sumaria
