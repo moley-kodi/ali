@@ -6,7 +6,26 @@
 #EXTINF:-1, [COLOR red]Jafaer-tv.com [/COLOR]
 http://s2.iptvapi.com
 
-
+#EXTINF:-1 group-title=”Bein”,Bein Sport 1
+http://teledunet.tv:8888/bein_sport_1.m3u8?idu=hmemar_68112242640
+#EXTINF:-1 group-title=”Bein”,Bein Sport 2
+http://teledunet.tv:8888/bein_sport_2.m3u8?idu=hmemar_68112242640
+#EXTINF:-1 group-title=”Bein”,Bein Sport 3
+http://teledunet.tv:8888/bein_sport_3.m3u8?idu=hmemar_68112242640
+#EXTINF:-1 group-title=”Bein”,Bein Sport 4
+http://teledunet.tv:8888/bein_sport_4.m3u8?idu=hmemar_68112242640
+#EXTINF:-1 group-title=”Bein”,Bein Sport 5
+http://teledunet.tv:8888/bein_sport_5.m3u8?idu=hmemar_68112242640
+#EXTINF:-1 group-title=”Bein”,Bein Sport 6
+http://teledunet.tv:8888/bein_sport_6.m3u8?idu=hmemar_68112242640
+#EXTINF:-1 group-title=”Bein”,Bein Sport 7
+http://teledunet.tv:8888/bein_sport_7.m3u8?idu=hmemar_68112242640
+#EXTINF:-1 group-title=”Bein”,Bein Sport 8
+http://teledunet.tv:8888/bein_sport_8.m3u8?idu=hmemar_68112242640
+#EXTINF:-1 group-title=”Bein”,Bein Sport 9
+http://teledunet.tv:8888/bein_sport_9.m3u8?idu=hmemar_68112242640
+#EXTINF:-1 group-title=”Bein”,Bein Sport 10
+http://teledunet.tv:8888/bein_sport_10.m3u8?idu=hmemar_68112242640
 
 #EXTINF:-1,Dubai Sport 3
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
