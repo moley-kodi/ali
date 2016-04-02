@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 
 
-<directories>
+
 	
 <item>
 <title>Sindbad</title>
@@ -12,7 +13,7 @@
 
 
 <item>
-<title> 2M TV</title>
+<title> test</title>
 <link>$doregex[makelist]</link>
 <regex>
     <name>makelist</name>
@@ -28,4 +29,4 @@
 <thumbnail>https://yt3.ggpht.com/-VcKQJ2TNTyo/*********AI/*********AA/COXcX17vIe4/s100-c-k-no-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart>https://yt3.ggpht.com/-jKXrS0fGkcg/Vazs-1***zI/*********Os/SzsZV_XhGkI/w2120-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no/youtube.jpg</fanart>
 </item>	
-</directories>
+
