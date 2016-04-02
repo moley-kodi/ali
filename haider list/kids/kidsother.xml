@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
-
+<streaminginfos>
 
 
 	
@@ -13,7 +13,7 @@
 
 
 <item>
-<title> test</title>
+<title> test 1</title>
 <link>$doregex[makelist]</link>
 <regex>
     <name>makelist</name>
@@ -30,3 +30,9 @@
 <fanart>https://yt3.ggpht.com/-jKXrS0fGkcg/Vazs-1***zI/*********Os/SzsZV_XhGkI/w2120-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no/youtube.jpg</fanart>
 </item>	
 
+
+
+
+
+
+</streaminginfos>
