@@ -9,8 +9,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR red] --  تم اضافة قنوات جديدة MBC تجدوها في Haider list 2الرجاء مشاهدتها الكثير من القنوات  --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
-EXTINF:-,MBC 1 
-http://bit.ly/jafaer-mbc
+
 
 #EXTINF:-1,MBC 1
 http://38.99.146.36:7777/MBC1_HD.m3u8
@@ -1010,17 +1009,4 @@ http://mbn-channel-07.akacast.akamaistream.net/7/27/233456/v1/ibb.akacast.akamai
 http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03
 
 
-#EXTINF:-1,4Shbab
-http://38.99.146.36:7777/4Shbab_HD.m3u8
-#EXTINF:-1,7Stars
-http://38.99.146.36:7777/7Stars_HD.m3u8
-#EXTINF:-1,A1 Jordan
-http://38.99.146.36:7777/A1Jordan_HD.m3u8
-#EXTINF:-1,AAAMusic
-http://38.99.146.36:7777/AAAMusic_HD.m3u8
-#EXTINF:-1,ABN
-http://38.99.146.36:7777/ABN_HD.m3u8
-#EXTINF:-1,Abu Dhabi
-http://38.99.146.36:7777/ADAlOula_HD.m3u8
-#EXTINF:-1,Abu Dhabi Drama
-http://38.99.146.36:7777/ADDrama_HD.m3u8
+
