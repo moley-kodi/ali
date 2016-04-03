@@ -129,6 +129,33 @@ http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 rtmp://live.afaq.tv/live/afaqtv<playpath>livestream <swfUrl> <pageUrl> <objectEncoding>
 #EXTINF:-1 tvg-logo="http://www.jfranews.com.jo/assets/images/70526_18_1379073604.jpg", Dijlah TV
 rtmp://stream.joinvisions.net/dij//dij
+
+#EXTINF:-1,Al mayaden
+http://38.99.146.36:7777/AlMayadeen_HD.m3u8
+#EXTINF:-1,Al Massar
+http://38.99.146.36:7777/AlMasar_HD.m3u8
+#EXTINF:-1,Al Anwar
+http://38.99.146.36:7777/AlAnwar_HD.m3u8
+#EXTINF:-1,Al Fayhaa
+http://38.99.146.36:7777/AlFayhaa_HD.m3u8
+#EXTINF:-1,Al Forat
+http://38.99.146.36:7777/AlForat_HD.m3u8
+#EXTINF:-1,Al Iraqiya Documentary
+http://38.99.146.36:7777/AlIraqAlTarbawiyah_HD.m3u8
+#EXTINF:-1,Aliraqia 2
+http://38.99.146.36:7777/AlIraqia2_HD.m3u8
+#EXTINF:-1,Aliraqiya
+http://38.99.146.36:7777/AlIraqiya_HD.m3u8
+#EXTINF:-1,Al Rafidain
+http://38.99.146.36:7777/AlRafidain_HD.m3u8
+#EXTINF:-1,Al Rasheed
+http://38.99.146.36:7777/AlRasheed_HD.m3u8
+#EXTINF:-1,Baghdad
+http://38.99.146.36:7777/Baghdad_HD.m3u8
+#EXTINF:-1,Dejlah
+http://38.99.146.36:7777/Dejlah_HD.m3u8
+#EXTINF:-1,Ishtar
+http://38.99.146.36:7777/Ishtar_HD.m3u8
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/iFilm_Iran.jpg", IFILM عربي
 http://presstv-ch01.akamai.hls.live.cdn.overon.es/livehigh/chunklist_b2500000_slarb.m3u8
 #EXTINF:-1,IFILM eng
@@ -678,6 +705,96 @@ http://de.live.net.sa:1935/live/alj/playlist.m3u8
 #EXTINF:-1, النهار الجزائرية
 http://live.ennahartv.net/endz/EnnaharTV/playlist.m3u8
 
+#EXTINF:-1,4Shbab
+http://38.99.146.36:7777/4Shbab_HD.m3u8
+#EXTINF:-1,7Stars
+http://38.99.146.36:7777/7Stars_HD.m3u8
+#EXTINF:-1,A1 Jordan
+http://38.99.146.36:7777/A1Jordan_HD.
+#EXTINF:-1,Alan
+http://38.99.146.36:7777/AlAan_HD.m3u8
+#EXTINF:-1,Al Adala
+http://38.99.146.36:7777/AlAdala_HD.m3u8
+#EXTINF:-1,AL AHLY
+http://38.99.146.36:7777/AlAhlyTV_HD.m3u8
+#EXTINF:-1,Libya
+http://38.99.146.36:7777/AlAhrar_HD.m3u8
+#EXTINF:-1,Al Amaken Drama
+http://38.99.146.36:7777/AlAmakenDrama_HD.m3u8
+#EXTINF:-1,EnnaharTV algerie
+http://38.99.146.36:7777/AlAtlas_HD.m3u8
+#EXTINF:-1,Al Dafra
+http://38.99.146.36:7777/AlDafra_HD.m3u8
+#EXTINF:-1,Al Hiwar
+http://38.99.146.36:7777/AlHiwar_HD.m3u8
+#EXTINF:-1,Al Hiwar Ettounsi
+http://38.99.146.36:7777/Tounisa_HD.m3u8
+#EXTINF:-1,AlMukhales
+http://38.99.146.36:7777/AlMukhales_HD.m3u8
+#EXTINF:-1,Al Moustakilla
+http://38.99.146.36:7777/AlMustakila_HD.m3u8
+#EXTINF:-1,Al Ordonia
+http://38.99.146.36:7777/AlOrdoni_HD.m3u8
+#EXTINF:-1,Alqithara
+http://38.99.146.36:7777/AlQithara_HD.m3u8
+#EXTINF:-1,Alqudis
+http://38.99.146.36:7777/Alquds_HD.m3u8
+#EXTINF:-1,Ashorooq
+http://38.99.146.36:7777/AlShrooq_HD.m3u8
+#EXTINF:-1,Beladi
+http://38.99.146.36:7777/Beladi_HD.m3u8
+#EXTINF:-1,AlGeria
+http://38.99.146.36:7777/CanalAlgerie_HD.m3u8
+#EXTINF:-1,DW Arabic
+http://38.99.146.36:7777/DWTVArabia_HD.m3u8
+#EXTINF:-1,Mehwar
+http://38.99.146.36:7777/MehwarPlus2_HD.m3u8
+#EXTINF:-1,ETV1
+http://38.99.146.36:7777/ETV1_HD.m3u8
+#EXTINF:-1,Euro News Arabic
+http://38.99.146.36:7777/EuroNews_HD.m3u8
+#EXTINF:-1,OTV Lebanon
+http://38.99.146.36:7777/OTV_HD.m3u8
+#EXTINF:-1,Oyoun Jeddah
+http://38.99.146.36:7777/OyounJeddah_HD.m3u8
+#EXTINF:-1,Palestine AlYawm
+http://38.99.146.36:7777/PalestineAlYawm_HD.m3u8
+#EXTINF:-1,Palestine Live
+http://38.99.146.36:7777/PalestineLive_HD.m3u8
+#EXTINF:-1,Palestine
+http://38.99.146.36:7777/Palestinian_HD.m3u8
+#EXTINF:-1,Roya
+http://38.99.146.36:7777/Roya_HD.m3u8
+#EXTINF:-1,Royal Albadawiya
+http://38.99.146.36:7777/RoyalAlBadawia_HD.m3u8
+#EXTINF:-1,Royal Edhak
+http://38.99.146.36:7777/RoyalEdhak_HD.m3u8
+#EXTINF:-1,Royal Secret
+http://38.99.146.36:7777/RoyalSecrets_HD.m3u8
+#EXTINF:-1,Djibouti
+http://38.99.146.36:7777/RTD_HD.m3u8
+#EXTINF:-1,Russia Alyaum
+http://38.99.146.36:7777/RussiyaAlYaum_HD.m3u8
+#EXTINF:-1,Sada Al Balad
+http://38.99.146.36:7777/SadaAlBalad_HD.m3u8
+#EXTINF:-1,Sada AlBalad Drama
+http://38.99.146.36:7777/SadaAlBaladDrama_HD.m3u8
+#EXTINF:-1,Sama Cinema
+http://38.99.146.36:7777/SamaCinema_HD.m3u8
+#EXTINF:-1,TRT Arabic
+http://38.99.146.36:7777/TRTArabic_HD.m3u8
+#EXTINF:-1,Tounesna
+http://38.99.146.36:7777/Tunisia_HD.m3u8
+#EXTINF:-1,Tunisia national 1
+http://38.99.146.36:7777/Tunisie7_HD.m3u8
+#EXTINF:-1,TV 5 MONDE
+http://38.99.146.36:7777/TV5_HD.m3u8
+#EXTINF:-1,Unrwa
+http://38.99.146.36:7777/Unrwa_HD.m3u8
+#EXTINF:-1,Wanasah
+http://38.99.146.36:7777/Wanasah_HD.m3u8
+#EXTINF:-1,Yemen
+http://38.99.146.36:7777/Yemen_HD.m3u8
 
 
 #EXTINF:-1,Echorouk Tv
@@ -762,7 +879,10 @@ http://82.212.95.122:1935/live/kifa.stream_360p/hassuni.m3u8
 
 #EXTINF:-1,*********[COLOR red]  قنوات وثائقية[/COLOR]**********
 http://jafaer-tv.com
-
+#EXTINF:-1,National Geo Ad
+http://38.99.146.36:7777/ADNatGeo_HD.m3u8
+#EXTINF:-1,Aljazeera Doc
+http://38.99.146.36:7777/AlJazeeraDocument_HD.m3u8
 #EXTINF:-1 , TRT Arabic 
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:-1,الجزيرة الوثائقية
@@ -779,20 +899,40 @@ rtmp://cp135357.live.edgefcs.net/live/
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 
 #EXTINF:-1,[COLOR red]****************قنوات أطفال KIDS ****************[/COLOR]
-#EXTINF:-1 group-title=”Kids”,HodHod TV
-http://149.11.90.99:4022/udp/238.21.15.64:5004
-#EXTINF:-1 group-title=”Kids”,TAHA
-http://149.11.90.99:4022/udp/238.21.14.2:5004
-#EXTINF:-1 group-title=”Kids”,TOYOR AL JANAH
-http://149.11.90.99:4022/udp/238.21.14.6:5004
-#EXTINF:-1 group-title=”Kids”,CN Arabia
-http://149.11.90.99:4022/udp/238.21.13.55:5004
-#EXTINF:-1 group-title=”Kids”,MBC3
-http://149.11.90.99:4022/udp/238.21.13.28:5004
-#EXTINF:-1 group-title=”Kids”,SEMSEM
-http://149.11.90.99:4022/udp/238.21.12.63:5004
-#EXTINF:-1 group-title=”Kids”,SPACETOON ARABIC
-http://149.11.90.99:4022/udp/238.21.11.64:5004
+#EXTINF:-1,Ajyal
+http://38.99.146.36:7777/AjyalTV_HD.m3u8
+#EXTINF:-1,Aljazeera Children
+http://38.99.146.36:7777/AlJazeeraKid_HD.m3u8
+#EXTINF:-1,Atfal wa Mawaheb
+http://38.99.146.36:7777/AtfalwaMawaheb_HD.m3u8
+#EXTINF:-1,Baraem
+http://38.99.146.36:7777/Baraem_HD.m3u8
+#EXTINF:-1,Cartoon Network
+http://38.99.146.36:7777/CNArabia_HD.m3u8
+#EXTINF:-1,HodHod
+http://38.99.146.36:7777/HodHod_HD.m3u8
+#EXTINF:-1,Karameesh
+http://38.99.146.36:7777/Karameesh_HD.m3u8
+#EXTINF:-1,Koky Kids
+http://38.99.146.36:7777/Koky_HD.m3u8
+#EXTINF:-1,Noon Kids
+http://38.99.146.36:7777/Noon_HD.m3u8
+#EXTINF:-1,Sat7 Kid
+http://38.99.146.36:7777/Sat7Kid_HD.m3u8
+#EXTINF:-1,SM SM KIDS
+http://38.99.146.36:7777/Semsem_HD.m3u8
+#EXTINF:-1,Space Power
+http://38.99.146.36:7777/SpacePower_HD.m3u8
+#EXTINF:-1,Spacetoon
+http://38.99.146.36:7777/SpaceToonArabic_HD.m3u8
+#EXTINF:-1,Taha
+http://38.99.146.36:7777/Taha_HD.m3u8
+#EXTINF:-1,Tayba
+http://38.99.146.36:7777/Tayba_HD.m3u8
+#EXTINF:-1,Toyor Al Janah
+http://38.99.146.36:7777/ToyorAlJanah_HD.m3u8
+
+
 #EXTINF:-1, Al Jazeera Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8?b?b*t$
 #EXTINF:-1,semsem
