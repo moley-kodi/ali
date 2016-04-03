@@ -9,6 +9,9 @@ http://s2.iptvapi.com
 
 #EXTINF:-1,Dubai Sport 3
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Dubai Sport HD2
+http://8.21.48.19:7777/DubaiSport2_HD.m3u8
+
 
 
 #EXTINF:-1,Al-Kass
@@ -20,7 +23,10 @@ rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl
 
 
 
-
+#EXTINF:-1,beINSports
+http://38.99.146.36:7777/beINSports_HD.m3u8
+#EXTINF:-1,BEIN US
+http://38.99.146.36:7777/beINSportsNews_HD.m3u8
 #EXTINF:-1, Bein Sport AR
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
 #EXTINF:-1,BeIN SporTS 1
