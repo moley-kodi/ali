@@ -685,3 +685,19 @@ http://mbn-channel-07.akacast.akamaistream.net/7/27/233456/v1/ibb.akacast.akamai
 
 #EXTINF:0,Sawa egypt
 http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03
+
+
+#EXTINF:-1,4Shbab
+http://38.99.146.36:7777/4Shbab_HD.m3u8
+#EXTINF:-1,7Stars
+http://38.99.146.36:7777/7Stars_HD.m3u8
+#EXTINF:-1,A1 Jordan
+http://38.99.146.36:7777/A1Jordan_HD.m3u8
+#EXTINF:-1,AAAMusic
+http://38.99.146.36:7777/AAAMusic_HD.m3u8
+#EXTINF:-1,ABN
+http://38.99.146.36:7777/ABN_HD.m3u8
+#EXTINF:-1,Abu Dhabi
+http://38.99.146.36:7777/ADAlOula_HD.m3u8
+#EXTINF:-1,Abu Dhabi Drama
+http://38.99.146.36:7777/ADDrama_HD.m3u8
