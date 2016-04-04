@@ -119,7 +119,17 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 </item>
 
 
-
+<item>
+  <title>BEIN sport 1</title>
+  <link>$doregex[get_sxSTREAM]|User-Agent=iPhone</link>
+  <regex>
+  <name>get_sxSTREAM</name>
+  <expres>homevideo.*(http.*?)[',"]\S</expres>
+  <page>http://iptvch1.blogspot.com/</page>
+  <referer></referer>
+  </regex>
+  <thumbnail>http://cdn.top4top.co/p_20bl8f1.png</thumbnail>
+</item>
 
 <item>
 <title>sky sport 1</title>
