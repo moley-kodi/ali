@@ -31,6 +31,38 @@ http://38.99.146.36:7777/beINSportsNews_HD.m3u8
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
 #EXTINF:-1,BeIN SporTS 1
 http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
+#EXTINF:-1,BeIN SporTS 1
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_1
+#EXTINF:-1,BeIN SporTS 2
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_2
+#EXTINF:-1,BeIN SporTS 3
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_3
+#EXTINF:-1,BeIN SporTS 4
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_4
+#EXTINF:-1,BeIN SporTS 5
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_5
+#EXTINF:-1,BeIN SporTS 6
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_6
+#EXTINF:-1,BeIN SporTS 7
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_7
+#EXTINF:-1,BeIN SporTS 8
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_8
+#EXTINF:-1,BeIN SporTS 9
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_9
+#EXTINF:-1,BeIN SporTS 10
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_10
+#EXTINF:-1,BeIN SporTS 11
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_11
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="Lista PLAY-KODI FR beIN Sports" tvg-name="FR beIN Sports 3" tvg-logo="Bein Sports 3 Francia" group-title="DEPORTES",Bein Sports 3 Francia
 
