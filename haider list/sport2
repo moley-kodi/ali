@@ -113,13 +113,10 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 </item>
 #####################
 
-<streaminginfo>
-		<cname>bein_2</cname>
-		<item>
-		<title>bein_2 </title>
-		<link>http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_2</link>
-		</item>
-</streaminginfo>
+<item>
+<title>TEST/Bein1</title>
+<link>http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_1|User-Agent=VLC</item>
+</item>
 
 
 
