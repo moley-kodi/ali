@@ -2333,13 +2333,13 @@ rtmp://web1.iptv-planet.com:1937/live2<playpath>ennahar?cle=08410411703207709711
 </item>
 
 <item>
-<title>test http://www.niletc.tv/Channel/life</title>
-<link>$doregex[get-m3u8]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</link>
+<title>http://www.niletc.tv/Channel/life</title>
+<link>$doregex[getPLAYPATH]|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</link>
 <regex>
-<name>get-m3u8</name>
+<name>getPLAYPATH</name>
 <expres>file: '(.*?)'</expres>
-<page>http://www.niletc.tv/Channel/life</page>
-<referer>http://niletc.tv/stream.php?ch=life</referer>
+<page>http://niletc.tv/stream.php?ch=life</page>
+<referer>http://www.niletc.tv/Channel/life</referer>
 </regex>
 </item>
 
