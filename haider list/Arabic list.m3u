@@ -171,13 +171,13 @@ plugin://plugin.video.youtube/?action=play_video&videoid=04uzP251PoY
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_alam/ls_satlink/b_828.m3u8?token=20160125x2h5fruwen3Pateth
 #EXTINF:-1,Almanar Channel البث جديد
 plugin://plugin.video.youtube/?action=play_video&videoid=fbe_4BJrkgE
-
+#EXTINF:-1,Al Manar المنار
+rtmp://162.244.80.108:1935/liveorigin/livestream_480p
 #EXTINF:-1,El masira المسيرة
 http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 #EXTINF:-1,iFilm Arabic
 http://38.99.146.36:7777/iFilm_HD.m3u8
-#EXTINF:-1,Al Manar
-http://38.99.146.36:7777/AlManar_HD.m3u8
+ 
 #EXTINF:-1,Al Lubnania
 http://38.99.146.36:7777/AlLubnania_HD.m3u8
 #EXTINF:-1,Fatafeat
