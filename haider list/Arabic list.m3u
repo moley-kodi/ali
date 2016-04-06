@@ -192,7 +192,8 @@ http://38.99.146.36:7777/FutureNews_HD.m3u8
 http://38.99.146.36:7777/FutureUSA_HD.m3u8
 #EXTINF:-1,Lbc Europe
 http://38.99.146.36:7777/LBC_HD.m3u8
-
+#EXTINF:-1,MTV 
+http://38.99.146.36:7777/MTVLebanon_HD.m3u8 
 
 #EXTINF:-1,Nabaa
 rtmp://31.14.40.238:1935/live/Nabaa
