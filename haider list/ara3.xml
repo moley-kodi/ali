@@ -25,13 +25,26 @@
 </streaminginfo>
 ###############################################33
 
+
 <streaminginfo>
-		<cname>Al </cname>
-		<item>
-		<title>Al </title>
-		<link>http://38.99.146.36:7777/A1Jordan_HD.m3u8</link>
-		</item>
-</streaminginfo>
+        <cname>MBC Max</cname>
+        <item>
+            <title>High</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=590&amp;height=401</page>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcmax&amp;width=590&amp;height=401</page>
+            </regex>
+        </item>
+    </streaminginfo>
 
 <item>
 <title>MBC1</title>
