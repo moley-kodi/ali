@@ -6,7 +6,7 @@
 #EXTINF:-1, [COLOR red] --  http://Jafaer-tv.com --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
-#EXTINF:-1, [COLOR red] --  تم اضافة قنوات جديدة MBC تجدوها في Haider list 2الرجاء مشاهدتها الكثير من القنوات  --[/COLOR]
+#EXTINF:-1, [COLOR red] --  تم اضافة قنوات جديدة   --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 
@@ -177,7 +177,8 @@ rtmp://162.244.80.108:1935/liveorigin/livestream_480p
 http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 #EXTINF:-1,iFilm Arabic
 http://38.99.146.36:7777/iFilm_HD.m3u8
- 
+#EXTINF:-1,MTV lebanon
+http://38.99.146.36:7777/MTVLebanon_HD.m3u8 
 #EXTINF:-1,Al Lubnania
 http://38.99.146.36:7777/AlLubnania_HD.m3u8
 #EXTINF:-1,Fatafeat
@@ -957,8 +958,7 @@ rtmp://38.96.175.16/live/MarinaFM2
 
 #EXTINF:-1,Nojoom1
 http://38.99.146.36:7777/Nojoom1_HD.m3u8
-#EXTINF:-1,MTV
-http://38.99.146.36:7777/MTVLebanon_HD.m3u8
+
 #EXTINF:-1,Al Haneen Music
 http://38.99.146.36:7777/MusicAlhanen_HD.m3u8
 #EXTINF:-1,Music+
