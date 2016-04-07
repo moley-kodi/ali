@@ -11,7 +11,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 #EXTINF:-1,[COLOR red]  اضغط هنا او اذهب الى youtube  https://www.youtube.com/qHEThib2uEk  [/COLOR]
 
-#EXTINF:-1,[COLOR red]   youtube  على العنوان اعلاه اضغط هنا او اذهب الى  [/COLIR]
+#EXTINF:-1, [COLOR red]   Youtube  على العنوان اعلاه اضغط هنا او اذهب الى  [/COLIR]
 plugin://plugin.video.youtube/?action=play_video&videoid=qHEThib2uEk 
 
 
