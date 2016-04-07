@@ -29,8 +29,21 @@ http://38.99.146.36:7777/beINSports_HD.m3u8
 http://38.99.146.36:7777/beINSportsNews_HD.m3u8
 #EXTINF:-1, Bein Sport AR
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
-#EXTINF:-1,BeIN SporTS 1
-http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
+
+#EXTINF:-1,beIN_sport_1HD,
+http://iptv33.us.to/ip441555/3136774336/1.ch
+#EXTINF:-1,beIN_sport_2HD,
+http://iptv33.us.to/ip441555/3136774336/2.ch
+#EXTINF:-1,beIN_sport_3HD,
+http://iptv33.us.to/ip441555/3136774336/3.ch
+#EXTINF:-1,beIN_sport_4HD,
+http://iptv33.us.to/ip441555/3136774336/4.ch
+#EXTINF:-1,beIN_sport_5HD,
+http://iptv33.us.to/ip441555/3136774336/5.ch
+#EXTINF:-1,beIN_sport_6HD,
+http://iptv33.us.to/ip441555/3136774336/6.ch
+
+
 #EXTINF:-1,BeIN SporTS 1
 http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_1
 #EXTINF:-1,BeIN SporTS 2
