@@ -114,9 +114,28 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 #####################
 
 <item>
-<title>TEST/Bein1</title>
-<link>http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_1|User-Agent=VLC</item>
+<title>Bein1</title>
+<link>http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_1|User-Agent=VLC</link>
 </item>
+
+<item>
+<title>Bein 2</title>
+<link>http://iptv33.us.to/ip441555/3136774336/2.ch|User-Agent=VLC</link>
+</item>
+
+
+#EXTINF:-1,beIN_sport_1HD,
+http://iptv33.us.to/ip441555/3136774336/1.ch
+#EXTINF:-1,beIN_sport_2HD,
+http://iptv33.us.to/ip441555/3136774336/2.ch
+#EXTINF:-1,beIN_sport_3HD,
+http://iptv33.us.to/ip441555/3136774336/3.ch
+#EXTINF:-1,beIN_sport_4HD,
+http://iptv33.us.to/ip441555/3136774336/4.ch
+#EXTINF:-1,beIN_sport_5HD,
+http://iptv33.us.to/ip441555/3136774336/5.ch
+#EXTINF:-1,beIN_sport_6HD,
+http://iptv33.us.to/ip441555/3136774336/6.ch
 
 
 <item>
