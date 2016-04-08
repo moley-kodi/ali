@@ -136,8 +136,8 @@ http://stream.joinvisions.net:1935/taglive/taghier/chunklist.m3u8?wowzasessionid
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
 #EXTINF:-1 tvg-logo="http://goo.gl/GuL8Og",الرشيد
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/pMkYji",  افاق Afaaq  تعمل
-rtmp://live.afaq.tv/live/afaqtv?v=1250132868/livestream
+#EXTINF:-1 tvg-logo="https://goo.gl/pMkYji",  افاق Afaaq  
+rtmp://live.afaq.tv/live/afaqtv?v=1250132868 playpath=livestream swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=afaqtv&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm objectEncoding=
 
 #EXTINF:-1 tvg-logo="http://www.jfranews.com.jo/assets/images/70526_18_1379073604.jpg", Dijlah TV
 rtmp://stream.joinvisions.net/dij//dij
