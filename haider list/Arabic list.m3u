@@ -15,8 +15,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR green] اضغط هنا او اذاهب الى الموقع اعلاه [/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=qHEThib2uEk
 
-
-
+#EXTINF:-1,اضغط هنا لتحديث القنوات  
+plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 #EXTINF:-1,MBC 1
 http://38.99.146.36:7777/MBC1_HD.m3u8
 #EXTINF:-1,MBC Drama
