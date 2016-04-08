@@ -717,6 +717,8 @@ http://kurd-live.com:1935/live/speda/playlist.m3u8
 http://de.live.net.sa:1935/live/alj/playlist.m3u8
 #EXTINF:-1, النهار الجزائرية
 http://live.ennahartv.net/endz/EnnaharTV/playlist.m3u8
+#EXTINF:-1, البلاد الجزائرية
+http://elbilad.streamakaci.com/elbilad/elbilad.stream/elbilad/elbilad_240p/chunks.m3u8?nimblesessionid=22498620
 
 #EXTINF:-1,4Shbab
 http://38.99.146.36:7777/4Shbab_HD.m3u8
