@@ -25,7 +25,32 @@
 </streaminginfo>
 ###############################################33
 
-
+<item>
+<title> Algeria 5</title>
+<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</link>
+<regex>
+<name>get-initsesion</name>
+<expres></expres>
+<page>$doregex[get-page]</page>
+<agent>User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>get-page</name>
+<expres>"m3u8_url":"(.*?)"</expres>
+<page>$doregex[iframe]</page>
+<agent>User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</cookieJar>
+</regex>
+<regex>
+<name>iframe</name>
+<expres>iframe src=[",']([^"]+)[",']</expres>
+<page>http://www.elahmad.com/tv/algeria5.php</page>
+<agent>User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.elahmad.com/tv/images/algeria5.jpg</thumbnail>
+<fanart>http://www.elahmad.com/tv/images/algeria5.jpg</fanart>
+</item>
 
 
 <item>
