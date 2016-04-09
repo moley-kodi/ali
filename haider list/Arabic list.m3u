@@ -1008,5 +1008,6 @@ http://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamai
 
 #EXTINF:-1,MBC test
 http://teledunet.tv:8888/mbc_1.m3u8?idu=ukselim_85646860650
-
+#EXTINF:-1,MBC  2مصر
+http://5.196.84.213:8888/mbc_masr_2.m3u8?idu=ukselim_85646860650
 
