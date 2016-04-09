@@ -26,6 +26,37 @@
 ###############################################33
 
 
+<item>
+<title>TEST1 | elahmad.com - mbc_masr_2 | m3u8</title>
+<link>http://1250132868@5.196.84.213:8888/mbc_masr.m3u8?idu=ukselim_85646860650</link>
+</item>
+ 
+<item>
+<title>TEST2 | elahmad.com - mbc_masr_2 | m3u8</title>
+<link>http://www.elahmad.com/tv/teledunet.php?file=mbc_masr</link>
+</item>
+ 
+<item>
+<title>TEST3 | elahmad.com - mbc_masr_2 | m3u8</title>
+<link>$doregex[file]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>(.*m3u8.*)</expres>
+<page>http://www.elahmad.com/tv/teledunet.php?file=mbc_masr</page>
+<referer>http://www.elahmad.com/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>TEST4 | elahmad.com - mbc_masr_2 | m3u8</title>
+<link>http://1250132868@5.196.84.213:8888/mbc_masr.m3u8?idu=ukselim_85646860650</link>
+</item>
+
+
+
+
  
 <item>
 <title>mbc_masr_2</title>
