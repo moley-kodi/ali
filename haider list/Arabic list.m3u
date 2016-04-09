@@ -22,16 +22,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 #EXTINF:-1, [COLOR red] ------------------------------------------------ --[/COLOR]
 
 
-#EXTINF:-1,MBC 1
-http://38.99.146.36:7777/MBC1_HD.m3u8
-#EXTINF:-1,MBC Drama
-http://38.99.146.36:7777/MBCDrama_HD.m3u8
-#EXTINF:-1,MBC Masr
-http://38.99.146.36:7777/MBCMaser_HD.m3u8
-#EXTINF:-1,MBCMasrPlus2
-http://38.99.146.36:7777/MBCMasrPlus2_HD.m3u8
-#EXTINF:-1,MBC Max
-http://38.99.146.36:7777/MBCMax_HD.m3u8
 
 #EXTINF:-1,MBC 2 
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
@@ -142,32 +132,7 @@ rtmp://live.afaq.tv/live/afaqtv?v=1250132868 playpath=livestream swfUrl=http://w
 #EXTINF:-1 tvg-logo="http://www.jfranews.com.jo/assets/images/70526_18_1379073604.jpg", Dijlah TV
 rtmp://stream.joinvisions.net/dij//dij
 
-#EXTINF:-1,Al mayaden
-http://38.99.146.36:7777/AlMayadeen_HD.m3u8
-#EXTINF:-1,Al Massar
-http://38.99.146.36:7777/AlMasar_HD.m3u8
-#EXTINF:-1,Al Anwar
-http://38.99.146.36:7777/AlAnwar_HD.m3u8
-#EXTINF:-1,Al Fayhaa
-http://38.99.146.36:7777/AlFayhaa_HD.m3u8
-#EXTINF:-1,Al Forat
-http://38.99.146.36:7777/AlForat_HD.m3u8
-#EXTINF:-1,Al Iraqiya Documentary
-http://38.99.146.36:7777/AlIraqAlTarbawiyah_HD.m3u8
-#EXTINF:-1,Aliraqia 2
-http://38.99.146.36:7777/AlIraqia2_HD.m3u8
-#EXTINF:-1,Aliraqiya
-http://38.99.146.36:7777/AlIraqiya_HD.m3u8
-#EXTINF:-1,Al Rafidain
-http://38.99.146.36:7777/AlRafidain_HD.m3u8
-#EXTINF:-1,Al Rasheed
-http://38.99.146.36:7777/AlRasheed_HD.m3u8
-#EXTINF:-1,Baghdad
-http://38.99.146.36:7777/Baghdad_HD.m3u8
-#EXTINF:-1,Dejlah
-http://38.99.146.36:7777/Dejlah_HD.m3u8
-#EXTINF:-1,Ishtar
-http://38.99.146.36:7777/Ishtar_HD.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/iFilm_Iran.jpg", IFILM عربي
 http://presstv-ch01.akamai.hls.live.cdn.overon.es/livehigh/chunklist_b2500000_slarb.m3u8
 #EXTINF:-1,IFILM eng
@@ -188,24 +153,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=fbe_4BJrkgE
 rtmp://162.244.80.108:1935/liveorigin/livestream_480p
 #EXTINF:-1,El masira المسيرة
 http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
-#EXTINF:-1,iFilm Arabic
-http://38.99.146.36:7777/iFilm_HD.m3u8
-#EXTINF:-1,MTV lebanon
-http://38.99.146.36:7777/MTVLebanon_HD.m3u8 
-#EXTINF:-1,Al Lubnania
-http://38.99.146.36:7777/AlLubnania_HD.m3u8
-#EXTINF:-1,Fatafeat
-http://38.99.146.36:7777/Fatafeat_HD.m3u8
-#EXTINF:-1,Funoon
-http://38.99.146.36:7777/Funoon_HD.m3u8
-#EXTINF:-1,Future TV
-http://38.99.146.36:7777/Future_HD.m3u8
-#EXTINF:-1,Future News
-http://38.99.146.36:7777/FutureNews_HD.m3u8
-#EXTINF:-1,FutureUSA
-http://38.99.146.36:7777/FutureUSA_HD.m3u8
-#EXTINF:-1,Lbc Europe
-http://38.99.146.36:7777/LBC_HD.m3u8
+
 #EXTINF:-1,aljadeed الجديد
 https://svs.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
 #EXTINF:-1,Nabaa
@@ -293,28 +241,7 @@ rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
 
 #EXTINF:-1 <thumbnail>http://giniko.com/logos/190x110/184.jpg</thumbnail>, oman tv 1
 http://38.96.148.30:1935/live/omantv1/playlist.m3u8
-#EXTINF:-1,Abu Dhabi Drama
-http://38.99.146.36:7777/ADDrama_HD.m3u8
-#EXTINF:-1,ABN
-http://38.99.146.36:7777/ABN_HD.m3u8
-#EXTINF:-1,Abu Dhabi
-http://38.99.146.36:7777/ADAlOula_HD.m3u8
-#EXTINF:-1,Abu Dhabi Drama
-http://38.99.146.36:7777/ADDrama_HD.m3u8
-#EXTINF:-1,Abu Dhabi Emirates
-http://38.99.146.36:7777/ADEmirates_HD.m3u8
-#EXTINF:-1,Aden
-http://38.99.146.36:7777/Aden_HD.m3u8
-#EXTINF:-1,Ajman
-http://38.99.146.36:7777/Ajman_HD.m3u8
-#EXTINF:-1,Al Sabah
-http://38.99.146.36:7777/AlSabah_HD.m3u8
-#EXTINF:-1,alsaeedah
-http://38.99.146.36:7777/AlSaeeda_HD.m3u8
-#EXTINF:-1,Al sahraa
-http://38.99.146.36:7777/AlSahraa_HD.m3u8
-#EXTINF:-1,Scope
-http://38.99.146.36:7777/ScopeTV_HD.m3u8
+
 
 #EXTINF:-1,qatar tv
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=qatartv
@@ -430,17 +357,11 @@ http://2.109.65.143/masa/14302.m3u8?v=1176025225
 #EXTINF:0,Darbaka Aflam
 http://2.109.65.247/masa/24708.m3u8?v=1279345274
  
-#EXTINF:0,LCD movies لاتعمل حاليا
-http://2.109.65.247/masa/24710.m3u8?v=1279345274
  
 #EXTINF:0,Bolika TV
 http://2.109.65.247/masa/24711.m3u8?v=1279345274
  
-#EXTINF:0,AlMasrawiya لاتعمل حاليا
-http://2.109.65.247/masa/24713.m3u8?v=1279345274
- 
-#EXTINF:0,Mazzica لاتعمل حاليا
-http://2.109.65.247/masa/24715.m3u8?v=1279345274
+
  
 #EXTINF:0,Cairo drama
 http://2.109.65.142/masa/14207.m3u8?v=1279345274
@@ -453,8 +374,6 @@ http://2.109.65.142/masa/14210.m3u8?v=1279345274
 
 
  
-#EXTINF:0,Tok Tok Aflam لاتعمل حاليا
-http://2.109.65.142/masa/14205.m3u8
 #EXTINF:0,Time cinema
 http://2.109.65.142/masa/14223.m3u8?v=1279345274
  
@@ -492,112 +411,6 @@ http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?
 http://185.5.222.231:4242/bysid/5101
 #EXTINF:-1,Al thawra TV
 http://151.80.93.121:8081/althawratv_main/main/althawratv_main/live_720p/chunks.m3u8
-#EXTINF:-1,Alhayat-Series
-http://38.99.146.36:7777/AlHayatMousalsalat_HD.m3u8
-#EXTINF:-1,Albait Baitak Cinema
-http://38.99.146.36:7777/AlbaitBaitakCinema_HD.m3u8
-#EXTINF:-1,AlQahera W Elnas
-http://38.99.146.36:7777/AlKaheraWalNas_HD.m3u8
-#EXTINF:-1,AlQahera W Elnas 2
-http://38.99.146.36:7777/AlKaheraWalNas2_HD.m3u8
-#EXTINF:-1,Al Nahar
-http://38.99.146.36:7777/AlNahar_HD.m3u8
-#EXTINF:-1,Alnahar Alyoum
-http://38.99.146.36:7777/AlNahar2_HD.m3u8
-#EXTINF:-1,Al-Nahar Drama
-http://38.99.146.36:7777/AlNaharDrama_HD.m3u8
-#EXTINF:-1,Al Nahar 2
-http://38.99.146.36:7777/AlNaharMovies_HD.m3u8
-#EXTINF:-1,Blue Nile
-http://38.99.146.36:7777/BlueNile_HD.m3u8
-#EXTINF:-1,Cairo Cinema
-http://38.99.146.36:7777/CairoCinema_HD.m3u8
-#EXTINF:-1,Cairo Comedy
-http://38.99.146.36:7777/CairoComedy_HD.m3u8
-#EXTINF:-1,Cairo Drama
-http://38.99.146.36:7777/CairoDrama_HD.m3u8
-#EXTINF:-1,CBC
-http://38.99.146.36:7777/CBC_HD.m3u8
-#EXTINF:-1,CBC Extra
-http://38.99.146.36:7777/CBC2_HD.m3u8
-#EXTINF:-1,CBC Drama
-http://38.99.146.36:7777/CBCDrama_HD.m3u8
-#EXTINF:-1,CBC Sofra
-http://38.99.146.36:7777/CBCSofra_HD.m3u8
-#EXTINF:-1,Cima
-http://38.99.146.36:7777/Cima_HD.m3u8
-#EXTINF:-1,DM
-http://38.99.146.36:7777/DM_HD.m3u8
-#EXTINF:-1,Dream 1
-http://38.99.146.36:7777/Dream1_HD.m3u8
-#EXTINF:-1,Dream 2
-http://38.99.146.36:7777/Dream2_HD.m3u8
-#EXTINF:-1,LCD AFLAM
-http://38.99.146.36:7777/LcdTurkey_HD.m3u8
-#EXTINF:-1,LDC
-http://38.99.146.36:7777/LDC_HD.m3u8
-#EXTINF:-1,Cine Majesti
-http://38.99.146.36:7777/MajesticCinema_HD.m3u8
-#EXTINF:-1,Masrawi Aflam
-http://38.99.146.36:7777/MasrawiAflam_HD.m3u8
-#EXTINF:-1,Moga Comedy
-http://38.99.146.36:7777/MogaComedy_HD.m3u8
-#EXTINF:-1,Cairo Cinema 2
-http://38.99.146.36:7777/Mosar3_HD.m3u8
-#EXTINF:-1,Nessma
-http://8.21.48.19:7777/NessmaAlKhadra_HD.m3u8
-#EXTINF:-1,Nile Cinema
-http://38.99.146.36:7777/NileCinema_HD.m3u8
-#EXTINF:-1,Nile Comedy
-http://38.99.146.36:7777/NileComedy_HD.m3u8
-#EXTINF:-1,Nile Culture
-http://38.99.146.36:7777/NileCulture_HD.m3u8
-#EXTINF:-1,Nile Drama
-http://38.99.146.36:7777/NileDrama_HD.m3u8
-#EXTINF:-1,Nile Drama 2
-http://38.99.146.36:7777/NileDrama2_HD.m3u8
-#EXTINF:-1,Nile Family
-http://38.99.146.36:7777/NileFamily_HD.m3u8
-#EXTINF:-1,Nile Tv
-http://38.99.146.36:7777/NileInt_HD.m3u8
-#EXTINF:-1,Nile Life
-http://38.99.146.36:7777/NileLife_HD.m3u8
-#EXTINF:-1,Oscar Drama
-http://38.99.146.36:7777/OscarDrama_HD.m3u8
-#EXTINF:-1,Oscar Drama 2
-http://38.99.146.36:7777/OscarDrama2_HD.m3u8
-#EXTINF:-1,Panorama Drama
-http://38.99.146.36:7777/PanoramaDrama_HD.m3u8
-#EXTINF:-1,Panorama Drama 2
-http://38.99.146.36:7777/PanoramaDrama2_HD.m3u8
-#EXTINF:-1,Panorama film
-http://38.99.146.36:7777/PanoramaFilm_HD.m3u8
-#EXTINF:-1,Rotana Aflam
-http://38.99.146.36:7777/RotanaAflam_HD.m3u8
-#EXTINF:-1,Rotana Cinema
-http://38.99.146.36:7777/RotanaCinema_HD.m3u8
-#EXTINF:-1,Rotana Clip
-http://38.99.146.36:7777/RotanaClip_HD.m3u8
-#EXTINF:-1,Rotana Khaligi
-http://38.99.146.36:7777/RotanaKhalijiah_HD.m3u8
-#EXTINF:-1,Rotana Masriya
-http://38.99.146.36:7777/RotanaMasriya_HD.m3u8
-#EXTINF:-1,Rotana Music
-http://38.99.146.36:7777/RotanaMusic_HD.m3u8
-#EXTINF:-1,Rotana Classic
-http://38.99.146.36:7777/RotanaZaman_HD.m3u8
-#EXTINF:-1,Star 1 Cinema
-http://38.99.146.36:7777/StarCinema1_HD.m3u8
-#EXTINF:-1,Star 2 Cinema
-http://38.99.146.36:7777/StarCinema2_HD.m3u8
-#EXTINF:-1,Time Cinema
-http://38.99.146.36:7777/TimeCinema_HD.m3u8
-#EXTINF:-1,Time Drama
-http://38.99.146.36:7777/TimeDrama_HD.m3u8
-#EXTINF:-1,Taxi El Sahra
-http://38.99.146.36:7777/TimeTiatro_HD.m3u8
-#EXTINF:-1,Top Movies
-http://38.99.146.36:7777/TopMovies_HD.m3u8
 
 
 #EXTINF:-1,*********[COLOR red]  قنوات اخبارية NEWS[/COLOR]**********
@@ -625,14 +438,7 @@ http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_de
 #EXTINF:-1,AlJazeera
 http://38.99.146.36:7777/AlJazeera_HD.m3u8
 
-#EXTINF:-1,Aljazeera En
-http://38.99.146.36:7777/AlJazeeraEnglish_HD.m3u8
-#EXTINF:-1,Aljazeera US
-http://38.99.146.36:7777/AlJazeeraInt_HD.m3u8
-#EXTINF:-1,Aljazeera Mubasher
-http://38.99.146.36:7777/AlJazeeraLive_HD.m3u8
-#EXTINF:-1,Aljazeera Mubasher Masr
-http://38.99.146.36:7777/JSCLiveMisr_HD.m3u8
+
 
 
 #EXTINF:-1 group-title=”ARABIC”,ABC NEWS
