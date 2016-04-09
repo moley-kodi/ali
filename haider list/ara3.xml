@@ -41,8 +41,8 @@
 </item>
  
 <item>
-<title>mbc_masr</title>
-<link>$doregex[file]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<title>mbc masr 1</title>
+<link> Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</link>
 <regex>
 <name>file</name>
 <expres>(.*m3u8.*)</expres>
