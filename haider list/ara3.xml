@@ -26,25 +26,31 @@
 ###############################################33
 
 <item>
-<title>TEST masar 2 | m3u8</title>
-<link>$doregex[get-page]$doregex[get-initsesion]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36.X-Requested-With: ShockwaveFlash/21.0.0.216</link>
-
+<title>TEST1  mbc_masr_2 | m3u8</title>
+<link>http://1250132868@5.196.84.213:8888/mbc_masr_2.m3u8?idu=ukselim_85646860650</link>
+</item>
+ 
+<item>
+<title>TEST2  mbc_masr_2 | m3u8</title>
+<link>http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_masr_2</link>
+</item>
+ 
+<item>
+<title>TEST3 mbc_masr_2 | m3u8</title>
+<link>$doregex[file]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
 <regex>
-<name>get-page</name>
-<expres>"m3u8_url":"(.*?)"</expres>
-<page>$doregex[iframe]</page>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>iframe</name>
-<expres>iframe src=[",']([^"]+)[",']</expres>
-<page>http://www.elahmad.com/tv/teledunet.php?file=mbc_masr_2</page>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
-<cookieJar></cookieJar>
+<name>file</name>
+<expres>(.*m3u8.*)</expres>
+<page>http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_masr_2</page>
+<referer>http://www.elahmad.com/</referer>
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
+</item>
+ 
+<item>
+<title>TEST4  mbc_masr_2 | m3u8</title>
+<link>http://1149643157@5.196.84.213:8888/mbc_masr_2.m3u8?idu=ukselim_85646860650</link>
 </item>
 
 
