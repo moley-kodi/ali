@@ -40,7 +40,18 @@
 <fanart></fanart>
 </item>
  
-
+<item>
+<title>mbc_masr</title>
+<link>$doregex[file]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
+<regex>
+<name>file</name>
+<expres>(.*m3u8.*)</expres>
+<page>http://www.elahmad.com/tv/teledunet.php?file=mbc_masr</page>
+<referer>http://www.elahmad.com/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 <item>
@@ -235,31 +246,7 @@
 </regex>
 </item>
 
-<item>
-<title>art aflam </title>
-<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_artaflem1&amp;width=600&amp;height=400 live=1 swfVfy=1</link>
-<regex>
-<name>getRTMP</name>
-<expres>var streamer="(.*?)"</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_artaflem1&amp;width=600&amp;height=400</page>
-<referer>http://iptv-planet.com/artaflem1.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>  
-</regex>
-<regex>
-<name>getAPP</name>
-<expres>1937\/(.*?)";</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_artaflem1&amp;width=600&amp;height=400</page>
-<referer>http://iptv-planet.com/artaflem1.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
-</regex>
-<regex>
-<name>getPLAYPATH</name>
-<expres>'file': '(.*?)'</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_artaflem1&amp;width=600&amp;height=400</page>
-<referer>http://iptv-planet.com/artaflem1.html</referer>
-<agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
-</regex>
-</item>
+
 
 00000000000
 
