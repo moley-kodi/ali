@@ -20,7 +20,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
 #EXTINF:-1, [COLOR red] ------------------------------------------------ --[/COLOR]
-
+#EXTINF:-1,MBC test
+http://teledunet.tv:8888/mbc_1.m3u8?idu=ukselim_85646860650
 
 #EXTINF:-1,MBC 1
 http://38.99.146.36:7777/MBC1_HD.m3u8
