@@ -2826,28 +2826,6 @@
 </streamingInfos>
 
 
-<item>
-<title>Al Jazeera HD</title>
-<link>$doregex[url]</link>
-<regex>
-<name>url</name>
-<expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/')</expres>
-<page></page>
-</regex>
-<regex>
-<name>jsonurl</name>
-<expres>hlsvp":"(.*?)"</expres>
-<page>$pyFunction:urllib.urlopen('http://godfather-proxy.com/index.php?q=$doregex[url-quote]&amp;hl=3cc').read()</page>
-<referer>http://godfather-proxy.com</referer>
-</regex>
-<regex>
-<name>url-quote</name>
-<expres>$pyFunction:urllib.quote('https://www.youtube.com/watch?v=ZPKJeOdr7lA&amp;index=5&amp;list=PLodiYTZs9Vaqz3mtywce3y-GE8XiRF0sU')</expres>
-<page></page>
-</regex>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_english.png</thumbnail>
-</item>
-
 
 <item>
 <title>Sponge Bob</title>
@@ -2856,46 +2834,6 @@
 </item> 
 
 
-<item>
-<title>Disney XD</title>
-<link>$doregex[getIlive]</link>
-<regex>
-<name>getIlive</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('https://www.streamlive.to/view/69893',False,False)</expres>
-<page></page>
-</regex>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/disney_xd_us.png</thumbnail>
-</item>
-
-<item>
-<title>Boomerang</title>
-<link>$doregex[getIlive]</link>
-<regex>
-<name>getIlive</name>
-<expres>$pyFunction:vipracing.decrypt_vipracing('https://www.streamlive.to/view/65510',False,False)</expres>
-<page></page>
-</regex>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png</thumbnail>
-</item>
-
-
-<item>
-<title>Tom and Jerry</title>
-<link>rtmp://208.53.133.178/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html live=true timeout=15</link>
-<thumbnail>http://www.cityflavourmagazine.com/wp-content/uploads/2015/02/tomjerry.jpg</thumbnail>
-</item>
-
-<item>
-<title>Nat Geo Wild</title>
-<link>rtmp://109.200.202.124/live playpath=animal swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com live=1 timeout=15</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_us.png</thumbnail>
-</item>
-
-<item>
-<title>Animal Planet</title>
-<link>http://sjc-uhls-proxy04.ustream.tv/watch/playlist.m3u8?cid=12762028</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us.png</thumbnail>
-</item>
 
 
 
