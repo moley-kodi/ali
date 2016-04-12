@@ -63,25 +63,8 @@ rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl
 
 
 
-#EXTINF:-1,beINSports
-http://38.99.146.36:7777/beINSports_HD.m3u8
-#EXTINF:-1,BEIN US
-http://38.99.146.36:7777/beINSportsNews_HD.m3u8
 #EXTINF:-1, Bein Sport AR
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
-
-#EXTINF:-1,beIN_sport_1HD,
-http://iptv33.us.to/ip441555/3136774336/1.ch
-#EXTINF:-1,beIN_sport_2HD,
-http://iptv33.us.to/ip441555/3136774336/2.ch
-#EXTINF:-1,beIN_sport_3HD,
-http://iptv33.us.to/ip441555/3136774336/3.ch
-#EXTINF:-1,beIN_sport_4HD,
-http://iptv33.us.to/ip441555/3136774336/4.ch
-#EXTINF:-1,beIN_sport_5HD,
-http://iptv33.us.to/ip441555/3136774336/5.ch
-#EXTINF:-1,beIN_sport_6HD,
-http://iptv33.us.to/ip441555/3136774336/6.ch
 
 
 #EXTINF:-1,BeIN SporTS 1
