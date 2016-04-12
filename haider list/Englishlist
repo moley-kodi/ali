@@ -25,14 +25,7 @@ http://tv02.thaizatv.com:1935/drm/ft.stream/playlist.m3u8
 
 ##############################
 
-#EXTINF:-1,Sky_Sports_2_UK
-http://37.187.24.177:80/slim/slim/852.ch
-#EXTINF:-1,Sky_Sports_5_UK
-http://37.187.24.177:80/slim/slim/853.ch
-#EXTINF:-1,CANAL+sport
-http://37.187.24.177:80/slim/slim/771.ch
-#EXTINF:-1,INFOSPORT+
-http://37.187.24.177:80/slim/slim/587.ch
+
 
 #EXTINF:-1,Syfy+1_UK
 http://37.187.24.177:80/slim/slim/889.ch
@@ -64,22 +57,6 @@ http://37.187.24.177:80/slim/slim/569.ch
 http://37.187.24.177:80/slim/slim/868.ch
 #EXTINF:-1,CBS_Reality+_UK
 http://37.187.24.177:80/slim/slim/867.ch
-
-#EXTINF:0 tvg-name="A&E" tvg-language="English" tvg-country="US" tvg-id="A&E" tvg-logo="http://canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg" group-title="Top10",A&E
-http://167.114.102.27/live/jhecR2HuJlB9BfrejPhv_g/1459820496/bb38d9048b7b91706264169a031f32a4.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36 
-
-#EXTINF:0 tvg-name="AMC" tvg-language="English" tvg-country="US" tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/150px-Amc_logo.svg.png" group-title="Top10",AMC
-http://167.114.102.27/live/gIDDglqzmeqgq2iKlwafMg/1459820499/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36 
-
-
-#EXTINF:0 tvg-name="Comedy Central" tvg-language="English" tvg-country="US" tvg-id="Comedy Central" tvg-logo="http://1.bp.blogspot.com/-DQR0qRIc8-s/UHHBSxA20-I/AAAAAAAAAB0/9aHsa8A6xn8/s72-c/Logo_ComedyCentral_001.gif" group-title="Top10",Comedy Central
-http://167.114.102.27/live/3pCsRDYsfqdzqBPWgwfvpA/1459820697/fa894851552e99b1cc146264a8ffaf4b.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36 
-
-
-#EXTINF:0 tvg-name="Discovery Channel" tvg-language="English" tvg-country="US" tvg-id="Discovery Channel" tvg-logo="http://images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg" group-title="Top10",Discovery Channel
-http://167.114.102.27/live/V5eYU9CX-NswOq1lM4EYJg/1459820700/a490ae75a3ec2acf16c9f592e889eb4c.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36 
-
-
 
 
 
