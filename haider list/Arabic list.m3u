@@ -22,22 +22,12 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 #EXTINF:-1, [COLOR red] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
-#EXTINF:-1,MBC-1
-http://37.187.24.177:80/slim/slim/667.ch
-#EXTINF:-1,MBCDRAMA
-http://37.187.24.177:80/slim/slim/673.ch
-#EXTINF:-1,MBC_MASR
-http://37.187.24.177:80/slim/slim/674.ch
-#EXTINF:-1,MBC_Masr2
-http://37.187.24.177:80/slim/slim/675.ch
-#EXTINF:-1,MBC2
-http://37.187.24.177:80/slim/slim/668.ch
+
 EXTINF:-1,MBC 2 
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
 #EXTINF:-1,MBC 2
 http://63.237.48.8/ios/MBC2/MBC2.m3u8
-#EXTINF:-1,MBCMAX
-http://37.187.24.177:80/slim/slim/672.ch
+
 
 #EXTINF:-1 tvg-logo="http://vector.me/files/images/7/8/788941/mbc_action.png",MBC Action HD 
 http://63.237.48.8/ios/MBC_ACTION/MBC_ACTION.m3u8
@@ -312,22 +302,9 @@ http://stream03.fasttelco.net:1935/live/_definst_/ktv4_480.stream/playlist.m3u8
 #EXTINF:-1,*********[COLOR red]  قنوات مصرية[/COLOR]**********
 http://jafaer-tv.com
 
-#EXTINF:-1,Aflam_1
-http://37.187.24.177:80/slim/slim/678.ch
-#EXTINF:-1,Aflam_2
-http://37.187.24.177:80/slim/slim/679.ch
-#EXTINF:-1,ART_Cinema
-http://37.187.24.177:80/slim/slim/677.ch
-#EXTINF:-1,Hekayat
-http://37.187.24.177:80/slim/slim/680.ch
-#EXTINF:-1,Hekayat_2
-http://37.187.24.177:80/slim/slim/681.ch
-#EXTINF:-1,Alhayat
-http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=alhayat
 #EXTINF:-1,Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/HasBahCa.m3u8
 #EXTINF:-1,القاهرة و الناس 1 
-
 plugin://plugin.video.youtube/?action=play_video&videoid=7vOKKinCqn0
 #EXTINF:-1,القاهرة و الناس 2
 plugin://plugin.video.youtube/?action=play_video&videoid=ZrfmWqzPhrw
@@ -343,8 +320,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=uMvhnVugCjo
 #EXTINF:-1,CBC Live 
 plugin://plugin.video.youtube/?action=play_video&videoid=1yEMLzYzE1g
 
-#EXTINF:-1,الشرق الفضائية
-plugin://plugin.video.youtube/?action=play_video&videoid=8ITFSKZAXD4
 #EXTINF:-1,أون تي في ONtv
 plugin://plugin.video.youtube/?action=play_video&videoid=y7B3BqUJbtk
 #EXTINF:-1,قناة الندى الفضائية
