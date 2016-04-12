@@ -8,44 +8,6 @@ http://s2.iptvapi.com
 
 
 
-#EXTINF:-1,beinHD_Sports_HD1
-http://37.187.24.177:80/ramzi/ramzi/699.ch
-#EXTINF:-1,beinHD_Sports_HD2
-http://37.187.24.177:80/ramzi/ramzi/700.ch
-#EXTINF:-1,beinHD_Sports_HD3
-http://37.187.24.177:80/ramzi/ramzi/701.ch
-#EXTINF:-1,beinHD_Sports_HD4
-http://37.187.24.177:80/ramzi/ramzi/702.ch
-#EXTINF:-1,beinHD_Sports_HD5
-http://37.187.24.177:80/ramzi/ramzi/703.ch
-#EXTINF:-1,beinHD_Sports_HD6
-http://37.187.24.177:80/ramzi/ramzi/704.ch
-#EXTINF:-1,beinHD_Sports_HD7
-http://37.187.24.177:80/ramzi/ramzi/705.ch
-#EXTINF:-1,beinHD_Sports_HD8
-http://37.187.24.177:80/ramzi/ramzi/706.ch
-#EXTINF:-1,beinHD_Sports_HD9
-http://37.187.24.177:80/ramzi/ramzi/707.ch
-#EXTINF:-1,beinHD_Sports_HD10
-http://37.187.24.177:80/ramzi/ramzi/708.ch
-#EXTINF:-1,beinHD_Sports_HD11
-http://37.187.24.177:80/ramzi/ramzi/709.ch
-#EXTINF:-1,beinHD_Sports_HD12
-http://37.187.24.177:80/ramzi/ramzi/710.ch
-#EXTINF:-1,beinHD_Sports_HD13
-http://37.187.24.177:80/ramzi/ramzi/711.ch
-#EXTINF:-1,beinHD_Sports_HD14
-http://37.187.24.177:80/ramzi/ramzi/712.ch
-#EXTINF:-1,beinHD_Sports_HD15
-http://37.187.24.177:80/ramzi/ramzi/713.ch
-#EXTINF:-1,beinHD_Sports_HD16
-http://37.187.24.177:80/ramzi/ramzi/714.ch
-#EXTINF:-1,beinHD Sport 1 FR
-http://37.187.24.177:80/ramzi/ramzi/715.ch
-#EXTINF:-1,beinHD Sport 2 FR
-http://37.187.24.177:80/ramzi/ramzi/716.ch
-
-
 
 #EXTINF:-1,Dubai Sport 3
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
@@ -132,6 +94,16 @@ http://iptvbox.noip.us:9998/live/atik/atik/274.m3u8
 #EXTINF:-1,Sky Sports 1
 http://02e4.vp9.tv/chn/sks1/v.m3u8
 
+#EXTINF:-1,Sky Sports 1
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8
+#EXTINF:-1,Sky Sports 2
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv22_j5p1mted
+#EXTINF:-1,Sky Sports 3
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv23_5px3ntfs
+#EXTINF:-1,Sky Sports 4
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv24_f84rdmkk
+#EXTINF:-1,Sky Sports 5
+rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv25_wt250ssk
 
 
 
@@ -156,6 +128,23 @@ rtmp://185.63.255.60:80/live playpath=wodhs1j swfUrl=http://p.jwpcdn.com/6/12/jw
 #EXTINF:-1,UK: Premiere Sport
 http://cp.dmbshare.net:8000/live/burgess/burgess/2790.m3u8
 
+
+
+
+#EXTINF:0,SPORT TIME TV 1HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+ 
+#EXTINF:0,SPORT TIME TV 2HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+ 
+#EXTINF:0,SPORT TIME TV 3HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+ 
+#EXTINF:0,SPORT TIME TV 4HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+ 
+#EXTINF:0,SPORT TIME TV 5HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
 #EXTINF:0, Sport Time TV2
 http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
 #EXTINF:-1,EUROSPORT 1 ENG
@@ -168,9 +157,16 @@ http://4.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
 http://4.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
 #EXTINF:-1,Euro Sport 2
 http://213.81.153.241/live001/channel014_p3.stream/chunklist_w558968909_DVR.m3u8
-
-#EXTINF:-1,SPORT TIME TV 1HD
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+#EXTINF:-1,TRT SPORT
+http://sol.trtcdn.com/tv/trtspor/smil:trtspor.smil/playlist.m3u8
+#EXTINF:-1,NTV Sport Plus
+http://s2.edem.tv/iptv/DG3SKB7NEKMAYG/107/index.m3u8
+#EXTINF:-1,NTV Futbol
+http://s2.edem.tv/iptv/DG3SKB7NEKMAYG/124/index.m3u8
+#EXTINF:-1,NTV Futbol 2
+http://s2.edem.tv/iptv/K76G52BQ47C64L/530/index.m3u8
+#EXTINF:-1,NTV Futbol 3
+http://s2.edem.tv/iptv/K76G52BQ47C64L/522/index.m3u8
 
 #EXTINF:-1,RUS eurosport
 http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
