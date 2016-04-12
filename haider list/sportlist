@@ -70,7 +70,14 @@ http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_11
 
 
 
-
+#EXTINF:-1,Sky_Sports_2_UK
+http://37.187.24.177:80/slim/slim/852.ch
+#EXTINF:-1,Sky_Sports_5_UK
+http://37.187.24.177:80/slim/slim/853.ch
+#EXTINF:-1,CANAL+sport
+http://37.187.24.177:80/slim/slim/771.ch
+#EXTINF:-1,INFOSPORT+
+http://37.187.24.177:80/slim/slim/587.ch
 
 
 
