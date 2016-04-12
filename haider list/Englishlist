@@ -25,7 +25,45 @@ http://tv02.thaizatv.com:1935/drm/ft.stream/playlist.m3u8
 
 ##############################
 
+#EXTINF:-1,Sky_Sports_2_UK
+http://37.187.24.177:80/slim/slim/852.ch
+#EXTINF:-1,Sky_Sports_5_UK
+http://37.187.24.177:80/slim/slim/853.ch
+#EXTINF:-1,CANAL+sport
+http://37.187.24.177:80/slim/slim/771.ch
+#EXTINF:-1,INFOSPORT+
+http://37.187.24.177:80/slim/slim/587.ch
 
+#EXTINF:-1,Syfy+1_UK
+http://37.187.24.177:80/slim/slim/889.ch
+#EXTINF:-1,Sky2_UK
+http://37.187.24.177:80/slim/slim/890.ch
+#EXTINF:-1,Sky_Thriller_UK
+http://37.187.24.177:80/slim/slim/885.ch
+#EXTINF:-1,Sky_Thriller
+http://37.187.24.177:80/slim/slim/856.ch
+#EXTINF:-1,Sky_Disney_UK
+http://37.187.24.177:80/slim/slim/854.ch
+#EXTINF:-1,Sky_DramaRom_UK
+http://37.187.24.177:80/slim/slim/857.ch
+#EXTINF:-1,Sky_Family_UK
+http://37.187.24.177:80/slim/slim/860.ch
+#EXTINF:-1,Sky_Greats_UK
+http://37.187.24.177:80/slim/slim/858.ch
+#EXTINF:-1,Sky_Prem+1_UK
+http://37.187.24.177:80/slim/slim/855.ch
+#EXTINF:-1,Sky_Monsters_UK
+http://37.187.24.177:80/slim/slim/861.ch
+#EXTINF:-1,Sky_Action_UK
+http://37.187.24.177:80/slim/slim/863.ch
+#EXTINF:-1,horror_channel_UK
+http://37.187.24.177:80/slim/slim/866.ch
+#EXTINF:-1,TMC
+http://37.187.24.177:80/slim/slim/569.ch
+#EXTINF:-1,CBS_Drama_UK
+http://37.187.24.177:80/slim/slim/868.ch
+#EXTINF:-1,CBS_Reality+_UK
+http://37.187.24.177:80/slim/slim/867.ch
 
 #EXTINF:0 tvg-name="A&E" tvg-language="English" tvg-country="US" tvg-id="A&E" tvg-logo="http://canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg" group-title="Top10",A&E
 http://167.114.102.27/live/jhecR2HuJlB9BfrejPhv_g/1459820496/bb38d9048b7b91706264169a031f32a4.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36 
@@ -81,6 +119,18 @@ http://iphone-streaming.ustream.tv/uhls/17448463/streams/live/iphone/playlist.m3
 http://cp.dmbshare.net:8000/live/burgess/burgess/2793.m3u8
 #EXTINF:-1,UK: NATIONAL GEOGRAPHIC WILD
 http://cp.dmbshare.net:8000/live/burgess/burgess/2792.m3u8
+#EXTINF:-1,Planete+_Thalassa
+http://37.187.24.177:80/slim/slim/654.ch
+#EXTINF:-1,PLANETE+
+http://37.187.24.177:80/slim/slim/582.ch
+#EXTINF:-1,PLANETE+_A&E
+http://37.187.24.177:80/slim/slim/586.ch
+#EXTINF:-1,National_Geographic
+http://37.187.24.177:80/slim/slim/653.ch
+#EXTINF:-1,Discovery_Channel
+http://37.187.24.177:80/slim/slim/649.ch
+#EXTINF:-1,AD-NatGeo
+http://37.187.24.177:80/slim/slim/736.ch
 
 
 #EXTINF:-1,True tv
