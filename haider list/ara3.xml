@@ -27,6 +27,23 @@
 
 
 
+<item>
+<title>test</title>
+<link>$doregex[url]|User-Agent=iPhone</link>
+<regex>
+<name>url</name>
+<expres>"(.*?)" type="app</expres>
+<page>http://www.elahmad.com/tv/teledunet.php?file=mbc_masr</page>
+<rawpost>id=</rawpost>
+<agent>iPhone</agent>
+</regex>
+</item>
+
+
+<item>
+<title>test2</title>
+<link>257.http://5.196.84.213:8888/syria_drama.m3u8?idu=ukselim_85646860650|User-Agent=iPhone</link>
+</item>
 
 
 
