@@ -26,33 +26,6 @@
 ###############################################33
 
 
-<item>
-<title>2222222</title>
-<link>$doregex[url]|User-Agent=iPhone</link>
-<regex>
-<name>url</name>
-<expres>"(*/*)" type="app</expres>
-<page>http://www.elahmad.com/tv/teledunet.php?file=mbc_masr</page>
-<rawpost>id=</rawpost>
-<agent>iPhone</agent>
-</regex>
-</item>
-
-
-
-
-
-	<item>
-	<title>1111</title>
-	<link>$doregex[geturl]</link>
-	<regex>
-    <name>geturl</name>
-    <expres>flashvars.src='(.*?)'</expres>
-    <page>http://www.elahmad.com/tv/teledunet.php?file=mbc_masr</page>
-    <cookieJar></cookieJar>
-	</regex>
-	</item>
-
 
 
 
