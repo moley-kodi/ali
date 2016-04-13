@@ -81,28 +81,10 @@ http://37.187.24.177:80/slim/slim/587.ch
 
 
 
-#EXTINF:-1 tvg-id="Lista PLAY-KODI FR beIN Sports" tvg-name="FR beIN Sports 3" tvg-logo="Bein Sports 3 Francia" group-title="DEPORTES",Bein Sports 3 Francia
-
-http://evolive-tv.com:8000/live/genio/genio/67.m3u8
-
-#EXTINF:-1,Bein HD
-http://iptvbox.noip.us:9998/live/atik/atik/726.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/rmtv.png",Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://cdn.20m.es/img2/recortes/2013/12/04/149729-588-291.jpg",Real Madrid TV 2
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
 
 
-#EXTINF:-1,Canal Futbol 
-http://iptvbox.noip.us:9998/live/atik/atik/265.m3u8
-#EXTINF:-1,Canal Futbol 2
-http://iptvbox.noip.us:9998/live/atik/atik/857.m3u8
 
-#EXTINF:-1,Canal  Liga
-http://iptvbox.noip.us:9998/live/atik/atik/274.m3u8
 #EXTINF:-1,Sky Sports 1
 http://02e4.vp9.tv/chn/sks1/v.m3u8
 
@@ -130,16 +112,13 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
 
 #EXTINF:-1,Real Madrid Tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
 #EXTINF:0, FOX SPORT 1 US HD
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
 #EXTINF:0, FOX SPORT 2 US
 rtmp://185.63.255.18:80/live playpath=fox2ree swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=fox2ree&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z
 #EXTINF:0, BT Sport 1
 rtmp://185.63.255.60:80/live playpath=wodhs1j swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://rocktv.co/embedu.php?live=wodhs1j&vw=736&vh=438  token=%Zrey(nKa@#Z
-
-#EXTINF:-1,UK: Premiere Sport
-http://cp.dmbshare.net:8000/live/burgess/burgess/2790.m3u8
-
 
 
 
@@ -303,43 +282,4 @@ http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/playlist.m3u8
 http://108.168.206.90:1935/cdnsm/cdnsm/chunklist_w32181520.m3u8
 
 
-######################3333
 
-#EXTINF:-1 tvg-id="M4 Sport" tvg-name="M4_Sport" group-title="Hungary - הונגריה" tvg-logo="",M4 Sport
-http://212.40.98.162/intstreams/mtva/mtv4live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="rai sport" tvg-name="rai_sport" group-title="Italy - איטליה" tvg-logo="f1e3d8f988bf02aee98fb279ed4e3823.png",rai sport
-http://localhost:65007/?url=4112&mode=1
-
-#EXTINF:-1 tvg-id="rai sport 1" tvg-name="rai_sport_1" group-title="Italy - איטליה" tvg-logo="f1e3d8f988bf02aee98fb279ed4e3823.png",rai sport 1
-mmsh://212.162.68.163/raisport+?MSWMExt=.asf
-#EXTINF:-1 tvg-id="Россия 2" tvg-name="Россия_2" group-title="Russia - רוסיה" tvg-logo="",Россия 2
-http://hls.peers.tv/streaming/sport/126/tvrecw/playlist.m3u8?token=8c39708eda02b6360468a69d66bcd422|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/44.0.2403.89 Chrome/44.0.2403.89 Safari/537.36
-
-#EXTINF:-1 tvg-id="Hi-Sport" tvg-name="Hi-Sport" group-title="thailand - תאילנד" tvg-logo="8d5d112eaed97cc7a4aa7bc0a1d37b7f.jpg",Hi-Sport
-http://nakorn4.dyndns.tv:1935/live/sdlive.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GFL Combat Sports" tvg-name="GFL_Combat_Sports" group-title="Sport - ספורט" tvg-logo="07037af4b714fc820e2f76f83bafe933.png",GFL Combat Sports
-http://localhost:65007/?url=3251&ignorefilmonguide=1&mode=1
-
-#EXTINF:-1,Rev'nTV
-http://localhost:65007/?url=279&mode=6
-
-
-
-#EXTINF:-1 tvg-id="UFC Next" tvg-name="UFC_Next" group-title="Sport - ספורט" tvg-logo="db2ca716d6e3bc2f6f10b142b7c04ff6.png",UFC Next
-http://localhost:65007/?url=713&mode=1
-
-#EXTINF:-1 tvg-id="Dubai Sports" tvg-name="Dubai_Sports" group-title="Sport - ספורט" tvg-logo="86780b40d508b0ba6c637686464937ca.png",Dubai Sports
-http://localhost:65007/?url=79&ignorefilmonguide=1&mode=1
-
-#EXTINF:-1 tvg-id="Dubai Sports 3" tvg-name="Dubai_Sports_3" group-title="Sport - ספורט" tvg-logo="b6fc21808dba8ff8ddeed4480a023c95.png",Dubai Sports 3
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dubai Racing" tvg-name="Dubai_Racing" group-title="Sport - ספורט" tvg-logo="52091704bf4577259883582abe36b9c9.jpg",Dubai Racing
-http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="nbc golf 1080p" tvg-name="nbc_golf_1080p" group-title="Sport - ספורט" tvg-logo="1b7cee446040b1c7f9775bec876c641a.png",nbc golf 1080p
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1,arena 1 sport
-rtmp://195.154.199.178:80/liverepeater playpath=142306 swfUrl=http://cdn.deltatv.xyz/players.swf pageUrl=http://deltatv.xyz/stream.php?id=142306&width=640&height=360 <objectEncoding>
