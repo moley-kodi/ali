@@ -22,7 +22,13 @@ http://</link>
 <thumbnail></thumbnail>
 </item>
 
-
+<item>
+<title>[COLOR lime]bein sports pack[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=tv/showsport-tv.com.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://s2.postimg.org/5duygnhcp/Bein_Sports_HD.png</thumbnail>
+<fanart>http://s2.postimg.org/5duygnhcp/Bein_Sports_HD.png</fanart>
+</item>
 
 
 
