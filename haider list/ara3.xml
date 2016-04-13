@@ -26,13 +26,12 @@
 ###############################################33
 
 
-
 <item>
-<title>test</title>
+<title>2222222</title>
 <link>$doregex[url]|User-Agent=iPhone</link>
 <regex>
 <name>url</name>
-<expres>"(.*?)" type="app</expres>
+<expres>"(*/*)" type="app</expres>
 <page>http://www.elahmad.com/tv/teledunet.php?file=mbc_masr</page>
 <rawpost>id=</rawpost>
 <agent>iPhone</agent>
@@ -40,10 +39,23 @@
 </item>
 
 
-<item>
-<title>test2</title>
-<link>257.http://5.196.84.213:8888/syria_drama.m3u8?idu=ukselim_85646860650|User-Agent=iPhone</link>
-</item>
+
+
+
+	<item>
+	<title>1111</title>
+	<link>$doregex[geturl]</link>
+	<regex>
+    <name>geturl</name>
+    <expres>flashvars.src='(.*?)'</expres>
+    <page>http://www.elahmad.com/tv/teledunet.php?file=mbc_masr</page>
+    <cookieJar></cookieJar>
+	</regex>
+	</item>
+
+
+
+
 
 
 
