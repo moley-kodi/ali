@@ -21,6 +21,15 @@ http://</link>
 <jsonrpc>plugin://plugin.video.ZemTV-shani/Sports/UKTVNow?item=url=Sports/UKTVNow.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
 </item>
+plugin://plugin.video.ZemTV-shani/Sports/UKTVNow?url=Live&mode=54&name=Clear+Cache&mode=12
+
+<item>
+<title>[COLOR red][B]test Bein/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/Sports/UKTVNow?url=Live&mode=54&name=Clear+Cache&mode=12
+</jsonrpc>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>[COLOR lime]bein sports pack[/COLOR]</title>
