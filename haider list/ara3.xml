@@ -45,7 +45,11 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
- 
+ <item>
+  <title>MBC_MASR</title>
+  <link>http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_masr|User-Agent=iPhone&amp;Referer=http://www.elahmad.com/tv/mobiletv/glarb.php?id=166&amp;t=hd</link>
+  <referer>http://www.elahmad.com/tv/mobiletv/glarb.php?id=166&t=hd</referer>
+</item>
 
 
 
