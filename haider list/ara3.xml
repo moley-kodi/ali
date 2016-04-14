@@ -2840,14 +2840,13 @@
 </item> 
 
 
-
-
-
 <item>
-<title>Tapesh</title>
-<link>http://63.237.48.8/ios/TAPESH/TAPESH.m3u8</link>
-<thumbnail>http://63.237.48.3/ipnx/media/livetv/thumbs/tapesh%20C.png</thumbnail>
-</item>
+<title>[COLOR=grey][B][I] TOM & JERRY [/I][/B][/COLOR]</title>
+<link>rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.canaistv.net/player.swf pageUrl=http://www.canaistv.net/tvamigos/two.html live=1</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/f/fd/Tom_and_Jerry.png</thumbnail>
+</item> 
+
+
 
 
 
