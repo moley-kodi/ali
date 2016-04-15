@@ -27,12 +27,6 @@
 
 
 
-<item>
-<title> test</title>
-<link>
- rtmp://us1.uvlog.com/uvlog_video/3142 app=uvlog_video/3142 conn=S:3142 conn=S:N/A conn=S:Anonymous_422 conn=S:viewer conn=S: conn=S:99999 conn=S:true conn=S:14236528633400554db37ffb5395699971859 playpath=stream flashver=WIN\2013,0,0,214 swfUrl=http://uvlog.com/broadView.swf?rand=1236 pageUrl=http://uvlog.com live=1 timeout=15
-</link>
-</item>
 
 
 
@@ -1047,7 +1041,7 @@
     <streaminginfo>
         <cname>Rotana Clip</cname>
         <item>
-            <title>High</title>
+            <title>Rotana Clip</title>
             <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=rc&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
@@ -1063,25 +1057,7 @@
             </regex>
         </item>
     </streaminginfo>
-    <streaminginfo>
-        <cname>Rotana Clip</cname>
-        <item>
-            <title>Rotana Clip</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=rcl&amp;width=590&amp;height=401 flashVer=WIN\2019,0,0,245 timeout=20</link>
-            <regex>
-                <name>getrtmp</name>
-                <expres>streamer="(.*?)";</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=rcl&amp;width=590&amp;height=401</page>
-            </regex>
-            <regex>
-                <name>getplaypath</name>
-                <expres>'file': '(.*?)'</expres>
-                <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=rcl&amp;width=590&amp;height=401</page>
-            </regex>
-        </item>
-    </streaminginfo>
+   
 
 
  <streaminginfo>
@@ -1293,15 +1269,13 @@
 	<link>http://82.212.95.122:1935/live/sanaa1/gmswf.m3u8</link>
 	</item>
 </streaminginfo> 
-<streaminginfo>
+
 <streaminginfo>
 	<cname>Elmourabiton</cname>	<item>	<title>Elmourabiton</title>	<link>http://m.live.net.sa:1935/m/chm7/chunklist.m3u8</link></item>
 </streaminginfo> 
 
 
-<streaminginfo>
-<item>	<title>SM SM KIDS</title><link>http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8</link><item>
-</streaminginfo> 
+
 
 
 <streaminginfo>
@@ -1590,10 +1564,20 @@
 </regex>
 <thumbnail>http://www.alghadeer.tv/static/images/logo.png</thumbnail>
 </item>
-
+<item>
+<title>العراقية</title>
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>src.*(http.*m3u8.*)[',"]</expres>
+<page>http://www.giniko.com/watch.php?id=182</page>
+<referer>http://www.giniko.com/</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
 <item>
-<title>IraqiaNews</title>
+<title>ALIraqia</title>
 <link>http://iphone-streaming.ustream.tv/ustreamVideo/21791994/streams/live/playlist.m3u8</link>
 </item>
 <streaminginfo>
@@ -2843,7 +2827,9 @@
 <link>plugin://plugin.video.veetle/?channel=50686cb1bbaa9</link>
 <thumbnail>http://www.cityflavourmagazine.com/wp-content/uploads/2015/01/SPONGEBOB.jpg</thumbnail>
 </item> 
-
+<streaminginfo>
+<item>	<title>SM SM KIDS</title><link>http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8</link><item>
+</streaminginfo> 
 
 <item>
 <title>[COLOR=grey][B][I] TOM & JERRY [/I][/B][/COLOR]</title>
