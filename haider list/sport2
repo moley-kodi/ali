@@ -22,63 +22,6 @@ http://</link>
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>Sport channels from streamking</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat>
-<![CDATA[
-<title>[makelist.param3]</title>
- <link>$doregex[m3u8]|Referer=http://streamking.cc/player?channel=[makelist.param1]</link>
- <thumbnail>http://streamking.cc/[makelist.param2]</thumbnail>
-]]>
-</listrepeat>
-<expres>
-(?s)tv-block.*?href="/(.*?)".*?img.*?src="(.*?)".*?title="(.*?)"
-</expres>
-<page>$doregex[getpage]</page>
-<cookieJar/>
-</regex>
-<regex>
-<name>getpage</name>
-<expres>
-$pyFunction:codecs.decode(page_data,'utf-8').encode('ascii', 'xmlcharrefreplace')
-</expres>
-<page>http://streamking.cc/</page>
-<agent>
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
-</agent>
-<cookieJar/>
-</regex>
-<regex>
-<name>translit</name>
-<expres>
-$pyFunction:translit([makelist.param3], 'ru', reversed=True)
-</expres>
-<page/>
-<cookieJar/>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>['"](.*?m3u8.*?)['"]</expres>
-<page>
-http://streamking.cc/player?channel=[makelist.param1]
-</page>
-<includeheaders/>
-<cookieJar/>
-</regex>
-</item>
-
-
-
-<item>
-<title>[COLOR red][B]test Bein/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.ZemTV-shani/Sports/UKTVNow?url=Live&mode=54&name=Clear+Cache&mode=12
-</jsonrpc>
-<thumbnail></thumbnail>
-</item>
 
 <item>
 <title>[COLOR lime]bein sports pack[/COLOR]</title>
@@ -179,30 +122,6 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 
 
 
-
-<item>
-<title>Bein1</title>
-<link>http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_1|User-Agent=VLC</link>
-</item>
-
-<item>
-<title>Bein 2</title>
-<link>http://iptv33.us.to/ip441555/3136774336/2.ch|User-Agent=VLC</link>
-</item>
-
-
-#EXTINF:-1,beIN_sport_1HD,
-http://iptv33.us.to/ip441555/3136774336/1.ch
-#EXTINF:-1,beIN_sport_2HD,
-http://iptv33.us.to/ip441555/3136774336/2.ch
-#EXTINF:-1,beIN_sport_3HD,
-http://iptv33.us.to/ip441555/3136774336/3.ch
-#EXTINF:-1,beIN_sport_4HD,
-http://iptv33.us.to/ip441555/3136774336/4.ch
-#EXTINF:-1,beIN_sport_5HD,
-http://iptv33.us.to/ip441555/3136774336/5.ch
-#EXTINF:-1,beIN_sport_6HD,
-http://iptv33.us.to/ip441555/3136774336/6.ch
 
 
 <item>
