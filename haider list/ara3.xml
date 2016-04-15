@@ -26,6 +26,24 @@
 ###############################################33
 
 
+<streaminginfo>
+<cname>AlGeria</cname>
+<item>
+<title>AlGeria</title>
+<link />$doregex[geturl]</link>
+
+<regex>
+<name>geturl</name>
+<expres>$pyFunction:playtvfr.get_url('$doregex[getplayerid]')</expres>
+<page></page>
+</regex>    
+<regex>
+<name>getplayerid</name>
+<expres>data-alias="canal-algerie"\s*data-playerid="(.*?)"</expres>
+<page>http://playtv.fr/television/</page>
+</regex>    
+</item>
+</streaminginfo>
 
 
 
