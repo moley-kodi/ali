@@ -151,7 +151,29 @@
 </regex>
 <thumbnail></thumbnail>
 </item>
-
+<item>
+<title>discovery Max</title>
+<sportsdevil>http://cinestrenostv.tv/canales/emision/max.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://i.imgur.com/ST0nJb2.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+</item>
+ 
+<item>
+<title>Discovery Channel</title>
+<sportsdevil>http://verdirectotv.com/tv/documentales/discovery.html</sportsdevil>
+<referer>http://verdirectotv.com</referer>
+<thumbnail>http://i.imgur.com/VEXxOky.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+</item>
+ 
+<item>
+<title>National Geography</title>
+<sportsdevil>http://cinestrenostv.tv/canales/emision1/national.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://i.imgur.com/Co57iED.jpg</thumbnail>
+<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
+</item>
 
 <streaminginfo>
 	<cname>world travel channel</cname>
