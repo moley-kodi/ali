@@ -26,19 +26,19 @@
 ###############################################33
 
 <item>
-<title>MBC Drama test</title>
-<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbcdrama&amp;width=590&amp;height=402&amp;&key2=1111  live=1 swfVfy=1</link>
+<title> test</title>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbcdrama&amp;width=590&amp;height=402&amp;key2=1111  live=1 swfVfy=1</link>
 <regex>
 <name>getRTMP</name>
 <expres>var streamer="(.*?)"</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcdrama&amp;width=590&amp;height=402&amp;&key2=1111</page>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcdrama&amp;width=590&amp;height=402&amp;key2=1111</page>
 <referer>http://iptv-planet.com/mbcdrama.html</referer>
 <agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
 </regex>
 <regex>
 <name>getAPP</name>
 <expres>1937\/(.*?)";</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcdrama&amp;width=590&amp;height=402&amp;&key2=1111</page>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbcdrama&amp;width=590&amp;height=402&amp;key2=1111</page>
 <referer>http://iptv-planet.com/mbcdrama.html</referer>
 <agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
 </regex>
