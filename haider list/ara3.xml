@@ -25,7 +25,7 @@
 </streaminginfo>
 ###############################################33
 
-
+<item>
 <title>MBC Drama test</title>
 <link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbcdrama&amp;width=590&amp;height=402&amp;&key2=1111  live=1 swfVfy=1</link>
 <regex>
@@ -44,7 +44,7 @@
 </regex>
 <regex>
 <name>getPLAYPATH</name>
-
+</item>
 
  
 <item>
