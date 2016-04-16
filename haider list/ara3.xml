@@ -2838,7 +2838,23 @@
 
 
 
-
+<item>
+<title>[COLOR red]KODILIVE[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+        <title>[makelist.param1]</title>
+        <link>[makelist.param2]</link>
+        <thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:-1.*,(.*?)\n(.*)</expres>
+<page>http://kodilive.eu/tv/</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://i.imgur.com/ZGEc4WQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/5Up4jOE.jpg
+</item>
 
 
 
