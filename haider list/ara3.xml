@@ -27,7 +27,7 @@
 
 
 <item>
-<title>test</title>
+<title>test1</title>
 <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=test&width=590&height=402
  flashVer=WIN\2019,0,0,245 timeout=20</link>
 <regex>
@@ -41,7 +41,7 @@
 <name>getplaypath</name>
 <expres>'file': '(.*?)'</expres>
 <referer>http://iptv-planet.com/test.html</referer>
-<page>http://embed.iptv-planet.com/embed.php?id=aljadeed&width=590&height=402
+<page>http://embed.iptv-planet.com/embed.php?id=test&width=590&height=402
 </page>
 </regex>
 </item>
