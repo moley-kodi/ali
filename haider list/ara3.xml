@@ -27,20 +27,20 @@
 
 
 <item>
-<title>aljadeed</title>
-<link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=aljadeed&width=590&height=402
+<title>test</title>
+<link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=test&width=590&height=402
  flashVer=WIN\2019,0,0,245 timeout=20</link>
 <regex>
 <name>getrtmp</name>
 <expres>streamer="(.*?)";</expres>
-<referer>http://iptv-planet.com/aljadeed.html</referer>
-<page>http://embed.iptv-planet.com/embed.php?id=aljadeed&width=590&height=402
+<referer>http://iptv-planet.com/test.html</referer>
+<page>http://embed.iptv-planet.com/embed.php?id=test&width=590&height=402
 </page>
 </regex>
 <regex>
 <name>getplaypath</name>
 <expres>'file': '(.*?)'</expres>
-<referer>http://iptv-planet.com/aljadeed.html</referer>
+<referer>http://iptv-planet.com/test.html</referer>
 <page>http://embed.iptv-planet.com/embed.php?id=aljadeed&width=590&height=402
 </page>
 </regex>
