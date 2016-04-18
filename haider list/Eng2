@@ -104,7 +104,7 @@
 <regex>
 <name>url</name>
 <expres>url=(.*?)"</expres>
-<page>http://embed.latino-webtv.com/fox.html</page>
+<page>http://latino-webtv.com/embed/fox.html</page>
 <referer>http://latino-webtv.com/FOX-en-vivo/</referer>
 <agent>iPad</agent>
 </regex>
