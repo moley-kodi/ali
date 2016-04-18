@@ -75,7 +75,17 @@
 <thumbnail></thumbnail>
 </item>
 
-
+<item>
+<title>FOX En  </title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+<name>url</name>
+<expres>url=(.*?)"</expres>
+<page>http://latino-webtv.com/embed/fox.html</page>
+<referer>http://latino-webtv.com/FOX-en-vivo/</referer>
+<agent>iPad</agent>
+</regex>
+</item>
 <item>
 <title>Fox Movie</title> 
 <link>$doregex[rtmp-code]</link>
@@ -98,17 +108,7 @@
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>FOX En  </title>
-<link>$doregex[url]|User-Agent=iPad</link>
-<regex>
-<name>url</name>
-<expres>url=(.*?)"</expres>
-<page>http://latino-webtv.com/embed/fox.html</page>
-<referer>http://latino-webtv.com/FOX-en-vivo/</referer>
-<agent>iPad</agent>
-</regex>
-</item>
+
 
 <item>
 <title>National-geographic </title>
