@@ -23,7 +23,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
-
+#EXTINF:-1,Mbc Drama 
+http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=mbc_drama
 
 
 #EXTINF:0,AR_BEIN_MOVIES_HD1
