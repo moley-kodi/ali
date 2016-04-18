@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 
-<item>
-<title>A&E</title>
-<sportsdevil>http://www.stream2watch.co/streams/29568/1</sportsdevil>
-<referer>http://showsport-tv.com/</referer>
-</item>
 
-
-
-<item>
-<title>ABC</title>
-<sportsdevil>http://www.stream2watch.co/streams/13285/1</sportsdevil>
-<referer>http://showsport-tv.com/</referer>
-</item>
-
-
-
-<item>
-<title>ABC FAMILY</title>
-<sportsdevil>http://www.stream2watch.co/streams/35913/1</sportsdevil>
-<referer>http://showsport-tv.com/</referer>
-</item>
 
 <item>
 <title>HBO 2</title> 
@@ -118,7 +98,17 @@
 <thumbnail></thumbnail>
 </item>
 
-
+<item>
+<title>FOX En  </title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+<name>url</name>
+<expres>url=(.*?)"</expres>
+<page>http://embed.latino-webtv.com/fox.html</page>
+<referer>http://latino-webtv.com/FOX-en-vivo/</referer>
+<agent>iPad</agent>
+</regex>
+</item>
 
 <item>
 <title>National-geographic </title>
