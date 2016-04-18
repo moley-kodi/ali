@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 
-
+<item>
+<title>syfy  </title>
+<link>$doregex[url]|User-Agent=iPad</link>
+<regex>
+<name>url</name>
+<expres>url=(.*?)"</expres>
+<page>http://latino-webtv.com/embed/canales.php?ch=1399&name=Syfy&hd=no</page>
+<referer>http://latino-webtv.com/SyFy-en-vivo/</referer>
+<agent>iPad</agent>
+</regex>
+</item>
 
 <item>
 <title>HBO 2</title> 
