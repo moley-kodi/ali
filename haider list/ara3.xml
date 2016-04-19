@@ -392,9 +392,9 @@
 </streaminginfo>
 
 <item>
-  <title>ElSarat الصراط</title>
-  <link>rtmp://166.62.41.132/livepkgr/livestream2 </link>
-  <referer>http://www.assirat.tv/livestreaming.php</referer>
+  <title>Assirat الصراط</title>
+  <link>rtmpt://166.62.41.132:1935/livepkgr playpath=livestream2 swfUrl=http://166.62.41.132/swfs/SampleMediaPlayback.swf pageUrl=http://www.assirat.tv/livestreaming.php </link>
+  <referer></referer>
 </item>
 
 
