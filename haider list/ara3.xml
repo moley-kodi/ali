@@ -393,7 +393,7 @@
 
 <item>
   <title>Assirat الصراط</title>
-  <link>rtmpt://166.62.41.132:1935/livepkgr playpath=livestream2 swfUrl=http://166.62.41.132/swfs/SampleMediaPlayback.swf pageUrl=http://www.assirat.tv/livestreaming.php </link>
+  <link>rtmpt://166.62.41.132:1935/livepkgr/livestream2|User-Agent=VLC</link>
   <referer></referer>
 </item>
 
