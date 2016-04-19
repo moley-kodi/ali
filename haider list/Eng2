@@ -194,7 +194,23 @@
 </streaminginfo
 
 ###############
-
+<item>
+<title>bbc world news/</title>
+<link>$doregex[URL]|Referer=http://bbcworldnews.web.tv/&amp;User-Agent=iPhone</link>
+<regex>
+    <name>URL</name>
+    <expres>$pyFunction:'$doregex[getstream]'.replace('\/','/')</expres>
+    <page></page>
+</regex>
+<regex>
+    <name>getstream</name>
+    <expres>"src":"(.*?)"\}</expres>
+    <page>http://bbcworldnews.web.tv/embed/live/140402</page>
+    <referer>http://bbcworldnews.web.tv/</referer>
+    <agent>iPhone</agent>
+    <cookieJar></cookieJar>
+</regex>
+</item>
 <item>
 <title>history channel</title>
 <link>$doregex[max-cookie-referer]</link>
