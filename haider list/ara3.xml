@@ -28,7 +28,7 @@
 
 
 <item>
-<title>mbc-1<title>
+<title>mbc-1</title>
 <regex>
 <name>getkey2</name>
 <expres>key2=(.*?)&gt;</expres>
