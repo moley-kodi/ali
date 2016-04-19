@@ -27,7 +27,21 @@
 ###############################################33
 
 
-
+<item>
+<title>mbc-1<title>
+<regex>
+<name>getkey2</name>
+<expres>key2=(.*?)&gt;</expres>
+<page>http://embed.iptv-planet.com/embedPlayer.js</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+</regex>
+<regex>
+<name>getheight</name>
+<expres>height2.*?\+\s(\d)\W</expres>
+<page>http://embed.iptv-planet.com/embedPlayer.js</page>
+<referer>http://iptv-planet.com/mbc1.html</referer>
+</regex>
+</item>
  
 <item>
 <title>mbc_masr_2</title>
