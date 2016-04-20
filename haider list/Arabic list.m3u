@@ -28,40 +28,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
 
-#EXTINF:-1, Nat Geo Wild
-http://5.135.139.145:80/Nat_Geo_Wild/mono.m3u8
-#EXTINF:-1, Nat Geo
-http://5.135.139.145:80/Nat_Geo/mono.m3u8
-#EXTINF:-1,Discovery Showcase
-http://5.135.139.145:80/Discovery_Showcase_HD/mono.m3u8
-#EXTINF:-1 tvg-id="Discovery",Discovery
-http://5.135.139.145:80/Discovery_World/mono.m3u8
-#EXTINF:-1 tvg-id="DiscoveryWorld”,Discovery World
-http://5.135.139.145:80/Discovery_Channel/mono.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience”,Discovery Science
-http://5.135.139.145:80/Discovery_Science/mono.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet",Animal Planet
-http://5.135.139.145:80/Animal_Planet/mono.m3u8
-#EXTINF:-1 tvg-id=“History”,History
-http://over.ddns.net:65205
-#EXTINF:-1 tvg-id=“HistoryHD”,History HD
-http://5.135.139.145:80/History_HD/mono.m3u8
-#EXTINF:-1 tvg-id=“ViasatHistory”,Viasat History
-http://5.135.139.145:80/Viasat_History/mono.m3u8
-#EXTINF:-1 tvg-id=“ViasatExplore”,Viasat Explore
-http://5.135.139.145:80/Viasat_Explore/mono.m3u8
-#EXTINF:-1 tvg-id=“RTDocumentary”,RT Documentary
-http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC2",MBC2
-http://63.237.48.28/ios/MBC2/MBC2.m3u8
-#EXTINF:-1 tvg-id="MBCAction",MBC Action
-http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:-1 tvg-id=“DubaiOne”,Dubai One
-http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id=“LondonLive”,London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-#EXTINF:-1 tvg-id=“LondonLive”,Greek Music Hits
-mmsh://wpso.com:200/music
 #EXTINF:-1 tvg-id=“Showtime”,USA Cinema 1
 http://over.ddns.net:65301/
 #EXTINF:-1 tvg-id=“Showtime”,USA CINEMA 2
@@ -77,10 +43,6 @@ http://over.ddns.net:65306/
 #EXTINF:-1 tvg-id=“Showtime”,USA CINEMA 7
 http://over.ddns.net:65307/
 
-
-
-EXTINF:-1,MBC 2 
-http://63.237.48.23/ios/MBC2/MBC2.m3u8
 #EXTINF:-1,MBC 2
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
 
