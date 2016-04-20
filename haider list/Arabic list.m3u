@@ -28,11 +28,11 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 
 
-#EXTINF:-1 tvg-id="NatGeoWILD",Nat Geo Wild
+#EXTINF:-1, Nat Geo Wild
 http://5.135.139.145:80/Nat_Geo_Wild/mono.m3u8
-#EXTINF:-1 tvg-id="NatGeo",Nat Geo
+#EXTINF:-1, Nat Geo
 http://5.135.139.145:80/Nat_Geo/mono.m3u8
-#EXTINF:-1 tvg-id="DiscoveryShowcase”,Discovery Showcase
+#EXTINF:-1,Discovery Showcase
 http://5.135.139.145:80/Discovery_Showcase_HD/mono.m3u8
 #EXTINF:-1 tvg-id="Discovery",Discovery
 http://5.135.139.145:80/Discovery_World/mono.m3u8
