@@ -43,38 +43,54 @@ http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL217/PROFILE05.m3u8?totalplay=
 ##############################
 
 
-
-#EXTINF:-1,Syfy+1_UK
-http://37.187.24.177:80/slim/slim/889.ch
-#EXTINF:-1,Sky2_UK
-http://37.187.24.177:80/slim/slim/890.ch
-#EXTINF:-1,Sky_Thriller_UK
-http://37.187.24.177:80/slim/slim/885.ch
-#EXTINF:-1,Sky_Thriller
-http://37.187.24.177:80/slim/slim/856.ch
-#EXTINF:-1,Sky_Disney_UK
-http://37.187.24.177:80/slim/slim/854.ch
-#EXTINF:-1,Sky_DramaRom_UK
-http://37.187.24.177:80/slim/slim/857.ch
-#EXTINF:-1,Sky_Family_UK
-http://37.187.24.177:80/slim/slim/860.ch
-#EXTINF:-1,Sky_Greats_UK
-http://37.187.24.177:80/slim/slim/858.ch
-#EXTINF:-1,Sky_Prem+1_UK
-http://37.187.24.177:80/slim/slim/855.ch
-#EXTINF:-1,Sky_Monsters_UK
-http://37.187.24.177:80/slim/slim/861.ch
-#EXTINF:-1,Sky_Action_UK
-http://37.187.24.177:80/slim/slim/863.ch
-#EXTINF:-1,horror_channel_UK
-http://37.187.24.177:80/slim/slim/866.ch
-#EXTINF:-1,TMC
-http://37.187.24.177:80/slim/slim/569.ch
-#EXTINF:-1,CBS_Drama_UK
-http://37.187.24.177:80/slim/slim/868.ch
-#EXTINF:-1,CBS_Reality+_UK
-http://37.187.24.177:80/slim/slim/867.ch
-
+#EXTINF:-1 tvg-id="NatGeoWILD",Nat Geo Wild
+http://5.135.139.145:80/Nat_Geo_Wild/mono.m3u8
+#EXTINF:-1 tvg-id="NatGeo",Nat Geo
+http://5.135.139.145:80/Nat_Geo/mono.m3u8
+#EXTINF:-1 tvg-id="DiscoveryShowcase”,Discovery Showcase
+http://5.135.139.145:80/Discovery_Showcase_HD/mono.m3u8
+#EXTINF:-1 tvg-id="Discovery",Discovery
+http://5.135.139.145:80/Discovery_World/mono.m3u8
+#EXTINF:-1 tvg-id="DiscoveryWorld”,Discovery World
+http://5.135.139.145:80/Discovery_Channel/mono.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience”,Discovery Science
+http://5.135.139.145:80/Discovery_Science/mono.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet",Animal Planet
+http://5.135.139.145:80/Animal_Planet/mono.m3u8
+#EXTINF:-1 tvg-id=“History”,History
+http://over.ddns.net:65205
+#EXTINF:-1 tvg-id=“HistoryHD”,History HD
+http://5.135.139.145:80/History_HD/mono.m3u8
+#EXTINF:-1 tvg-id=“ViasatHistory”,Viasat History
+http://5.135.139.145:80/Viasat_History/mono.m3u8
+#EXTINF:-1 tvg-id=“ViasatExplore”,Viasat Explore
+http://5.135.139.145:80/Viasat_Explore/mono.m3u8
+#EXTINF:-1 tvg-id=“RTDocumentary”,RT Documentary
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC2",MBC2
+http://63.237.48.28/ios/MBC2/MBC2.m3u8
+#EXTINF:-1 tvg-id="MBCAction",MBC Action
+http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:-1 tvg-id=“DubaiOne”,Dubai One
+http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id=“LondonLive”,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1 tvg-id=“LondonLive”,Greek Music Hits
+mmsh://wpso.com:200/music
+#EXTINF:-1 tvg-id=“Showtime”,USA Cinema 1
+http://over.ddns.net:65301/
+#EXTINF:-1 tvg-id=“Showtime”,USA CINEMA 2
+http://over.ddns.net:65302/
+#EXTINF:-1 tvg-id=“Showtime”,USA CINEMA 3
+http://over.ddns.net:65303/
+#EXTINF:-1 tvg-id=“Showtime”,USA CINEMA 4
+http://over.ddns.net:65304/
+#EXTINF:-1 tvg-id=“Showtime”,USA CINEMA 5
+http://over.ddns.net:65305/
+#EXTINF:-1 tvg-id=“Showtime”,USA CINEMA 6
+http://over.ddns.net:65306/
+#EXTINF:-1 tvg-id=“Showtime”,USA CINEMA 7
+http://over.ddns.net:65307/
 
 
 
