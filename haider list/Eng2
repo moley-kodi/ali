@@ -543,51 +543,5 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 ############
 
-<item>
-<title>Makelist | http://yooanime.com/</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param3]</title>
-<link>$doregex[get-rtmp] playpath=$doregex[get-path]$doregex[get-app] swfUrl=$doregex[player].flash.swf live=1 pageUrl=http://yooanime.com[makelist.param1]</link>
-<thumbnail>[makelist.param2]</thumbnail>
-<regex>
-  <name>get-rtmp</name>
-  <expres>var yoo.*?[",'](.*?)[",']\W</expres>
-  <page>http://yooanime.com[makelist.param1]</page>
-  <referer>http://yooanime.com/</referer>
-  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
-</regex>
-<regex>
-  <name>get-path</name>
-  <expres>_popyo.*?[",'](.*?)[",']\W</expres>
-  <page>http://yooanime.com[makelist.param1]</page>
-  <referer>http://yooanime.com/</referer>
-  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
-</regex>
-
-<regex>
-  <name>get-app</name>
-  <expres>xave.*?[",'](.*?)[",']\W</expres>
-  <page>http://yooanime.com[makelist.param1]</page>
-  <referer>http://yooanime.com/</referer>
-  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
-</regex>
-
-<regex>
-  <name>player</name>
-  <expres>src="(http:\/\/.*?\/player\/jwplayer)</expres>
-  <page>http://yooanime.com[makelist.param1]</page>
-  <referer>http://yooanime.com/</referer>
-  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
-</regex>
-]]></listrepeat>
-<expres><![CDATA[a href="(.*?)".*?img src = "(.*?)".*?alt=".*?"[\d\D]>(.*?)<]]></expres>
-<page>http://yooanime.com/</page>
-<referer>http://yooanime.com/</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.110 Safari/537.36</agent>
-</regex>
-</item>
 
 
