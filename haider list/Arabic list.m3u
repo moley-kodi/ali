@@ -25,7 +25,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 #EXTINF:-1, [COLOR red] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
-
+#EXTINF:-1, test 
+rtmp://yooanime.com:1935/live/syria_drama?user=&ip=170.185.233.107&code=d00f42a7923078ce3c8b14d5960e82b01fb7bfd9049913cb0792298630843474
 
 
 #EXTINF:-1 tvg-id=“Showtime”,USA Cinema 1
