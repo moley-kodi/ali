@@ -405,7 +405,27 @@
 </streaminginfo>
 
 
-
+<item>
+  <title>السراطassirat.tv</title>
+  <link>$doregex[sxrtmp] playpath=$doregex[sxpath] swfUrl=http://166.62.41.132/swfs/SampleMediaPlayback.swf live=1 timeout=10 pageUrl=http://www.assirat.tv/livestreaming.php</link>
+  <regex>
+    <name>sxrtmp</name>
+    <expres><![CDATA[value=.*?src=(.*?livepkgr.*?)\/]]></expres>
+    <page>http://www.assirat.tv/livestreaming.php</page>
+    <referer>http://www.assirat.tv/</referer>
+    <agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+    <cookieJar></cookieJar>
+  </regex>
+  <regex>
+    <name>sxpath</name>
+    <expres><![CDATA[value=.*?src=.*?livepkgr.*?\/(.*?)&]]></expres>
+    <page>http://www.assirat.tv/livestreaming.php</page>
+    <referer>http://www.assirat.tv/</referer>
+    <agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+    <cookieJar></cookieJar>
+  </regex>
+  <thumbnail></thumbnail>
+</item>
 
 
 
