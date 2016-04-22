@@ -285,3 +285,23 @@ http://108.168.206.90:1935/cdnsm/cdnsm/chunklist_w32181520.m3u8
 
 
 
+
+
+#EXTINF:-1,bein 1 test
+rtmp://$OPT:rtmp-raw=rtmp://89.248.172.95/iguide playpath=436y4f7zhxnaiin swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,bein 1
+rtmp://$OPT:rtmp-raw=rtmp://89.248.169.48/iguide playpath=ggd49g0sfyhu6mj swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,bein 1
+rtmp://$OPT:rtmp-raw=rtmp://195.154.235.85:80/liverepeater playpath=302401 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/simple_tv token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,bein 2
+rtmp://$OPT:rtmp-raw=rtmp://195.154.232.181:80/liverepeater playpath=302402 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/simple_tv token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,bein 3
+rtmp://$OPT:rtmp-raw=rtmp://89.248.168.57/iguide playpath=j7sit90urz5t7al swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,bein 3
+rtmp://$OPT:rtmp-raw=rtmp://195.154.235.85:80/liverepeater playpath=302403 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/simple_tv token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,bein 4
+rtmp://$OPT:rtmp-raw=rtmp://195.154.252.188:80/liverepeater playpath=302404 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/simple_tv token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,bein 4
+rtmp://$OPT:rtmp-raw=rtmp://89.248.172.95/iguide playpath=7x7mk11j8hypr5q swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,bein 1
+rtmp://$OPT:rtmp-raw=rtmp://195.154.168.214:80/liverepeater playpath=302401 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/simple_tv token=Fo5_n0w?U.rA6l3-70w47ch
