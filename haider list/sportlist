@@ -40,41 +40,32 @@ rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl
 #EXTINF:-1, Bein Sport AR
 http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
 
-
-#EXTINF:-1,BeIN SporTS 1
-http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_1
-#EXTINF:-1,BeIN SporTS 2
-http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_2
-#EXTINF:-1,BeIN SporTS 3
-http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_3
-#EXTINF:-1,BeIN SporTS 4
-http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_4
-#EXTINF:-1,BeIN SporTS 5
-http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_5
-#EXTINF:-1,BeIN SporTS 6
-http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_6
-#EXTINF:-1,BeIN SporTS 7
-http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_7
-#EXTINF:-1,BeIN SporTS 8
-http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_8
-#EXTINF:-1,BeIN SporTS 9
-http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_9
-#EXTINF:-1,BeIN SporTS 10
-http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_10
-#EXTINF:-1,BeIN SporTS 11
-http://www.elahmad.com/tv/m3u8/teledu.m3u8?id=bein_11
-
-
-
-
-#EXTINF:-1,Sky_Sports_2_UK
-http://37.187.24.177:80/slim/slim/852.ch
-#EXTINF:-1,Sky_Sports_5_UK
-http://37.187.24.177:80/slim/slim/853.ch
-#EXTINF:-1,CANAL+sport
-http://37.187.24.177:80/slim/slim/771.ch
-#EXTINF:-1,INFOSPORT+
-http://37.187.24.177:80/slim/slim/587.ch
+#EXTINF:-1,bein 1
+http://osltv.zackapps.com/app/zak/bein.php?id=1&type=.m3u8
+#EXTINF:-1,bein 2
+http://osltv.zackapps.com/app/zak/bein.php?id=2&type=.m3u8
+#EXTINF:-1,bein 3
+http://osltv.zackapps.com/app/zak/bein.php?id=3&type=.m3u8
+#EXTINF:-1,bein 4
+http://osltv.zackapps.com/app/zak/bein.php?id=4&type=.m3u8
+#EXTINF:-1,bein 5
+http://osltv.zackapps.com/app/zak/bein.php?id=5&type=.m3u8
+#EXTINF:-1,bein 6
+http://osltv.zackapps.com/app/zak/bein.php?id=6&type=.m3u8
+#EXTINF:-1,bein 7
+http://osltv.zackapps.com/app/zak/bein.php?id=7&type=.m3u8
+#EXTINF:-1,bein 8
+http://osltv.zackapps.com/app/zak/bein.php?id=8&type=.m3u8
+#EXTINF:-1,bein 9
+http://osltv.zackapps.com/app/zak/bein.php?id=9&type=.m3u8
+#EXTINF:-1,bein 10
+http://osltv.zackapps.com/app/zak/bein.php?id=10&type=.m3u8
+#EXTINF:-1,bein 11
+http://osltv.zackapps.com/app/zak/bein.php?id=11&type=.m3u8
+#EXTINF:-1,bein 12
+http://osltv.zackapps.com/app/zak/bein.php?id=12&type=.m3u8
+#EXTINF:-1,bein 13
+http://osltv.zackapps.com/app/zak/bein.php?id=13&type=.m3u8
 
 
 
@@ -85,8 +76,19 @@ http://37.187.24.177:80/slim/slim/587.ch
 
 
 
-#EXTINF:-1,Sky Sports 1
-http://02e4.vp9.tv/chn/sks1/v.m3u8
+
+
+#EXTINF:-1,Sky Sports 1 HD
+http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp1.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
+#EXTINF:-1,Sky Sports 2 HD
+http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp2.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
+#EXTINF:-1,Sky Sports 3 HD
+http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp3.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
+#EXTINF:-1,Sky Sports 4 HD
+http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp4.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
+#EXTINF:-1,Sky Sports 5 HD
+http://wpc.fc2a.edgecastcdn.net/hls-live/20FC2A/user/ec/skysp5.m3u8?3c0e986a453f9d57304a806b441b3f2b2ed8a2673c56e63821bf4a795704d2bb31347b13b186d277641b8389514290295786
+
 
 #EXTINF:-1,Sky Sports 1
 rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8
