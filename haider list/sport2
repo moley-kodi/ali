@@ -879,7 +879,31 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 <thumbnail></thumbnail>
 </item>
 
-
+<item>
+<title>TEST | ekostreams.co - combate.php | m3u8</title>
+<link>$doregex[file]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>file</name>
+<expres>.{0,6}[',"](.*?=)[',"],</expres>
+<page>http://pxstream.tv/embed.php?file=58d62fff00a084d5d-combatefurf&amp;referrer=http://ekostreams.co/ch/combate.php&amp;width=468&amp;height=386&amp;jwplayer=mpegdash</page>
+<referer>http://ekostreams.co/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>TEST | ekostreams.co - sportvhd.php | m3u8</title>
+<link>$doregex[file]|User-Agent: Mozilla/5.0</link>
+<regex>
+<name>file</name>
+<expres>.{0,6}[',"](.*?=)[',"],</expres>
+<page>http://pxstream.tv/embed.php?file=5e546e62cbd01a9db-sportvhd34&amp;referrer=http://ekostreams.co/ch/sportvhd.php&amp;width=468&amp;height=386&amp;jwplayer=mpegdash</page>
+<referer>http://ekostreams.co/</referer>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>Idman HD </title>
