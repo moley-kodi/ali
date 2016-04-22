@@ -1464,6 +1464,19 @@ item>
 </regex>
 </item>
 
+
+
+
+
+
+
+#EXTINF:-1,bein 1 test
+rtmp://$OPT:rtmp-raw=rtmp://89.248.172.95/iguide playpath=436y4f7zhxnaiin swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,bein 1
+rtmp://$OPT:rtmp-raw=rtmp://89.248.169.48/iguide playpath=ggd49g0sfyhu6mj swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,bein 1
+rtmp://$OPT:rtmp-raw=rtmp://195.154.235.85:80/liverepeater playpath=302401 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/simple_tv token=Fo5_n0w?U.rA6l3-70w47ch
+
 ####################
 
 <items>
