@@ -893,7 +893,7 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 </item>
  
 <item>
-<title>TEST | ekostreams.co - sportvhd.php | m3u8</title>
+<title>UFC</title>
 <link>$doregex[file]|User-Agent: Mozilla/5.0</link>
 <regex>
 <name>file</name>
