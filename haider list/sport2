@@ -14,7 +14,19 @@ http://</link>
 <jsonrpc>plugin://plugin.video.jafaer/Sports/UKTVNow?item=url=Sports/UKTVNow.cfg&amp;mode=1</jsonrpc>
 <thumbnail></thumbnail>
 
+<item>
+<title>[COLOR white]Zem TV -UKNOW[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=66&amp;name=%5bCOLOR%20red%5d%3e%3eclick%20here%20for%20all%20categories%3c%3c%5b%2fCOLOR%5d&amp;url=uktv</jsonrpc>
+<thumbnail>http://www.zemtv.com/wp-content/uploads/2014/12/zem-logo-final1.png</thumbnail>
+</item>
 
+<item>
+<title>[COLOR white]Sport 365.live[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.ZemTV-shani/?mode=56&amp;name=Sport365.live&amp;url=sss</jsonrpc>
+<thumbnail>http://broadbandtvnews.broadbandtvnews.netdna-cdn.com/wp-content/uploads/2012/09/sport365-logo.jpg</thumbnail>
+</item>
 <item>
 <title>[COLOR red][B]Zemtv بعد الضغط اذهب الى سبورت ومن ثما الى يوكي تيفي [/B][/COLOR]</title>
 <link>ignorme</link>
