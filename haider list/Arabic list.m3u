@@ -21,8 +21,10 @@ plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
-#EXTINF:-1,   هذه القنوات سوف تتوقف قريبا (حيدر ابو جعفر)  louisville ,ky 
-plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
+#EXTINF:-1,  [COLOR black] هذه القنوات سوف تتوقف قريبا ولن تعمل الى من خلال الوزرد الخاص بنا [/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
+#EXTINF:-1,  [COLOR black]  حيدر ابو جعفر Louisville [/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
