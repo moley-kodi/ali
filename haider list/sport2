@@ -1420,65 +1420,36 @@ item>
 
 
 #########################33
-<item>
-<title>Bein sport 2 </title>
-<link>$doregex[finalurl]</link>
-<regex>
-        <name>finalurl</name>
-        <expres>(http.*)</expres>
-        <page>$doregex[url]$doregex[auth]</page>
-        <cookieJar></cookieJar>
-        <agent>iPhone</agent>
-</regex>
-<regex>
-        <name>url</name>
-        <expres>file:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>auth</name>
-        <expres>\["(.*?)"</expres>
-        <page>http://www.caston.tv/$doregex[authurl]</page>
-        <referer>http://www.caston.tv</referer>
-        <rawpost>token=$doregex[token]&amp;is_ajax=1</rawpost>
-        <x-req>XMLHttpRequest</x-req>
-        <agent>iPhone</agent>
-        <cookieJar>open[siteName.lwp]</cookieJar>
-</regex>
-<regex>
-        <name>token</name>
-        <expres>token:"(.*?)"</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>authurl</name>
-        <expres>url:'(.*?)'</expres>
-        <page>$doregex[decrypted]</page>
-</regex>
-<regex>
-        <name>decrypted</name>
-        <expres>$pyFunction:get_unwise("$doregex[encrypted]")$doregex[savecookie]</expres>
-        <page></page>
-</regex>
-<regex>
-        <name>encrypted</name>
-        <expres>eval\(function\(w,i,s,e\).*}\((.*?)\)</expres>
-        <page>http://www.caston.tv/player.php?id=26</page>
-        <referer>http://www.caston.tv</referer>
-        <agent>iPhone</agent>
-        <cookieJar></cookieJar>
-</regex>
-<regex>
-        <name>savecookie</name>
-        <expres></expres>
-        <page></page>
-        <cookieJar>save[siteName.lwp]</cookieJar>
-</regex>
-</item>
+
 
 
 <item>
-<title>TEST | BEIN SPORTS</title>        
+<title>BEIN 1</title>        
+<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
+
+<regex>
+  <name>rtmp</name>
+  <expres>streamer.*?(rtmp.*?)[",']\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33434&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>path</name>
+  <expres>'file'.*?[",'](.*?).flv',</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33434&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>swfurl</name>
+  <expres>'flash', src: '(.*?)'\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33434&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+</item
+<item>
+<title> BEIN 2</title>        
 <link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
 
 <regex>
