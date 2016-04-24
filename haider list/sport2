@@ -131,6 +131,166 @@ plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsLis
 </item>
 #####################
 
+
+<item>
+<title>BEIN 1</title>        
+<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
+
+<regex>
+  <name>rtmp</name>
+  <expres>streamer.*?(rtmp.*?)[",']\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33434&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>path</name>
+  <expres>'file'.*?[",'](.*?).flv',</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33434&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>swfurl</name>
+  <expres>'flash', src: '(.*?)'\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33434&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+</item
+<item>
+<title> BEIN 2</title>        
+<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
+
+<regex>
+  <name>rtmp</name>
+  <expres>streamer.*?(rtmp.*?)[",']\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33454&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>path</name>
+  <expres>'file'.*?[",'](.*?).flv',</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33454&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>swfurl</name>
+  <expres>'flash', src: '(.*?)'\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33454&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+</item>
+<item>
+<title>BEIN 3</title>        
+<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
+
+<regex>
+  <name>rtmp</name>
+  <expres>streamer.*?(rtmp.*?)[",']\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33455&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>path</name>
+  <expres>'file'.*?[",'](.*?).flv',</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33455&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>swfurl</name>
+  <expres>'flash', src: '(.*?)'\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33455&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+</item>
+
+
+<item>
+<title>BEIN 4</title>        
+<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
+
+<regex>
+  <name>rtmp</name>
+  <expres>streamer.*?(rtmp.*?)[",']\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33456&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>path</name>
+  <expres>'file'.*?[",'](.*?).flv',</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33456&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>swfurl</name>
+  <expres>'flash', src: '(.*?)'\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33456&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+</item>
+
+
+<item>
+<title>BEIN fr 1</title>        
+<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
+
+<regex>
+  <name>rtmp</name>
+  <expres>streamer.*?(rtmp.*?)[",']\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33466&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>path</name>
+  <expres>'file'.*?[",'](.*?).flv',</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33466&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>swfurl</name>
+  <expres>'flash', src: '(.*?)'\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33466&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+</item>
+
+
+<item>
+<title>BEIN fr 2</title>        
+<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
+
+<regex>
+  <name>rtmp</name>
+  <expres>streamer.*?(rtmp.*?)[",']\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33467&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>path</name>
+  <expres>'file'.*?[",'](.*?).flv',</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33467&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>swfurl</name>
+  <expres>'flash', src: '(.*?)'\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33467&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+</item>
+
+
+
 <item>
 <title>beIN Sports 1</title>
 <link>$doregex[select_Url]</link>
@@ -1422,57 +1582,6 @@ item>
 #########################33
 
 
-
-<item>
-<title>BEIN 1</title>        
-<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
-
-<regex>
-  <name>rtmp</name>
-  <expres>streamer.*?(rtmp.*?)[",']\W</expres>
-  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33434&amp;autoplay=true</page>
-  <referer>http://www.iguide.to/</referer>
-</regex>
-
-<regex>
-  <name>path</name>
-  <expres>'file'.*?[",'](.*?).flv',</expres>
-  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33434&amp;autoplay=true</page>
-  <referer>http://www.iguide.to/</referer>
-</regex>
-
-<regex>
-  <name>swfurl</name>
-  <expres>'flash', src: '(.*?)'\W</expres>
-  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33434&amp;autoplay=true</page>
-  <referer>http://www.iguide.to/</referer>
-</regex>
-</item
-<item>
-<title> BEIN 2</title>        
-<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
-
-<regex>
-  <name>rtmp</name>
-  <expres>streamer.*?(rtmp.*?)[",']\W</expres>
-  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33454&amp;autoplay=true</page>
-  <referer>http://www.iguide.to/</referer>
-</regex>
-
-<regex>
-  <name>path</name>
-  <expres>'file'.*?[",'](.*?).flv',</expres>
-  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33454&amp;autoplay=true</page>
-  <referer>http://www.iguide.to/</referer>
-</regex>
-
-<regex>
-  <name>swfurl</name>
-  <expres>'flash', src: '(.*?)'\W</expres>
-  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33454&amp;autoplay=true</page>
-  <referer>http://www.iguide.to/</referer>
-</regex>
-</item>
 
 
 
