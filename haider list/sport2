@@ -1420,7 +1420,7 @@ item>
 
 
 #########################33
-item>
+<item>
 <title>Bein sport 2 </title>
 <link>$doregex[finalurl]</link>
 <regex>
@@ -1477,6 +1477,31 @@ item>
 </item>
 
 
+<item>
+<title>TEST | BEIN SPORTS</title>        
+<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=$doregex[swfurl] live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD</link>
+
+<regex>
+  <name>rtmp</name>
+  <expres>streamer.*?(rtmp.*?)[",']\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33454&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>path</name>
+  <expres>'file'.*?[",'](.*?).flv',</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33454&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+
+<regex>
+  <name>swfurl</name>
+  <expres>'flash', src: '(.*?)'\W</expres>
+  <page>http://www.iguide.to/embedplayer_new.php?width=600&amp;height=450&amp;channel=33454&amp;autoplay=true</page>
+  <referer>http://www.iguide.to/</referer>
+</regex>
+</item>
 
 
 
