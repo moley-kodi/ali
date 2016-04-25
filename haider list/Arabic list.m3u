@@ -29,22 +29,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
-#EXTINF:-1,MBC drama test
-rtmp://5.196.84.213:1936/live?hghpl=1250132868/ playpath=mbc_drama swfUrl=http://www.elahmad.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.elahmad.com/tv/teledunet.php?file=mbc_drama objectEncoding=
-#EXTINF:-1 tvg-id=“Showtime”,USA Cinema 1
-http://over.ddns.net:65301/
-#EXTINF:-1 tvg-id=“Showtime”,USA CINEMA 2
-http://over.ddns.net:65302/
-#EXTINF:-1 tvg-id=“Showtime”,USA CINEMA 3
-http://over.ddns.net:65303/
-#EXTINF:-1 tvg-id=“Showtime”,USA CINEMA 4
-http://over.ddns.net:65304/
-#EXTINF:-1 tvg-id=“Showtime”,USA CINEMA 5
-http://over.ddns.net:65305/
-#EXTINF:-1 tvg-id=“Showtime”,USA CINEMA 6
-http://over.ddns.net:65306/
-#EXTINF:-1 tvg-id=“Showtime”,USA CINEMA 7
-http://over.ddns.net:65307/
+
 
 #EXTINF:-1,MBC 2
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
