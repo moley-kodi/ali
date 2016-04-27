@@ -417,8 +417,7 @@ http://2.109.65.142/masa/14221.m3u8?v=1279345274
  
 #EXTINF:0,AlNahar Drama
 http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/gmswf.m3u8?v=1279345274 
-#EXTINF:-1,masriya 2
-http://185.5.222.231:4242/bysid/5101
+
 #EXTINF:-1,Al thawra TV
 http://151.80.93.121:8081/althawratv_main/main/althawratv_main/live_720p/chunks.m3u8
 
