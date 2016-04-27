@@ -2956,11 +2956,17 @@
 
 
 <item>
-<title>test</title>
-<link>$doregex[file]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 swfUrl=http://alwhdat.net/jwplayer.flash.swf pageUrl=http://alwhdat.net/embed.php?cid=taha</link>
+<title>test taha</title>
+<link>$doregex[file]|$doregex[getRTMP]User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36 swfUrl=http://alwhdat.net/jwplayer.flash.swf pageUrl=http://alwhdat.net/embed.php?cid=taha</link>
 <regex>
 <name>file</name>
 <expres>(.*m3u8.*)</expres>
+<page>http://alwhdat.net/embed.php?cid=taha</page>
+<referer>http://alwhdat.net</referer>
+</regex>
+
+<regex>
+<expres>var streamer="(.*?)"</expres>
 <page>http://alwhdat.net/embed.php?cid=taha</page>
 <referer>http://alwhdat.net</referer>
 </regex>
