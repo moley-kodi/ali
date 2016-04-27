@@ -29,10 +29,11 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
-#EXTINF:-1,taha
-http://38.99.146.69:7777/Taha_Med.flv?user=22mhs1ywgpjheu2pak3t2kyd&session=8a00c1c4e4fb2ec6c23bf5c32e462893763a4e3d56267a8758c19a735dcbf088a299017ce29bf1aa
-#EXTINF:-1,semsem سمسم
-rtmp://82.212.95.122:1935/live/ playpath=semsem swfUrl=http://alwhdat.net/jwplayer.flash.swf pageUrl=http://alwhdat.net/abcdef12/semsem/
+
+
+
+
+
 #EXTINF:-1,MBC 2
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
 
@@ -655,6 +656,18 @@ http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 
 #EXTINF:-1,[COLOR red]****************قنوات أطفال KIDS ****************[/COLOR]
 http://jafaer-tv.com
+
+#EXTINF:-1,taha
+http://38.99.146.69:7777/Taha_Med.flv?user=22mhs1ywgpjheu2pak3t2kyd&session=8a00c1c4e4fb2ec6c23bf5c32e462893763a4e3d56267a8758c19a735dcbf088a299017ce29bf1aa
+#EXTINF:-1,semsem سمسم
+rtmp://82.212.95.122:1935/live/ playpath=semsem swfUrl=http://alwhdat.net/jwplayer.flash.swf pageUrl=http://alwhdat.net/abcdef12/semsem/
+#EXTINF:-1, Mody kids
+http://38.99.146.69:7777/ModyKids_Med.flv?user=22mhs1ywgpjheu2pak3t2kyd&session=8a00c1c4e4fb2ec6c23bf5c32e462893763a4e3d56267a8758c19a735dcbf088a299017ce29bf1aa
+
+
+
+
+
 #EXTINF:-1,CN-ARABIA
 http://37.187.24.177:80/slim/slim/785.ch
 #EXTINF:-1,Jeem-CartoonArabia
