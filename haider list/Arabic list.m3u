@@ -29,7 +29,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
-
+#EXTINF:-1,taha
+http://38.99.146.69:7777/Taha_Med.flv?user=22mhs1ywgpjheu2pak3t2kyd&session=8a00c1c4e4fb2ec6c23bf5c32e462893763a4e3d56267a8758c19a735dcbf088a299017ce29bf1aa
 
 #EXTINF:-1,MBC 2
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
