@@ -62,20 +62,20 @@
  
  
  <item>
-            <title>High</title>
-            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=590&amp;height=402&amp;key2=$doregex[getkey] flashVer=WIN\2021,0,0,216 timeout=20</link>
+            <title>test</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=591&amp;height=402&amp;key2=$doregex[getkey] flashVer=WIN\2021,0,0,216 timeout=20</link>
             <regex>
                 <name>getrtmp</name>
                 <expres>streamer="(.*?)";</expres>
                 <referer>http://iptv-planet.com/mbc1.html</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=590&amp;height=402&amp;key2=$doregex[getkey]</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=591&amp;height=402&amp;key2=$doregex[getkey]</page>
                 <cookieJar></cookieJar>
             </regex>
             <regex>
                 <name>getplaypath</name>
                 <expres>'file': '(.*?)'</expres>
                 <referer>http://iptv-planet.com/dzair_tv.php</referer>
-                <page>http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=590&amp;height=402&amp;key2=$doregex[getkey]</page>
+                <page>http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=591&amp;height=402&amp;key2=$doregex[getkey]</page>
                 <cookieJar></cookieJar>
             </regex>
             <regex>
@@ -122,18 +122,18 @@
 
 <item>
 <title>MBC1</title>
-<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=590&amp;height=402 live=1 swfVfy=1</link>
+<link>$doregex[getRTMP] app=$doregex[getAPP] playpath=$doregex[getPLAYPATH] flashVer=WIN\2020,0,0,286 swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=591&amp;height=402 live=1 swfVfy=1</link>
 <regex>
 <name>getRTMP</name>
 <expres>var streamer="(.*?)"</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=590&amp;height=402</page>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=591&amp;height=402</page>
 <referer>http://iptv-planet.com/mbc1.html</referer>
 <agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
 </regex>
 <regex>
 <name>getAPP</name>
 <expres>1937\/(.*?)";</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=590&amp;height=402</page>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=591&amp;height=402</page>
 <referer>http://iptv-planet.com/mbc1.html</referer>
 <agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
 </regex>
@@ -141,7 +141,7 @@
 <regex>
 <name>getPLAYPATH</name>
 <expres>'file': '(.*?)'</expres>
-<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=590&amp;height=402</page>
+<page>http://embed.iptv-planet.com/embed.php?id=Hi_mbc1&amp;width=591&amp;height=402</page>
 <referer>http://iptv-planet.com/mbc1.html</referer>
 <agent>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0</agent>
 </regex>
