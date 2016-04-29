@@ -60,6 +60,35 @@
 </regex>
 </item>
  
+ 
+ <item>
+            <title>High</title>
+            <link>$doregex[getrtmp] playpath=$doregex[getplaypath] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=590&amp;height=402&amp;key2=$doregex[getkey] flashVer=WIN\2021,0,0,216 timeout=20</link>
+            <regex>
+                <name>getrtmp</name>
+                <expres>streamer="(.*?)";</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=590&amp;height=402&amp;key2=$doregex[getkey]</page>
+                <cookieJar></cookieJar>
+            </regex>
+            <regex>
+                <name>getplaypath</name>
+                <expres>'file': '(.*?)'</expres>
+                <referer>http://iptv-planet.com/dzair_tv.php</referer>
+                <page>http://embed.iptv-planet.com/embed.php?id=dzair_tv&amp;width=590&amp;height=402&amp;key2=$doregex[getkey]</page>
+                <cookieJar></cookieJar>
+            </regex>
+            <regex>
+                <name>getkey</name>
+                <expres>key2=(.*?)&gt;</expres>
+                <referer>http://iptv-planet.com/mbc1.html</referer>
+                <page>http://embed.iptv-planet.com/embedPlayer.js</page>
+                <cookieJar></cookieJar>
+            </regex>
+        </item> 
+ 
+ 
+ 
 <item>
 <title>mbc_masr_2</title>
 <link>$doregex[file]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
