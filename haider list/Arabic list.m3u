@@ -29,7 +29,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=6wJ08BvgARc
 #EXTINF:-1, [COLOR green] ------------------------------------------------ --[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
-
+#EXTINF:-1, 1
+http://embed.iptv-planet.com/embed.php?id=artaflam1&width=591&height=402&key2=1114
 
 
 #EXTINF:-1,MBC 1
