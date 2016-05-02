@@ -1445,7 +1445,13 @@
 </streaminginfo>
 
 
-
+<streaminginfo>
+ 
+<item>
+<title>Assyrian TV</title>
+ <link>rtmp://media.buximedia.com:1935/coa playpath=assyriantv?token=64908366 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://www.assyriantv.net/</link>
+ </item>
+</streaminginfo>
 
 
 
