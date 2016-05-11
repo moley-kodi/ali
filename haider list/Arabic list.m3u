@@ -10,12 +10,16 @@ plugin://plugin.video.youtube/?action=play_video&videoid=qHEThib2uEk
 #EXTINF:-1,[COLOR red] التحديث الاول https://www.youtube.com/qHEThib2uEk  [/COLOR]
 
 
-#EXTINF:-1,   www.youtube.com/UU5uMkNAn_M  اضغط هنا لتحديث القنوات او الذهاب ال اليو توب   
+#EXTINF:-1,  حاليا فقط للمشتركين
 plugin://plugin.video.youtube/?action=play_video&videoid=UU5uMkNAn_M
 
-#EXTINF:-1, هذه القنوات لا تعمل حاليا الى مشتركينا يرجى عمل تحديث
+#EXTINF:-1, يمكنكم التواصل معنا على صفحتنا على الفيس بوك  
 plugin://plugin.video.jafaertv
-#EXTINF:-1, حيدر ابو جعفر 
+
+#EXTINF:-1, https://www.facebook.com/JafaerTv
+plugin://plugin.video.jafaertv
+
+#EXTINF:-1,Louisville Ky  حيدر ابو جعفر 
 plugin://plugin.video.jafaertv
 
 السرقة حرام
